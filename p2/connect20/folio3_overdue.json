@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/folio3_overdue": [
+            {
+                "name": "connect20/folio3_overdue",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/folio3_overdue/1.0.0/folio3_overdue-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Folio3",
+                        "email": "ecommerce@folio3.com"
+                    }
+                ],
+                "description": "Basic functionality to pay overdue payments/unpaid invoices that are created by the administrator and is visible on the customer dashboard for further payment."
+            }
+        ]
+    }
+}

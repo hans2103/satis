@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/centerkom_scheduler": [
+            {
+                "name": "connect20/centerkom_scheduler",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/centerkom_scheduler/0.2.0/centerkom_scheduler-0.2.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Jaroslaw",
+                        "email": "jarek@herisz.pl"
+                    }
+                ],
+                "description": "View list your scheduler/cron tasks and add your simple task. "
+            },
+            {
+                "name": "connect20/centerkom_scheduler",
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/centerkom_scheduler/0.2.1/centerkom_scheduler-0.2.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Jaroslaw",
+                        "email": "jarek@herisz.pl"
+                    }
+                ],
+                "description": "View list your scheduler/cron tasks and add your simple task. "
+            }
+        ]
+    }
+}

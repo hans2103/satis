@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/appypie_mobile": [
+            {
+                "name": "connect20/appypie_mobile",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/appypie_mobile/1.0.1/appypie_mobile-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Avadhesh",
+                        "email": "av@appypie.com"
+                    }
+                ],
+                "description": "Appypie Mobile"
+            }
+        ]
+    }
+}

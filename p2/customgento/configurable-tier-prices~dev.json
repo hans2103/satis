@@ -1,0 +1,45 @@
+{
+    "packages": {
+        "customgento/configurable-tier-prices": [
+            {
+                "name": "customgento/configurable-tier-prices",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/customgento/CustomGento_ConfigurableTierPrices.git",
+                    "reference": "86766b4565788701e8c370f51a520ae57aa57177"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/customgento/CustomGento_ConfigurableTierPrices/zipball/86766b4565788701e8c370f51a520ae57aa57177",
+                    "reference": "86766b4565788701e8c370f51a520ae57aa57177",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "ivanchepurnyi/ecomdev_phpunit": "dev-dev"
+                },
+                "time": "2018-09-18T06:43:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Simon Sprankel",
+                        "email": "simon@customgento.com"
+                    }
+                ],
+                "description": "This extension changes the way Magento calculates tier prices of configurable products. You can now add different variants of a configurable product to the cart and you will get the tier price for the total quantity of all variants in the cart.",
+                "homepage": "https://github.com/customgento/CustomGento_ConfigurableTierPrices",
+                "support": {
+                    "source": "https://github.com/customgento/CustomGento_ConfigurableTierPrices/tree/master",
+                    "issues": "https://github.com/customgento/CustomGento_ConfigurableTierPrices/issues"
+                }
+            }
+        ]
+    }
+}

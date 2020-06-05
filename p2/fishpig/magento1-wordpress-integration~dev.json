@@ -1,0 +1,36 @@
+{
+    "packages": {
+        "fishpig/magento1-wordpress-integration": [
+            {
+                "name": "fishpig/magento1-wordpress-integration",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bentideswell/magento1-wordpress-integration.git",
+                    "reference": "f56c5a2b70b25ff9d361ee43dae07d0432733bcf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bentideswell/magento1-wordpress-integration/zipball/f56c5a2b70b25ff9d361ee43dae07d0432733bcf",
+                    "reference": "f56c5a2b70b25ff9d361ee43dae07d0432733bcf",
+                    "shasum": ""
+                },
+                "time": "2020-05-08T11:21:18+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Ben Tideswell",
+                        "email": "ben@fishpig.co.uk"
+                    }
+                ],
+                "description": "Magento WordPress Integration module for Magento 1 CE and Magento 1 EE.",
+                "homepage": "https://fishpig.co.uk/magento/wordpress-integration/",
+                "support": {
+                    "source": "https://github.com/bentideswell/magento1-wordpress-integration/tree/4.6.1.32",
+                    "issues": "https://github.com/bentideswell/magento1-wordpress-integration/issues"
+                }
+            }
+        ]
+    }
+}

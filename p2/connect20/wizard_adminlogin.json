@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/wizard_adminlogin": [
+            {
+                "name": "connect20/Wizard_AdminLogin",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Wizard_AdminLogin/1.0.0/Wizard_AdminLogin-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Sujeet Kr Singh",
+                        "email": "sujeet.kumar.000@gmail.com"
+                    }
+                ],
+                "description": "Admin login extension provides options to an admin user to change view of admin login page."
+            }
+        ]
+    }
+}

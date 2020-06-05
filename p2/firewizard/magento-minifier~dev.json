@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "firewizard/magento-minifier": [
+            {
+                "name": "firewizard/magento-minifier",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/firewizard/Mandagreen_Minifier.git",
+                    "reference": "f76dbd506427df997e1df069574df6c2c506dfb4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/firewizard/Mandagreen_Minifier/zipball/f76dbd506427df997e1df069574df6c2c506dfb4",
+                    "reference": "f76dbd506427df997e1df069574df6c2c506dfb4",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-06-07T13:30:52+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Cristian Nicolescu",
+                        "homepage": "http://mandagreen.com"
+                    }
+                ],
+                "description": "Magento on-the-fly CSS & JS minifier",
+                "homepage": "http://mandagreen.com/code/magento-minifier/",
+                "support": {
+                    "source": "https://github.com/firewizard/Mandagreen_Minifier/tree/master",
+                    "issues": "https://github.com/firewizard/Mandagreen_Minifier/issues"
+                }
+            }
+        ]
+    }
+}

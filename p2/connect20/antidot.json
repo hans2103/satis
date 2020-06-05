@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/antidot": [
+            {
+                "name": "connect20/antidot",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/antidot/1.0.2/antidot-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "LGPL"
+                ],
+                "authors": [
+                    {
+                        "name": "BoostMyShop",
+                        "email": "contact@boostmyshop.com"
+                    }
+                ],
+                "description": "Use AFS STORE search engine seamlessly in Magento"
+            }
+        ]
+    }
+}

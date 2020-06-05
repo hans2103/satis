@@ -1,0 +1,78 @@
+{
+    "packages": {
+        "zookal/magento-mock": [
+            {
+                "name": "zookal/magento-mock",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Zookal/magento-mock.git",
+                    "reference": "cf08127168b1d361300e3a7f5784e9f5c46c7109"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Zookal/magento-mock/zipball/cf08127168b1d361300e3a7f5784e9f5c46c7109",
+                    "reference": "cf08127168b1d361300e3a7f5784e9f5c46c7109",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-11-29T10:42:47+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher",
+                        "email": "cyrill+magento@schumacher.fm"
+                    }
+                ],
+                "description": "Magento Mock Objects for disabled core modules",
+                "homepage": "https://github.com/Zookal/magento-mock",
+                "support": {
+                    "source": "https://github.com/Zookal/magento-mock/tree/v1.3.2",
+                    "issues": "https://github.com/Zookal/magento-mock/issues"
+                }
+            },
+            {
+                "name": "zookal/magento-mock",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Zookal/magento-mock.git",
+                    "reference": "af63af1860a92d70fc19afb1b146b59a9a964473"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Zookal/magento-mock/zipball/af63af1860a92d70fc19afb1b146b59a9a964473",
+                    "reference": "af63af1860a92d70fc19afb1b146b59a9a964473",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-06-04T01:48:13+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher",
+                        "email": "cyrill+magento@schumacher.fm"
+                    }
+                ],
+                "description": "Magento Mock Objects for disabled core modules",
+                "homepage": "https://github.com/Zookal/magento-mock",
+                "support": {
+                    "source": "https://github.com/Zookal/magento-mock/tree/develop",
+                    "issues": "https://github.com/Zookal/magento-mock/issues"
+                }
+            }
+        ]
+    }
+}

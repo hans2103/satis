@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "magento/magento2-ce-patches": [
+            {
+                "name": "magento/magento2-ce-patches",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento2-ce-patches/magento-magento2-ce-patches-1.2.1.0.zip",
+                    "shasum": "8ecc0a91915cfe98771b10b9db7c3a2b958c527e"
+                },
+                "require": {
+                    "magento-set/magento2-patches-tool": "100.0.*",
+                    "magento/module-page-cache": "100.1.1"
+                },
+                "type": "magento2-patches",
+                "extra": {
+                    "enable-patching": true,
+                    "patch-dir": "patches",
+                    "patches": [
+                        {
+                            "name": "MDVA-2185"
+                        }
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 patches"
+            }
+        ]
+    }
+}

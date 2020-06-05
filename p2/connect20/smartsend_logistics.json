@@ -1,0 +1,119 @@
+{
+    "packages": {
+        "connect20/smartsend_logistics": [
+            {
+                "name": "connect20/Smartsend_Logistics",
+                "version": "7.0.5",
+                "version_normalized": "7.0.5.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Smartsend_Logistics/7.0.5/Smartsend_Logistics-7.0.5.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Smart Send ApS",
+                        "email": "anders@smartsend.dk"
+                    }
+                ],
+                "description": "Shipping methods for Post Danmark, GLS, Bring, SwipBox and Posten."
+            },
+            {
+                "name": "connect20/Smartsend_Logistics",
+                "version": "7.1.0",
+                "version_normalized": "7.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Smartsend_Logistics/7.1.0/Smartsend_Logistics-7.1.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Smart Send ApS",
+                        "email": "anders@smartsend.dk"
+                    }
+                ],
+                "description": "Table rate shipping methods with flexible conditions determining the rate and even let the customer chose a pick-up point during checkout. Integrates the shipping methods directly with carrier systems and create PDF labels directly from the backend."
+            },
+            {
+                "name": "connect20/Smartsend_Logistics",
+                "version": "7.1.3",
+                "version_normalized": "7.1.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Smartsend_Logistics/7.1.3/Smartsend_Logistics-7.1.3.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Smart Send ApS",
+                        "email": "anders@smartsend.dk"
+                    }
+                ],
+                "description": "Advanced table rate shipping module with flexible conditions determining the rate and pick-up point during checkout."
+            },
+            {
+                "name": "connect20/Smartsend_Logistics",
+                "version": "7.1.4",
+                "version_normalized": "7.1.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Smartsend_Logistics/7.1.4/Smartsend_Logistics-7.1.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Smart Send ApS",
+                        "email": "anders@smartsend.dk"
+                    }
+                ],
+                "description": "Smart Send Logistics shipping module"
+            }
+        ]
+    }
+}

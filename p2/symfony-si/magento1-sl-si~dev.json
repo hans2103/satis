@@ -1,0 +1,61 @@
+{
+    "packages": {
+        "symfony-si/magento1-sl-si": [
+            {
+                "name": "symfony-si/magento1-sl-si",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/symfony-si/magento1-sl-si.git",
+                    "reference": "fbee5b72b730bdf7dde5c7329e84646ec5fd7062"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/symfony-si/magento1-sl-si/zipball/fbee5b72b730bdf7dde5c7329e84646ec5fd7062",
+                    "reference": "fbee5b72b730bdf7dde5c7329e84646ec5fd7062",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "mikey179/vfsstream": "^1",
+                    "php": ">=7.0.0",
+                    "phpunit/phpunit": "^6.2"
+                },
+                "time": "2018-05-12T18:43:52+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "root"
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "SymfonySi\\LocalePack\\": "src/",
+                        "SymfonySi\\Test\\": "tests/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Peter Kokot",
+                        "email": "peterkokot@gmail.com"
+                    }
+                ],
+                "description": "Slovenian (Slovenia) - sl_SI translations for Magento 1.x Community Edition",
+                "homepage": "https://github.com/symfony-si/magento1-sl-si",
+                "keywords": [
+                    "language",
+                    "sl_SI",
+                    "slovenian"
+                ],
+                "support": {
+                    "source": "https://github.com/symfony-si/magento1-sl-si/tree/v1.0.12",
+                    "issues": "https://github.com/symfony-si/magento1-sl-si/issues"
+                }
+            }
+        ]
+    }
+}

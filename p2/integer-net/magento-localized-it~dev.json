@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "integer-net/magento-localized-it": [
+            {
+                "name": "integer-net/magento-localized-it",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/MagentoLocalizedIT.git",
+                    "reference": "8c8b3561af08bf995630e0523de27e0fc8d07007"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/MagentoLocalizedIT/zipball/8c8b3561af08bf995630e0523de27e0fc8d07007",
+                    "reference": "8c8b3561af08bf995630e0523de27e0fc8d07007",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-11-24T16:50:34+00:00",
+                "type": "magento-module",
+                "description": "Italian Localization package for Magento Localized (aka Magento IT)",
+                "homepage": "https://github.com/integer-net/MagentoLocalizedIT",
+                "support": {
+                    "source": "https://github.com/integer-net/MagentoLocalizedIT/tree/master",
+                    "issues": "https://github.com/integer-net/MagentoLocalizedIT/issues"
+                }
+            }
+        ]
+    }
+}

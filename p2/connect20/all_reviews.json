@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "connect20/all_reviews": [
+            {
+                "name": "connect20/All_Reviews",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/All_Reviews/1.0.0/All_Reviews-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "EKO Internet Marketing",
+                        "email": "sean@ekoim.com"
+                    }
+                ],
+                "description": "All Reviews allows you to display all reviews of your products on a single CMS page. Customers searching Google, Bing, Yahoo for \"YOUR STORE Reviews\" will be able to find a page controlled by you with recent reviews of your products."
+            },
+            {
+                "name": "connect20/All_Reviews",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/All_Reviews/1.0.1/All_Reviews-1.0.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "EKO Internet Marketing",
+                        "email": "sean@ekoim.com"
+                    }
+                ],
+                "description": "All Reviews allows you to display all reviews of your products on a single CMS page. Customers searching Google, Bing, Yahoo for \"YOUR STORE Reviews\" will be able to find a page controlled by you with recent reviews of your products."
+            }
+        ]
+    }
+}

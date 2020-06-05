@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/mobile_store": [
+            {
+                "name": "connect20/Mobile_Store",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mobile_Store/1.3.0/Mobile_Store-1.3.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Single-domain-license"
+                ],
+                "authors": [
+                    {
+                        "name": "GoMage",
+                        "email": "support@gomage.com"
+                    }
+                ],
+                "description": "This free Magento theme will make your online store stand out. Simple, user friendly and easily customizable it provides your customers with truly enjoyable shopping experience."
+            }
+        ]
+    }
+}

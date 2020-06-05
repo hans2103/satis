@@ -1,0 +1,76 @@
+{
+    "packages": {
+        "magemaven/order-comment": [
+            {
+                "name": "magemaven/order-comment",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magemaven/magento-order-comment.git",
+                    "reference": "6ae09378535fda0adc29e474c12ead489302dc73"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magemaven/magento-order-comment/zipball/6ae09378535fda0adc29e474c12ead489302dc73",
+                    "reference": "6ae09378535fda0adc29e474c12ead489302dc73",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-06-17T06:28:55+00:00",
+                "type": "magento-module",
+                "license": [
+                    "AFL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sergey Storchay",
+                        "email": "r8@r8.com.ua"
+                    }
+                ],
+                "description": "Magento extension that allows customer to specify optional comment during order placing.",
+                "homepage": "https://github.com/r8/magento-order-comment",
+                "support": {
+                    "source": "https://github.com/magemaven/magento-order-comment/tree/master"
+                }
+            },
+            {
+                "name": "magemaven/order-comment",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magemaven/magento-order-comment.git",
+                    "reference": "b4f3c9730ed64c6f88781d028ae6bf9522531b29"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magemaven/magento-order-comment/zipball/b4f3c9730ed64c6f88781d028ae6bf9522531b29",
+                    "reference": "b4f3c9730ed64c6f88781d028ae6bf9522531b29",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "2.*"
+                },
+                "time": "2016-02-17T12:02:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "AFL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sergey Storchay",
+                        "email": "r8@r8.com.ua"
+                    }
+                ],
+                "description": "Magento extension that allows customer to specify optional comment during order placing.",
+                "homepage": "https://github.com/r8/magento-order-comment",
+                "support": {
+                    "source": "https://github.com/magemaven/magento-order-comment/tree/develop"
+                }
+            }
+        ]
+    }
+}

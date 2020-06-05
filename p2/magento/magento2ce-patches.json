@@ -1,0 +1,122 @@
+{
+    "packages": {
+        "magento/magento2ce-patches": [
+            {
+                "name": "magento/magento2ce-patches",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento2ce-patches/magento-magento2ce-patches-2.2.0.0.zip",
+                    "shasum": "14fc9e00194d851305213b74bd1739d99c287a26"
+                },
+                "require": {
+                    "magento/magento2-patches-tool": "100.0.*"
+                },
+                "type": "magento2-patches",
+                "extra": {
+                    "enable-patching": true,
+                    "patch-dir": "patches",
+                    "patches": []
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 patches"
+            },
+            {
+                "name": "magento/magento2ce-patches",
+                "version": "2.2.1",
+                "version_normalized": "2.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento2ce-patches/magento-magento2ce-patches-2.2.1.0.zip",
+                    "shasum": "ab16dad0bde2b114b00b723b7f1afc0c2df63991"
+                },
+                "require": {
+                    "magento/magento2-patches-tool": "100.0.*",
+                    "magento/module-page-cache": "100.2.1"
+                },
+                "type": "magento2-patches",
+                "extra": {
+                    "enable-patching": true,
+                    "patch-dir": "patches",
+                    "patches": [
+                        {
+                            "name": "MDVA-2185"
+                        }
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 patches"
+            },
+            {
+                "name": "magento/magento2ce-patches",
+                "version": "2.2.3",
+                "version_normalized": "2.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento2ce-patches/magento-magento2ce-patches-2.2.3.0.zip",
+                    "shasum": "85edd5f663fd21d48f509260326bb32d5456b820"
+                },
+                "require": {
+                    "magento/magento2-patches-tool": "100.0.*",
+                    "magento/module-page-cache": "100.2.1"
+                },
+                "type": "magento2-patches",
+                "extra": {
+                    "enable-patching": true,
+                    "patch-dir": "patches",
+                    "patches": [
+                        {
+                            "name": "MDVA-2185"
+                        }
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 patches"
+            },
+            {
+                "name": "magento/magento2ce-patches",
+                "version": "2.2.4",
+                "version_normalized": "2.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento2ce-patches/magento-magento2ce-patches-2.2.4.0.zip",
+                    "shasum": "d5710aa185c6bb6f16586692bcc9f6ef3387cd3f"
+                },
+                "require": {
+                    "magento/magento2-base": "2.2.2",
+                    "magento/magento2-patches-tool": "100.0.*",
+                    "magento/module-page-cache": "100.2.1"
+                },
+                "type": "magento2-patches",
+                "extra": {
+                    "enable-patching": true,
+                    "patch-dir": "patches",
+                    "patches": [
+                        {
+                            "name": "MDVA-2185"
+                        },
+                        {
+                            "name": "test-patch",
+                            "after": 0
+                        }
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 patches"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "aydus/core": [
+            {
+                "name": "aydus/core",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/Core.git",
+                    "reference": "a119485a6b3b529dac7dd0de88a33ab2c6276e37"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/Core/zipball/a119485a6b3b529dac7dd0de88a33ab2c6276e37",
+                    "reference": "a119485a6b3b529dac7dd0de88a33ab2c6276e37",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2015-08-20T16:39:04+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "davidt@aydus.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Core module for Aydus extensions.",
+                "homepage": "https://github.com/aydus/Core.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/Core/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/Core/issues"
+                }
+            }
+        ]
+    }
+}

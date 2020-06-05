@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/mageworkshop_dpi": [
+            {
+                "name": "connect20/MageWorkshop_DPI",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MageWorkshop_DPI/1.0.1/MageWorkshop_DPI-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Mage_Workshop",
+                        "email": "mageworkshophq@gmail.com"
+                    }
+                ],
+                "description": " This extension displays attribute values of the product on Product Page and various product lists (Category Page, Tagged Products, Search and Advanced search)."
+            },
+            {
+                "name": "connect20/MageWorkshop_DPI",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MageWorkshop_DPI/1.0.2/MageWorkshop_DPI-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Mage_Workshop",
+                        "email": "mageworkshophq@gmail.com"
+                    }
+                ],
+                "description": " This extension displays attribute values of the product on Product Page and various product lists (Category Page, Tagged Products, Search and Advanced search)."
+            }
+        ]
+    }
+}

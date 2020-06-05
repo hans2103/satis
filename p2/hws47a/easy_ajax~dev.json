@@ -1,0 +1,80 @@
+{
+    "packages": {
+        "hws47a/easy_ajax": [
+            {
+                "name": "hws47a/easy_ajax",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/hws47a/VF_EasyAjax.git",
+                    "reference": "8ba6dadd1d3cdb3c54aadaf4819a64d84d537beb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hws47a/VF_EasyAjax/zipball/8ba6dadd1d3cdb3c54aadaf4819a64d84d537beb",
+                    "reference": "8ba6dadd1d3cdb3c54aadaf4819a64d84d537beb",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-03-13T20:09:21+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vladimir Fishchenko",
+                        "email": "vladimir@fishchenko.com"
+                    }
+                ],
+                "description": "Magento extension to make easy ajax request to the backend from the frontend",
+                "homepage": "https://fishchenko.com/projects/easy-ajax",
+                "support": {
+                    "source": "https://github.com/hws47a/VF_EasyAjax/tree/1.2.1",
+                    "issues": "https://github.com/hws47a/VF_EasyAjax/issues"
+                }
+            },
+            {
+                "name": "hws47a/easy_ajax",
+                "version": "dev-tests",
+                "version_normalized": "dev-tests",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/hws47a/VF_EasyAjax.git",
+                    "reference": "7b50cb388ed03b3473bce9f9af486ce76b00a6fa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hws47a/VF_EasyAjax/zipball/7b50cb388ed03b3473bce9f9af486ce76b00a6fa",
+                    "reference": "7b50cb388ed03b3473bce9f9af486ce76b00a6fa",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-03-31T20:21:44+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vladimir Fishchenko",
+                        "email": "vladimir@fishchenko.com"
+                    }
+                ],
+                "description": "Magento extension to make easy ajax request to the backend from the frontend",
+                "homepage": "https://fishchenko.com/projects/easy-ajax",
+                "support": {
+                    "source": "https://github.com/hws47a/VF_EasyAjax/tree/tests",
+                    "issues": "https://github.com/hws47a/VF_EasyAjax/issues"
+                }
+            }
+        ]
+    }
+}

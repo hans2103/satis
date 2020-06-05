@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "diglin/diglin_googleanalytics": [
+            {
+                "name": "diglin/diglin_googleanalytics",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_GoogleAnalytics.git",
+                    "reference": "5eed3b8b121d685ef3941d5ead6c72baec94ce71"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_GoogleAnalytics/zipball/5eed3b8b121d685ef3941d5ead6c72baec94ce71",
+                    "reference": "5eed3b8b121d685ef3941d5ead6c72baec94ce71",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-10-18T21:12:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sylvain Rayé",
+                        "email": "{firstname}.{lastname}@diglin.com"
+                    }
+                ],
+                "description": "Google Analytics for Magento supporting both Universal Analytics and the classic and some improvements regarding ecommerce.",
+                "homepage": "https://github.com/diglin/Diglin_GoogleAnalytics",
+                "support": {
+                    "source": "https://github.com/diglin/Diglin_GoogleAnalytics/tree/1.4.0",
+                    "issues": "https://github.com/diglin/Diglin_GoogleAnalytics/issues"
+                }
+            }
+        ]
+    }
+}

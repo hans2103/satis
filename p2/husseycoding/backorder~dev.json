@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "husseycoding/backorder": [
+            {
+                "name": "husseycoding/backorder",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/husseycoding/backorder.git",
+                    "reference": "afc5a5e1dc0bf7999743934f6e056141584e20ac"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/husseycoding/backorder/zipball/afc5a5e1dc0bf7999743934f6e056141584e20ac",
+                    "reference": "afc5a5e1dc0bf7999743934f6e056141584e20ac",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-10-11T13:36:05+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jonathan Hussey",
+                        "email": "hussey@husseycoding.co.uk"
+                    }
+                ],
+                "description": "Magento extension adding dispatch time notifications to product pages and the cart",
+                "homepage": "https://github.com/husseycoding/backorder",
+                "support": {
+                    "source": "https://github.com/husseycoding/backorder/tree/v1.0.7",
+                    "issues": "https://github.com/husseycoding/backorder/issues"
+                }
+            }
+        ]
+    }
+}

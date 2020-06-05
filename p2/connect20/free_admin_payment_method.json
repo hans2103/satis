@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/free_admin_payment_method": [
+            {
+                "name": "connect20/Free_Admin_Payment_Method",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Free_Admin_Payment_Method/0.1.0/Free_Admin_Payment_Method-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "EULA"
+                ],
+                "authors": [
+                    {
+                        "name": "eGlobe IT Solutions",
+                        "email": "hello@eglobeits.com"
+                    }
+                ],
+                "description": "“Free Admin Payment” can help you exceed your goals. Trusted by world leading Magento admins, it gives the best possible experience in implementing blank payment method or a demo payment method to admins."
+            }
+        ]
+    }
+}

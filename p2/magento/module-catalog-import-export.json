@@ -1,0 +1,1950 @@
+{
+    "packages": {
+        "magento/module-catalog-import-export": [
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.0.10",
+                "version_normalized": "100.0.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.0.10.0.zip",
+                    "shasum": "7aac0ec6c46923c9aa348d5dd781e5bf3d52bd2b"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-catalog-url-rewrite": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-import-export": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.0.11",
+                "version_normalized": "100.0.11.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.0.11.0.zip",
+                    "shasum": "948b62e061e85805ac76c57c042fa5bb80e92468"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-catalog-url-rewrite": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-import-export": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.0.2",
+                "version_normalized": "100.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.0.2.0.zip",
+                    "shasum": "fe0fb65ef23508a13481d78a6b2cee0e150a7a47"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-import-export": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.0.3",
+                "version_normalized": "100.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.0.3.0.zip",
+                    "shasum": "7ee75646932c1ed0aa36d998cb56d87e28463c30"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-catalog-url-rewrite": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-import-export": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.0.4",
+                "version_normalized": "100.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.0.4.0.zip",
+                    "shasum": "453857b394e0d81f6701f614acfdd7e2b99256b0"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-catalog-url-rewrite": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-import-export": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.0.5",
+                "version_normalized": "100.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.0.5.0.zip",
+                    "shasum": "8251ef5b8e2e446d66599e46648444f98c2c8966"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-catalog-url-rewrite": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-import-export": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.0.6",
+                "version_normalized": "100.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.0.6.0.zip",
+                    "shasum": "c8db5a5524473b3c36cdbdb86fe4c05d299e3eca"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-catalog-url-rewrite": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-import-export": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.0.7",
+                "version_normalized": "100.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.0.7.0.zip",
+                    "shasum": "19d829114c2d28f88734a77e26f7995fddec4424"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-catalog-url-rewrite": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-import-export": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.0.8",
+                "version_normalized": "100.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.0.8.0.zip",
+                    "shasum": "cd8396a28f627127c8996330ef785eb58681fed9"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-catalog-url-rewrite": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-import-export": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.0.9",
+                "version_normalized": "100.0.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.0.9.0.zip",
+                    "shasum": "3f1856907dbfcb3a68ab82ef0ae40e990aecf35c"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-catalog-url-rewrite": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-import-export": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.1.0",
+                "version_normalized": "100.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.1.0.0.zip",
+                    "shasum": "8b5d97e497c251689bb7f876fd9428dc3fe9c57e"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-url-rewrite": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-import-export": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.1.0-rc1",
+                "version_normalized": "100.1.0.0-RC1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.1.0.0-RC1.zip",
+                    "shasum": "cc425fc0bbee0b339924af47e5c4156cd796dd2e"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-url-rewrite": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-import-export": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.1.0-rc2",
+                "version_normalized": "100.1.0.0-RC2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.1.0.0-RC2.zip",
+                    "shasum": "d35fd3a6d512d010e075e607e7043b7a8b2d13fb"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-url-rewrite": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-import-export": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.1.0-rc3",
+                "version_normalized": "100.1.0.0-RC3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.1.0.0-RC3.zip",
+                    "shasum": "cd60dc83e580a6c49d64fd4bc40a620ffc55b457"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-url-rewrite": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-import-export": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.1.1",
+                "version_normalized": "100.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.1.1.0.zip",
+                    "shasum": "a539da55bbe8e3d820f32cb18d4714cd04d5794f"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-url-rewrite": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-import-export": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.1.10",
+                "version_normalized": "100.1.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.1.10.0.zip",
+                    "shasum": "af5e725ed1df9f723ff118888d97ac80b68d1d4a"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-url-rewrite": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-import-export": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.1.11",
+                "version_normalized": "100.1.11.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.1.11.0.zip",
+                    "shasum": "3bb6cd900fae87a7cf802174ebecfd2f94402484"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-url-rewrite": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-import-export": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.1.12",
+                "version_normalized": "100.1.12.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.1.12.0.zip",
+                    "shasum": "42572791e6de5f5863642d7bdd8e04477d348b57"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-url-rewrite": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-import-export": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.1.13",
+                "version_normalized": "100.1.13.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.1.13.0.zip",
+                    "shasum": "912065385881ed914c7b4c0852fb59275ba114f6"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-url-rewrite": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-import-export": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.1.2",
+                "version_normalized": "100.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.1.2.0.zip",
+                    "shasum": "90563811616038fc7599a18216752555b3df2778"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-url-rewrite": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-import-export": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.1.3",
+                "version_normalized": "100.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.1.3.0.zip",
+                    "shasum": "e70650d6e9afc88e86124e8a06ed33ab63c138d5"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-url-rewrite": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-import-export": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.1.4",
+                "version_normalized": "100.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.1.4.0.zip",
+                    "shasum": "a0ab2bf88437d0e2dd01e2517c08d858803b39a9"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-url-rewrite": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-import-export": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.1.5",
+                "version_normalized": "100.1.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.1.5.0.zip",
+                    "shasum": "129d153cb677fb91055c6ef4d68f79d671e24004"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-url-rewrite": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-import-export": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.1.6",
+                "version_normalized": "100.1.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.1.6.0.zip",
+                    "shasum": "24218865db829e80bc004797c0ce4ec6cebea520"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-url-rewrite": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-import-export": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.1.7",
+                "version_normalized": "100.1.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.1.7.0.zip",
+                    "shasum": "1674b080b9f8f3b106718bb5f1a83ef0f9c745e8"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-url-rewrite": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-import-export": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.1.8",
+                "version_normalized": "100.1.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.1.8.0.zip",
+                    "shasum": "247fda23a12fffcc4f237577d7e7a448fed5732a"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-url-rewrite": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-import-export": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.1.9",
+                "version_normalized": "100.1.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.1.9.0.zip",
+                    "shasum": "0f1ff88b405ad8c524e175a5f61d46460bcdd0b4"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-url-rewrite": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-import-export": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.2.0",
+                "version_normalized": "100.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.2.0.0.zip",
+                    "shasum": "5f4bd4e3d8752851fd1934474b51f4305527cc25"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-url-rewrite": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-import-export": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.2.0-rc20",
+                "version_normalized": "100.2.0.0-RC20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.2.0.0-RC20.zip",
+                    "shasum": "75ae04f0cf861acc3b63679ed617821f3bb0ffb0"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "100.2.*",
+                    "magento/module-catalog": "101.1.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-url-rewrite": "100.2.*",
+                    "magento/module-customer": "100.2.*",
+                    "magento/module-eav": "100.2.*",
+                    "magento/module-import-export": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.2.0-rc21",
+                "version_normalized": "100.2.0.0-RC21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.2.0.0-RC21.zip",
+                    "shasum": "c3ddcb672def0444e685175d482a02413eabebca"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-url-rewrite": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-import-export": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.2.0-rc22",
+                "version_normalized": "100.2.0.0-RC22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.2.0.0-RC22.zip",
+                    "shasum": "c0f35c3d0fc167e77e99beaf4edc9033c7c24c82"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-url-rewrite": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-import-export": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.2.0-rc23",
+                "version_normalized": "100.2.0.0-RC23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.2.0.0-RC23.zip",
+                    "shasum": "fba1453c104e35d102fab4da69cd9be0f7ad7770"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-url-rewrite": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-import-export": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.2.0-rc30",
+                "version_normalized": "100.2.0.0-RC30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.2.0.0-RC30.zip",
+                    "shasum": "937196ac8dd1a86a0c5639e9c4458829dddc7cfb"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-url-rewrite": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-import-export": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.2.1",
+                "version_normalized": "100.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.2.1.0.zip",
+                    "shasum": "7aabc5d4dcf30487cd76663da9dde4470bb76bfa"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-url-rewrite": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-import-export": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.2.10",
+                "version_normalized": "100.2.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.2.10.0.zip",
+                    "shasum": "f5fbd39dc272b642c639bf66acd08aedf988aff3"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-url-rewrite": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-import-export": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "~7.0.13||~7.1.0||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.2.2",
+                "version_normalized": "100.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.2.2.0.zip",
+                    "shasum": "b9fdacb31d411885b45894df3c1455768218750f"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-url-rewrite": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-import-export": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.2.3",
+                "version_normalized": "100.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.2.3.0.zip",
+                    "shasum": "a43475771c81f93ebc2447379b9d02b1367f7a41"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-url-rewrite": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-import-export": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.2.4",
+                "version_normalized": "100.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.2.4.0.zip",
+                    "shasum": "b7be398f4dbebe9f74ec380c5a62da3805db4408"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-url-rewrite": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-import-export": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.2.5",
+                "version_normalized": "100.2.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.2.5.0.zip",
+                    "shasum": "2b2b8714adbde4eca670e4d3ce593019b0bf2322"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-url-rewrite": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-import-export": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.2.6",
+                "version_normalized": "100.2.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.2.6.0.zip",
+                    "shasum": "8f928253930c50f36701fa91c2c94f56de46c4f3"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-url-rewrite": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-import-export": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.2.7",
+                "version_normalized": "100.2.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.2.7.0.zip",
+                    "shasum": "a2d0755490bd1c1fc903ad730c40ce73fd2dd362"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-url-rewrite": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-import-export": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.2.8",
+                "version_normalized": "100.2.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.2.8.0.zip",
+                    "shasum": "7aabf674c768f35805f99c02b9f8be1fbd2cfa81"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-url-rewrite": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-import-export": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "100.2.9",
+                "version_normalized": "100.2.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-100.2.9.0.zip",
+                    "shasum": "6a627c0438318a3a0e911829c9d3d34a36ee0c28"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-url-rewrite": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-import-export": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "~7.0.13|~7.1.0|~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "101.0.0",
+                "version_normalized": "101.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-101.0.0.0.zip",
+                    "shasum": "a7179f196f1c23b8198b4b58d82bcd04bc31daed"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-url-rewrite": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-import-export": "100.3.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "101.0.1",
+                "version_normalized": "101.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-101.0.1.0.zip",
+                    "shasum": "240b1ea27fb0bdebd2cf674ce280917363463216"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-url-rewrite": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-import-export": "100.3.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "101.0.2",
+                "version_normalized": "101.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-101.0.2.0.zip",
+                    "shasum": "ae96eb125a14347080e92c91ae84bde94403e7d9"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-url-rewrite": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-import-export": "100.3.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "101.0.2-p2",
+                "version_normalized": "101.0.2.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-101.0.2.0-patch2.zip",
+                    "shasum": "8703295cdeafe818f409124e046cac618a51c468"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-authorization": "100.3.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-url-rewrite": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-import-export": "100.3.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "101.0.3",
+                "version_normalized": "101.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-101.0.3.0.zip",
+                    "shasum": "044df36cd0a1ad2b45c6d5af794e1265aa301b31"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-authorization": "100.3.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-url-rewrite": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-import-export": "100.3.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "101.0.4",
+                "version_normalized": "101.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-101.0.4.0.zip",
+                    "shasum": "f6f37424abbc3b50e419fcee25acde9e895c39f7"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-authorization": "100.3.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-url-rewrite": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-import-export": "100.3.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "101.0.4-p2",
+                "version_normalized": "101.0.4.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-101.0.4.0-patch2.zip",
+                    "shasum": "6d05e28eaa3125a6228bfe222d8281696f445456"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-authorization": "100.3.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-url-rewrite": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-import-export": "100.3.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-import-export",
+                "version": "101.0.5",
+                "version_normalized": "101.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-import-export/magento-module-catalog-import-export-101.0.5.0.zip",
+                    "shasum": "a2aea6d8f53c2a0bf6805faa2b9e0f64f25a3c7a"
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-authorization": "100.3.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-url-rewrite": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-import-export": "100.3.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

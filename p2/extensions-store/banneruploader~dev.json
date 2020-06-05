@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "extensions-store/banneruploader": [
+            {
+                "name": "extensions-store/banneruploader",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/BannerUploader.git",
+                    "reference": "f6fa3f6dff94de0d71ccfbb626614675795bb7b5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/BannerUploader/zipball/f6fa3f6dff94de0d71ccfbb626614675795bb7b5",
+                    "reference": "f6fa3f6dff94de0d71ccfbb626614675795bb7b5",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2016-03-16T17:29:58+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "Extensions Store <admin@extensions-store.com>",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Allows client admin to set Enterprise banner images and links without having to touch HTML.",
+                "homepage": "https://github.com/ExtensionsStore/BannerUploader.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/BannerUploader/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/BannerUploader/issues"
+                }
+            }
+        ]
+    }
+}

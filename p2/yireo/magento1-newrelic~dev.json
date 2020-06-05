@@ -1,0 +1,53 @@
+{
+    "packages": {
+        "yireo/magento1-newrelic": [
+            {
+                "name": "yireo/magento1-newrelic",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/yireo/Yireo_NewRelic.git",
+                    "reference": "6f172dc879849f6158085cea11c0ab3785c4e0a7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/yireo/Yireo_NewRelic/zipball/6f172dc879849f6158085cea11c0ab3785c4e0a7",
+                    "reference": "6f172dc879849f6158085cea11c0ab3785c4e0a7",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2017-08-17T14:00:37+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "source/"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add NewRelic JS support and PHP tracking to Magento",
+                "homepage": "https://www.yireo.com/software/magento-extensions/newrelic",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/yireo/Yireo_NewRelic/tree/master",
+                    "issues": "https://github.com/yireo/Yireo_NewRelic/issues"
+                }
+            }
+        ]
+    }
+}

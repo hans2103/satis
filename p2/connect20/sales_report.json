@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sales_report": [
+            {
+                "name": "connect20/Sales_Report",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Sales_Report/1.0.0/Sales_Report-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)-"
+                ],
+                "authors": [
+                    {
+                        "name": "Manthan",
+                        "email": "manthan18121989@gmail.com"
+                    }
+                ],
+                "description": "Area Wise Sales Report extension allows admin to add Pin Codes and Areas from admin interface and get the report of total sale in particular area."
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/beeketing_integrateapp": [
+            {
+                "name": "connect20/Beeketing_IntegrateApp",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Beeketing_IntegrateApp/1.0.0/Beeketing_IntegrateApp-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Beeketing-TOS"
+                ],
+                "authors": [
+                    {
+                        "name": "Beeketing Inc.",
+                        "email": "hi@beeketing.com"
+                    }
+                ],
+                "description": "Better coupon box for magento"
+            }
+        ]
+    }
+}

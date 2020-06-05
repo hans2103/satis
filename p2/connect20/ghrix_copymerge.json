@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ghrix_copymerge": [
+            {
+                "name": "connect20/Ghrix_Copymerge",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ghrix_Copymerge/1.0.0/Ghrix_Copymerge-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ghrix",
+                        "email": "info@ghrix.com"
+                    }
+                ],
+                "description": "This extension for magento ecommerce used to copy or move source category with products to destination category."
+            }
+        ]
+    }
+}

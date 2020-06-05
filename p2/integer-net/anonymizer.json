@@ -1,0 +1,356 @@
+{
+    "packages": {
+        "integer-net/anonymizer": [
+            {
+                "name": "integer-net/anonymizer",
+                "version": "v2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/Anonymizer.git",
+                    "reference": "e4c525e048211d6bdc2a2eec54e2869a6cc8bf9e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/Anonymizer/zipball/e4c525e048211d6bdc2a2eec54e2869a6cc8bf9e",
+                    "reference": "e4c525e048211d6bdc2a2eec54e2869a6cc8bf9e",
+                    "shasum": ""
+                },
+                "require": {
+                    "firegento/psr0autoloader": ">=0.1.0",
+                    "fzaninotto/faker": ">=1.0"
+                },
+                "require-dev": {
+                    "aoepeople/composer-installers": "*",
+                    "ecomdev/ecomdev_phpunit": "~0.3.7"
+                },
+                "time": "2016-03-16T23:23:50+00:00",
+                "type": "magento-module",
+                "autoload": {
+                    "psr-4": {
+                        "IntegerNet\\Anonymizer\\": "src/lib/IntegerNet/Anonymizer"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "IntegerNet\\Anonymizer\\": "test/IntegerNet/Anonymizer"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabian Schmengler",
+                        "email": "fs@integer-net.de"
+                    }
+                ],
+                "description": "Anonymizes all Customer Data",
+                "support": {
+                    "source": "https://github.com/integer-net/Anonymizer/tree/v2.0.0",
+                    "issues": "https://github.com/integer-net/Anonymizer/issues"
+                }
+            },
+            {
+                "name": "integer-net/anonymizer",
+                "version": "v2.0.0-rc2",
+                "version_normalized": "2.0.0.0-RC2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/Anonymizer.git",
+                    "reference": "3acc3f19ac18459609bfdf7ef5a31c4a4f5e0dbd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/Anonymizer/zipball/3acc3f19ac18459609bfdf7ef5a31c4a4f5e0dbd",
+                    "reference": "3acc3f19ac18459609bfdf7ef5a31c4a4f5e0dbd",
+                    "shasum": ""
+                },
+                "require": {
+                    "firegento/psr0autoloader": ">=0.1.0",
+                    "fzaninotto/faker": ">=1.0"
+                },
+                "require-dev": {
+                    "aoepeople/composer-installers": "*",
+                    "ecomdev/ecomdev_phpunit": "~0.3.7"
+                },
+                "time": "2016-03-16T16:40:40+00:00",
+                "type": "magento-module",
+                "autoload": {
+                    "psr-4": {
+                        "IntegerNet\\Anonymizer\\": "src/lib/IntegerNet/Anonymizer"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "IntegerNet\\Anonymizer\\": "test/IntegerNet/Anonymizer"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabian Schmengler",
+                        "email": "fs@integer-net.de"
+                    }
+                ],
+                "description": "Anonymizes all Customer Data",
+                "support": {
+                    "source": "https://github.com/integer-net/Anonymizer/tree/v2.0.0-rc2",
+                    "issues": "https://github.com/integer-net/Anonymizer/issues"
+                }
+            },
+            {
+                "name": "integer-net/anonymizer",
+                "version": "v2.0.0-rc3",
+                "version_normalized": "2.0.0.0-RC3",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/Anonymizer.git",
+                    "reference": "3f8dc06e1be3f4c5539fcf9359f67a406c46b8bb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/Anonymizer/zipball/3f8dc06e1be3f4c5539fcf9359f67a406c46b8bb",
+                    "reference": "3f8dc06e1be3f4c5539fcf9359f67a406c46b8bb",
+                    "shasum": ""
+                },
+                "require": {
+                    "firegento/psr0autoloader": ">=0.1.0",
+                    "fzaninotto/faker": ">=1.0"
+                },
+                "require-dev": {
+                    "aoepeople/composer-installers": "*",
+                    "ecomdev/ecomdev_phpunit": "~0.3.7"
+                },
+                "time": "2016-03-16T22:02:53+00:00",
+                "type": "magento-module",
+                "autoload": {
+                    "psr-4": {
+                        "IntegerNet\\Anonymizer\\": "src/lib/IntegerNet/Anonymizer"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "IntegerNet\\Anonymizer\\": "test/IntegerNet/Anonymizer"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabian Schmengler",
+                        "email": "fs@integer-net.de"
+                    }
+                ],
+                "description": "Anonymizes all Customer Data",
+                "support": {
+                    "source": "https://github.com/integer-net/Anonymizer/tree/v2.0.0-rc3",
+                    "issues": "https://github.com/integer-net/Anonymizer/issues"
+                }
+            },
+            {
+                "name": "integer-net/anonymizer",
+                "version": "v2.0.0-rc4",
+                "version_normalized": "2.0.0.0-RC4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/Anonymizer.git",
+                    "reference": "a75b5f103bb1170a8ef8bb62d3af3db21e5e4721"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/Anonymizer/zipball/a75b5f103bb1170a8ef8bb62d3af3db21e5e4721",
+                    "reference": "a75b5f103bb1170a8ef8bb62d3af3db21e5e4721",
+                    "shasum": ""
+                },
+                "require": {
+                    "firegento/psr0autoloader": ">=0.1.0",
+                    "fzaninotto/faker": ">=1.0"
+                },
+                "require-dev": {
+                    "aoepeople/composer-installers": "*",
+                    "ecomdev/ecomdev_phpunit": "~0.3.7"
+                },
+                "time": "2016-03-16T22:15:56+00:00",
+                "type": "magento-module",
+                "autoload": {
+                    "psr-4": {
+                        "IntegerNet\\Anonymizer\\": "src/lib/IntegerNet/Anonymizer"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "IntegerNet\\Anonymizer\\": "test/IntegerNet/Anonymizer"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabian Schmengler",
+                        "email": "fs@integer-net.de"
+                    }
+                ],
+                "description": "Anonymizes all Customer Data",
+                "support": {
+                    "source": "https://github.com/integer-net/Anonymizer/tree/v2.0.0-rc4",
+                    "issues": "https://github.com/integer-net/Anonymizer/issues"
+                }
+            },
+            {
+                "name": "integer-net/anonymizer",
+                "version": "v2.0.0-rc5",
+                "version_normalized": "2.0.0.0-RC5",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/Anonymizer.git",
+                    "reference": "78d97a649909ff0f6314179e2757586793d90e53"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/Anonymizer/zipball/78d97a649909ff0f6314179e2757586793d90e53",
+                    "reference": "78d97a649909ff0f6314179e2757586793d90e53",
+                    "shasum": ""
+                },
+                "require": {
+                    "firegento/psr0autoloader": ">=0.1.0",
+                    "fzaninotto/faker": ">=1.0"
+                },
+                "require-dev": {
+                    "aoepeople/composer-installers": "*",
+                    "ecomdev/ecomdev_phpunit": "~0.3.7"
+                },
+                "time": "2016-03-16T22:46:38+00:00",
+                "type": "magento-module",
+                "autoload": {
+                    "psr-4": {
+                        "IntegerNet\\Anonymizer\\": "src/lib/IntegerNet/Anonymizer"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "IntegerNet\\Anonymizer\\": "test/IntegerNet/Anonymizer"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabian Schmengler",
+                        "email": "fs@integer-net.de"
+                    }
+                ],
+                "description": "Anonymizes all Customer Data",
+                "support": {
+                    "source": "https://github.com/integer-net/Anonymizer/tree/v2.0.0-rc5",
+                    "issues": "https://github.com/integer-net/Anonymizer/issues"
+                }
+            },
+            {
+                "name": "integer-net/anonymizer",
+                "version": "v2.0.0-rc6",
+                "version_normalized": "2.0.0.0-RC6",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/Anonymizer.git",
+                    "reference": "2c70b3248218abdaa450da369e090513c36962ee"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/Anonymizer/zipball/2c70b3248218abdaa450da369e090513c36962ee",
+                    "reference": "2c70b3248218abdaa450da369e090513c36962ee",
+                    "shasum": ""
+                },
+                "require": {
+                    "firegento/psr0autoloader": ">=0.1.0",
+                    "fzaninotto/faker": ">=1.0"
+                },
+                "require-dev": {
+                    "aoepeople/composer-installers": "*",
+                    "ecomdev/ecomdev_phpunit": "~0.3.7"
+                },
+                "time": "2016-03-16T23:02:30+00:00",
+                "type": "magento-module",
+                "autoload": {
+                    "psr-4": {
+                        "IntegerNet\\Anonymizer\\": "src/lib/IntegerNet/Anonymizer"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "IntegerNet\\Anonymizer\\": "test/IntegerNet/Anonymizer"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabian Schmengler",
+                        "email": "fs@integer-net.de"
+                    }
+                ],
+                "description": "Anonymizes all Customer Data",
+                "support": {
+                    "source": "https://github.com/integer-net/Anonymizer/tree/v2.0.0-rc6",
+                    "issues": "https://github.com/integer-net/Anonymizer/issues"
+                }
+            },
+            {
+                "name": "integer-net/anonymizer",
+                "version": "v2.1.0",
+                "version_normalized": "2.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/Anonymizer.git",
+                    "reference": "368557b41277b44b0316fe6c47a3213690310560"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/Anonymizer/zipball/368557b41277b44b0316fe6c47a3213690310560",
+                    "reference": "368557b41277b44b0316fe6c47a3213690310560",
+                    "shasum": ""
+                },
+                "require": {
+                    "firegento/psr0autoloader": ">=0.1.0",
+                    "fzaninotto/faker": ">=1.0"
+                },
+                "require-dev": {
+                    "aoepeople/composer-installers": "*",
+                    "ecomdev/ecomdev_phpunit": "dev-dev@dev"
+                },
+                "time": "2019-01-24T13:44:21+00:00",
+                "type": "magento-module",
+                "autoload": {
+                    "psr-4": {
+                        "IntegerNet\\Anonymizer\\": "src/lib/IntegerNet/Anonymizer"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "IntegerNet\\Anonymizer\\": "test/IntegerNet/Anonymizer"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabian Schmengler",
+                        "email": "fs@integer-net.de"
+                    }
+                ],
+                "description": "Anonymizes all Customer Data",
+                "support": {
+                    "source": "https://github.com/integer-net/Anonymizer/tree/v2.1.0",
+                    "issues": "https://github.com/integer-net/Anonymizer/issues"
+                }
+            }
+        ]
+    }
+}

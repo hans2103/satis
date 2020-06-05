@@ -1,0 +1,175 @@
+{
+    "packages": {
+        "magento/module-cms-graph-ql": [
+            {
+                "name": "magento/module-cms-graph-ql",
+                "version": "100.3.0",
+                "version_normalized": "100.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-cms-graph-ql/magento-module-cms-graph-ql-100.3.0.0.zip",
+                    "shasum": "f4b9118015845a3c65874d73e2a23e2a10f91052"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-widget": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CmsGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-cms-graph-ql",
+                "version": "100.3.1",
+                "version_normalized": "100.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-cms-graph-ql/magento-module-cms-graph-ql-100.3.1.0.zip",
+                    "shasum": "fae2f46721d225970beeb9e1cb26eff1dac6ad7f"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-widget": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql": "100.3.*",
+                    "magento/module-store-graph-ql": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CmsGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-cms-graph-ql",
+                "version": "100.3.2",
+                "version_normalized": "100.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-cms-graph-ql/magento-module-cms-graph-ql-100.3.2.0.zip",
+                    "shasum": "4d91acd26856d7e7d293328ecfdd15d082e9ce60"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-widget": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql": "100.3.*",
+                    "magento/module-graph-ql-cache": "100.3.*",
+                    "magento/module-store-graph-ql": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CmsGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-cms-graph-ql",
+                "version": "100.3.3",
+                "version_normalized": "100.3.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-cms-graph-ql/magento-module-cms-graph-ql-100.3.3.0.zip",
+                    "shasum": "481d18475193c33c0b997be9b90fde26e787132e"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-widget": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql": "100.3.*",
+                    "magento/module-graph-ql-cache": "100.3.*",
+                    "magento/module-store-graph-ql": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CmsGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-cms-graph-ql",
+                "version": "100.3.4",
+                "version_normalized": "100.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-cms-graph-ql/magento-module-cms-graph-ql-100.3.4.0.zip",
+                    "shasum": "1870410cc89e25295f884453aa3dfb16248ac106"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-widget": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql": "100.3.*",
+                    "magento/module-graph-ql-cache": "100.3.*",
+                    "magento/module-store-graph-ql": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CmsGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

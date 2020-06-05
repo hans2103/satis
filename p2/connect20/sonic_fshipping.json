@@ -1,0 +1,61 @@
+{
+    "packages": {
+        "connect20/sonic_fshipping": [
+            {
+                "name": "connect20/Sonic_Fshipping",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Sonic_Fshipping/1.0.0/Sonic_Fshipping-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Tanuj Pandey",
+                        "email": "tanuj.d.pandey@gmail.com"
+                    }
+                ],
+                "description": "Sonic Free Shipping enables the free shipping option for multiple or individual specific customers."
+            },
+            {
+                "name": "connect20/Sonic_Fshipping",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Sonic_Fshipping/1.0.0.1/Sonic_Fshipping-1.0.0.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_shipping_modules": ">=1.5.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Tanuj Pandey",
+                        "email": "tanuj.d.pandey@gmail.com"
+                    }
+                ],
+                "description": "Sonic Free Shipping enables the free shipping option for multiple or individual specific customers."
+            }
+        ]
+    }
+}

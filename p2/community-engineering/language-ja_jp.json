@@ -1,0 +1,30 @@
+{
+    "packages": {
+        "community-engineering/language-ja_jp": [
+            {
+                "name": "community-engineering/language-ja_jp",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/community-engineering/language-ja_jp/community-engineering-language-ja_jp-1.0.0.0.zip",
+                    "shasum": "5e9ab9eea71fdbda83ca9c300f2d0ba4151c12d7"
+                },
+                "require": {
+                    "magento/framework": "^102.0.0"
+                },
+                "type": "magento2-language",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Japan (Japanese) language"
+            }
+        ]
+    }
+}

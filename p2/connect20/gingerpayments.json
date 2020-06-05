@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/gingerpayments": [
+            {
+                "name": "connect20/gingerpayments",
+                "version": "0.0.4",
+                "version_normalized": "0.0.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/gingerpayments/0.0.4/gingerpayments-0.0.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-v3"
+                ],
+                "authors": [
+                    {
+                        "name": "Ginger Payments B.V.",
+                        "email": "info@gingerpayments.com"
+                    }
+                ],
+                "description": "Official Ginger Payments Magento extension"
+            }
+        ]
+    }
+}

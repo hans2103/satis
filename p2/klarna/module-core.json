@@ -1,0 +1,1998 @@
+{
+    "packages": {
+        "klarna/module-core": [
+            {
+                "name": "klarna/module-core",
+                "version": "2.3.0",
+                "version_normalized": "2.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-2.3.0.0.zip",
+                    "shasum": "d7e0dab4e7b1b5165d3afe3b0e58065a197f88e2"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^5.3",
+                    "guzzlehttp/log-subscriber": "^1.0",
+                    "magento/module-payment": "100.0.0 - 100.0.11 || 100.1.0 - 100.1.6",
+                    "php": "^5.5 || ^7.0.6",
+                    "psr/log": "^1.0"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~1.2",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "pdepend/pdepend": "^2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "2.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "2.5.2",
+                "version_normalized": "2.5.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-2.5.2.0.zip",
+                    "shasum": "f1f0a79b536fde63bb83262c55f36a16402690d7"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^5.3",
+                    "guzzlehttp/log-subscriber": "^1.0",
+                    "magento/module-payment": "100.0.0 - 100.0.11 || 100.1.0 - 100.1.6",
+                    "php": "^5.5 || ^7.0.6",
+                    "psr/log": "^1.0"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~1.2",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "pdepend/pdepend": "^2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "2.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "2.5.4",
+                "version_normalized": "2.5.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-2.5.4.0.zip",
+                    "shasum": "0250e33e702634cd505cac63eefdc1a752282873"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^5.3",
+                    "guzzlehttp/log-subscriber": "^1.0",
+                    "magento/module-payment": "100.0.0 - 100.0.12 || 100.1.0 - 100.1.7",
+                    "php": "^5.5 || ^7.0.6",
+                    "psr/log": "^1.0"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~1.2",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "pdepend/pdepend": "^2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "2.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "2.5.5",
+                "version_normalized": "2.5.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-2.5.5.0.zip",
+                    "shasum": "6c68340de8fda3844357027f80c537d6c99b7431"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^5.3",
+                    "guzzlehttp/log-subscriber": "^1.0",
+                    "magento/module-payment": "100.0.0 - 100.0.12 || 100.1.0 - 100.1.7 || 100.2.0",
+                    "php": "^5.5 || ^7.0.6",
+                    "psr/log": "^1.0"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~1.2",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "pdepend/pdepend": "^2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "2.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "2.6.0",
+                "version_normalized": "2.6.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-2.6.0.0.zip",
+                    "shasum": "9b2bb9a13a1b2ed89db4ddcf47a9335c192d3e29"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^5.3",
+                    "guzzlehttp/log-subscriber": "^1.0",
+                    "magento/module-payment": "100.0.0 - 100.0.12 || 100.1.0 - 100.1.7 || 100.2.0",
+                    "php": "^5.5 || ^7.0.6",
+                    "psr/log": "^1.0"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~1.2",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "pdepend/pdepend": "^2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "2.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "2.7.0",
+                "version_normalized": "2.7.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-2.7.0.0.zip",
+                    "shasum": "6c168140bc6c68e7fb3ca4807a29256e6208d97b"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^5.3",
+                    "guzzlehttp/log-subscriber": "^1.0",
+                    "magento/module-payment": "100.0.0 - 100.0.12 || 100.1.0 - 100.1.7 || 100.2.0",
+                    "php": "^5.5 || ^7.0.6",
+                    "psr/log": "^1.0"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~1.2",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "pdepend/pdepend": "^2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "2.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "2.7.1",
+                "version_normalized": "2.7.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-2.7.1.0.zip",
+                    "shasum": "260c9bc1fbfbf49c2b7be8e9c4dfe4ce624cd152"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^5.3",
+                    "guzzlehttp/log-subscriber": "^1.0",
+                    "magento/module-payment": "100.0.0 - 100.0.12 || 100.1.0 - 100.1.7 || 100.2.0",
+                    "php": "^5.5 || ^7.0.6",
+                    "psr/log": "^1.0"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~1.2",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "pdepend/pdepend": "^2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "2.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-3.0.0.0.zip",
+                    "shasum": "0811e7daf196442e705c0728ebb7a759ff5b0744"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/module-payment": "100.0.0 - 100.0.12 || 100.1.0 - 100.1.7 || 100.2.0",
+                    "php": "^5.5 || ^7.0.6",
+                    "psr/log": "^1.0"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~1.2",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "pdepend/pdepend": "^2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "2.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "3.1.0",
+                "version_normalized": "3.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-3.1.0.0.zip",
+                    "shasum": "b4704f00b1427a342851bf35d481db601717d520"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/module-payment": "100.0.0 - 100.0.12 || 100.1.0 - 100.1.7 || 100.2.0",
+                    "php": "^5.5 || ^7.0.6",
+                    "psr/log": "^1.0"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~1.2",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "pdepend/pdepend": "^2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "2.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "3.1.1",
+                "version_normalized": "3.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-3.1.1.0.zip",
+                    "shasum": "f684210b0fe0954a16e0cc0e8d6272b4d07f4f4e"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/module-payment": "100.0.0 - 100.0.12 || 100.1.0 - 100.1.8 || 100.2.0 - 100.2.1",
+                    "php": "^5.5 || ^7.0.6",
+                    "psr/log": "^1.0"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "pdepend/pdepend": "2.5.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "3.0.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "3.2.2",
+                "version_normalized": "3.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-3.2.2.0.zip",
+                    "shasum": "bc4777e8a4a83be14aab4d3c2dbab469036c289c"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/module-payment": "100.0.0 - 100.0.12 || 100.1.0 - 100.1.8 || 100.2.0 - 100.2.1",
+                    "php": "^5.5 || ^7.0.6",
+                    "psr/log": "^1.0"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.12.1",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "3.2.3",
+                "version_normalized": "3.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-3.2.3.0.zip",
+                    "shasum": "d07e5b34a83e9f11af5f573aaa8dcbf122917129"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/module-payment": "100.0.0 - 100.0.12 || 100.1.0 - 100.1.8 || 100.2.0 - 100.2.1",
+                    "php": "^5.5 || ^7.0.6",
+                    "psr/log": "^1.0"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.12.1",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "3.2.4",
+                "version_normalized": "3.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-3.2.4.0.zip",
+                    "shasum": "a0e920e74ec5f22ebe41c1c255825cd45a43fa5d"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/module-payment": "100.0.0 - 100.0.12 || 100.1.0 - 100.1.8 || 100.2.0 - 100.2.1",
+                    "php": "^5.5 || ^7.0.6",
+                    "psr/log": "^1.0"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.12.1",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "3.2.5",
+                "version_normalized": "3.2.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-3.2.5.0.zip",
+                    "shasum": "3e76b9ee8ee60e9d71f1962b776772be82823121"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/module-payment": "100.0.0 - 100.0.12 || 100.1.0 - 100.1.8 || 100.2.0 - 100.2.1",
+                    "php": "^5.5 || ^7.0.6",
+                    "psr/log": "^1.0"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.12.1",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "4.1.2",
+                "version_normalized": "4.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-4.1.2.0.zip",
+                    "shasum": "df5d1003a5fc013ed620fc49cb206f24ef0d0b90"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/framework": "^100.1||^101.0",
+                    "magento/module-bundle": "^100.1",
+                    "magento/module-catalog": "^101.0||^102.0",
+                    "magento/module-config": "^100.1||^101.0",
+                    "magento/module-customer": "^100.1||^101.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-payment": "^100.1||^100.2",
+                    "magento/module-quote": "^100.1||^101.0",
+                    "magento/module-sales": "^100.1||^101.0",
+                    "magento/module-store": "^100.1",
+                    "magento/module-tax": "^100.1",
+                    "php": "^5.6|~7.0.13|~7.1.0",
+                    "psr/log": "^1.0",
+                    "ramsey/uuid": "^3.7"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento-ecg/coding-standard": "^3.1",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.12.1",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "4.1.5",
+                "version_normalized": "4.1.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-4.1.5.0.zip",
+                    "shasum": "e66a94286af680e34923009b17dd3baec85f0c66"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/framework": "^100.1||^101.0",
+                    "magento/module-bundle": "^100.1",
+                    "magento/module-catalog": "^101.0||^102.0",
+                    "magento/module-config": "^100.1||^101.0",
+                    "magento/module-customer": "^100.1||^101.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-payment": "^100.1||^100.2",
+                    "magento/module-paypal": "^100.1||^100.2",
+                    "magento/module-quote": "^100.1||^101.0",
+                    "magento/module-sales": "^100.1||^101.0",
+                    "magento/module-store": "^100.1",
+                    "magento/module-tax": "^100.1",
+                    "php": "^5.6|~7.0.13|~7.1.0",
+                    "psr/log": "^1.0",
+                    "ramsey/uuid": "^3.7"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento-ecg/coding-standard": "^3.1",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.12.1",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "4.2.1",
+                "version_normalized": "4.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-4.2.1.0.zip",
+                    "shasum": "ca6515d900d8da2af327b06d9a461c8d1bbb9a44"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/framework": "^100.1||^101.0",
+                    "magento/module-bundle": "^100.1",
+                    "magento/module-catalog": "^102.0",
+                    "magento/module-config": "^101.0",
+                    "magento/module-customer": "^101.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-payment": "^100.2",
+                    "magento/module-paypal": "^100.2",
+                    "magento/module-quote": "^101.0",
+                    "magento/module-sales": "^101.0",
+                    "magento/module-store": "^100.1",
+                    "magento/module-tax": "^100.1",
+                    "php": "^5.6|~7.0.13|~7.1.0",
+                    "psr/log": "^1.0",
+                    "ramsey/uuid": "^3.7"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento-ecg/coding-standard": "^3.1",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.12.1",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "4.2.2",
+                "version_normalized": "4.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-4.2.2.0.zip",
+                    "shasum": "d560b8eabc29547f1d7597608c30e168e5c15af4"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/framework": "^100.1",
+                    "magento/module-bundle": "^100.1",
+                    "magento/module-catalog": "^101.0",
+                    "magento/module-config": "^100.1",
+                    "magento/module-customer": "^100.1",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-payment": "^100.1",
+                    "magento/module-paypal": "^100.1",
+                    "magento/module-quote": "^100.1",
+                    "magento/module-sales": "^100.1",
+                    "magento/module-store": "^100.1",
+                    "magento/module-tax": "^100.1",
+                    "php": "^5.6|~7.0.13|~7.1.0",
+                    "psr/log": "^1.0",
+                    "ramsey/uuid": "^3.7"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento-ecg/coding-standard": "^3.1",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.12.1",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "4.2.3",
+                "version_normalized": "4.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-4.2.3.0.zip",
+                    "shasum": "df6b76c353c85e24be2374a51913736eb208e088"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/framework": "^100.1||^101.0",
+                    "magento/module-bundle": "^100.1",
+                    "magento/module-catalog": "^102.0",
+                    "magento/module-config": "^101.0",
+                    "magento/module-customer": "^101.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-payment": "^100.2",
+                    "magento/module-paypal": "^100.2",
+                    "magento/module-quote": "^101.0",
+                    "magento/module-sales": "^101.0",
+                    "magento/module-store": "^100.1",
+                    "magento/module-tax": "^100.1",
+                    "php": "^5.6|~7.0.13|~7.1.0",
+                    "psr/log": "^1.0",
+                    "ramsey/uuid": "^3.7"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento-ecg/coding-standard": "^3.1",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.12.1",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "4.4.5",
+                "version_normalized": "4.4.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-4.4.5.0.zip",
+                    "shasum": "8de97e8aded0fa3877dce75333062dc7e4bbe59c"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/framework": "^100.1||^101.0",
+                    "magento/module-bundle": "^100.1",
+                    "magento/module-catalog": "^102.0",
+                    "magento/module-config": "^101.0",
+                    "magento/module-customer": "^101.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-payment": "^100.2",
+                    "magento/module-quote": "^101.0",
+                    "magento/module-sales": "^101.0",
+                    "magento/module-store": "^100.1",
+                    "magento/module-tax": "^100.1",
+                    "php": "^5.6|~7.0.13|~7.1.0",
+                    "psr/log": "^1.0",
+                    "ramsey/uuid": "^3.7"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento-ecg/coding-standard": "^3.1",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.12.1",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "4.5.2",
+                "version_normalized": "4.5.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-4.5.2.0.zip",
+                    "shasum": "c78a12a5a07994a88502eb09729605bc192d5840"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/framework": "^100.1||^101.0||^102.0",
+                    "magento/module-bundle": "^100.1",
+                    "magento/module-catalog": "^102.0||^103.0",
+                    "magento/module-config": "^101.0||^102.0",
+                    "magento/module-customer": "^101.0||^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-payment": "^100.2",
+                    "magento/module-quote": "^101.0",
+                    "magento/module-sales": "^101.0||^102.0",
+                    "magento/module-store": "^100.1||^101.0",
+                    "magento/module-tax": "^100.1",
+                    "php": "~7.0.13|~7.1.0|~7.2.0",
+                    "psr/log": "^1.0",
+                    "ramsey/uuid": "^3.7"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento-ecg/coding-standard": "^3.1",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.12.1",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "4.5.3",
+                "version_normalized": "4.5.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-4.5.3.0.zip",
+                    "shasum": "a2b5dbed17d3d38300e89b1b5f464cabdf2e517a"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/framework": "^100.1||^101.0||^102.0",
+                    "magento/module-bundle": "^100.1",
+                    "magento/module-catalog": "^102.0||^103.0",
+                    "magento/module-config": "^101.0||^102.0",
+                    "magento/module-customer": "^101.0||^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-payment": "^100.2",
+                    "magento/module-quote": "^101.0",
+                    "magento/module-sales": "^101.0||^102.0",
+                    "magento/module-store": "^100.1||^101.0",
+                    "magento/module-tax": "^100.1",
+                    "php": "~7.0.13|~7.1.0|~7.2.0",
+                    "psr/log": "^1.0",
+                    "ramsey/uuid": "^3.7"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento-ecg/coding-standard": "^3.1",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.12.1",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "4.5.4",
+                "version_normalized": "4.5.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-4.5.4.0.zip",
+                    "shasum": "133f507cc679b30d2965fa11ee53475fe9d1b57c"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/framework": "^100.1||^101.0||^102.0",
+                    "magento/module-bundle": "^100.1",
+                    "magento/module-catalog": "^102.0||^103.0",
+                    "magento/module-config": "^101.0||^102.0",
+                    "magento/module-customer": "^101.0||^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-payment": "^100.2",
+                    "magento/module-quote": "^101.0",
+                    "magento/module-sales": "^101.0||^102.0",
+                    "magento/module-store": "^100.1||^101.0",
+                    "magento/module-tax": "^100.1",
+                    "php": "~7.0.13|~7.1.0|~7.2.0",
+                    "psr/log": "^1.0",
+                    "ramsey/uuid": "^3.7"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento-ecg/coding-standard": "^3.1",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.12.1",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "4.5.5",
+                "version_normalized": "4.5.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-4.5.5.0.zip",
+                    "shasum": "fcc446340c6fe5c1ba114f3007b1f526b7a867ca"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/framework": "^100.1||^101.0||^102.0",
+                    "magento/module-bundle": "^100.1",
+                    "magento/module-catalog": "^102.0||^103.0",
+                    "magento/module-config": "^101.0||^102.0",
+                    "magento/module-customer": "^101.0||^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-payment": "^100.2",
+                    "magento/module-quote": "^101.0",
+                    "magento/module-sales": "^101.0||^102.0",
+                    "magento/module-store": "^100.1||^101.0",
+                    "magento/module-tax": "^100.1",
+                    "php": "~7.0.13|~7.1.0|~7.2.0",
+                    "psr/log": "^1.0",
+                    "ramsey/uuid": "^3.7"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento-ecg/coding-standard": "^3.1",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.12.1",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "4.5.6",
+                "version_normalized": "4.5.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-4.5.6.0.zip",
+                    "shasum": "c0881cddc0cd891ae12ac1dff275858d91539678"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/framework": "^100.1||^101.0||^102.0",
+                    "magento/module-bundle": "^100.1",
+                    "magento/module-catalog": "^102.0||^103.0",
+                    "magento/module-config": "^101.0||^102.0",
+                    "magento/module-customer": "^101.0||^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-payment": "^100.2",
+                    "magento/module-quote": "^101.0",
+                    "magento/module-sales": "^101.0||^102.0",
+                    "magento/module-store": "^100.1||^101.0",
+                    "magento/module-tax": "^100.1",
+                    "php": "~7.0.13|~7.1.0|~7.2.0",
+                    "psr/log": "^1.0",
+                    "ramsey/uuid": "^3.7"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento-ecg/coding-standard": "^3.1",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.12.1",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "4.5.9",
+                "version_normalized": "4.5.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-4.5.9.0.zip",
+                    "shasum": "a96404c4e02148e76c5faf45d8da1470fbc99479"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/framework": "^100.1||^101.0||^102.0",
+                    "magento/module-bundle": "^100.1",
+                    "magento/module-catalog": "^102.0||^103.0",
+                    "magento/module-config": "^101.0||^102.0",
+                    "magento/module-customer": "^101.0||^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-payment": "^100.2",
+                    "magento/module-quote": "^101.0",
+                    "magento/module-sales": "^101.0||^102.0",
+                    "magento/module-store": "^100.1||^101.0",
+                    "magento/module-tax": "^100.1",
+                    "php": "~7.0.13|~7.1.0|~7.2.0",
+                    "psr/log": "^1.0",
+                    "ramsey/uuid": "3.6.1||^3.7"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/marketplace-eqp": "^2.0",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.12.1",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "5.0.0",
+                "version_normalized": "5.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-5.0.0.0.zip",
+                    "shasum": "6c84b03ed58da4ec3e43ae081161dfa2b3862350"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/framework": "^100.1||^101.0||^102.0",
+                    "magento/module-bundle": "^100.1",
+                    "magento/module-catalog": "^102.0||^103.0",
+                    "magento/module-config": "^101.0||^102.0",
+                    "magento/module-customer": "^101.0||^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-payment": "^100.2",
+                    "magento/module-quote": "^101.0",
+                    "magento/module-sales": "^101.0||^102.0",
+                    "magento/module-store": "^100.1||^101.0",
+                    "magento/module-tax": "^100.1",
+                    "php": "~7.0.13|~7.1.0|~7.2.0",
+                    "psr/log": "^1.0",
+                    "ramsey/uuid": "^3.7"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento-ecg/coding-standard": "^3.1",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.12.1",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "5.1.0",
+                "version_normalized": "5.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-5.1.0.0.zip",
+                    "shasum": "050cc44c0077880e6a364e93f60d607cfd33c813"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/framework": "^100.1||^101.0||^102.0",
+                    "magento/module-bundle": "^100.1",
+                    "magento/module-catalog": "^102.0||^103.0",
+                    "magento/module-config": "^101.0||^102.0",
+                    "magento/module-customer": "^101.0||^102.0",
+                    "magento/module-directory": "^100.1",
+                    "magento/module-payment": "^100.2",
+                    "magento/module-quote": "^101.0",
+                    "magento/module-sales": "^101.0||^102.0",
+                    "magento/module-store": "^100.1||^101.0",
+                    "magento/module-tax": "^100.1",
+                    "php": "~7.0.13|~7.1.0|~7.2.0",
+                    "psr/log": "^1.0",
+                    "ramsey/uuid": "3.6.1||^3.7"
+                },
+                "conflict": {
+                    "magento/module-payment": "100.0.8 || 100.1.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.10.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento-ecg/coding-standard": "^3.1",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.14",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "~3.0",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "5.2.2",
+                "version_normalized": "5.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-5.2.2.0.zip",
+                    "shasum": "1d8e975f5b9574976cd5cdef10367a64e7f3dc34"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/framework": "^102.0",
+                    "magento/module-bundle": "^100.3",
+                    "magento/module-catalog": "^103.0",
+                    "magento/module-config": "^101.1",
+                    "magento/module-customer": "^102.0",
+                    "magento/module-directory": "^100.3",
+                    "magento/module-payment": "^100.3",
+                    "magento/module-quote": "^101.1",
+                    "magento/module-sales": "^102.0",
+                    "magento/module-store": "^101.0",
+                    "magento/module-tax": "^100.3",
+                    "php": "~7.1.3|~7.2.0|~7.3.0",
+                    "psr/log": "^1.0",
+                    "ramsey/uuid": "^3.7"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.10.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento-coding-standard": "*",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.14",
+                    "phpunit/phpunit": "~6.2.0",
+                    "roave/security-advisories": "dev-master",
+                    "sebastian/phpcpd": "~3.0",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "5.2.4",
+                "version_normalized": "5.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-5.2.4.0.zip",
+                    "shasum": "eeb25e98c5e8f8022fb8ef2a9226a33ac2e8d6e9"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/framework": "^102.0",
+                    "magento/module-bundle": "^100.3",
+                    "magento/module-catalog": "^103.0",
+                    "magento/module-config": "^101.1",
+                    "magento/module-customer": "^102.0",
+                    "magento/module-directory": "^100.3",
+                    "magento/module-payment": "^100.3",
+                    "magento/module-quote": "^101.1",
+                    "magento/module-sales": "^102.0",
+                    "magento/module-store": "^101.0",
+                    "magento/module-tax": "^100.3",
+                    "php": "~7.1.3|~7.2.0|~7.3.0",
+                    "psr/log": "^1.0",
+                    "ramsey/uuid": "^3.7"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.10.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento-coding-standard": "*",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.14",
+                    "phpunit/phpunit": "~6.2.0",
+                    "roave/security-advisories": "dev-master",
+                    "sebastian/phpcpd": "~3.0",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            },
+            {
+                "name": "klarna/module-core",
+                "version": "5.3.0",
+                "version_normalized": "5.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/module-core/klarna-module-core-5.3.0.0.zip",
+                    "shasum": "56c46cba222fd87495b67b2293dee81926d28e1c"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "^6.0",
+                    "magento/framework": "^102.0",
+                    "magento/module-bundle": "^100.3",
+                    "magento/module-catalog": "^103.0",
+                    "magento/module-config": "^101.1",
+                    "magento/module-customer": "^102.0",
+                    "magento/module-directory": "^100.3",
+                    "magento/module-payment": "^100.3",
+                    "magento/module-quote": "^101.1",
+                    "magento/module-sales": "^102.0",
+                    "magento/module-store": "^101.0",
+                    "magento/module-tax": "^100.3",
+                    "php": "~7.1.3|~7.2.0|~7.3.0",
+                    "psr/log": "^1.0",
+                    "ramsey/uuid": "^3.7"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.10.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento-coding-standard": "*",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.14",
+                    "phpunit/phpunit": "~6.2.0",
+                    "roave/security-advisories": "dev-master",
+                    "sebastian/phpcpd": "~3.0",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Klarna\\Core\\": "."
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Joe Constant",
+                        "email": "joe.constant@klarna.com",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Dario Kassler",
+                        "email": "dario.kassler@klarna.com",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Kenny Gilles",
+                        "email": "kenny.gilles@klarna.com",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Markus Simon",
+                        "email": "markus.simon2@klarna.com",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Fei Chen",
+                        "email": "fei.chen@klarna.com",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Jason Grim",
+                        "email": "jason.grim@klarna.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Klarna Core Magento 2 Extension"
+            }
+        ]
+    }
+}

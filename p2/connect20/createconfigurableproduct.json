@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/createconfigurableproduct": [
+            {
+                "name": "connect20/CreateConfigurableProduct",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CreateConfigurableProduct/1.0/CreateConfigurableProduct-1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rajesh",
+                        "email": "rajeshn@thylaksoft.com"
+                    }
+                ],
+                "description": "Create Configurable Product"
+            },
+            {
+                "name": "connect20/CreateConfigurableProduct",
+                "version": "1.6",
+                "version_normalized": "1.6.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CreateConfigurableProduct/1.6/CreateConfigurableProduct-1.6.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rajesh",
+                        "email": "rajeshn@thylaksoft.com"
+                    }
+                ],
+                "description": "Creating Configurable Product"
+            }
+        ]
+    }
+}

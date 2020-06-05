@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/dhl_onlineretoure": [
+            {
+                "name": "connect20/Dhl_OnlineRetoure",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Dhl_OnlineRetoure/1.0.0/Dhl_OnlineRetoure-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL3"
+                ],
+                "authors": [
+                    {
+                        "name": "André Herrn",
+                        "email": "andre.herrn@netresearch.de"
+                    }
+                ],
+                "description": "DHL OnlineRetoure"
+            }
+        ]
+    }
+}

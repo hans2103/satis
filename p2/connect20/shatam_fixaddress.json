@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/shatam_fixaddress": [
+            {
+                "name": "connect20/Shatam_Fixaddress",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Shatam_Fixaddress/1.0.0/Shatam_Fixaddress-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OCL"
+                ],
+                "authors": [
+                    {
+                        "name": "shatam",
+                        "email": "shatamtech@gmail.com"
+                    }
+                ],
+                "description": "This extension are used for verify billing and shipping addresses specified by customers during the checkout process and My Account Address Book entries also.\r\n"
+            }
+        ]
+    }
+}

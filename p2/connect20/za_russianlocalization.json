@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/za_russianlocalization": [
+            {
+                "name": "connect20/za_russianlocalization",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/za_russianlocalization/1.0.0/za_russianlocalization-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License"
+                ],
+                "authors": [
+                    {
+                        "name": "SebWeo.com",
+                        "email": "anzavad@gmail.com"
+                    }
+                ],
+                "description": "If you are building website for Russia - use this extension to enable Russian language in your shop."
+            }
+        ]
+    }
+}

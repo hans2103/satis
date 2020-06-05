@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/franceexpress_ondemandlogo": [
+            {
+                "name": "connect20/Franceexpress_Ondemandlogo",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Franceexpress_Ondemandlogo/1.0.5/Franceexpress_Ondemandlogo-1.0.5.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "http://opensource.org/licenses/afl-3.0.php"
+                ],
+                "authors": [
+                    {
+                        "name": "Ysance",
+                        "email": "contact@ysance.com"
+                    }
+                ],
+                "description": "Laissez à vos clients le choix de leur date de livraison"
+            }
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "packages": {
+        "connect20/p3chat_chat": [
+            {
+                "name": "connect20/P3chat_Chat",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/P3chat_Chat/0.1.0/P3chat_Chat-0.1.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Pavel Konon",
+                        "email": "konon.pavel@gmail.com"
+                    }
+                ],
+                "description": "P3chat is an innovative yet super easy way to add a sexy chat widget to your web site. Start talking to your web site visitor."
+            },
+            {
+                "name": "connect20/P3chat_Chat",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/P3chat_Chat/0.1.1/P3chat_Chat-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Pavel Konon",
+                        "email": "konon.pavel@gmail.com"
+                    }
+                ],
+                "description": "P3chat is an innovative yet super easy way to add a sexy chat widget to your web site. Start talking to your web site visitor."
+            }
+        ]
+    }
+}

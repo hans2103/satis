@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/html_minification_by_jemoon": [
+            {
+                "name": "connect20/HTML_Minification_by_Jemoon",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/HTML_Minification_by_Jemoon/1.0.0/HTML_Minification_by_Jemoon-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "BSD-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Marcin Jędrzejewski",
+                        "email": "marcin.jedrzejewski85@gmail.com"
+                    }
+                ],
+                "description": "Simple and light extension which minifies HTML. It reduces document's size by approx. 10 - 15%."
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/addedbytes_adminbookmarks": [
+            {
+                "name": "connect20/Addedbytes_Adminbookmarks",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Addedbytes_Adminbookmarks/0.1.0/Addedbytes_Adminbookmarks-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "AddedBytes",
+                        "email": "dave@addedbytes.com"
+                    }
+                ],
+                "description": "Adds a handy quick-links bar to the top of the Magento admin panel to allow fast navigation."
+            },
+            {
+                "name": "connect20/Addedbytes_Adminbookmarks",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Addedbytes_Adminbookmarks/0.1.1/Addedbytes_Adminbookmarks-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "AddedBytes",
+                        "email": "dave@addedbytes.com"
+                    }
+                ],
+                "description": "Adds a handy quick-links bar to the top of the Magento admin panel to allow fast navigation."
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/sociallogin_lightboxlogin_register": [
+            {
+                "name": "connect20/sociallogin_lightboxlogin_register",
+                "version": "0.1.1.1",
+                "version_normalized": "0.1.1.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/sociallogin_lightboxlogin_register/0.1.1.1/sociallogin_lightboxlogin_register-0.1.1.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Shekhar Juneja",
+                        "email": "shekhar@rootinfosol.com"
+                    }
+                ],
+                "description": "Mainly its is used for login popup as light box and register page with social login.create api key for social login form developer of social connect.the setting will be availble in system->configuration->rootinfo_ajaxlogin."
+            }
+        ]
+    }
+}

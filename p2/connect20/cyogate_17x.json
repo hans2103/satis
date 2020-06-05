@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/cyogate_17x": [
+            {
+                "name": "connect20/CyoGate_17x",
+                "version": "1.7.0.1",
+                "version_normalized": "1.7.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CyoGate_17x/1.7.0.1/CyoGate_17x-1.7.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "CyoGate Merchant Solutions",
+                        "email": "jon@cyop.net"
+                    }
+                ],
+                "description": "This payment module enables processing of Credit Card transactions using the CyoGate Payment Gateway."
+            },
+            {
+                "name": "connect20/CyoGate_17x",
+                "version": "1.7.0.2",
+                "version_normalized": "1.7.0.2",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CyoGate_17x/1.7.0.2/CyoGate_17x-1.7.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "CyoGate Merchant Solutions",
+                        "email": "jon@cyop.net"
+                    }
+                ],
+                "description": "This payment module enables processing of Credit Card transactions using the CyoGate Payment Gateway."
+            }
+        ]
+    }
+}

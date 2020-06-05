@@ -1,0 +1,1977 @@
+{
+    "packages": {
+        "adyen/payment": [
+            {
+                "name": "adyen/payment",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "c528adbdc6178930aa8b5e059b16a409f3ac74b8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/c528adbdc6178930aa8b5e059b16a409f3ac74b8",
+                    "reference": "c528adbdc6178930aa8b5e059b16a409f3ac74b8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-09-24T06:45:08+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Magento Plugin for Payment Service Provider Adyen. The integration guide for this Plugin is available on the Adyen Support website: support.adyen.com, type in 'Magento'.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.1.0",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "e78f0b99d80a11ce817c38c571129aa1ddb802a5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/e78f0b99d80a11ce817c38c571129aa1ddb802a5",
+                    "reference": "e78f0b99d80a11ce817c38c571129aa1ddb802a5",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "2.*"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2014-10-28T14:11:59+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Magento Plugin for Payment Service Provider Adyen. The integration guide for this Plugin is available on the Adyen Support website: support.adyen.com, type in 'Magento'.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.1.1",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.10.0",
+                "version_normalized": "2.10.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "570e2ac3e1f7b32399c1b82a091a04a7fcd493b9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/570e2ac3e1f7b32399c1b82a091a04a7fcd493b9",
+                    "reference": "570e2ac3e1f7b32399c1b82a091a04a7fcd493b9",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2018-02-06T15:35:23+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.10.0",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.11.0",
+                "version_normalized": "2.11.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "44c96282fea1d9f0b815d0a6a17aa42895fe989f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/44c96282fea1d9f0b815d0a6a17aa42895fe989f",
+                    "reference": "44c96282fea1d9f0b815d0a6a17aa42895fe989f",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2018-06-29T09:11:41+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.11.0",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.11.1",
+                "version_normalized": "2.11.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "7531cf988e50689ed02e35573b0a328759b4c720"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/7531cf988e50689ed02e35573b0a328759b4c720",
+                    "reference": "7531cf988e50689ed02e35573b0a328759b4c720",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2018-07-10T11:16:05+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.11.1",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.12.0",
+                "version_normalized": "2.12.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "3909fe569ece96df4af5f0c70678ae70e506a1ab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/3909fe569ece96df4af5f0c70678ae70e506a1ab",
+                    "reference": "3909fe569ece96df4af5f0c70678ae70e506a1ab",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2018-11-02T10:46:35+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.12.0",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.12.1",
+                "version_normalized": "2.12.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "1d646eb98e8080eb93ab6ccbf2fe903d1df85884"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/1d646eb98e8080eb93ab6ccbf2fe903d1df85884",
+                    "reference": "1d646eb98e8080eb93ab6ccbf2fe903d1df85884",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2018-11-16T10:00:43+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.12.1",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.12.2",
+                "version_normalized": "2.12.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "2a3a5faaccf5e2ea7898c23579b3ff58d61d962a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/2a3a5faaccf5e2ea7898c23579b3ff58d61d962a",
+                    "reference": "2a3a5faaccf5e2ea7898c23579b3ff58d61d962a",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2018-12-18T07:20:14+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.12.2",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.13.0",
+                "version_normalized": "2.13.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "5596feb8fec88d8e092662682f08b03d665b635a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/5596feb8fec88d8e092662682f08b03d665b635a",
+                    "reference": "5596feb8fec88d8e092662682f08b03d665b635a",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2019-02-11T14:30:55+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.13.0",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.13.1",
+                "version_normalized": "2.13.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "56c4ed5b9ffb330d80a9f86f10da7f1a12dcce24"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/56c4ed5b9ffb330d80a9f86f10da7f1a12dcce24",
+                    "reference": "56c4ed5b9ffb330d80a9f86f10da7f1a12dcce24",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2019-03-21T14:07:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.13.1",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.14.0",
+                "version_normalized": "2.14.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "7fec390e72228fea7f732fc8a2722c45ff4808de"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/7fec390e72228fea7f732fc8a2722c45ff4808de",
+                    "reference": "7fec390e72228fea7f732fc8a2722c45ff4808de",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2019-05-17T13:50:51+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.14.0",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.14.1",
+                "version_normalized": "2.14.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "04bfd51ddb3d147697f598a52f52ee3a5ee78b4a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/04bfd51ddb3d147697f598a52f52ee3a5ee78b4a",
+                    "reference": "04bfd51ddb3d147697f598a52f52ee3a5ee78b4a",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2019-05-27T06:45:03+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.14.1",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.14.2",
+                "version_normalized": "2.14.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "04e0fe7151138a268d54fbb60e3d600c6cb69d31"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/04e0fe7151138a268d54fbb60e3d600c6cb69d31",
+                    "reference": "04e0fe7151138a268d54fbb60e3d600c6cb69d31",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2019-05-31T12:43:40+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.14.2",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.15.0",
+                "version_normalized": "2.15.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "e0c9ff84ab5f405e7440e53f07e3e7b4e6ec835f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/e0c9ff84ab5f405e7440e53f07e3e7b4e6ec835f",
+                    "reference": "e0c9ff84ab5f405e7440e53f07e3e7b4e6ec835f",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2019-06-28T11:52:15+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.15.0",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.15.1",
+                "version_normalized": "2.15.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "7712a0cb4d932ccc27ea329245c9db7b2243de1c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/7712a0cb4d932ccc27ea329245c9db7b2243de1c",
+                    "reference": "7712a0cb4d932ccc27ea329245c9db7b2243de1c",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2019-07-02T13:54:52+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.15.1",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.16.0",
+                "version_normalized": "2.16.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "4689026334751ea4d975d8b6cbe74490b4c9e4e8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/4689026334751ea4d975d8b6cbe74490b4c9e4e8",
+                    "reference": "4689026334751ea4d975d8b6cbe74490b4c9e4e8",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2019-08-07T08:42:44+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.16.0",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.17.0",
+                "version_normalized": "2.17.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "aa902a05594486d2b90f077809554900ec35a176"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/aa902a05594486d2b90f077809554900ec35a176",
+                    "reference": "aa902a05594486d2b90f077809554900ec35a176",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2019-09-20T08:46:51+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.17.0",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.17.1",
+                "version_normalized": "2.17.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "dd9d9888fd566d205fb4a3b0636447467fadc73e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/dd9d9888fd566d205fb4a3b0636447467fadc73e",
+                    "reference": "dd9d9888fd566d205fb4a3b0636447467fadc73e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2019-10-16T08:19:53+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.17.1",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.18.0",
+                "version_normalized": "2.18.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "0e10368e974a7e890510a7bba41e3ba8ad3cc018"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/0e10368e974a7e890510a7bba41e3ba8ad3cc018",
+                    "reference": "0e10368e974a7e890510a7bba41e3ba8ad3cc018",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2020-01-03T15:33:15+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.18.0",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.18.1",
+                "version_normalized": "2.18.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "43e9ae393b54940fce7c5c8867d58e1fc3eedc33"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/43e9ae393b54940fce7c5c8867d58e1fc3eedc33",
+                    "reference": "43e9ae393b54940fce7c5c8867d58e1fc3eedc33",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2020-01-13T08:40:23+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.18.1",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.18.2",
+                "version_normalized": "2.18.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "856badf90ac4e2904dff6a3a91ff9eadb32576d3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/856badf90ac4e2904dff6a3a91ff9eadb32576d3",
+                    "reference": "856badf90ac4e2904dff6a3a91ff9eadb32576d3",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2020-01-30T07:29:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.18.2",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.18.3",
+                "version_normalized": "2.18.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "45d9e64727279726750b3cfb1d577a1f9b251a62"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/45d9e64727279726750b3cfb1d577a1f9b251a62",
+                    "reference": "45d9e64727279726750b3cfb1d577a1f9b251a62",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2020-03-12T16:55:05+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.18.3",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.18.4",
+                "version_normalized": "2.18.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "b831c6476ca9eb182a15e6a2d57b2c5b1aa669ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/b831c6476ca9eb182a15e6a2d57b2c5b1aa669ce",
+                    "reference": "b831c6476ca9eb182a15e6a2d57b2c5b1aa669ce",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2020-05-13T10:07:03+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.18.4",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.18.5",
+                "version_normalized": "2.18.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "a70a62860aac152100014df59bdc9d092f24a940"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/a70a62860aac152100014df59bdc9d092f24a940",
+                    "reference": "a70a62860aac152100014df59bdc9d092f24a940",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2020-05-25T17:13:59+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.18.5",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "b4377e4ff360eddb46f9f431214e3807fea542dd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/b4377e4ff360eddb46f9f431214e3807fea542dd",
+                    "reference": "b4377e4ff360eddb46f9f431214e3807fea542dd",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "2.*"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2015-01-29T14:42:58+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen'.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.2.0",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.2.1",
+                "version_normalized": "2.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "c98452a762c7246b184eab4a8aa4954475e41284"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/c98452a762c7246b184eab4a8aa4954475e41284",
+                    "reference": "c98452a762c7246b184eab4a8aa4954475e41284",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "2.*"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2015-02-19T12:19:17+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen'.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.2.1",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.2.2",
+                "version_normalized": "2.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "b52dff7002f2860b995b72fdaeacc828b85857c6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/b52dff7002f2860b995b72fdaeacc828b85857c6",
+                    "reference": "b52dff7002f2860b995b72fdaeacc828b85857c6",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "2.*"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2015-02-24T09:04:48+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen'.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.2.2",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.3.0",
+                "version_normalized": "2.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "cf6031a894b5fc29eb9a4a19e6760c4062588e98"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/cf6031a894b5fc29eb9a4a19e6760c4062588e98",
+                    "reference": "cf6031a894b5fc29eb9a4a19e6760c4062588e98",
+                    "shasum": ""
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2015-06-15T12:34:46+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen'.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.3.0",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.3.1",
+                "version_normalized": "2.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "b37d031a53a40f62a03896b7237f6b956db22505"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/b37d031a53a40f62a03896b7237f6b956db22505",
+                    "reference": "b37d031a53a40f62a03896b7237f6b956db22505",
+                    "shasum": ""
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2015-07-03T14:48:14+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.3.1",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.4.0",
+                "version_normalized": "2.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "0257e0da1b286bf192dc953299ef55af2abde80f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/0257e0da1b286bf192dc953299ef55af2abde80f",
+                    "reference": "0257e0da1b286bf192dc953299ef55af2abde80f",
+                    "shasum": ""
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2015-09-07T14:17:18+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.4.0",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.4.1",
+                "version_normalized": "2.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "2586bdb6d1179d352146519f95dad6ebdafd5cb3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/2586bdb6d1179d352146519f95dad6ebdafd5cb3",
+                    "reference": "2586bdb6d1179d352146519f95dad6ebdafd5cb3",
+                    "shasum": ""
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2015-10-14T14:05:52+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.4.1",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.4.2",
+                "version_normalized": "2.4.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "9153f831a66175ed4f9a08c147856cc5394fa769"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/9153f831a66175ed4f9a08c147856cc5394fa769",
+                    "reference": "9153f831a66175ed4f9a08c147856cc5394fa769",
+                    "shasum": ""
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2015-10-20T15:32:32+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.4.2",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.5.0",
+                "version_normalized": "2.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "459992b1630848f02083e0a2c53c2f3f892ec5b1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/459992b1630848f02083e0a2c53c2f3f892ec5b1",
+                    "reference": "459992b1630848f02083e0a2c53c2f3f892ec5b1",
+                    "shasum": ""
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2016-01-08T09:56:20+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.5.0",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.5.1",
+                "version_normalized": "2.5.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "4a47fc622a82ad1bdc42a856badd2e6a9cca4456"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/4a47fc622a82ad1bdc42a856badd2e6a9cca4456",
+                    "reference": "4a47fc622a82ad1bdc42a856badd2e6a9cca4456",
+                    "shasum": ""
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2016-01-22T08:15:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.5.1",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.5.2",
+                "version_normalized": "2.5.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "814760d2cc81f7c206a14a8f44cbb3a61b89d829"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/814760d2cc81f7c206a14a8f44cbb3a61b89d829",
+                    "reference": "814760d2cc81f7c206a14a8f44cbb3a61b89d829",
+                    "shasum": ""
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2016-02-19T10:02:58+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.5.2",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.5.3",
+                "version_normalized": "2.5.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "e1550cfccc1c364d4a8d1e2a6c2c716dcc49ba39"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/e1550cfccc1c364d4a8d1e2a6c2c716dcc49ba39",
+                    "reference": "e1550cfccc1c364d4a8d1e2a6c2c716dcc49ba39",
+                    "shasum": ""
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2016-02-26T08:53:09+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.5.3",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.5.4",
+                "version_normalized": "2.5.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "ccbe280ffda88f859b5df58532093147010a90bd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/ccbe280ffda88f859b5df58532093147010a90bd",
+                    "reference": "ccbe280ffda88f859b5df58532093147010a90bd",
+                    "shasum": ""
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2016-03-03T11:03:21+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.5.4",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.6.0",
+                "version_normalized": "2.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "b789b8d69dab46895d4c874a29d58c0811d21612"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/b789b8d69dab46895d4c874a29d58c0811d21612",
+                    "reference": "b789b8d69dab46895d4c874a29d58c0811d21612",
+                    "shasum": ""
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2016-04-20T14:42:09+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.6.0",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.6.1",
+                "version_normalized": "2.6.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "794be214b4dc0392fdd505dfbb9b02665e2a3646"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/794be214b4dc0392fdd505dfbb9b02665e2a3646",
+                    "reference": "794be214b4dc0392fdd505dfbb9b02665e2a3646",
+                    "shasum": ""
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2016-04-22T14:22:42+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.6.1",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.6.2",
+                "version_normalized": "2.6.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "6ac25ab3f40a1fa1483c8ec9ceb15e082d0db7b7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/6ac25ab3f40a1fa1483c8ec9ceb15e082d0db7b7",
+                    "reference": "6ac25ab3f40a1fa1483c8ec9ceb15e082d0db7b7",
+                    "shasum": ""
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2016-06-10T08:20:46+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.6.2",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.6.3",
+                "version_normalized": "2.6.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "eaa54e8d18b05f7b527f982348f53d3add60fc39"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/eaa54e8d18b05f7b527f982348f53d3add60fc39",
+                    "reference": "eaa54e8d18b05f7b527f982348f53d3add60fc39",
+                    "shasum": ""
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2016-07-11T13:11:17+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.6.3",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.7.0",
+                "version_normalized": "2.7.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "8579ef72811c6c7fc8e5b99bed85bf7e179c7901"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/8579ef72811c6c7fc8e5b99bed85bf7e179c7901",
+                    "reference": "8579ef72811c6c7fc8e5b99bed85bf7e179c7901",
+                    "shasum": ""
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2016-08-18T07:10:21+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.7.0",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.7.1",
+                "version_normalized": "2.7.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "b6e73d25845cbadfd5daa6ffc1e062d01694ffb8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/b6e73d25845cbadfd5daa6ffc1e062d01694ffb8",
+                    "reference": "b6e73d25845cbadfd5daa6ffc1e062d01694ffb8",
+                    "shasum": ""
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2016-08-24T06:27:14+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.7.1",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.8.0",
+                "version_normalized": "2.8.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "c6bf45c50b99660b9bb69a44f0e6f4503fd92416"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/c6bf45c50b99660b9bb69a44f0e6f4503fd92416",
+                    "reference": "c6bf45c50b99660b9bb69a44f0e6f4503fd92416",
+                    "shasum": ""
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2016-09-19T12:45:03+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.8.0",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.8.1",
+                "version_normalized": "2.8.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "c5ba11f5fb9befe0de6f8a49bfa184ac4e02aac2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/c5ba11f5fb9befe0de6f8a49bfa184ac4e02aac2",
+                    "reference": "c5ba11f5fb9befe0de6f8a49bfa184ac4e02aac2",
+                    "shasum": ""
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2016-12-21T12:52:38+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.8.1",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.9.0",
+                "version_normalized": "2.9.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "07ea55be42a40dc5e7efa84949a558076e6de97c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/07ea55be42a40dc5e7efa84949a558076e6de97c",
+                    "reference": "07ea55be42a40dc5e7efa84949a558076e6de97c",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2017-03-31T07:12:58+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.9.0",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.9.1",
+                "version_normalized": "2.9.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "f99514b6e02707870c13d44d669210e8721987cc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/f99514b6e02707870c13d44d669210e8721987cc",
+                    "reference": "f99514b6e02707870c13d44d669210e8721987cc",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2017-05-23T11:29:55+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.9.1",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.9.2",
+                "version_normalized": "2.9.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "257c0c8aec1ac3acfb2f8b1363d242c651250135"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/257c0c8aec1ac3acfb2f8b1363d242c651250135",
+                    "reference": "257c0c8aec1ac3acfb2f8b1363d242c651250135",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2017-08-16T09:12:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.9.2",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.9.3",
+                "version_normalized": "2.9.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "c83576171d0dea9704b4cc36181cf3dd190f8542"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/c83576171d0dea9704b4cc36181cf3dd190f8542",
+                    "reference": "c83576171d0dea9704b4cc36181cf3dd190f8542",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2017-09-19T12:29:09+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.9.3",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.9.4",
+                "version_normalized": "2.9.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "04a7216c2fbc9254f76a2ae09a13f5a79c981a8d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/04a7216c2fbc9254f76a2ae09a13f5a79c981a8d",
+                    "reference": "04a7216c2fbc9254f76a2ae09a13f5a79c981a8d",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2017-10-16T12:41:59+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.9.4",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.9.5",
+                "version_normalized": "2.9.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "db02d1956b95fa3f8b8815c4dff7a61aa431f82e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/db02d1956b95fa3f8b8815c4dff7a61aa431f82e",
+                    "reference": "db02d1956b95fa3f8b8815c4dff7a61aa431f82e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2017-11-06T13:24:46+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.9.5",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            },
+            {
+                "name": "adyen/payment",
+                "version": "2.9.6",
+                "version_normalized": "2.9.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Adyen/adyen-magento.git",
+                    "reference": "8cb1bb99c001b1e6da2a4044ab4dc7cae2cd4960"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Adyen/adyen-magento/zipball/8cb1bb99c001b1e6da2a4044ab4dc7cae2cd4960",
+                    "reference": "8cb1bb99c001b1e6da2a4044ab4dc7cae2cd4960",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/madia_adyen": "1.*"
+                },
+                "time": "2017-11-28T16:35:20+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adyen",
+                        "email": "support@adyen.com"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Payment Service Provider Adyen.",
+                "homepage": "https://github.com/adyenpayments/magento",
+                "support": {
+                    "source": "https://github.com/Adyen/adyen-magento/tree/2.9.6",
+                    "issues": "https://github.com/Adyen/adyen-magento/issues"
+                }
+            }
+        ]
+    }
+}

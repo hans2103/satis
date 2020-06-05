@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/alice_popup": [
+            {
+                "name": "connect20/Alice_Popup",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Alice_Popup/1.0.0/Alice_Popup-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Alice Infoweb Pvt ltd.",
+                        "email": "avi@webmagentocommerce.com"
+                    }
+                ],
+                "description": "This extension helps you to increase sales and customers for your site. "
+            }
+        ]
+    }
+}

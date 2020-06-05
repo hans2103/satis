@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/nrapps_tsreviewmanagement": [
+            {
+                "name": "connect20/NRApps_TSReviewManagement",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/NRApps_TSReviewManagement/1.0.0/NRApps_TSReviewManagement-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Custom-License"
+                ],
+                "authors": [
+                    {
+                        "name": "nr-apps.com powered by integer_net GmbH",
+                        "email": "info@nr-apps.com"
+                    }
+                ],
+                "description": "Trusted Shops review management Magento integration"
+            }
+        ]
+    }
+}

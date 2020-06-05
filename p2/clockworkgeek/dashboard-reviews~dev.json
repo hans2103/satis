@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "clockworkgeek/dashboard-reviews": [
+            {
+                "name": "clockworkgeek/dashboard-reviews",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/clockworkgeek/Magento-Dashboard-Reviews.git",
+                    "reference": "e8a3067be99ee85dd782979badde53c73a61b888"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/clockworkgeek/Magento-Dashboard-Reviews/zipball/e8a3067be99ee85dd782979badde53c73a61b888",
+                    "reference": "e8a3067be99ee85dd782979badde53c73a61b888",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-26T20:05:48+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Deady",
+                        "email": "daniel@clockworkgeek.com"
+                    }
+                ],
+                "description": "Show the newest, pending product reviews on the admin dashboard.",
+                "homepage": "https://github.com/clockworkgeek/Magento-Dashboard-Reviews",
+                "support": {
+                    "source": "https://github.com/clockworkgeek/Magento-Dashboard-Reviews/tree/1.1.0",
+                    "issues": "https://github.com/clockworkgeek/Magento-Dashboard-Reviews/issues"
+                }
+            }
+        ]
+    }
+}

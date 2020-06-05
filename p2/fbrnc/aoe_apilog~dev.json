@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "fbrnc/aoe_apilog": [
+            {
+                "name": "fbrnc/aoe_apilog",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fbrnc/Aoe_ApiLog.git",
+                    "reference": "dd08221533b5706f8e5e490337ae04c78e1e1a70"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/fbrnc/Aoe_ApiLog/zipball/dd08221533b5706f8e5e490337ae04c78e1e1a70",
+                    "reference": "dd08221533b5706f8e5e490337ae04c78e1e1a70",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-01-17T04:55:33+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Log Magento API calls.",
+                "homepage": "https://github.com/fbrnc/Aoe_ApiLog",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_ApiLog/tree/master",
+                    "issues": "https://github.com/fbrnc/Aoe_ApiLog/issues"
+                }
+            }
+        ]
+    }
+}

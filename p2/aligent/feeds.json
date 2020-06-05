@@ -1,0 +1,36 @@
+{
+    "packages": {
+        "aligent/feeds": [
+            {
+                "name": "aligent/feeds",
+                "version": "v1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Aligent_Feeds.git",
+                    "reference": "ee4355a8ac5521c28ed52d74b930d13733c3f8e1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Aligent_Feeds/zipball/ee4355a8ac5521c28ed52d74b930d13733c3f8e1",
+                    "reference": "ee4355a8ac5521c28ed52d74b930d13733c3f8e1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-07-10T05:20:34+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Customisable data feeds (e.g. Google Shopping) for Magento. Optimised for large catalogs.",
+                "homepage": "https://github.com/aligent/Aligent_Feeds.git",
+                "support": {
+                    "source": "https://github.com/aligent/Aligent_Feeds/tree/v1.0.0",
+                    "issues": "https://github.com/aligent/Aligent_Feeds/issues"
+                }
+            }
+        ]
+    }
+}

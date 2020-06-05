@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/hellowired": [
+            {
+                "name": "connect20/HelloWired",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/HelloWired/1.0/HelloWired-1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Creative-Commons-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Aaron Sananes",
+                        "email": "aaron@hellothemes.com"
+                    }
+                ],
+                "description": "Say Hello to HelloWired, take your store to the next level with this great free theme. The theme itself has some great features to mess around with! It really is perfect for store owners seeking for simplicity, and for those who want a really slick theme to build their new Magento design upon!"
+            }
+        ]
+    }
+}

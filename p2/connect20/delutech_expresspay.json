@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/delutech_expresspay": [
+            {
+                "name": "connect20/Delutech_Expresspay",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Delutech_Expresspay/1.0.0/Delutech_Expresspay-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "http://opensource.org/licenses/osl-3.0.php"
+                ],
+                "authors": [
+                    {
+                        "name": "Delu Akin",
+                        "email": "elnino.akin@gmail.com"
+                    }
+                ],
+                "description": "Expresspay allows you to accept payment on your magento store via Visa Ghana, Visacard, MasterCard, American Express and mobile money"
+            }
+        ]
+    }
+}

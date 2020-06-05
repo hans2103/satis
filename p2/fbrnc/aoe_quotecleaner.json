@@ -1,0 +1,78 @@
+{
+    "packages": {
+        "fbrnc/aoe_quotecleaner": [
+            {
+                "name": "fbrnc/aoe_quotecleaner",
+                "version": "v0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fbrnc/Aoe_QuoteCleaner.git",
+                    "reference": "85ea401ebef1fc4dcfbfd61271106ad99e2f866f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/fbrnc/Aoe_QuoteCleaner/zipball/85ea401ebef1fc4dcfbfd61271106ad99e2f866f",
+                    "reference": "85ea401ebef1fc4dcfbfd61271106ad99e2f866f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-01-06T04:04:46+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Cronjob to remove old quotes for Magento.",
+                "homepage": "https://github.com/fbrnc/Aoe_QuoteCleaner",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_QuoteCleaner/tree/v0.1.1",
+                    "issues": "https://github.com/fbrnc/Aoe_QuoteCleaner/issues"
+                }
+            },
+            {
+                "name": "fbrnc/aoe_quotecleaner",
+                "version": "v0.1.2",
+                "version_normalized": "0.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fbrnc/Aoe_QuoteCleaner.git",
+                    "reference": "26eb6ad57c865d69ec9b7b39ee87d35342946d79"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/fbrnc/Aoe_QuoteCleaner/zipball/26eb6ad57c865d69ec9b7b39ee87d35342946d79",
+                    "reference": "26eb6ad57c865d69ec9b7b39ee87d35342946d79",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-01-03T18:53:19+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Cronjob to remove old quotes for Magento.",
+                "homepage": "https://github.com/fbrnc/Aoe_QuoteCleaner",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_QuoteCleaner/tree/v0.1.2",
+                    "issues": "https://github.com/fbrnc/Aoe_QuoteCleaner/issues"
+                }
+            }
+        ]
+    }
+}

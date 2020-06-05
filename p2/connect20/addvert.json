@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/addvert": [
+            {
+                "name": "connect20/addvert",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/addvert/1.0.0/addvert-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MITL"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Mastellone",
+                        "email": "riccardo.mastellone@gmail.com"
+                    }
+                ],
+                "description": "Integrate Addvert in your e-commerce. Visit addvert.it for more info."
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "packages": {
+        "philipbrown/basket": [
+            {
+                "name": "philipbrown/basket",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/philipbrown/basket.git",
+                    "reference": "bae1ae78863c9aa9bce4dcdac650c99bd47cf65c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/philipbrown/basket/zipball/bae1ae78863c9aa9bce4dcdac650c99bd47cf65c",
+                    "reference": "bae1ae78863c9aa9bce4dcdac650c99bd47cf65c",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-intl": "*",
+                    "mathiasverraes/money": "~1.0",
+                    "php": ">=5.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~4.0"
+                },
+                "time": "2015-12-09T16:50:11+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "PhilipBrown\\Basket\\": "src"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "PhilipBrown\\Basket\\Tests\\": "tests",
+                        "PhilipBrown\\Basket\\Fixtures\\": "fixtures"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Philip Brown",
+                        "email": "phil@ipbrown.com"
+                    }
+                ],
+                "description": "The missing link between your product pages and your payment gateway",
+                "keywords": [
+                    "basket",
+                    "cart",
+                    "ecommerce",
+                    "shopping basket",
+                    "shopping car"
+                ],
+                "support": {
+                    "source": "https://github.com/philipbrown/basket/tree/master",
+                    "issues": "https://github.com/philipbrown/basket/issues"
+                }
+            },
+            {
+                "name": "philipbrown/basket",
+                "version": "dev-dev",
+                "version_normalized": "dev-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/philipbrown/basket.git",
+                    "reference": "209e0ace912636a061828e04c359a3a31114296f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/philipbrown/basket/zipball/209e0ace912636a061828e04c359a3a31114296f",
+                    "reference": "209e0ace912636a061828e04c359a3a31114296f",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-intl": "*",
+                    "mathiasverraes/money": "~1.0",
+                    "php": ">=5.4"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~4.0"
+                },
+                "time": "2015-03-03T16:37:22+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "PhilipBrown\\Basket\\": "src"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "PhilipBrown\\Basket\\Tests\\": "tests",
+                        "PhilipBrown\\Basket\\Fixtures\\": "fixtures"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Philip Brown",
+                        "email": "phil@ipbrown.com"
+                    }
+                ],
+                "description": "The missing link between your product pages and your payment gateway",
+                "keywords": [
+                    "basket",
+                    "cart",
+                    "ecommerce",
+                    "shopping basket",
+                    "shopping car"
+                ],
+                "support": {
+                    "source": "https://github.com/philipbrown/basket/tree/dev",
+                    "issues": "https://github.com/philipbrown/basket/issues"
+                }
+            }
+        ]
+    }
+}

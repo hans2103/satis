@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/skip_shipping_method": [
+            {
+                "name": "connect20/Skip_shipping_method",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Skip_shipping_method/1.0.0/Skip_shipping_method-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Chandan Kumar Singh",
+                        "email": "chandankumar8050@gmail.com"
+                    }
+                ],
+                "description": "The extension is easy to install and use. The order place without user fill shipping method Extension is lightweight, completes the task with minimum obstruction, and is in line with the Magento Order Management Workflow."
+            }
+        ]
+    }
+}

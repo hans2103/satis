@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/boiledegg_wsdlcacheflush": [
+            {
+                "name": "connect20/BoiledEgg_WsdlCacheFlush",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/BoiledEgg_WsdlCacheFlush/1.0.0/BoiledEgg_WsdlCacheFlush-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Anton Evers",
+                        "email": "ajpevers@gmail.com"
+                    }
+                ],
+                "description": "Adds a flush WSDL cache button in the systems cache management page"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/firegento_germansetup": [
+            {
+                "name": "connect20/FireGento_GermanSetup",
+                "version": "1.1.4",
+                "version_normalized": "1.1.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/FireGento_GermanSetup/1.1.4/FireGento_GermanSetup-1.1.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License,-version-3-(GPLv3)"
+                ],
+                "authors": [
+                    {
+                        "name": "FireGento Team",
+                        "email": "team@firegento.com"
+                    }
+                ],
+                "description": "Basic configuration for German shops - the alternative for solutions like Market Ready Germany and German Shop "
+            },
+            {
+                "name": "connect20/FireGento_GermanSetup",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/FireGento_GermanSetup/1.2.3/FireGento_GermanSetup-1.2.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License,-version-3-(GPLv3)"
+                ],
+                "authors": [
+                    {
+                        "name": "FireGento Team",
+                        "email": "team@firegento.com"
+                    }
+                ],
+                "description": "Basic configuration for German shops - the alternative for solutions like Market Ready Germany and German Shop "
+            }
+        ]
+    }
+}

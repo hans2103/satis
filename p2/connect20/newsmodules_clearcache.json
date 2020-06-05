@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/newsmodules_clearcache": [
+            {
+                "name": "connect20/NewsModules_ClearCache",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/NewsModules_ClearCache/0.1.0/NewsModules_ClearCache-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Alessandro Lioce",
+                        "email": "a.lioce@ne-ws.it"
+                    }
+                ],
+                "description": "Automatically clears the cache and images' cache"
+            }
+        ]
+    }
+}

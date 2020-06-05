@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/cookiesbasedregistration": [
+            {
+                "name": "connect20/cookiesbasedregistration",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/cookiesbasedregistration/0.1.0/cookiesbasedregistration-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "opensource"
+                ],
+                "authors": [
+                    {
+                        "name": "BluethinkIT",
+                        "email": "pramodgupta.bt@gmail.com"
+                    }
+                ],
+                "description": "Cookies based registration for guest user, pop up window will open for registration "
+            },
+            {
+                "name": "connect20/cookiesbasedregistration",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/cookiesbasedregistration/0.1.1/cookiesbasedregistration-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "opensource"
+                ],
+                "authors": [
+                    {
+                        "name": "BluethinkIT",
+                        "email": "pramodgupta.bt@gmail.com"
+                    }
+                ],
+                "description": "Cookies based registration for guest user, pop up window will open for registration "
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ship2anywhere_osync": [
+            {
+                "name": "connect20/Ship2Anywhere_oSync",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ship2Anywhere_oSync/0.1.0/Ship2Anywhere_oSync-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Teasdale",
+                        "email": "michael@ship2anywhere.com.au"
+                    }
+                ],
+                "description": "Ship2Anywhere Order Sync extension for Magento"
+            }
+        ]
+    }
+}

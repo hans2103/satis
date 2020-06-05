@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/orba_multipunkty": [
+            {
+                "name": "connect20/Orba_Multipunkty",
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Orba_Multipunkty/0.2.1/Orba_Multipunkty-0.2.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Academic-Free-License-(AFL)"
+                ],
+                "authors": [
+                    {
+                        "name": "ORBA",
+                        "email": "magento@orba.pl"
+                    }
+                ],
+                "description": "MultiPunkty.pl service integration / Integracja z serwisem MultiPunkty.pl"
+            }
+        ]
+    }
+}

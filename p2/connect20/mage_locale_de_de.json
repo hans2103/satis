@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/mage_locale_de_de": [
+            {
+                "name": "connect20/Mage_Locale_de_DE",
+                "version": "1.7.0.0",
+                "version_normalized": "1.7.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Locale_de_DE/1.7.0.0/Mage_Locale_de_DE-1.7.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Magento German Translation"
+            },
+            {
+                "name": "connect20/Mage_Locale_de_DE",
+                "version": "1.9.0.0",
+                "version_normalized": "1.9.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Locale_de_DE/1.9.0.0/Mage_Locale_de_DE-1.9.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "AFL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "de_DE locale"
+            }
+        ]
+    }
+}

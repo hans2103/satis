@@ -1,0 +1,45 @@
+{
+    "packages": {
+        "fballiano/magento-magento-defer-javascripts": [
+            {
+                "name": "fballiano/magento-magento-defer-javascripts",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fballiano/magento-defer-javascripts.git",
+                    "reference": "bae5741b47800ff0c4fa3096e230855963a5396f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/fballiano/magento-defer-javascripts/zipball/bae5741b47800ff0c4fa3096e230855963a5396f",
+                    "reference": "bae5741b47800ff0c4fa3096e230855963a5396f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3.0"
+                },
+                "time": "2016-11-16T11:12:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Balliano",
+                        "email": "fabrizio@fabrizioballiano.com",
+                        "homepage": "http://fabrizioballiano.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Defer Javascripts module for Magento 1",
+                "homepage": "https://github.com/fballiano/magento-defer-javascripts",
+                "support": {
+                    "source": "https://github.com/fballiano/magento-defer-javascripts/tree/master",
+                    "issues": "https://github.com/fballiano/magento-defer-javascripts/issues"
+                }
+            }
+        ]
+    }
+}

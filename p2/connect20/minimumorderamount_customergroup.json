@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/minimumorderamount_customergroup": [
+            {
+                "name": "connect20/Minimumorderamount_Customergroup",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Minimumorderamount_Customergroup/1.0.0/Minimumorderamount_Customergroup-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "commercebees",
+                        "email": "support@commercebees.com"
+                    }
+                ],
+                "description": "By using this module we can able to restrict the minimum order amount based on the customer group."
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/gotags_gotags": [
+            {
+                "name": "connect20/GOtags_GOtags",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/GOtags_GOtags/0.0.1/GOtags_GOtags-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-v3-(GPL-3)"
+                ],
+                "authors": [
+                    {
+                        "name": "Ashley White",
+                        "email": "hello@gotags.co.uk"
+                    }
+                ],
+                "description": "GOtags monazites your Instagram photos by allowing your users to buy directly from your photo pages."
+            },
+            {
+                "name": "connect20/GOtags_GOtags",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/GOtags_GOtags/0.0.2/GOtags_GOtags-0.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-v3-(GPL-3)"
+                ],
+                "authors": [
+                    {
+                        "name": "Ashley White",
+                        "email": "hello@gotags.co.uk"
+                    }
+                ],
+                "description": "GOtags monazites your Instagram photos by allowing your users to buy directly from your photo pages."
+            }
+        ]
+    }
+}

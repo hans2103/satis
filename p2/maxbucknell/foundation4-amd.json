@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "maxbucknell/foundation4-amd": [
+            {
+                "name": "maxbucknell/foundation4-amd",
+                "version": "4.3.2",
+                "version_normalized": "4.3.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maxbucknell/foundation4-amd.git",
+                    "reference": "ee5fc907bbbe8cb5c9ac8a78257ab01b7ba95c9c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maxbucknell/foundation4-amd/zipball/ee5fc907bbbe8cb5c9ac8a78257ab01b7ba95c9c",
+                    "reference": "ee5fc907bbbe8cb5c9ac8a78257ab01b7ba95c9c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "maxbucknell/magento-amdjs": "~1"
+                },
+                "time": "2013-12-14T17:51:49+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "foundation.js",
+                            "js/maxbucknell/amdjs/modules/"
+                        ],
+                        [
+                            "foundation",
+                            "js/maxbucknell/amdjs/modules"
+                        ]
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Max Bucknell",
+                        "email": "me@maxbucknell.com"
+                    },
+                    {
+                        "name": "All the Zurb Foundation authors",
+                        "homepage": "http://foundation.zurb.com"
+                    }
+                ],
+                "description": "A version of Zurb Foundation for maxbucknell/magento-amdjs",
+                "support": {
+                    "source": "https://github.com/maxbucknell/foundation4-amd/tree/v4.3.2",
+                    "issues": "https://github.com/maxbucknell/foundation4-amd/issues"
+                }
+            }
+        ]
+    }
+}

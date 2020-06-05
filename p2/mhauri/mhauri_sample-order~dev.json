@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "mhauri/mhauri_sample-order": [
+            {
+                "name": "mhauri/mhauri_sample-order",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mhauri/Mhauri_SampleOrder.git",
+                    "reference": "51fc8becc0d0db050bd42f9633f2128ff5440d07"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mhauri/Mhauri_SampleOrder/zipball/51fc8becc0d0db050bd42f9633f2128ff5440d07",
+                    "reference": "51fc8becc0d0db050bd42f9633f2128ff5440d07",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-04-01T11:07:34+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Marcel Hauri",
+                        "email": "marcel@hauri.me"
+                    }
+                ],
+                "description": "Povides a solution to order a free sample of product through the normal checkout process, configured by a custom attribute.",
+                "homepage": "https://github.com/mhauri/Mhauri_SampleOrder",
+                "support": {
+                    "source": "https://github.com/mhauri/Mhauri_SampleOrder/tree/v1.0.5",
+                    "issues": "https://github.com/mhauri/Mhauri_SampleOrder/issues"
+                }
+            }
+        ]
+    }
+}

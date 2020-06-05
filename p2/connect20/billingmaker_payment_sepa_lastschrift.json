@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/billingmaker_payment_sepa_lastschrift": [
+            {
+                "name": "connect20/Billingmaker_Payment_SEPA_Lastschrift",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Billingmaker_Payment_SEPA_Lastschrift/1.0.0/Billingmaker_Payment_SEPA_Lastschrift-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Billingmaker Payment",
+                        "email": "support@codemec.com"
+                    }
+                ],
+                "description": "Mit dieser Erweiterung können Sie die Bezahlart SEPA-Lastschriften im Shop anbieten."
+            }
+        ]
+    }
+}

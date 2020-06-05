@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/coinsimple": [
+            {
+                "name": "connect20/CoinSimple",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CoinSimple/1.0.0/CoinSimple-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "CoinSimple",
+                        "email": "support@coinsimple.com"
+                    }
+                ],
+                "description": "Allows a Magento store to accept Bitcoin using any wallet or payment processor."
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/ost": [
+            {
+                "name": "connect20/ost",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ost/1.1.0/ost-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU"
+                ],
+                "authors": [
+                    {
+                        "name": "Manish Mittal",
+                        "email": "manish@opensourcetechnologies.com"
+                    }
+                ],
+                "description": "This is responsive instagram slider."
+            },
+            {
+                "name": "connect20/ost",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ost/1.1.1/ost-1.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU"
+                ],
+                "authors": [
+                    {
+                        "name": "Manish Mittal",
+                        "email": "manish@opensourcetechnologies.com"
+                    }
+                ],
+                "description": "This is responsive Instagram slider."
+            }
+        ]
+    }
+}

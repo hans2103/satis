@@ -1,0 +1,94 @@
+{
+    "packages": {
+        "defacto/defacto_adminfirewall": [
+            {
+                "name": "defacto/defacto_adminfirewall",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/defactodesign/adminfirewall.git",
+                    "reference": "eee92dc63646df00871c92e202f154a792b9a6ff"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/defactodesign/adminfirewall/zipball/eee92dc63646df00871c92e202f154a792b9a6ff",
+                    "reference": "eee92dc63646df00871c92e202f154a792b9a6ff",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-10-21T15:06:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "De Facto Design Ltd",
+                        "email": "developers@de-facto.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "IP Restriction modulel for Adminhtml area.",
+                "homepage": "http://www.de-facto.com/",
+                "keywords": [
+                    "magento",
+                    "security"
+                ],
+                "support": {
+                    "source": "https://github.com/defactodesign/adminfirewall/tree/1.0.1",
+                    "issues": "https://github.com/defactodesign/adminfirewall/issues"
+                }
+            },
+            {
+                "name": "defacto/defacto_adminfirewall",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/defactodesign/adminfirewall.git",
+                    "reference": "477a4849b315f74f002c63b0e7f3c67eaef066f6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/defactodesign/adminfirewall/zipball/477a4849b315f74f002c63b0e7f3c67eaef066f6",
+                    "reference": "477a4849b315f74f002c63b0e7f3c67eaef066f6",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-11-17T15:00:07+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "De Facto Design Ltd",
+                        "email": "developers@de-facto.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "IP Restriction modulel for Adminhtml area.",
+                "homepage": "http://www.de-facto.com/",
+                "keywords": [
+                    "magento",
+                    "security"
+                ],
+                "support": {
+                    "source": "https://github.com/defactodesign/adminfirewall/tree/1.1.0",
+                    "issues": "https://github.com/defactodesign/adminfirewall/issues"
+                }
+            }
+        ]
+    }
+}

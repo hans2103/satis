@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "thebod/shippingrates": [
+            {
+                "name": "thebod/shippingrates",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bastianccm/Thebod_Shippingrates.git",
+                    "reference": "6f55d28c84cac61591f7de77beea6a44897d5edd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bastianccm/Thebod_Shippingrates/zipball/6f55d28c84cac61591f7de77beea6a44897d5edd",
+                    "reference": "6f55d28c84cac61591f7de77beea6a44897d5edd",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-01T15:05:36+00:00",
+                "type": "magento-module",
+                "license": [
+                    "CC-BY-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Bastian Ike",
+                        "email": "b-ike@b-ike.de"
+                    }
+                ],
+                "description": "Simple configurable shippingrates for Magento.",
+                "homepage": "https://github.com/thebod/Thebod_Shippingrates",
+                "support": {
+                    "source": "https://github.com/thebod/Thebod_Shippingrates/tree/1.0.0",
+                    "issues": "https://github.com/thebod/Thebod_Shippingrates/issues"
+                }
+            }
+        ]
+    }
+}

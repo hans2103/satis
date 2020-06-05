@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "avstudnitz/missing-translations": [
+            {
+                "name": "avstudnitz/missing-translations",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_MissingTranslations.git",
+                    "reference": "179905b6a8a92d7690663c67cc804bd3822c602c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_MissingTranslations/zipball/179905b6a8a92d7690663c67cc804bd3822c602c",
+                    "reference": "179905b6a8a92d7690663c67cc804bd3822c602c",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-03-09T13:26:44+00:00",
+                "type": "magento-module",
+                "description": "Logs translations which are not included in any csv file nor in the database and writes them to csv format",
+                "homepage": "https://github.com/avstudnitz/AvS_MissingTranslations",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_MissingTranslations/tree/0.1.0",
+                    "issues": "https://github.com/avstudnitz/AvS_MissingTranslations/issues"
+                }
+            }
+        ]
+    }
+}

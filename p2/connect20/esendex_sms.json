@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/esendex_sms": [
+            {
+                "name": "connect20/Esendex_SMS",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Esendex_SMS/0.1.0/Esendex_SMS-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Esendex",
+                        "email": "esendex@esendex.com"
+                    }
+                ],
+                "description": "Esendex SMS"
+            },
+            {
+                "name": "connect20/Esendex_SMS",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Esendex_SMS/1.0.0/Esendex_SMS-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Esendex",
+                        "email": "esendex@esendex.com"
+                    }
+                ],
+                "description": "Esendex SMS"
+            }
+        ]
+    }
+}

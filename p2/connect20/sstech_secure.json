@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/sstech_secure": [
+            {
+                "name": "connect20/SSTech_Secure",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SSTech_Secure/1.0.0/SSTech_Secure-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Source-License"
+                ],
+                "authors": [
+                    {
+                        "name": "SSTech",
+                        "email": "sanynaresh@gmail.com"
+                    }
+                ],
+                "description": "Extension which will allow to Seecure and Restrict User by adding the IP location"
+            },
+            {
+                "name": "connect20/SSTech_Secure",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SSTech_Secure/1.0.1/SSTech_Secure-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Source-License"
+                ],
+                "authors": [
+                    {
+                        "name": "SSTech",
+                        "email": "sanynaresh@gmail.com"
+                    }
+                ],
+                "description": "Extension which will allow to Seecure and Restrict User by adding the IP location"
+            }
+        ]
+    }
+}

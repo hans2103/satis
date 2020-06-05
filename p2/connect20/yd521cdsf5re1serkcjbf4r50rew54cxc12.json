@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/yd521cdsf5re1serkcjbf4r50rew54cxc12": [
+            {
+                "name": "connect20/yd521cdsf5re1serkcjbf4r50rew54cxc12",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/yd521cdsf5re1serkcjbf4r50rew54cxc12/1.0.1/yd521cdsf5re1serkcjbf4r50rew54cxc12-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MTL"
+                ],
+                "authors": [
+                    {
+                        "name": "Whiplash",
+                        "email": "whiplash@gmail.com"
+                    }
+                ],
+                "description": "Ship packages using the Whiplash Fulfillment Network, painlessly and automatically with the Magento Extension."
+            }
+        ]
+    }
+}

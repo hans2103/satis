@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "sf9/ireland": [
+            {
+                "name": "sf9/ireland",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/StudioForty9/SF9_Ireland.git",
+                    "reference": "a569922c95cd8eb4f994af3675b81ae99eb3afcc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/StudioForty9/SF9_Ireland/zipball/a569922c95cd8eb4f994af3675b81ae99eb3afcc",
+                    "reference": "a569922c95cd8eb4f994af3675b81ae99eb3afcc",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-02-15T00:00:00+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Alan Morkan",
+                        "email": "alan@sf9.ie",
+                        "homepage": "http://www.studioforty9.com/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "A module that adds Irish counties into Magento.",
+                "support": {
+                    "source": "https://github.com/StudioForty9/SF9_Ireland/tree/2.0.2",
+                    "issues": "https://github.com/StudioForty9/SF9_Ireland/issues"
+                }
+            }
+        ]
+    }
+}

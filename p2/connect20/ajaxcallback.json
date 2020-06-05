@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/ajaxcallback": [
+            {
+                "name": "connect20/ajaxcallback",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ajaxcallback/0.1.0/ajaxcallback-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "bxN5",
+                        "email": "bxN5@ua.fm"
+                    }
+                ],
+                "description": "callback/contact AJAX form "
+            },
+            {
+                "name": "connect20/ajaxcallback",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ajaxcallback/0.1.1/ajaxcallback-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "bxN5",
+                        "email": "bxN5@ua.fm"
+                    }
+                ],
+                "description": "callback/contact AJAX form "
+            }
+        ]
+    }
+}

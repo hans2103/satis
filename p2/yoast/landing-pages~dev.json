@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "yoast/landing-pages": [
+            {
+                "name": "yoast/landing-pages",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/quafzi/yoast-landing-pages.git",
+                    "reference": "d305845f134449e1eaa3057b0f4fb628b1d35230"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/quafzi/yoast-landing-pages/zipball/d305845f134449e1eaa3057b0f4fb628b1d35230",
+                    "reference": "d305845f134449e1eaa3057b0f4fb628b1d35230",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-15T21:01:41+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "YOAST",
+                        "email": "magento@yoast.com"
+                    }
+                ],
+                "description": "Magento extension forked from http://www.magentocommerce.com/magento-connect/yoast-landing-pages-3982.html",
+                "support": {
+                    "source": "https://github.com/quafzi/yoast-landing-pages/tree/master",
+                    "issues": "https://github.com/quafzi/yoast-landing-pages/issues"
+                }
+            }
+        ]
+    }
+}

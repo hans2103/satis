@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/providedontheprofilepage": [
+            {
+                "name": "connect20/ProvidedOnTheProfilePage",
+                "version": "2.3.3.1",
+                "version_normalized": "2.3.3.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ProvidedOnTheProfilePage/2.3.3.1/ProvidedOnTheProfilePage-2.3.3.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "http://opensource.org/licenses/osl-3.0.php"
+                ],
+                "authors": [
+                    {
+                        "name": "Karl Lillrud",
+                        "email": "contact@revalizer.com"
+                    }
+                ],
+                "description": "RevalizerNoMoreAbandonedCarts"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/gemgento_rails_connect": [
+            {
+                "name": "connect20/Gemgento_Rails_Connect",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Gemgento_Rails_Connect/0.0.1/Gemgento_Rails_Connect-0.0.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "http://www.binpress.com/license/view/l/ffbc66b48e5106eab8c9fa340677a4c2"
+                ],
+                "authors": [
+                    {
+                        "name": "gemgento",
+                        "email": "support@gemgento.com"
+                    }
+                ],
+                "description": "Gemgento is Magento with a Ruby on Rails front end."
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/adstart_module": [
+            {
+                "name": "connect20/Adstart_Module",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Adstart_Module/1.0.0/Adstart_Module-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MITL"
+                ],
+                "authors": [
+                    {
+                        "name": "David Denton",
+                        "email": "dpdenton@yahoo.com"
+                    }
+                ],
+                "description": "Extends the Magento API for use with AdStart Web Application."
+            }
+        ]
+    }
+}

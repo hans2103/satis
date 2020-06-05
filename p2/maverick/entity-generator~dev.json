@@ -1,0 +1,82 @@
+{
+    "packages": {
+        "maverick/entity-generator": [
+            {
+                "name": "maverick/entity-generator",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maverick193/entity-generator.git",
+                    "reference": "6fdd80ab22a9997131c997a7fcf3485d47cc0cfd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maverick193/entity-generator/zipball/6fdd80ab22a9997131c997a7fcf3485d47cc0cfd",
+                    "reference": "6fdd80ab22a9997131c997a7fcf3485d47cc0cfd",
+                    "shasum": ""
+                },
+                "require": {
+                    "fzaninotto/faker": "*",
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "symfony/console": "*"
+                },
+                "time": "2014-08-27T19:38:24+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Mohammed NAHHAS",
+                        "email": "m.nahhas@live.fr"
+                    }
+                ],
+                "description": "Magento extension to generate test entities (customers, addresses, orders) with fake data",
+                "homepage": "https://github.com/maverick193/entity-generator.git",
+                "support": {
+                    "source": "https://github.com/maverick193/entity-generator/tree/v2.0.0",
+                    "issues": "https://github.com/maverick193/entity-generator/issues"
+                }
+            },
+            {
+                "name": "maverick/entity-generator",
+                "version": "dev-dev",
+                "version_normalized": "dev-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maverick193/entity-generator.git",
+                    "reference": "6fdd80ab22a9997131c997a7fcf3485d47cc0cfd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maverick193/entity-generator/zipball/6fdd80ab22a9997131c997a7fcf3485d47cc0cfd",
+                    "reference": "6fdd80ab22a9997131c997a7fcf3485d47cc0cfd",
+                    "shasum": ""
+                },
+                "require": {
+                    "fzaninotto/faker": "*",
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "symfony/console": "*"
+                },
+                "time": "2014-08-27T19:38:24+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Mohammed NAHHAS",
+                        "email": "m.nahhas@live.fr"
+                    }
+                ],
+                "description": "Magento extension to generate test entities (customers, addresses, orders) with fake data",
+                "homepage": "https://github.com/maverick193/entity-generator.git",
+                "support": {
+                    "source": "https://github.com/maverick193/entity-generator/tree/v2.0.0",
+                    "issues": "https://github.com/maverick193/entity-generator/issues"
+                }
+            }
+        ]
+    }
+}

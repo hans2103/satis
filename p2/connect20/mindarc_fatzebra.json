@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/mindarc_fatzebra": [
+            {
+                "name": "connect20/MindArc_FatZebra",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MindArc_FatZebra/2.1.1/MindArc_FatZebra-2.1.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_payment": "*"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthew Savage",
+                        "email": "support@fatzebra.com.au"
+                    }
+                ],
+                "description": "Accept Credit Card Payments quickly and simply with Fat Zebra"
+            }
+        ]
+    }
+}

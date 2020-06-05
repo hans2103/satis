@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/wowit_theme_multi_color": [
+            {
+                "name": "connect20/Wowit_Theme_Multi_Color",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Wowit_Theme_Multi_Color/1.0.0/Wowit_Theme_Multi_Color-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "EULA"
+                ],
+                "authors": [
+                    {
+                        "name": "elharfali",
+                        "email": "elharfali.abdelkebir@gmail.com"
+                    }
+                ],
+                "description": "This is a Multi Color magento theme"
+            }
+        ]
+    }
+}

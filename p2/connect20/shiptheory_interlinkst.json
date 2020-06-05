@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/shiptheory_interlinkst": [
+            {
+                "name": "connect20/Shiptheory_Interlinkst",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Shiptheory_Interlinkst/0.0.1/Shiptheory_Interlinkst-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "authors": [
+                    {
+                        "name": "Shiptheory",
+                        "email": "jm@shiptheory.com"
+                    }
+                ],
+                "description": "Inlerlink Shipping API Integration from Shiptheory"
+            },
+            {
+                "name": "connect20/Shiptheory_Interlinkst",
+                "version": "0.0.4",
+                "version_normalized": "0.0.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Shiptheory_Interlinkst/0.0.4/Shiptheory_Interlinkst-0.0.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "authors": [
+                    {
+                        "name": "Shiptheory",
+                        "email": "jm@shiptheory.com"
+                    }
+                ],
+                "description": "Inlerlink Shipping API Integration from Shiptheory"
+            }
+        ]
+    }
+}

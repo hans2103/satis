@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/txtlocal_sendsms": [
+            {
+                "name": "connect20/txtlocal_sendsms",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/txtlocal_sendsms/1.0.0/txtlocal_sendsms-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Textlocal",
+                        "email": "tech@txtlocal.com"
+                    }
+                ],
+                "description": "A SMS extension, allowing messages to be sent when orders update using the Txtlocal system."
+            },
+            {
+                "name": "connect20/txtlocal_sendsms",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/txtlocal_sendsms/1.0.2/txtlocal_sendsms-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Textlocal",
+                        "email": "tech@txtlocal.com"
+                    }
+                ],
+                "description": "A SMS extension, allowing messages to be sent when orders update using the Txtlocal system."
+            }
+        ]
+    }
+}

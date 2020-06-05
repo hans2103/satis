@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/llian_massproductlinker": [
+            {
+                "name": "connect20/Llian_MassProductLinker",
+                "version": "0.2.2",
+                "version_normalized": "0.2.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Llian_MassProductLinker/0.2.2/Llian_MassProductLinker-0.2.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Llian",
+                        "email": "info@llian.de"
+                    }
+                ],
+                "description": "Adds mass actions for cross-selling, up-selling, and relating products in Magento's manage product grid"
+            }
+        ]
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "packages": {
+        "aoepeople/aoe_lazycatalogimages": [
+            {
+                "name": "aoepeople/aoe_lazycatalogimages",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_LazyCatalogImages.git",
+                    "reference": "6b3af78a321a7c2dedf1f1b913d28867180d311c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_LazyCatalogImages/zipball/6b3af78a321a7c2dedf1f1b913d28867180d311c",
+                    "reference": "6b3af78a321a7c2dedf1f1b913d28867180d311c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.2"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpmd/phpmd": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "time": "2017-05-11T03:02:27+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee@saferite.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/tree/1.0.2",
+                    "issues": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_lazycatalogimages",
+                "version": "dev-cache",
+                "version_normalized": "dev-cache",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_LazyCatalogImages.git",
+                    "reference": "c2133fe42a781cecf3213866b79ed3cdf79055ab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_LazyCatalogImages/zipball/c2133fe42a781cecf3213866b79ed3cdf79055ab",
+                    "reference": "c2133fe42a781cecf3213866b79ed3cdf79055ab",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.2"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpmd/phpmd": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "time": "2015-03-31T17:58:08+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Aoe/LazyCatalogImages",
+                            "app/code/community/Aoe/LazyCatalogImages"
+                        ],
+                        [
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml",
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/tree/cache",
+                    "issues": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/issues"
+                }
+            }
+        ]
+    }
+}

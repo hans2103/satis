@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/webarzoo_dc": [
+            {
+                "name": "connect20/Webarzoo_DC",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Webarzoo_DC/1.0.0/Webarzoo_DC-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "sonu singh",
+                        "email": "info@webarzoo.com"
+                    }
+                ],
+                "description": "A Product Delivery Checker extension helps  Customer to check product availability in its location by entering zip code of the location."
+            }
+        ]
+    }
+}

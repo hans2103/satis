@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/potato_gridautocomplete": [
+            {
+                "name": "connect20/Potato_Gridautocomplete",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Potato_Gridautocomplete/1.0.1/Potato_Gridautocomplete-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "PotatoCommerce",
+                        "email": "potatocommerce@gmail.com"
+                    }
+                ],
+                "description": "Grid Autocomplete by PotatoCommerce\r\nModule adds simple auto-complete in Magento grids."
+            }
+        ]
+    }
+}

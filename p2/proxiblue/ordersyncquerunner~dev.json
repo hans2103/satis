@@ -1,0 +1,54 @@
+{
+    "packages": {
+        "proxiblue/ordersyncquerunner": [
+            {
+                "name": "proxiblue/ordersyncquerunner",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ProxiBlue/OrderSyncQueRunner.git",
+                    "reference": "17de56180c65aa85a317c726202884c0ca136f06"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ProxiBlue/OrderSyncQueRunner/zipball/17de56180c65aa85a317c726202884c0ca136f06",
+                    "reference": "17de56180c65aa85a317c726202884c0ca136f06",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-08-29T03:14:44+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "/app/code/community/ProxiBlue/OrderSyncQueRunner/",
+                            "/app/code/community/ProxiBlue/OrderSyncQueRunner/"
+                        ],
+                        [
+                            "/app/etc/modules/ProxiBlue_OrderSyncQueRunner.xml",
+                            "/app/etc/modules/ProxiBlue_OrderSyncQueRunner.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lucas van Staden",
+                        "email": "sales@proxiblue.com.au"
+                    }
+                ],
+                "description": "Magento extension to sync orders to external systems via a basic que during checkout. Sync any orders done by event sales_order_place_after, using a new ecent called sales_order_place_after_que.",
+                "homepage": "https://github.com/ProxiBlue/OrderSynQueRunner",
+                "support": {
+                    "source": "https://github.com/ProxiBlue/OrderSyncQueRunner/tree/master",
+                    "issues": "https://github.com/ProxiBlue/OrderSyncQueRunner/issues"
+                }
+            }
+        ]
+    }
+}

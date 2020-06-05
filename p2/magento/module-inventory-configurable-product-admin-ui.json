@@ -1,0 +1,380 @@
+{
+    "packages": {
+        "magento/module-inventory-configurable-product-admin-ui": [
+            {
+                "name": "magento/module-inventory-configurable-product-admin-ui",
+                "version": "1.0.0-rc",
+                "version_normalized": "1.0.0.0-RC",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product-admin-ui/magento-module-inventory-configurable-product-admin-ui-1.0.0.0-RC.zip",
+                    "shasum": "453f67df8115a20d9dd997796fab7270b7e1aa00"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-configurable-product": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-admin-ui": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-ui": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProductAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product-admin-ui",
+                "version": "1.0.0-beta",
+                "version_normalized": "1.0.0.0-beta",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product-admin-ui/magento-module-inventory-configurable-product-admin-ui-1.0.0.0-beta.zip",
+                    "shasum": "9ecccdc4de95631e7f50144e05654eaaa7177dd4"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-configurable-product": "100.3.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-admin-ui": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProductAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product-admin-ui",
+                "version": "1.0.0-beta2",
+                "version_normalized": "1.0.0.0-beta2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product-admin-ui/magento-module-inventory-configurable-product-admin-ui-1.0.0.0-beta2.zip",
+                    "shasum": "c623a85ddaf0ef17e3bec620a2bf5b2399efefb4"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-configurable-product": "100.3.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-admin-ui": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProductAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product-admin-ui",
+                "version": "1.0.0-beta3",
+                "version_normalized": "1.0.0.0-beta3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product-admin-ui/magento-module-inventory-configurable-product-admin-ui-1.0.0.0-beta3.zip",
+                    "shasum": "318e9c212833785aac6b3c778a993be37dbd06d9"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-configurable-product": "100.3.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-admin-ui": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProductAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product-admin-ui",
+                "version": "1.0.0-beta4",
+                "version_normalized": "1.0.0.0-beta4",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product-admin-ui/magento-module-inventory-configurable-product-admin-ui-1.0.0.0-beta4.zip",
+                    "shasum": "5401ab76d5a35ab0a49352f10d3ed4bea68d2ec0"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-configurable-product": "100.3.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-admin-ui": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProductAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product-admin-ui",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product-admin-ui/magento-module-inventory-configurable-product-admin-ui-1.0.3.0.zip",
+                    "shasum": "7c49062632dded99e3f5c410a812fb5a635ed8c7"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-configurable-product": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-admin-ui": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-ui": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProductAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product-admin-ui",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product-admin-ui/magento-module-inventory-configurable-product-admin-ui-1.0.4.0.zip",
+                    "shasum": "18dfb9d8cb702ba1d2f465cbe0a5b8b57db07207"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-configurable-product": "*",
+                    "magento/module-inventory-api": "*",
+                    "magento/module-inventory-catalog-admin-ui": "*",
+                    "magento/module-inventory-catalog-api": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProductAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product-admin-ui",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product-admin-ui/magento-module-inventory-configurable-product-admin-ui-1.0.5.0.zip",
+                    "shasum": "c4798a8402cadda4fcb3af8064f7c57f4b85640a"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-configurable-product": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-admin-ui": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-ui": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProductAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product-admin-ui",
+                "version": "1.0.5-beta2",
+                "version_normalized": "1.0.5.0-beta2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product-admin-ui/magento-module-inventory-configurable-product-admin-ui-1.0.5.0-beta2.zip",
+                    "shasum": "247db1efe00777c628e0aafec41666def92512cb"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-configurable-product": "100.3.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-admin-ui": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProductAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product-admin-ui",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product-admin-ui/magento-module-inventory-configurable-product-admin-ui-1.0.6.0.zip",
+                    "shasum": "3683f1787ed50ff7a0f3ff421434c3c3a045e6f9"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-configurable-product": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-admin-ui": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-ui": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProductAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product-admin-ui",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product-admin-ui/magento-module-inventory-configurable-product-admin-ui-1.0.7.0.zip",
+                    "shasum": "beba0c2bef1d228ad25a69349b4de0668d233090"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-configurable-product": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-admin-ui": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-ui": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProductAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

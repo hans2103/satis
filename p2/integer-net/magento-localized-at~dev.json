@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "integer-net/magento-localized-at": [
+            {
+                "name": "integer-net/magento-localized-at",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/MagentoLocalizedAT.git",
+                    "reference": "607308eaee4a81a18bec8d06997b4d5361e20ee7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/MagentoLocalizedAT/zipball/607308eaee4a81a18bec8d06997b4d5361e20ee7",
+                    "reference": "607308eaee4a81a18bec8d06997b4d5361e20ee7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-19T14:16:42+00:00",
+                "type": "magento-module",
+                "description": "Austrian Localization package for Magento Localized (aka Magento AT)",
+                "homepage": "https://github.com/integer-net/MagentoLocalizedAT",
+                "support": {
+                    "source": "https://github.com/integer-net/MagentoLocalizedAT/tree/master",
+                    "issues": "https://github.com/integer-net/MagentoLocalizedAT/issues"
+                }
+            }
+        ]
+    }
+}

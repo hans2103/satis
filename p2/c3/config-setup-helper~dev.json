@@ -1,0 +1,70 @@
+{
+    "packages": {
+        "c3/config-setup-helper": [
+            {
+                "name": "c3/config-setup-helper",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/c3limited/magento-config-setup-helper.git",
+                    "reference": "b3f41380df49a774b43379933e116301e6b014d5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/c3limited/magento-config-setup-helper/zipball/b3f41380df49a774b43379933e116301e6b014d5",
+                    "reference": "b3f41380df49a774b43379933e116301e6b014d5",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-02-23T16:57:05+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "C3 development",
+                        "email": "dev@c3media.co.uk"
+                    }
+                ],
+                "description": "Development tool to aid creating setup scripts for config values",
+                "support": {
+                    "source": "https://github.com/c3limited/magento-config-setup-helper/tree/1.2.0",
+                    "issues": "https://github.com/c3limited/magento-config-setup-helper/issues"
+                }
+            },
+            {
+                "name": "c3/config-setup-helper",
+                "version": "dev-documentation",
+                "version_normalized": "dev-documentation",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/c3limited/magento-config-setup-helper.git",
+                    "reference": "744e512c0cf52380c066efdfe4bbaebd12471d9b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/c3limited/magento-config-setup-helper/zipball/744e512c0cf52380c066efdfe4bbaebd12471d9b",
+                    "reference": "744e512c0cf52380c066efdfe4bbaebd12471d9b",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-02-23T16:00:03+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "C3 development",
+                        "email": "dev@c3media.co.uk"
+                    }
+                ],
+                "description": "Development tool to aid creating setup scripts for config values",
+                "support": {
+                    "source": "https://github.com/c3limited/magento-config-setup-helper/tree/documentation",
+                    "issues": "https://github.com/c3limited/magento-config-setup-helper/issues"
+                }
+            }
+        ]
+    }
+}

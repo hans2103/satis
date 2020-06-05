@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "aleron75/webgriffe_tph-pro": [
+            {
+                "name": "aleron75/webgriffe_tph-pro",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aleron75-archive/Webgriffe_TphPro.git",
+                    "reference": "2614b0a1976704275fe1a3eccc8a312cc169c37a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aleron75-archive/Webgriffe_TphPro/zipball/2614b0a1976704275fe1a3eccc8a312cc169c37a",
+                    "reference": "2614b0a1976704275fe1a3eccc8a312cc169c37a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-10-23T06:51:01+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Alessandro Ronchi",
+                        "email": "aleron75@gmail.com"
+                    }
+                ],
+                "description": "An enhanced Template Path Hints extension for Magento that inserts references to used Magento Blocks inside HTML code, avoiding the usage of the more invasive built in Template Path Hints.",
+                "support": {
+                    "source": "https://github.com/aleron75-archive/Webgriffe_TphPro/tree/master",
+                    "issues": "https://github.com/aleron75-archive/Webgriffe_TphPro/issues"
+                }
+            }
+        ]
+    }
+}

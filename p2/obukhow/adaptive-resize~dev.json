@@ -1,0 +1,46 @@
+{
+    "packages": {
+        "obukhow/adaptive-resize": [
+            {
+                "name": "obukhow/adaptive-resize",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/obukhow/AdaptiveResize.git",
+                    "reference": "0eb5364bdde4b3341d740d5f504dff6b667dd578"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/obukhow/AdaptiveResize/zipball/0eb5364bdde4b3341d740d5f504dff6b667dd578",
+                    "reference": "0eb5364bdde4b3341d740d5f504dff6b667dd578",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Provides automatic installation of this extension"
+                },
+                "time": "2017-04-10T07:19:52+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Denis Obukhov",
+                        "email": "denis.obukhov@oggettoweb.com"
+                    }
+                ],
+                "description": "Adaptive imagesresize with crop for ideal proportions fit Magento plugin",
+                "homepage": "https://github.com/obukhow/AdaptiveResize",
+                "keywords": [
+                    "catalog",
+                    "image"
+                ],
+                "support": {
+                    "source": "https://github.com/obukhow/AdaptiveResize/tree/master",
+                    "issues": "https://github.com/obukhow/AdaptiveResize/issues"
+                }
+            }
+        ]
+    }
+}

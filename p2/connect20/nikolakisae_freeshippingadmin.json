@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/nikolakisae_freeshippingadmin": [
+            {
+                "name": "connect20/Nikolakisae_FreeShippingAdmin",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Nikolakisae_FreeShippingAdmin/0.1.0/Nikolakisae_FreeShippingAdmin-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Niko K",
+                        "email": "info@nikolakisae.com"
+                    }
+                ],
+                "description": "Free Shipping Admin"
+            }
+        ]
+    }
+}

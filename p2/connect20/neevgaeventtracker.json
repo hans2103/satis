@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/neevgaeventtracker": [
+            {
+                "name": "connect20/neevGaEventTracker",
+                "version": "1.0.0.4",
+                "version_normalized": "1.0.0.4",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/neevGaEventTracker/1.0.0.4/neevGaEventTracker-1.0.0.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Saurabh",
+                        "email": "magentoaccount@neevtech.com"
+                    }
+                ],
+                "description": "Magento Google Analytics extension allows tracking user events and actions also provides additional facility to track user events and actions with configuration of element Id or url or Classname for the tracking event and actions. "
+            }
+        ]
+    }
+}

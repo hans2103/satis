@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "extensions-store/formforwarder": [
+            {
+                "name": "extensions-store/formforwarder",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/FormForwarder.git",
+                    "reference": "210a32dbb48339264b898aeba3eca5a019c6d48f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/FormForwarder/zipball/210a32dbb48339264b898aeba3eca5a019c6d48f",
+                    "reference": "210a32dbb48339264b898aeba3eca5a019c6d48f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2016-05-15T16:12:58+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Extensions Store",
+                        "email": "admin@extensions-store.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Lightweight module to submit a form in a CMS page to anywhere.",
+                "homepage": "https://github.com/ExtensionStore/FormForwarder.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/FormForwarder/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/FormForwarder/issues"
+                }
+            }
+        ]
+    }
+}

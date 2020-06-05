@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "fbrnc/aoe_managestores": [
+            {
+                "name": "fbrnc/aoe_managestores",
+                "version": "v0.2.1",
+                "version_normalized": "0.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fbrnc/Aoe_ManageStores.git",
+                    "reference": "ef4bd3917943975a28ff56b0d52e616783975fa2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/fbrnc/Aoe_ManageStores/zipball/ef4bd3917943975a28ff56b0d52e616783975fa2",
+                    "reference": "ef4bd3917943975a28ff56b0d52e616783975fa2",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-03-09T06:03:05+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Better stores management interface for Magento.",
+                "homepage": "https://github.com/fbrnc/Aoe_ManageStores",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_ManageStores/tree/v0.2.1",
+                    "issues": "https://github.com/fbrnc/Aoe_ManageStores/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/zentio_zentio": [
+            {
+                "name": "connect20/Zentio_Zentio",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Zentio_Zentio/1.0.2/Zentio_Zentio-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "ASL"
+                ],
+                "authors": [
+                    {
+                        "name": "Antonio José Moreno de la Rosa",
+                        "email": "support@zent.io"
+                    }
+                ],
+                "description": "Zent.io Multi-Channel Contact Center and Customer Support integrated into your store."
+            },
+            {
+                "name": "connect20/Zentio_Zentio",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Zentio_Zentio/1.0.3/Zentio_Zentio-1.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Apache-Software-License-(ASL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Antonio José Moreno de la Rosa",
+                        "email": "support@zent.io"
+                    }
+                ],
+                "description": "Zent.io Multi-Channel Contact Center and Customer Support integrated into your store."
+            }
+        ]
+    }
+}

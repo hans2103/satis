@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/shopboard_tracker": [
+            {
+                "name": "connect20/Shopboard_Tracker",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Shopboard_Tracker/0.0.1/Shopboard_Tracker-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MITL"
+                ],
+                "authors": [
+                    {
+                        "name": "Sebastien Saunier",
+                        "email": "seb@shopboard.eu"
+                    }
+                ],
+                "description": "Shopboard is a realtime analytics service to quickly see who's online, and engage with visitors by live chat. "
+            }
+        ]
+    }
+}

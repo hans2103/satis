@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/hardik_ajaxcart": [
+            {
+                "name": "connect20/Hardik_Ajaxcart",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Hardik_Ajaxcart/1.1.0/Hardik_Ajaxcart-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Hardik Gajjar",
+                        "email": "hardik.gajjar@krishinc.com"
+                    }
+                ],
+                "description": "provides ajax cart functionality. It is highly customizable."
+            }
+        ]
+    }
+}

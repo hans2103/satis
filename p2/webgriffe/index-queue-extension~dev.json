@@ -1,0 +1,48 @@
+{
+    "packages": {
+        "webgriffe/index-queue-extension": [
+            {
+                "name": "webgriffe/index-queue-extension",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/webgriffe/index-queue-extension.git",
+                    "reference": "ef10be8d586b1cde88092810369d88790f0b3a3c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/webgriffe/index-queue-extension/zipball/ef10be8d586b1cde88092810369d88790f0b3a3c",
+                    "reference": "ef10be8d586b1cde88092810369d88790f0b3a3c",
+                    "shasum": ""
+                },
+                "require": {
+                    "lilmuckers/magento-lilmuckers_queue": "dev-master"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2017-06-23T10:56:05+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "magento"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Webgriffe Srl",
+                        "email": "info@webgriffe.com"
+                    }
+                ],
+                "description": "Magento extension that queues indexing operations.",
+                "support": {
+                    "source": "https://github.com/webgriffe/index-queue-extension/tree/1.0.8",
+                    "issues": "https://github.com/webgriffe/index-queue-extension/issues"
+                }
+            }
+        ]
+    }
+}

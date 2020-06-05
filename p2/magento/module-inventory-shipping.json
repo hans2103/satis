@@ -1,0 +1,438 @@
+{
+    "packages": {
+        "magento/module-inventory-shipping": [
+            {
+                "name": "magento/module-inventory-shipping",
+                "version": "1.0.0-rc",
+                "version_normalized": "1.0.0.0-RC",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping/magento-module-inventory-shipping-1.0.0.0-RC.zip",
+                    "shasum": "48a18ba74268c06a942dd3b9da190eb1ddbe4d74"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-deduction-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.0.*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping",
+                "version": "1.0.0-beta",
+                "version_normalized": "1.0.0.0-beta",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping/magento-module-inventory-shipping-1.0.0.0-beta.zip",
+                    "shasum": "33066f8cc1226a0ad11763e769879e06c910a311"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.0.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping",
+                "version": "1.0.0-beta2",
+                "version_normalized": "1.0.0.0-beta2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping/magento-module-inventory-shipping-1.0.0.0-beta2.zip",
+                    "shasum": "1f9ae9f3d3dd7eebcff27acc312b6817311926ad"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-deduction-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.0.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping",
+                "version": "1.0.0-beta3",
+                "version_normalized": "1.0.0.0-beta3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping/magento-module-inventory-shipping-1.0.0.0-beta3.zip",
+                    "shasum": "416c0234826540564060abf4f4a51167360ecdad"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-deduction-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.0.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping",
+                "version": "1.0.0-beta4",
+                "version_normalized": "1.0.0.0-beta4",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping/magento-module-inventory-shipping-1.0.0.0-beta4.zip",
+                    "shasum": "b061ad1851618b2c518e94e31622b3e3ebf76261"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-deduction-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.0.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping/magento-module-inventory-shipping-1.0.3.0.zip",
+                    "shasum": "5349cf6b9c4a33b2ca1e093fef0bf041c42988cd"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-deduction-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.0.*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping/magento-module-inventory-shipping-1.0.4.0.zip",
+                    "shasum": "338a6df150d1ad1107cedba355c896b50275c431"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "*",
+                    "magento/module-inventory-catalog-api": "*",
+                    "magento/module-inventory-sales-api": "*",
+                    "magento/module-inventory-source-deduction-api": "*",
+                    "magento/module-inventory-source-selection-api": "*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping/magento-module-inventory-shipping-1.0.5.0.zip",
+                    "shasum": "078822bc48b17a951dfbf9a1e5ac7705bb1f31aa"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-deduction-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.2.*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping",
+                "version": "1.0.5-beta2",
+                "version_normalized": "1.0.5.0-beta2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping/magento-module-inventory-shipping-1.0.5.0-beta2.zip",
+                    "shasum": "7c43fac0f8c315253ba4fd64df11840800796789"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-deduction-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.2.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping/magento-module-inventory-shipping-1.0.6.0.zip",
+                    "shasum": "b1a80caba8f8f149b5a16ff4dfa3592cd75f9906"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-deduction-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.2.*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping/magento-module-inventory-shipping-1.0.7.0.zip",
+                    "shasum": "46c804491fc9536923e33b8cab8c0b32e878ec7b"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-deduction-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.2.*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping/magento-module-inventory-shipping-1.0.8.0.zip",
+                    "shasum": "17063ef04a7791a345c8711c9fde7e6558a54a1a"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-deduction-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.2.*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

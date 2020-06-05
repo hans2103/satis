@@ -1,0 +1,46 @@
+{
+    "packages": {
+        "firegento/psr0autoloader": [
+            {
+                "name": "firegento/psr0autoloader",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Magento-PSR-0-Autoloader.git",
+                    "reference": "69f275ab0f61c99ccbdcca4955dc058660127e76"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Magento-PSR-0-Autoloader/zipball/69f275ab0f61c99ccbdcca4955dc058660127e76",
+                    "reference": "69f275ab0f61c99ccbdcca4955dc058660127e76",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "ecomdev/mage-ci": "master-dev"
+                },
+                "time": "2014-11-03T00:14:37+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Ryvlin"
+                    },
+                    {
+                        "name": "Damian Luszczymak"
+                    }
+                ],
+                "description": "This extension adds a PSR-0 autoloader before the Varien autoloader",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Magento-PSR-0-Autoloader/tree/0.1.0",
+                    "issues": "https://github.com/magento-hackathon/Magento-PSR-0-Autoloader/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "packages": {
+        "magento-hackathon/honeyspam": [
+            {
+                "name": "magento-hackathon/honeyspam",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/HoneySpam.git",
+                    "reference": "e60aa78a6c9f6eed34723cf326d11345dcfbd627"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/HoneySpam/zipball/e60aa78a6c9f6eed34723cf326d11345dcfbd627",
+                    "reference": "e60aa78a6c9f6eed34723cf326d11345dcfbd627",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.4"
+                },
+                "time": "2019-11-10T09:02:13+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Spam protection module for various forms using honey pots.",
+                "homepage": "https://github.com/magento-hackathon/HoneySpam",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/HoneySpam/tree/master",
+                    "issues": "https://github.com/magento-hackathon/HoneySpam/issues"
+                }
+            },
+            {
+                "name": "magento-hackathon/honeyspam",
+                "version": "dev-Schrank-patch-1",
+                "version_normalized": "dev-Schrank-patch-1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/HoneySpam.git",
+                    "reference": "72d62258b676b3ca0625c35acb1de658a4a4808f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/HoneySpam/zipball/72d62258b676b3ca0625c35acb1de658a4a4808f",
+                    "reference": "72d62258b676b3ca0625c35acb1de658a4a4808f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.4"
+                },
+                "time": "2019-05-26T15:09:02+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Spam protection module for various forms using honey pots.",
+                "homepage": "https://github.com/magento-hackathon/HoneySpam",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/HoneySpam/tree/Schrank-patch-1",
+                    "issues": "https://github.com/magento-hackathon/HoneySpam/issues"
+                }
+            }
+        ]
+    }
+}

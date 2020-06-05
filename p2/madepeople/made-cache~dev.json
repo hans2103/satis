@@ -1,0 +1,146 @@
+{
+    "packages": {
+        "madepeople/made-cache": [
+            {
+                "name": "madepeople/made-cache",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/madepeople/Made_Cache.git",
+                    "reference": "8b4d7d924111d472121eb329aa613ccc14ccca32"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/madepeople/Made_Cache/zipball/8b4d7d924111d472121eb329aa613ccc14ccca32",
+                    "reference": "8b4d7d924111d472121eb329aa613ccc14ccca32",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-05-21T11:28:48+00:00",
+                "type": "magento-module",
+                "license": [
+                    "BSD-4-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jonathan Selander",
+                        "email": "jonathan@madepeople.se"
+                    }
+                ],
+                "description": "Block Cache & Varnish extension for Magento",
+                "support": {
+                    "source": "https://github.com/madepeople/Made_Cache/tree/master",
+                    "issues": "https://github.com/madepeople/Made_Cache/issues"
+                }
+            },
+            {
+                "name": "madepeople/made-cache",
+                "version": "dev-feat_config_locking",
+                "version_normalized": "dev-feat_config_locking",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/madepeople/Made_Cache.git",
+                    "reference": "c4468832d175d9b91cb4cf51e2a5dfc800562407"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/madepeople/Made_Cache/zipball/c4468832d175d9b91cb4cf51e2a5dfc800562407",
+                    "reference": "c4468832d175d9b91cb4cf51e2a5dfc800562407",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-10-01T09:49:35+00:00",
+                "type": "magento-module",
+                "license": [
+                    "BSD-4-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jonathan Selander",
+                        "email": "jonathan@madepeople.se"
+                    }
+                ],
+                "description": "Block Cache & Varnish extension for Magento",
+                "support": {
+                    "source": "https://github.com/madepeople/Made_Cache/tree/feat_config_locking",
+                    "issues": "https://github.com/madepeople/Made_Cache/issues"
+                }
+            },
+            {
+                "name": "madepeople/made-cache",
+                "version": "dev-feat_redis_backend",
+                "version_normalized": "dev-feat_redis_backend",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/madepeople/Made_Cache.git",
+                    "reference": "7928d3f775a611ba291c9b96afc07ec5742e7858"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/madepeople/Made_Cache/zipball/7928d3f775a611ba291c9b96afc07ec5742e7858",
+                    "reference": "7928d3f775a611ba291c9b96afc07ec5742e7858",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-04-06T16:36:40+00:00",
+                "type": "magento-module",
+                "license": [
+                    "BSD-4-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jonathan Selander",
+                        "email": "jonathan@madepeople.se"
+                    }
+                ],
+                "description": "Block Cache & Varnish extension for Magneto",
+                "support": {
+                    "source": "https://github.com/madepeople/Made_Cache/tree/feat_redis_backend",
+                    "issues": "https://github.com/madepeople/Made_Cache/issues"
+                }
+            },
+            {
+                "name": "madepeople/made-cache",
+                "version": "dev-hotfix_cache_search_result",
+                "version_normalized": "dev-hotfix_cache_search_result",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/madepeople/Made_Cache.git",
+                    "reference": "8c6de69d8d635aac2f4c8e92d9846fed4fd0ce89"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/madepeople/Made_Cache/zipball/8c6de69d8d635aac2f4c8e92d9846fed4fd0ce89",
+                    "reference": "8c6de69d8d635aac2f4c8e92d9846fed4fd0ce89",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-11-19T12:01:15+00:00",
+                "type": "magento-module",
+                "license": [
+                    "BSD-4-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jonathan Selander",
+                        "email": "jonathan@madepeople.se"
+                    }
+                ],
+                "description": "Block Cache & Varnish extension for Magneto",
+                "support": {
+                    "source": "https://github.com/madepeople/Made_Cache/tree/hotfix_cache_search_result",
+                    "issues": "https://github.com/madepeople/Made_Cache/issues"
+                }
+            }
+        ]
+    }
+}

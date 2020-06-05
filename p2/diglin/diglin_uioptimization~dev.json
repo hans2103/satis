@@ -1,0 +1,78 @@
+{
+    "packages": {
+        "diglin/diglin_uioptimization": [
+            {
+                "name": "diglin/diglin_uioptimization",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_UIOptimization.git",
+                    "reference": "922838eccb104a0cd0682f5c451baf5120a9ceee"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_UIOptimization/zipball/922838eccb104a0cd0682f5c451baf5120a9ceee",
+                    "reference": "922838eccb104a0cd0682f5c451baf5120a9ceee",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-05-23T15:13:06+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sylvain Rayé",
+                        "email": "{firstname}.{lastname}@diglin.com"
+                    }
+                ],
+                "description": "Minify and optimize CSS and JS files. Configurable library to suit your installation.",
+                "homepage": "https://github.com/diglin/Diglin_UIOptimization",
+                "support": {
+                    "source": "https://github.com/diglin/Diglin_UIOptimization/tree/master",
+                    "issues": "https://github.com/diglin/Diglin_UIOptimization/issues"
+                }
+            },
+            {
+                "name": "diglin/diglin_uioptimization",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_UIOptimization.git",
+                    "reference": "d732801f6d9ba6354e350fd993155de5806afe57"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_UIOptimization/zipball/d732801f6d9ba6354e350fd993155de5806afe57",
+                    "reference": "d732801f6d9ba6354e350fd993155de5806afe57",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-11-03T08:56:35+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sylvain Rayé",
+                        "email": "{firstname}.{lastname}@diglin.com"
+                    }
+                ],
+                "description": "Minify and optimize CSS and JS files. Configurable library to suit your installation.",
+                "homepage": "https://github.com/diglin/Diglin_UIOptimization",
+                "support": {
+                    "source": "https://github.com/diglin/Diglin_UIOptimization/tree/develop",
+                    "issues": "https://github.com/diglin/Diglin_UIOptimization/issues"
+                }
+            }
+        ]
+    }
+}

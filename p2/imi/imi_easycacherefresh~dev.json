@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "imi/imi_easycacherefresh": [
+            {
+                "name": "imi/imi_easycacherefresh",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/iMi-digital/imi_easycacherefresh.git",
+                    "reference": "6749db9edb7fee5fd87445211af1998aca833fc9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/iMi-digital/imi_easycacherefresh/zipball/6749db9edb7fee5fd87445211af1998aca833fc9",
+                    "reference": "6749db9edb7fee5fd87445211af1998aca833fc9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-10-02T09:09:33+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "iMi digital GmbH",
+                        "email": "info@imi.de"
+                    }
+                ],
+                "description": "Simplify cache management",
+                "support": {
+                    "source": "https://github.com/iMi-digital/imi_easycacherefresh/tree/master",
+                    "issues": "https://github.com/iMi-digital/imi_easycacherefresh/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/electronic_funds_transfer": [
+            {
+                "name": "connect20/Electronic_Funds_Transfer",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Electronic_Funds_Transfer/1.0.0/Electronic_Funds_Transfer-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Dev",
+                        "email": "workdesk4u@gmail.com"
+                    }
+                ],
+                "description": "Provide Electronic Funds Transer like NEFT or RTGS"
+            }
+        ]
+    }
+}

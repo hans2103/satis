@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/giftd_cards": [
+            {
+                "name": "connect20/Giftd_Cards",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Giftd_Cards/1.0.0/Giftd_Cards-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Alexander Nevidimov",
+                        "email": "nevidimov@giftd.ru"
+                    }
+                ],
+                "description": "Provides integration of Magento and Giftd — digital gift cards platform."
+            },
+            {
+                "name": "connect20/Giftd_Cards",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Giftd_Cards/2.0.0/Giftd_Cards-2.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Alexander Nevidimov",
+                        "email": "nevidimov@giftd.ru"
+                    }
+                ],
+                "description": "Provides integration of Magento and Giftd — digital gift cards platform."
+            }
+        ]
+    }
+}

@@ -1,0 +1,934 @@
+{
+    "packages": {
+        "hackathon/promocodemessages": [
+            {
+                "name": "hackathon/promocodemessages",
+                "version": "v0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages.git",
+                    "reference": "a6e4a3976b4e188018ec84463aba269c50e01efd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_PromoCodeMessages/zipball/a6e4a3976b4e188018ec84463aba269c50e01efd",
+                    "reference": "a6e4a3976b4e188018ec84463aba269c50e01efd",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-10-07T00:36:58+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "name": "Hackathon_PromoCodeMessages",
+                        "summary": "Improves error messages when entering promo codes in the cart",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "7.9.9",
+                        "stability": "stable",
+                        "license_uri": "http://www.gnu.org/licenses/gpl-3.0.html",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Hackathon/PromoCodeMessages"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Hackathon_PromoCodeMessages.xml"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Laura Folco",
+                        "email": "me@laurafolco.com"
+                    },
+                    {
+                        "name": "Andreas von Studnitz",
+                        "email": "avs@integer-net.de"
+                    }
+                ],
+                "description": "Improves error messages when entering promo codes in the cart",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/tree/v0.1.0",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/issues"
+                }
+            },
+            {
+                "name": "hackathon/promocodemessages",
+                "version": "v0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages.git",
+                    "reference": "a38bbcd9c46b7c6db6fb6a2becd5073b58d7d1be"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_PromoCodeMessages/zipball/a38bbcd9c46b7c6db6fb6a2becd5073b58d7d1be",
+                    "reference": "a38bbcd9c46b7c6db6fb6a2becd5073b58d7d1be",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-10-25T21:21:09+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "name": "Hackathon_PromoCodeMessages",
+                        "summary": "Improves error messages when entering promo codes in the cart",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "7.9.9",
+                        "stability": "stable",
+                        "license_uri": "http://opensource.org/licenses/OSL-3.0",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Hackathon/PromoCodeMessages"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Hackathon_PromoCodeMessages.xml"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Laura Folco",
+                        "email": "me@laurafolco.com"
+                    },
+                    {
+                        "name": "Andreas von Studnitz",
+                        "email": "avs@integer-net.de"
+                    }
+                ],
+                "description": "Improves error messages when entering promo codes in the cart",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/tree/v0.2.0",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/issues"
+                }
+            },
+            {
+                "name": "hackathon/promocodemessages",
+                "version": "v0.2.1",
+                "version_normalized": "0.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages.git",
+                    "reference": "aa6dfad0dcf6507b7039b2d7983b5fcd90605fb8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_PromoCodeMessages/zipball/aa6dfad0dcf6507b7039b2d7983b5fcd90605fb8",
+                    "reference": "aa6dfad0dcf6507b7039b2d7983b5fcd90605fb8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-10-25T21:54:45+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "name": "Hackathon_PromoCodeMessages",
+                        "summary": "Improves error messages when entering promo codes in the cart",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "7.9.9",
+                        "stability": "stable",
+                        "license_uri": "http://opensource.org/licenses/OSL-3.0",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Hackathon/PromoCodeMessages"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Hackathon_PromoCodeMessages.xml"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Laura Folco",
+                        "email": "me@laurafolco.com"
+                    },
+                    {
+                        "name": "Andreas von Studnitz",
+                        "email": "avs@integer-net.de"
+                    }
+                ],
+                "description": "Improves error messages when entering promo codes in the cart",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/tree/v0.2.1",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/issues"
+                }
+            },
+            {
+                "name": "hackathon/promocodemessages",
+                "version": "v0.2.10",
+                "version_normalized": "0.2.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages.git",
+                    "reference": "13ad0e6954a4bb873f61c57aed315a73862d7f8f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_PromoCodeMessages/zipball/13ad0e6954a4bb873f61c57aed315a73862d7f8f",
+                    "reference": "13ad0e6954a4bb873f61c57aed315a73862d7f8f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-03-13T11:24:47+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "name": "Hackathon_PromoCodeMessages",
+                        "summary": "Improves error messages when entering promo codes in the cart",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "7.9.9",
+                        "stability": "stable",
+                        "license_uri": "http://opensource.org/licenses/OSL-3.0",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Hackathon/PromoCodeMessages"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Hackathon_PromoCodeMessages.xml"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Laura Folco",
+                        "email": "me@laurafolco.com"
+                    },
+                    {
+                        "name": "Andreas von Studnitz",
+                        "email": "avs@integer-net.de"
+                    }
+                ],
+                "description": "Improves error messages when entering promo codes in the cart",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/tree/v0.2.10",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/issues"
+                }
+            },
+            {
+                "name": "hackathon/promocodemessages",
+                "version": "v0.2.11",
+                "version_normalized": "0.2.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages.git",
+                    "reference": "6cd2610a3e3dc9f444983e6dd590f3864bec2fd6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_PromoCodeMessages/zipball/6cd2610a3e3dc9f444983e6dd590f3864bec2fd6",
+                    "reference": "6cd2610a3e3dc9f444983e6dd590f3864bec2fd6",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-03-13T13:12:31+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "name": "Hackathon_PromoCodeMessages",
+                        "summary": "Improves error messages when entering promo codes in the cart",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "7.9.9",
+                        "stability": "stable",
+                        "license_uri": "http://opensource.org/licenses/OSL-3.0",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Hackathon/PromoCodeMessages"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Hackathon_PromoCodeMessages.xml"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Laura Folco",
+                        "email": "me@laurafolco.com"
+                    },
+                    {
+                        "name": "Andreas von Studnitz",
+                        "email": "avs@integer-net.de"
+                    }
+                ],
+                "description": "Improves error messages when entering promo codes in the cart",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/tree/v0.2.11",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/issues"
+                }
+            },
+            {
+                "name": "hackathon/promocodemessages",
+                "version": "v0.2.12",
+                "version_normalized": "0.2.12.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages.git",
+                    "reference": "f3266ace7a917bb3b38496edfc4a6d26c2f18f86"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_PromoCodeMessages/zipball/f3266ace7a917bb3b38496edfc4a6d26c2f18f86",
+                    "reference": "f3266ace7a917bb3b38496edfc4a6d26c2f18f86",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-03-16T07:59:09+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "name": "Hackathon_PromoCodeMessages",
+                        "summary": "Improves error messages when entering promo codes in the cart",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "7.9.9",
+                        "stability": "stable",
+                        "license_uri": "http://opensource.org/licenses/OSL-3.0",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Hackathon/PromoCodeMessages"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Hackathon_PromoCodeMessages.xml"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Laura Folco",
+                        "email": "me@laurafolco.com"
+                    },
+                    {
+                        "name": "Andreas von Studnitz",
+                        "email": "avs@integer-net.de"
+                    }
+                ],
+                "description": "Improves error messages when entering promo codes in the cart",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/tree/v0.2.12",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/issues"
+                }
+            },
+            {
+                "name": "hackathon/promocodemessages",
+                "version": "v0.2.2",
+                "version_normalized": "0.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages.git",
+                    "reference": "863b2f66c9f27a9619110901ee0d9c2f975b042d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_PromoCodeMessages/zipball/863b2f66c9f27a9619110901ee0d9c2f975b042d",
+                    "reference": "863b2f66c9f27a9619110901ee0d9c2f975b042d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-10-30T22:57:55+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "name": "Hackathon_PromoCodeMessages",
+                        "summary": "Improves error messages when entering promo codes in the cart",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "7.9.9",
+                        "stability": "stable",
+                        "license_uri": "http://opensource.org/licenses/OSL-3.0",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Hackathon/PromoCodeMessages"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Hackathon_PromoCodeMessages.xml"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Laura Folco",
+                        "email": "me@laurafolco.com"
+                    },
+                    {
+                        "name": "Andreas von Studnitz",
+                        "email": "avs@integer-net.de"
+                    }
+                ],
+                "description": "Improves error messages when entering promo codes in the cart",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/tree/v0.2.2",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/issues"
+                }
+            },
+            {
+                "name": "hackathon/promocodemessages",
+                "version": "v0.2.3",
+                "version_normalized": "0.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages.git",
+                    "reference": "eea95be4444e316dceda7d37a4bc83ac94047b94"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_PromoCodeMessages/zipball/eea95be4444e316dceda7d37a4bc83ac94047b94",
+                    "reference": "eea95be4444e316dceda7d37a4bc83ac94047b94",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-01-16T18:44:39+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "name": "Hackathon_PromoCodeMessages",
+                        "summary": "Improves error messages when entering promo codes in the cart",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "7.9.9",
+                        "stability": "stable",
+                        "license_uri": "http://opensource.org/licenses/OSL-3.0",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Hackathon/PromoCodeMessages"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Hackathon_PromoCodeMessages.xml"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Laura Folco",
+                        "email": "me@laurafolco.com"
+                    },
+                    {
+                        "name": "Andreas von Studnitz",
+                        "email": "avs@integer-net.de"
+                    }
+                ],
+                "description": "Improves error messages when entering promo codes in the cart",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/tree/v0.2.3",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/issues"
+                }
+            },
+            {
+                "name": "hackathon/promocodemessages",
+                "version": "v0.2.4",
+                "version_normalized": "0.2.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages.git",
+                    "reference": "51353103cf3767594043051d9848442402d244e1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_PromoCodeMessages/zipball/51353103cf3767594043051d9848442402d244e1",
+                    "reference": "51353103cf3767594043051d9848442402d244e1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-06-25T17:24:18+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "name": "Hackathon_PromoCodeMessages",
+                        "summary": "Improves error messages when entering promo codes in the cart",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "7.9.9",
+                        "stability": "stable",
+                        "license_uri": "http://opensource.org/licenses/OSL-3.0",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Hackathon/PromoCodeMessages"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Hackathon_PromoCodeMessages.xml"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Laura Folco",
+                        "email": "me@laurafolco.com"
+                    },
+                    {
+                        "name": "Andreas von Studnitz",
+                        "email": "avs@integer-net.de"
+                    }
+                ],
+                "description": "Improves error messages when entering promo codes in the cart",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/tree/v0.2.4",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/issues"
+                }
+            },
+            {
+                "name": "hackathon/promocodemessages",
+                "version": "v0.2.5",
+                "version_normalized": "0.2.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages.git",
+                    "reference": "3c232c41dc6a8e4d55daa98dd17b081064d24acf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_PromoCodeMessages/zipball/3c232c41dc6a8e4d55daa98dd17b081064d24acf",
+                    "reference": "3c232c41dc6a8e4d55daa98dd17b081064d24acf",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-09-02T17:33:53+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "name": "Hackathon_PromoCodeMessages",
+                        "summary": "Improves error messages when entering promo codes in the cart",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "7.9.9",
+                        "stability": "stable",
+                        "license_uri": "http://opensource.org/licenses/OSL-3.0",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Hackathon/PromoCodeMessages"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Hackathon_PromoCodeMessages.xml"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Laura Folco",
+                        "email": "me@laurafolco.com"
+                    },
+                    {
+                        "name": "Andreas von Studnitz",
+                        "email": "avs@integer-net.de"
+                    }
+                ],
+                "description": "Improves error messages when entering promo codes in the cart",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/tree/v0.2.5",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/issues"
+                }
+            },
+            {
+                "name": "hackathon/promocodemessages",
+                "version": "v0.2.6",
+                "version_normalized": "0.2.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages.git",
+                    "reference": "806039a51c91c7d7b740030b1e6034cfe1afb71d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_PromoCodeMessages/zipball/806039a51c91c7d7b740030b1e6034cfe1afb71d",
+                    "reference": "806039a51c91c7d7b740030b1e6034cfe1afb71d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-09-02T23:19:22+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "name": "Hackathon_PromoCodeMessages",
+                        "summary": "Improves error messages when entering promo codes in the cart",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "7.9.9",
+                        "stability": "stable",
+                        "license_uri": "http://opensource.org/licenses/OSL-3.0",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Hackathon/PromoCodeMessages"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Hackathon_PromoCodeMessages.xml"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Laura Folco",
+                        "email": "me@laurafolco.com"
+                    },
+                    {
+                        "name": "Andreas von Studnitz",
+                        "email": "avs@integer-net.de"
+                    }
+                ],
+                "description": "Improves error messages when entering promo codes in the cart",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/tree/v0.2.6",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/issues"
+                }
+            },
+            {
+                "name": "hackathon/promocodemessages",
+                "version": "v0.2.7",
+                "version_normalized": "0.2.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages.git",
+                    "reference": "433f512a614404786905319040bd849d1301fc4e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_PromoCodeMessages/zipball/433f512a614404786905319040bd849d1301fc4e",
+                    "reference": "433f512a614404786905319040bd849d1301fc4e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-09-30T13:20:36+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "name": "Hackathon_PromoCodeMessages",
+                        "summary": "Improves error messages when entering promo codes in the cart",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "7.9.9",
+                        "stability": "stable",
+                        "license_uri": "http://opensource.org/licenses/OSL-3.0",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Hackathon/PromoCodeMessages"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Hackathon_PromoCodeMessages.xml"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Laura Folco",
+                        "email": "me@laurafolco.com"
+                    },
+                    {
+                        "name": "Andreas von Studnitz",
+                        "email": "avs@integer-net.de"
+                    }
+                ],
+                "description": "Improves error messages when entering promo codes in the cart",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/tree/v0.2.7",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/issues"
+                }
+            },
+            {
+                "name": "hackathon/promocodemessages",
+                "version": "v0.2.8",
+                "version_normalized": "0.2.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages.git",
+                    "reference": "f5642fe00c0a4168d507c223ca0f799a08700ed4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_PromoCodeMessages/zipball/f5642fe00c0a4168d507c223ca0f799a08700ed4",
+                    "reference": "f5642fe00c0a4168d507c223ca0f799a08700ed4",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-06-01T17:45:41+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "name": "Hackathon_PromoCodeMessages",
+                        "summary": "Improves error messages when entering promo codes in the cart",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "7.9.9",
+                        "stability": "stable",
+                        "license_uri": "http://opensource.org/licenses/OSL-3.0",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Hackathon/PromoCodeMessages"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Hackathon_PromoCodeMessages.xml"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Laura Folco",
+                        "email": "me@laurafolco.com"
+                    },
+                    {
+                        "name": "Andreas von Studnitz",
+                        "email": "avs@integer-net.de"
+                    }
+                ],
+                "description": "Improves error messages when entering promo codes in the cart",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/tree/v0.2.8",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/issues"
+                }
+            },
+            {
+                "name": "hackathon/promocodemessages",
+                "version": "v0.2.9",
+                "version_normalized": "0.2.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages.git",
+                    "reference": "3dc4dc7fc22efa41530701778e4341b53f601304"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_PromoCodeMessages/zipball/3dc4dc7fc22efa41530701778e4341b53f601304",
+                    "reference": "3dc4dc7fc22efa41530701778e4341b53f601304",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-03-13T11:11:25+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "name": "Hackathon_PromoCodeMessages",
+                        "summary": "Improves error messages when entering promo codes in the cart",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "7.9.9",
+                        "stability": "stable",
+                        "license_uri": "http://opensource.org/licenses/OSL-3.0",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Hackathon/PromoCodeMessages"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Hackathon_PromoCodeMessages.xml"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Laura Folco",
+                        "email": "me@laurafolco.com"
+                    },
+                    {
+                        "name": "Andreas von Studnitz",
+                        "email": "avs@integer-net.de"
+                    }
+                ],
+                "description": "Improves error messages when entering promo codes in the cart",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/tree/v0.2.9",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/issues"
+                }
+            },
+            {
+                "name": "hackathon/promocodemessages",
+                "version": "v1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages.git",
+                    "reference": "e020fadc1299a9f672faf1cb32890c66bc010957"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_PromoCodeMessages/zipball/e020fadc1299a9f672faf1cb32890c66bc010957",
+                    "reference": "e020fadc1299a9f672faf1cb32890c66bc010957",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "5.7.*"
+                },
+                "time": "2019-09-04T13:58:29+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "src"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Laura Folco",
+                        "email": "me@laurafolco.com"
+                    },
+                    {
+                        "name": "Andreas von Studnitz",
+                        "email": "avs@integer-net.de"
+                    }
+                ],
+                "description": "Improves error messages when entering promo codes in the cart",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/tree/v1.0.0",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_PromoCodeMessages/issues"
+                }
+            }
+        ]
+    }
+}

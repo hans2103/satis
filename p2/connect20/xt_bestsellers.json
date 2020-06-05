@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/xt_bestsellers": [
+            {
+                "name": "connect20/Xt_Bestsellers",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Xt_Bestsellers/0.1.0/Xt_Bestsellers-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Rik Sen",
+                        "email": "pm@hire-developer.co.uk"
+                    }
+                ],
+                "description": "Ability to assign store specific bestseller/featured product."
+            }
+        ]
+    }
+}

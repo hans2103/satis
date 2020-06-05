@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/show_price_as_free": [
+            {
+                "name": "connect20/Show_Price_As_Free",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Show_Price_As_Free/1.2.0/Show_Price_As_Free-1.2.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "SaveTheMage",
+                        "email": "support@savethemage.com"
+                    }
+                ],
+                "description": "Changes 0.00 Price to Free"
+            }
+        ]
+    }
+}

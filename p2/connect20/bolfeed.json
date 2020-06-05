@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/bolfeed": [
+            {
+                "name": "connect20/Bolfeed",
+                "version": "0.0.7",
+                "version_normalized": "0.0.7.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Bolfeed/0.0.7/Bolfeed-0.0.7.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT-License"
+                ],
+                "authors": [
+                    {
+                        "name": "EasyAds",
+                        "email": "development@easyads.eu"
+                    }
+                ],
+                "description": "Publish, manage, analyze your products and sell them on bol.com. Sell your products on bol.com with Bolfeed!"
+            }
+        ]
+    }
+}

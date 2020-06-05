@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/shweta_video": [
+            {
+                "name": "connect20/shweta_video",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/shweta_video/0.1.0/shweta_video-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Shweta Agarwal",
+                        "email": "shweta@ptiwebtech.com"
+                    }
+                ],
+                "description": "This extension helps to upload video from backend and display as a image in any cms page and video will be run after you click it and pop-up opened."
+            }
+        ]
+    }
+}

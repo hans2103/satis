@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/reflexology-a-responsive-multi-purpose-theme": [
+            {
+                "name": "connect20/reflexology-a-responsive-multi-purpose-theme",
+                "version": "0.1.4",
+                "version_normalized": "0.1.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/reflexology-a-responsive-multi-purpose-theme/0.1.4/reflexology-a-responsive-multi-purpose-theme-0.1.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Productiveminds",
+                        "email": "info@productiveminds.com"
+                    }
+                ],
+                "description": "Reflexology the 2nd, is a responsive multi-purpose theme for Magento. It is elegant, clean and attractive - boasting cool color scheme and design. It supports for all major browsers. Unique features include (i) extra layout and templates files. (ii) Improved for SEO. (iii) fully responsive to your customers’ devices."
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/os_quickview_free": [
+            {
+                "name": "connect20/Os_QuickView_Free",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Os_QuickView_Free/1.2.2/Os_QuickView_Free-1.2.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Osworlds",
+                        "email": "osworldstore@gmail.com"
+                    }
+                ],
+                "description": "Quick View help your customers to be able to make purchases quickly and easily without wasting time and risking to leave due to slow page loading. \r\nYour customers can see details of the product, including images, options, and Add to Cart – All from the category page. \r\nReplace standard Magento image zoom with flexible javacript zoom widget too."
+            }
+        ]
+    }
+}

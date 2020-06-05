@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/unfraud": [
+            {
+                "name": "connect20/unfraud",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/unfraud/1.0.1/unfraud-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "UnFraud",
+                        "email": "admin@unfraud.com"
+                    }
+                ],
+                "description": "UnFraud uses Artificial Intelligence &Behavioural Analytics to prevent online frauds and any related cost"
+            }
+        ]
+    }
+}

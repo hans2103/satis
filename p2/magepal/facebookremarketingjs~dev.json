@@ -1,0 +1,118 @@
+{
+    "packages": {
+        "magepal/facebookremarketingjs": [
+            {
+                "name": "magepal/facebookremarketingjs",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magepal/magento1-facebook-remarketing-js.git",
+                    "reference": "ae115fce3edd3ca06f217ed07af5dc4dd6dca6da"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magepal/magento1-facebook-remarketing-js/zipball/ae115fce3edd3ca06f217ed07af5dc4dd6dca6da",
+                    "reference": "ae115fce3edd3ca06f217ed07af5dc4dd6dca6da",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-03-01T23:43:31+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "/app/code/local/MagePal/FacebookRemarketingJs/",
+                            "/app/code/local/MagePal/FacebookRemarketingJs/"
+                        ],
+                        [
+                            "/app/design/frontend/base/default/layout/facebookremarketingjs.xml",
+                            "/app/design/frontend/base/default/layout/facebookremarketingjs.xml"
+                        ],
+                        [
+                            "/app/design/frontend/base/default/template/magepal/facebookremarketingjs/",
+                            "/app/design/frontend/base/default/template/magepal/facebookremarketingjs/"
+                        ],
+                        [
+                            "/app/etc/modules/MagePal_FacebookRemarketingJs.xml",
+                            "/app/etc/modules/MagePal_FacebookRemarketingJs.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "R.S",
+                        "email": "rs@magepal.com"
+                    }
+                ],
+                "description": "Facebook Remarketing and Conversion Tracking for Magento.",
+                "homepage": "https://github.com/magepal/facebookremarketingjs",
+                "support": {
+                    "source": "https://github.com/magepal/magento1-facebook-remarketing-js/tree/master",
+                    "issues": "https://github.com/magepal/magento1-facebook-remarketing-js/issues"
+                }
+            },
+            {
+                "name": "magepal/facebookremarketingjs",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magepal/magento1-facebook-remarketing-js.git",
+                    "reference": "e229d41661d5eb62a7e0d6a0f1d8bc27ad978103"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magepal/magento1-facebook-remarketing-js/zipball/e229d41661d5eb62a7e0d6a0f1d8bc27ad978103",
+                    "reference": "e229d41661d5eb62a7e0d6a0f1d8bc27ad978103",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-12-12T04:22:31+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "/app/code/local/MagePal/FacebookRemarketingJs/",
+                            "/app/code/local/MagePal/FacebookRemarketingJs/"
+                        ],
+                        [
+                            "/app/design/frontend/base/default/layout/facebookremarketingjs.xml",
+                            "/app/design/frontend/base/default/layout/facebookremarketingjs.xml"
+                        ],
+                        [
+                            "/app/design/frontend/base/default/template/magepal/facebookremarketingjs/",
+                            "/app/design/frontend/base/default/template/magepal/facebookremarketingjs/"
+                        ],
+                        [
+                            "/app/etc/modules/MagePal_FacebookRemarketingJs.xml",
+                            "/app/etc/modules/MagePal_FacebookRemarketingJs.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "R.S",
+                        "email": "rs@magepal.com"
+                    }
+                ],
+                "description": "Facebook Remarketing and Conversion Tracking for Magento.",
+                "homepage": "https://github.com/magepal/facebookremarketingjs",
+                "support": {
+                    "source": "https://github.com/magepal/magento1-facebook-remarketing-js/tree/develop",
+                    "issues": "https://github.com/magepal/magento1-facebook-remarketing-js/issues"
+                }
+            }
+        ]
+    }
+}

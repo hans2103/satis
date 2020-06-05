@@ -1,0 +1,61 @@
+{
+    "packages": {
+        "connect20/sando_ads": [
+            {
+                "name": "connect20/Sando_Ads",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Sando_Ads/1.0.3/Sando_Ads-1.0.3.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "BSDL"
+                ],
+                "authors": [
+                    {
+                        "name": "Bryan Natter",
+                        "email": "bnatter@newdynamx.com"
+                    }
+                ],
+                "description": "Integrate from Magento to Sales and Orders Adds SAAS. Structure Google Product Ads in the most cost-effective manner. Analyze profit and loss for each product."
+            },
+            {
+                "name": "connect20/Sando_Ads",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Sando_Ads/1.0.4/Sando_Ads-1.0.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "BSDL"
+                ],
+                "authors": [
+                    {
+                        "name": "Bryan Natter",
+                        "email": "bnatter@newdynamx.com"
+                    }
+                ],
+                "description": "Integrate from Magento to Sales and Orders Adds SAAS. Structure Google Product Ads in the most cost-effective manner. Analyze profit and loss for each product."
+            }
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "packages": {
+        "ebayenterprise/php-dom": [
+            {
+                "name": "ebayenterprise/php-dom",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/eBayEnterprise/php-dom.git",
+                    "reference": "aa208d7658308d579864ca286b30c5449c151900"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/eBayEnterprise/php-dom/zipball/aa208d7658308d579864ca286b30c5449c151900",
+                    "reference": "aa208d7658308d579864ca286b30c5449c151900",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "ivanchepurnyi/ecomdev_phpunit": "*",
+                    "pdepend/pdepend": "~1.1",
+                    "phpdocumentor/phpdocumentor": "~2.4",
+                    "phploc/phploc": "~2.0",
+                    "phpmd/phpmd": "~1.5",
+                    "phpunit/dbunit": "~1",
+                    "phpunit/php-invoker": "~1.1",
+                    "phpunit/phpunit": "~3.7",
+                    "phpunit/phpunit-selenium": "~1",
+                    "phpunit/phpunit-story": "~1",
+                    "sebastian/phpcpd": "~2.0",
+                    "squizlabs/php_codesniffer": "~1.5"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Properly installs the module within a Magento instance"
+                },
+                "time": "2014-08-19T15:25:09+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Scott van Brug",
+                        "email": "svanbrug@ebay.com"
+                    },
+                    {
+                        "name": "Michael Phang",
+                        "email": "mphang@ebay.com"
+                    },
+                    {
+                        "name": "Michael A. Smith",
+                        "email": "msmith3@ebay.com"
+                    },
+                    {
+                        "name": "Mike West",
+                        "email": "micwest@ebay.com"
+                    },
+                    {
+                        "name": "Reginald Gabriel",
+                        "email": "rgabriel@ebay.com"
+                    }
+                ],
+                "description": "Platform for injecting configuration fields into the configuration of a third module.",
+                "support": {
+                    "source": "https://github.com/eBayEnterprise/php-dom/tree/1.0",
+                    "issues": "https://github.com/eBayEnterprise/php-dom/issues"
+                }
+            }
+        ]
+    }
+}

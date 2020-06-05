@@ -1,0 +1,1441 @@
+{
+    "packages": {
+        "magento/module-dhl": [
+            {
+                "name": "magento/module-dhl",
+                "version": "100.0.2",
+                "version_normalized": "100.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.0.2.0.zip",
+                    "shasum": "eb5da1aec862a239144c97c8f80d3d7db60ac02c"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-shipping": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.0.3",
+                "version_normalized": "100.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.0.3.0.zip",
+                    "shasum": "bcef0d8857ed665abca601c1e7885a7044eec148"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-shipping": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.0.4",
+                "version_normalized": "100.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.0.4.0.zip",
+                    "shasum": "31951369bee4d67f8ae00e1fb560b28ba1ed96f7"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-shipping": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.0.5",
+                "version_normalized": "100.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.0.5.0.zip",
+                    "shasum": "8df5d50b0692562401727ec7fd1b0de928302364"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-shipping": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.0.6",
+                "version_normalized": "100.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.0.6.0.zip",
+                    "shasum": "0d32e1643539fcbb707a108bdc6aed07806eb282"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-shipping": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.0.7",
+                "version_normalized": "100.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.0.7.0.zip",
+                    "shasum": "9a3860f04ea2a53f102be23af3374dd3fbcb6ffd"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-shipping": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.1.0",
+                "version_normalized": "100.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.1.0.0.zip",
+                    "shasum": "d14706fd9c2f014e94f2c48f45da59690f2399d3"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.1.0-rc1",
+                "version_normalized": "100.1.0.0-RC1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.1.0.0-RC1.zip",
+                    "shasum": "facf1448b4ddb04db3c5a5e6a4b67738e3244b46"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.1.0-rc2",
+                "version_normalized": "100.1.0.0-RC2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.1.0.0-RC2.zip",
+                    "shasum": "032164a29af8a63b5d698be46b0c4d6376f210a8"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.1.0-rc3",
+                "version_normalized": "100.1.0.0-RC3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.1.0.0-RC3.zip",
+                    "shasum": "d31a822fd61f0ab6d16a6335b016df09fc6c6f90"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.1.1",
+                "version_normalized": "100.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.1.1.0.zip",
+                    "shasum": "4be06cb7f511665690bac01e2f556e64f5db5a46"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.1.2",
+                "version_normalized": "100.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.1.2.0.zip",
+                    "shasum": "84da6b2b8bfda7a33bb2653f25d27433fdd3aecd"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.1.3",
+                "version_normalized": "100.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.1.3.0.zip",
+                    "shasum": "38f3a74cc3b9c6705dc429ad834dee1fcf7dcf98"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.1.4",
+                "version_normalized": "100.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.1.4.0.zip",
+                    "shasum": "08df1c0ddd2b44898f32459d9f91a4bffbccabef"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.1.5",
+                "version_normalized": "100.1.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.1.5.0.zip",
+                    "shasum": "79b59c4b2ce37e7ab9ff36d3719d20b698eedef2"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.1.6",
+                "version_normalized": "100.1.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.1.6.0.zip",
+                    "shasum": "ea0af093263379960460739a63b9dff19bd1a6c6"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.2.0",
+                "version_normalized": "100.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.2.0.0.zip",
+                    "shasum": "98c16ebe6260ef67b766e26edf559c8186ab8d10"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.2.0-rc20",
+                "version_normalized": "100.2.0.0-RC20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.2.0.0-RC20.zip",
+                    "shasum": "da25f1a141bb90554b0fc1903ae9f205402e61b2"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "101.1.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-config": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-quote": "100.2.*",
+                    "magento/module-sales": "100.2.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.2.0-rc21",
+                "version_normalized": "100.2.0.0-RC21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.2.0.0-RC21.zip",
+                    "shasum": "542a31f6258f97c1c86c1c629cf42d33cd8ea836"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.2.0-rc22",
+                "version_normalized": "100.2.0.0-RC22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.2.0.0-RC22.zip",
+                    "shasum": "a3005fb11e90e3a4c268695d6a291fdc29894938"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.2.0-rc23",
+                "version_normalized": "100.2.0.0-RC23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.2.0.0-RC23.zip",
+                    "shasum": "a4d258244297dfa7568aa7d6bf0621602f98678f"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.2.0-rc30",
+                "version_normalized": "100.2.0.0-RC30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.2.0.0-RC30.zip",
+                    "shasum": "697097647758a767454ba69dca1f0486e59cc1a1"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.2.1",
+                "version_normalized": "100.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.2.1.0.zip",
+                    "shasum": "167e8e07f7cccbeba042c0b26f7286555c4da7c7"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.2.2",
+                "version_normalized": "100.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.2.2.0.zip",
+                    "shasum": "c2f66639810d9b3f05f31e07ed95a4958126d005"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.2.3",
+                "version_normalized": "100.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.2.3.0.zip",
+                    "shasum": "a82c1e7e8515cc052541a04431dc844530770deb"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.2.4",
+                "version_normalized": "100.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.2.4.0.zip",
+                    "shasum": "32d91423fe99e1c246bbd2d62b605f1a77eb9139"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.2.5",
+                "version_normalized": "100.2.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.2.5.0.zip",
+                    "shasum": "525740557622c49406b75d2d056a9ac4790ccbe3"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.2.6",
+                "version_normalized": "100.2.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.2.6.0.zip",
+                    "shasum": "d52836ee3f71ecbcb24c9dc515fc85fc90581242"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0|~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.2.7",
+                "version_normalized": "100.2.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.2.7.0.zip",
+                    "shasum": "d00a52fe0684c4169bd6ec08b0f485ec1aa2efb5"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13||~7.1.0||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.3.0",
+                "version_normalized": "100.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.3.0.0.zip",
+                    "shasum": "6497c737fd67984234134ac26d039204855529a6"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.3.1",
+                "version_normalized": "100.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.3.1.0.zip",
+                    "shasum": "a54951a456d9ae56103fcac8a342fc8104f433e2"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.3.2",
+                "version_normalized": "100.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.3.2.0.zip",
+                    "shasum": "d7c22b8c75c02cea24c3eeadf1e7d4d0786dc142"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.3.3",
+                "version_normalized": "100.3.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.3.3.0.zip",
+                    "shasum": "9a9146128be06434632596ff0ef6aead14770eb4"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.3.4",
+                "version_normalized": "100.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.3.4.0.zip",
+                    "shasum": "de21867a36d539b417ce90d40a11f15193e3fb06"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-dhl",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-dhl/magento-module-dhl-100.3.5.0.zip",
+                    "shasum": "9149fa467964f4f7c3f0120540922aad2dabe278"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Dhl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

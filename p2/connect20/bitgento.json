@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/bitgento": [
+            {
+                "name": "connect20/Bitgento",
+                "version": "1.0.0.01",
+                "version_normalized": "1.0.0.01",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Bitgento/1.0.0.0.1/Bitgento-1.0.0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Bruno Mininno",
+                        "email": "bruno.mininno@ecloudsolutions.com"
+                    }
+                ],
+                "description": "This extension shows the price on Bitcoins of the current product under the  original pricebox"
+            }
+        ]
+    }
+}

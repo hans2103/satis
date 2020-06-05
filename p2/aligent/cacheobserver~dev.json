@@ -1,0 +1,436 @@
+{
+    "packages": {
+        "aligent/cacheobserver": [
+            {
+                "name": "aligent/cacheobserver",
+                "version": "v2.0.x-dev",
+                "version_normalized": "2.0.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "a4c968fb110f7a571139980c62e5f1de0b8d47c4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/a4c968fb110f7a571139980c62e5f1de0b8d47c4",
+                    "reference": "a4c968fb110f7a571139980c62e5f1de0b8d47c4",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "~2.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "~1.0@dev",
+                    "ecomdev/mage-ci": "dev-master",
+                    "phing/phing": "~2.11@dev",
+                    "phpunit/phpunit": "4.1.x-dev",
+                    "punkstar/mageqa": "dev-aligent"
+                },
+                "time": "2015-05-14T01:53:32+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "."
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/v2.0",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            {
+                "name": "aligent/cacheobserver",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "a10f8b598bac6732ae1da48d2ea9db39391819b1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/a10f8b598bac6732ae1da48d2ea9db39391819b1",
+                    "reference": "a10f8b598bac6732ae1da48d2ea9db39391819b1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "~2.0"
+                },
+                "require-dev": {
+                    "composer/composer": "~1.0@dev",
+                    "ecomdev/mage-ci": "dev-master",
+                    "phing/phing": "~2.11@dev",
+                    "phpunit/phpunit": "4.1.x-dev",
+                    "punkstar/mageqa": "dev-aligent"
+                },
+                "time": "2019-06-18T00:45:24+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "."
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/master",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            {
+                "name": "aligent/cacheobserver",
+                "version": "dev-bugfix/template_in_product_block",
+                "version_normalized": "dev-bugfix/template_in_product_block",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "08c913cc179b61db398fcedc909c74cb9d101d06"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/08c913cc179b61db398fcedc909c74cb9d101d06",
+                    "reference": "08c913cc179b61db398fcedc909c74cb9d101d06",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-08-18T04:30:04+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/bugfix/template_in_product_block",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            {
+                "name": "aligent/cacheobserver",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "d25e4974eedc48afd80e32c4588be5adb5b428c7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/d25e4974eedc48afd80e32c4588be5adb5b428c7",
+                    "reference": "d25e4974eedc48afd80e32c4588be5adb5b428c7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "~2.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "~1.0@dev",
+                    "ecomdev/mage-ci": "dev-master",
+                    "phing/phing": "~2.11@dev",
+                    "phpunit/phpunit": "4.1.x-dev",
+                    "punkstar/mageqa": "dev-aligent"
+                },
+                "time": "2015-10-06T00:04:31+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "."
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/develop",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            {
+                "name": "aligent/cacheobserver",
+                "version": "dev-enterprise-targetrule-item-fix",
+                "version_normalized": "dev-enterprise-targetrule-item-fix",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "8a920140c14fd6f37116375da4eeece0fa14d2b0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/8a920140c14fd6f37116375da4eeece0fa14d2b0",
+                    "reference": "8a920140c14fd6f37116375da4eeece0fa14d2b0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-02-13T00:38:35+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/enterprise-targetrule-item-fix",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            {
+                "name": "aligent/cacheobserver",
+                "version": "dev-feature/form_key",
+                "version_normalized": "dev-feature/form_key",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "dfbba0259c221d69db1ffbc9ec3e13e49c1b670b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/dfbba0259c221d69db1ffbc9ec3e13e49c1b670b",
+                    "reference": "dfbba0259c221d69db1ffbc9ec3e13e49c1b670b",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-10-16T00:59:04+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/feature/form_key",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            {
+                "name": "aligent/cacheobserver",
+                "version": "dev-feature/group-product-display",
+                "version_normalized": "dev-feature/group-product-display",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "402304e8b69690ee976ac3ca2800979aa4bb4c9a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/402304e8b69690ee976ac3ca2800979aa4bb4c9a",
+                    "reference": "402304e8b69690ee976ac3ca2800979aa4bb4c9a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-04-28T07:57:04+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/feature/group-product-display",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            {
+                "name": "aligent/cacheobserver",
+                "version": "dev-feature/unit_tests",
+                "version_normalized": "dev-feature/unit_tests",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "69f7c9c07a0bc3830b2fc6a2b2fabc15a2c16251"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/69f7c9c07a0bc3830b2fc6a2b2fabc15a2c16251",
+                    "reference": "69f7c9c07a0bc3830b2fc6a2b2fabc15a2c16251",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "~2.0"
+                },
+                "require-dev": {
+                    "composer/composer": "~1.0@dev",
+                    "ecomdev/mage-ci": "dev-master",
+                    "phing/phing": "~2.11@dev",
+                    "phpunit/phpunit": "4.1.x-dev",
+                    "punkstar/mageqa": "dev-aligent"
+                },
+                "time": "2016-09-01T03:06:59+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "."
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/feature/unit_tests",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            {
+                "name": "aligent/cacheobserver",
+                "version": "dev-improvement/disable-block-cache-search-result",
+                "version_normalized": "dev-improvement/disable-block-cache-search-result",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "9de46db8081c0cad2387f69c2ca7d0b77ccf89a6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/9de46db8081c0cad2387f69c2ca7d0b77ccf89a6",
+                    "reference": "9de46db8081c0cad2387f69c2ca7d0b77ccf89a6",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-07-01T02:26:40+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/improvement/disable-block-cache-search-result",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            {
+                "name": "aligent/cacheobserver",
+                "version": "dev-models",
+                "version_normalized": "dev-models",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "75daed7cb82ec66956dcfc9a54cf6f27c3c3bd9a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/75daed7cb82ec66956dcfc9a54cf6f27c3c3bd9a",
+                    "reference": "75daed7cb82ec66956dcfc9a54cf6f27c3c3bd9a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-09T04:56:12+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/1.0.1",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            {
+                "name": "aligent/cacheobserver",
+                "version": "dev-release/1.0.1",
+                "version_normalized": "dev-release/1.0.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "051ddd2428ad439ac43c59e2190e2999cfa1feac"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/051ddd2428ad439ac43c59e2190e2999cfa1feac",
+                    "reference": "051ddd2428ad439ac43c59e2190e2999cfa1feac",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-05-24T04:20:43+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/release/1.0.1",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            {
+                "name": "aligent/cacheobserver",
+                "version": "dev-remove-crosssell-caching",
+                "version_normalized": "dev-remove-crosssell-caching",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "0e69b97df638d6faba2774347b4dac937060d526"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/0e69b97df638d6faba2774347b4dac937060d526",
+                    "reference": "0e69b97df638d6faba2774347b4dac937060d526",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-10-15T07:10:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/remove-crosssell-caching",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            {
+                "name": "aligent/cacheobserver",
+                "version": "dev-review_list_pagination_fix",
+                "version_normalized": "dev-review_list_pagination_fix",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "8edcd2444a19077fc4dbc7fbb6c8956039a3df27"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/8edcd2444a19077fc4dbc7fbb6c8956039a3df27",
+                    "reference": "8edcd2444a19077fc4dbc7fbb6c8956039a3df27",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-03-18T06:07:41+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/review_list_pagination_fix",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            }
+        ]
+    }
+}

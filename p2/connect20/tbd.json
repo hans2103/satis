@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/tbd": [
+            {
+                "name": "connect20/tbd",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/tbd/1.0.0/tbd-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "apache"
+                ],
+                "authors": [
+                    {
+                        "name": "netParcel",
+                        "email": "support@netparcel.com"
+                    }
+                ],
+                "description": "This extension allows the user to import order details (customer name and address into the netParcel.com application for order shipping. \r\nLicense: Open Software License (OSL)"
+            }
+        ]
+    }
+}

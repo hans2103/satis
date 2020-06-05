@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/cartin24_clearcart": [
+            {
+                "name": "connect20/Cartin24_Clearcart",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Cartin24_Clearcart/1.0.0/Cartin24_Clearcart-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Cartin24",
+                        "email": "developer@cartin24.com"
+                    }
+                ],
+                "description": "Cartin24 creates an extension for Magento which clears the customer's cart via admin."
+            }
+        ]
+    }
+}

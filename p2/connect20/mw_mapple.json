@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/mw_mapple": [
+            {
+                "name": "connect20/mw_mapple",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/mw_mapple/1.4.1/mw_mapple-1.4.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Mage-World",
+                        "email": "haint@mage-world.com"
+                    }
+                ],
+                "description": "With the purpose of support your e-business for free, Mage-World is glad to introduce new free theme mApple. This Magento theme has the advantage of clean and clear design which is suitable for wide variety of products."
+            }
+        ]
+    }
+}

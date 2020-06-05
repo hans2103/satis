@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/netgo_flickrfeeds": [
+            {
+                "name": "connect20/Netgo_Flickrfeeds",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Netgo_Flickrfeeds/1.0.0/Netgo_Flickrfeeds-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "NetGo",
+                        "email": "netattingomails@gmail.com"
+                    }
+                ],
+                "description": "This extension helps to display latest feeds of your Flickr page by only giving user id."
+            }
+        ]
+    }
+}

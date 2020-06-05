@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "convenient/setupscriptsdisabler": [
+            {
+                "name": "convenient/setupscriptsdisabler",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/convenient/SetupScriptsDisabler.git",
+                    "reference": "39e748f871b4d3cf59b4ec05f7bcea16dd38144c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/convenient/SetupScriptsDisabler/zipball/39e748f871b4d3cf59b4ec05f7bcea16dd38144c",
+                    "reference": "39e748f871b4d3cf59b4ec05f7bcea16dd38144c",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-05-16T11:19:34+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Luke Rodgers",
+                        "email": "lukerodgers90@gmail.com"
+                    }
+                ],
+                "description": "Disables automatic application of setup scripts in Magento",
+                "homepage": "https://github.com/convenient/SetupScriptsDisabler",
+                "support": {
+                    "source": "https://github.com/convenient/SetupScriptsDisabler/tree/master",
+                    "issues": "https://github.com/convenient/SetupScriptsDisabler/issues"
+                }
+            }
+        ]
+    }
+}

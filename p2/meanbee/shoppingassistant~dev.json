@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "meanbee/shoppingassistant": [
+            {
+                "name": "meanbee/shoppingassistant",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/meanbee/magento-shopping-assistant.git",
+                    "reference": "f5ec0200fc64e81d8324a927ea360d11bf947db1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/meanbee/magento-shopping-assistant/zipball/f5ec0200fc64e81d8324a927ea360d11bf947db1",
+                    "reference": "f5ec0200fc64e81d8324a927ea360d11bf947db1",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "2.*"
+                },
+                "time": "2015-02-10T08:45:15+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Tom Robertshaw"
+                    },
+                    {
+                        "name": "Tomas Gerulaitis"
+                    }
+                ],
+                "description": "This magento extensions uses TogetherJS to create a virtual shopping assistant.  Provide customers with the ability to call over a virtual shopping asssistant.",
+                "homepage": "https://github.com/meanbee/magento-shopping-assistant",
+                "support": {
+                    "source": "https://github.com/meanbee/magento-shopping-assistant/tree/master",
+                    "issues": "https://github.com/meanbee/magento-shopping-assistant/issues"
+                }
+            }
+        ]
+    }
+}

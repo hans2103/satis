@@ -1,0 +1,61 @@
+{
+    "packages": {
+        "connect20/gomedia_webhook": [
+            {
+                "name": "connect20/GoMedia_Webhook",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/GoMedia_Webhook/0.1.1/GoMedia_Webhook-0.1.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_code_modules": ">=1.6.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Go Media",
+                        "email": "chris@gomedia.co.za"
+                    }
+                ],
+                "description": "Post orders from Magento to any URL."
+            },
+            {
+                "name": "connect20/GoMedia_Webhook",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/GoMedia_Webhook/0.1.2/GoMedia_Webhook-0.1.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Go Media",
+                        "email": "chris@gomedia.co.za"
+                    }
+                ],
+                "description": "Post orders from Magento to any URL."
+            }
+        ]
+    }
+}

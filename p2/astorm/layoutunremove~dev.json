@@ -1,0 +1,36 @@
+{
+    "packages": {
+        "astorm/layoutunremove": [
+            {
+                "name": "astorm/LayoutUnremove",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/astorm/LayoutUnremove.git",
+                    "reference": "bc9f4d838055dc3262e08e7c23e9f6df64eab750"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/astorm/LayoutUnremove/zipball/bc9f4d838055dc3262e08e7c23e9f6df64eab750",
+                    "reference": "bc9f4d838055dc3262e08e7c23e9f6df64eab750",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-09-03T16:03:34+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "description": "A Magento extension that adds an <unremove/> tag to Magento's Layout XML.",
+                "homepage": "http://alanstorm.com/magento_layout_unremove_in_local_xml",
+                "support": {
+                    "source": "https://github.com/astorm/LayoutUnremove/tree/master",
+                    "issues": "https://github.com/astorm/LayoutUnremove/issues"
+                }
+            }
+        ]
+    }
+}

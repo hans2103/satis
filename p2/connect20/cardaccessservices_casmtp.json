@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/cardaccessservices_casmtp": [
+            {
+                "name": "connect20/CardAccessServices_Casmtp",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CardAccessServices_Casmtp/1.0.0/CardAccessServices_Casmtp-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Apache-Software-License-(ASL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Card Access Services",
+                        "email": "techadmin@rt.cardaccess.com.au"
+                    }
+                ],
+                "description": "Merchant hosted transaction processing using the Card Access Services gateway"
+            },
+            {
+                "name": "connect20/CardAccessServices_Casmtp",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CardAccessServices_Casmtp/1.0.1/CardAccessServices_Casmtp-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Apache-Software-License-(ASL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Card Access Services",
+                        "email": "techadmin@rt.cardaccess.com.au"
+                    }
+                ],
+                "description": "Merchant hosted transaction processing using the Card Access Services gateway"
+            }
+        ]
+    }
+}

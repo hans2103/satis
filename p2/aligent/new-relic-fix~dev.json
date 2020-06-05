@@ -1,0 +1,93 @@
+{
+    "packages": {
+        "aligent/new-relic-fix": [
+            {
+                "name": "aligent/new-relic-fix",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Aligent_NewRelicFix.git",
+                    "reference": "ddea0bda9aad28acc2c05ea2f2ec9d14b1c92b80"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Aligent_NewRelicFix/zipball/ddea0bda9aad28acc2c05ea2f2ec9d14b1c92b80",
+                    "reference": "ddea0bda9aad28acc2c05ea2f2ec9d14b1c92b80",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-10-21T06:20:54+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Aligent NewRelicFix - Removes NewRelic's real user monitoring (RUM) JavaScript from certain actions.",
+                "support": {
+                    "source": "https://github.com/aligent/Aligent_NewRelicFix/tree/master",
+                    "issues": "https://github.com/aligent/Aligent_NewRelicFix/issues"
+                }
+            },
+            {
+                "name": "aligent/new-relic-fix",
+                "version": "dev-feature/ignore_admin_capture_error",
+                "version_normalized": "dev-feature/ignore_admin_capture_error",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Aligent_NewRelicFix.git",
+                    "reference": "03e3632ee18a28401be05e80918e2a0e1b7429af"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Aligent_NewRelicFix/zipball/03e3632ee18a28401be05e80918e2a0e1b7429af",
+                    "reference": "03e3632ee18a28401be05e80918e2a0e1b7429af",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-06-24T07:48:54+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Aligent NewRelicFix - Removes NewRelic's real user monitoring (RUM) JavaScript from certain actions.",
+                "support": {
+                    "source": "https://github.com/aligent/Aligent_NewRelicFix/tree/feature/ignore_admin_capture_error",
+                    "issues": "https://github.com/aligent/Aligent_NewRelicFix/issues"
+                }
+            },
+            {
+                "name": "aligent/new-relic-fix",
+                "version": "dev-feature/trigger_error",
+                "version_normalized": "dev-feature/trigger_error",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Aligent_NewRelicFix.git",
+                    "reference": "901eca26dd8e912d130cf5f70e224b79c594e6ee"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Aligent_NewRelicFix/zipball/901eca26dd8e912d130cf5f70e224b79c594e6ee",
+                    "reference": "901eca26dd8e912d130cf5f70e224b79c594e6ee",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-08-07T01:38:38+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Aligent NewRelicFix - Removes NewRelic's real user monitoring (RUM) JavaScript from certain actions.",
+                "support": {
+                    "source": "https://github.com/aligent/Aligent_NewRelicFix/tree/feature/trigger_error",
+                    "issues": "https://github.com/aligent/Aligent_NewRelicFix/issues"
+                }
+            }
+        ]
+    }
+}

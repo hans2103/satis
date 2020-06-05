@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "connect20/bluecore_integration": [
+            {
+                "name": "connect20/Bluecore_Integration",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Bluecore_Integration/1.0.3/Bluecore_Integration-1.0.3.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.13"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "gpl"
+                ],
+                "authors": [
+                    {
+                        "name": "Graham Gnall",
+                        "email": "graham@bluecore.com"
+                    }
+                ],
+                "description": "Your behavioral and product data in one system, powering immediate marketing actions as unique as your customers."
+            },
+            {
+                "name": "connect20/Bluecore_Integration",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Bluecore_Integration/1.0.4/Bluecore_Integration-1.0.4.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.13"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "gpl"
+                ],
+                "authors": [
+                    {
+                        "name": "Graham Gnall",
+                        "email": "graham@bluecore.com"
+                    }
+                ],
+                "description": "Bluecore is the leading Decisioning Engine for ecommerce marketers. Create audiences, journeys and triggers."
+            }
+        ]
+    }
+}

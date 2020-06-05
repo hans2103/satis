@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/fooman_googleanalyticsplus": [
+            {
+                "name": "connect20/Fooman_GoogleAnalyticsPlus",
+                "version": "0.17.0",
+                "version_normalized": "0.17.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Fooman_GoogleAnalyticsPlus/0.17.0/Fooman_GoogleAnalyticsPlus-0.17.0.tgz"
+                },
+                "require": {
+                    "connect20/fooman_common": "*"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Additional features for the default GoogleAnalytics module."
+            }
+        ]
+    }
+}

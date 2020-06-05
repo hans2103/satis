@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/cornerdrop_collect": [
+            {
+                "name": "connect20/CornerDrop_Collect",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CornerDrop_Collect/1.2.0/CornerDrop_Collect-1.2.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "CornerDrop"
+                ],
+                "authors": [
+                    {
+                        "name": "CornerDrop",
+                        "email": "alasota@cornerdrop.com"
+                    }
+                ],
+                "description": "Offer a click and collect solution to all your customers today."
+            },
+            {
+                "name": "connect20/CornerDrop_Collect",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CornerDrop_Collect/1.2.1/CornerDrop_Collect-1.2.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "CornerDrop"
+                ],
+                "authors": [
+                    {
+                        "name": "CornerDrop",
+                        "email": "alasota@cornerdrop.com"
+                    }
+                ],
+                "description": "Offer a click and collect solution to all your customers today."
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/osstudios_pagseguro": [
+            {
+                "name": "connect20/OsStudios_PagSeguro",
+                "version": "1.0.0.3",
+                "version_normalized": "1.0.0.3",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/OsStudios_PagSeguro/1.0.0.3/OsStudios_PagSeguro-1.0.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Tiago Sampaio",
+                        "email": "tiago.sampaio@osstudios.com.br"
+                    }
+                ],
+                "description": "Novo módulo para integração completa com PagSeguro da UOL."
+            }
+        ]
+    }
+}

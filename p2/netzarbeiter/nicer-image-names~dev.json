@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "netzarbeiter/nicer-image-names": [
+            {
+                "name": "netzarbeiter/nicer-image-names",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Vinai/nicer-image-names.git",
+                    "reference": "fd565f3234fe0b2ad8f3faf5ceadf0835ab41e8e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Vinai/nicer-image-names/zipball/fd565f3234fe0b2ad8f3faf5ceadf0835ab41e8e",
+                    "reference": "fd565f3234fe0b2ad8f3faf5ceadf0835ab41e8e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-06-19T11:56:08+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Build the image file names from product attributes so they have neat descriptive image names.",
+                "homepage": "https://github.com/Vinai/nicer-image-names",
+                "support": {
+                    "source": "https://github.com/Vinai/nicer-image-names/tree/master",
+                    "issues": "https://github.com/Vinai/nicer-image-names/issues"
+                }
+            }
+        ]
+    }
+}

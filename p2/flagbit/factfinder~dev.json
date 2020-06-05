@@ -1,0 +1,976 @@
+{
+    "packages": {
+        "flagbit/factfinder": [
+            {
+                "name": "flagbit/factfinder",
+                "version": "3.x-dev",
+                "version_normalized": "3.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "0fa312d3cb3cab3ae3cc78ddac74d36e0fe36d60"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/0fa312d3cb3cab3ae3cc78ddac74d36e0fe36d60",
+                    "reference": "0fa312d3cb3cab3ae3cc78ddac74d36e0fe36d60",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/flagbit_factfinder": "~3.3"
+                },
+                "time": "2017-02-10T11:36:38+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder",
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/v3.6.6",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            },
+            {
+                "name": "flagbit/factfinder",
+                "version": "v4.2.1.x-dev",
+                "version_normalized": "4.2.1.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "4188dc53719d660cdee692e3ceba1d8c6e374c4d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/4188dc53719d660cdee692e3ceba1d8c6e374c4d",
+                    "reference": "4188dc53719d660cdee692e3ceba1d8c6e374c4d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-01-07T15:34:12+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Oleh Kravets",
+                        "email": "oleh.kravets@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Nicolai Essig",
+                        "email": "nicolai.essig@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder - Integrates FACT-Finder search for Magento",
+                "keywords": [
+                    "FACT-Finder",
+                    "magento",
+                    "search"
+                ],
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/v4.2.1",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            },
+            {
+                "name": "flagbit/factfinder",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "49b9853dd3086b99272c8c2e96e82d6af7942767"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/49b9853dd3086b99272c8c2e96e82d6af7942767",
+                    "reference": "49b9853dd3086b99272c8c2e96e82d6af7942767",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-04-23T08:01:00+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Oleh Kravets",
+                        "email": "oleh.kravets@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Nicolai Essig",
+                        "email": "nicolai.essig@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder - Integrates FACT-Finder search for Magento",
+                "keywords": [
+                    "FACT-Finder",
+                    "magento",
+                    "search"
+                ],
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/v4.2.3",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            },
+            {
+                "name": "flagbit/factfinder",
+                "version": "dev-KOEMPF-2405",
+                "version_normalized": "dev-KOEMPF-2405",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "b92db2ffd85dc06d408bbf9bef571be0a66b0f13"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/b92db2ffd85dc06d408bbf9bef571be0a66b0f13",
+                    "reference": "b92db2ffd85dc06d408bbf9bef571be0a66b0f13",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-07-01T13:46:59+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Oleh Kravets",
+                        "email": "oleh.kravets@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Nicolai Essig",
+                        "email": "nicolai.essig@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder",
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/KOEMPF-2405",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            },
+            {
+                "name": "flagbit/factfinder",
+                "version": "dev-KOEMPF-2757",
+                "version_normalized": "dev-KOEMPF-2757",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "1c7731e43b43d1d764868e26ecbc09508be36bbf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/1c7731e43b43d1d764868e26ecbc09508be36bbf",
+                    "reference": "1c7731e43b43d1d764868e26ecbc09508be36bbf",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-10-26T07:43:42+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Oleh Kravets",
+                        "email": "oleh.kravets@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Nicolai Essig",
+                        "email": "nicolai.essig@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder - Integrates FACT-Finder search for Magento",
+                "keywords": [
+                    "FACT-Finder",
+                    "magento",
+                    "search"
+                ],
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/KOEMPF-2757",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            },
+            {
+                "name": "flagbit/factfinder",
+                "version": "dev-LB-234",
+                "version_normalized": "dev-LB-234",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "98f0250eb8adddd51a2156bed7017149f33941cd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/98f0250eb8adddd51a2156bed7017149f33941cd",
+                    "reference": "98f0250eb8adddd51a2156bed7017149f33941cd",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-05-14T12:12:30+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Oleh Kravets",
+                        "email": "oleh.kravets@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Nicolai Essig",
+                        "email": "nicolai.essig@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder - Integrates FACT-Finder search for Magento",
+                "keywords": [
+                    "FACT-Finder",
+                    "magento",
+                    "search"
+                ],
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/LB-234",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            },
+            {
+                "name": "flagbit/factfinder",
+                "version": "dev-LB-319",
+                "version_normalized": "dev-LB-319",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "826a86fabafa53cbfa60383d415a9d627e244115"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/826a86fabafa53cbfa60383d415a9d627e244115",
+                    "reference": "826a86fabafa53cbfa60383d415a9d627e244115",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-07-02T11:53:52+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Oleh Kravets",
+                        "email": "oleh.kravets@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Nicolai Essig",
+                        "email": "nicolai.essig@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder - Integrates FACT-Finder search for Magento",
+                "keywords": [
+                    "FACT-Finder",
+                    "magento",
+                    "search"
+                ],
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/LB-319",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            },
+            {
+                "name": "flagbit/factfinder",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "f4bd13f7ebf08698de6ad2827e07226a4b5a8da9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/f4bd13f7ebf08698de6ad2827e07226a4b5a8da9",
+                    "reference": "f4bd13f7ebf08698de6ad2827e07226a4b5a8da9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-09-25T16:44:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Oleh Kravets",
+                        "email": "oleh.kravets@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Nicolai Essig",
+                        "email": "nicolai.essig@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder - Integrates FACT-Finder search for Magento",
+                "keywords": [
+                    "FACT-Finder",
+                    "magento",
+                    "search"
+                ],
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/develop",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            },
+            {
+                "name": "flagbit/factfinder",
+                "version": "dev-develop-system",
+                "version_normalized": "dev-develop-system",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "980c2c869856a283620b31bc209ec2fffa821993"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/980c2c869856a283620b31bc209ec2fffa821993",
+                    "reference": "980c2c869856a283620b31bc209ec2fffa821993",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-09-19T12:33:06+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Oleh Kravets",
+                        "email": "oleh.kravets@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Nicolai Essig",
+                        "email": "nicolai.essig@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder",
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/develop-system",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            },
+            {
+                "name": "flagbit/factfinder",
+                "version": "dev-feature/FFSD-59",
+                "version_normalized": "dev-feature/FFSD-59",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "c5513d69fc05a9e251cb147be42f5a33516519ea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/c5513d69fc05a9e251cb147be42f5a33516519ea",
+                    "reference": "c5513d69fc05a9e251cb147be42f5a33516519ea",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-04-23T07:59:09+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Oleh Kravets",
+                        "email": "oleh.kravets@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Nicolai Essig",
+                        "email": "nicolai.essig@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder - Integrates FACT-Finder search for Magento",
+                "keywords": [
+                    "FACT-Finder",
+                    "magento",
+                    "search"
+                ],
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/feature/FFSD-59",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            },
+            {
+                "name": "flagbit/factfinder",
+                "version": "dev-feature/FFSD-84",
+                "version_normalized": "dev-feature/FFSD-84",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "5fbd591c66ae731de339b39fa193b5a2d786ec81"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/5fbd591c66ae731de339b39fa193b5a2d786ec81",
+                    "reference": "5fbd591c66ae731de339b39fa193b5a2d786ec81",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-04-04T08:19:52+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Oleh Kravets",
+                        "email": "oleh.kravets@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Nicolai Essig",
+                        "email": "nicolai.essig@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder - Integrates FACT-Finder search for Magento",
+                "keywords": [
+                    "FACT-Finder",
+                    "magento",
+                    "search"
+                ],
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/feature/FFSD-84",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            },
+            {
+                "name": "flagbit/factfinder",
+                "version": "dev-issue-218",
+                "version_normalized": "dev-issue-218",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "cb97afcbbd7466329d5796fa2d6fbd8ce1f8b215"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/cb97afcbbd7466329d5796fa2d6fbd8ce1f8b215",
+                    "reference": "cb97afcbbd7466329d5796fa2d6fbd8ce1f8b215",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-01-07T15:18:32+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Oleh Kravets",
+                        "email": "oleh.kravets@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Nicolai Essig",
+                        "email": "nicolai.essig@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder - Integrates FACT-Finder search for Magento",
+                "keywords": [
+                    "FACT-Finder",
+                    "magento",
+                    "search"
+                ],
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/issue-218",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            },
+            {
+                "name": "flagbit/factfinder",
+                "version": "dev-issue-226",
+                "version_normalized": "dev-issue-226",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "2294a953d3f072120336ce3b449e8fb0f5cc4a74"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/2294a953d3f072120336ce3b449e8fb0f5cc4a74",
+                    "reference": "2294a953d3f072120336ce3b449e8fb0f5cc4a74",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-01-07T14:01:30+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Oleh Kravets",
+                        "email": "oleh.kravets@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Nicolai Essig",
+                        "email": "nicolai.essig@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder - Integrates FACT-Finder search for Magento",
+                "keywords": [
+                    "FACT-Finder",
+                    "magento",
+                    "search"
+                ],
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/issue-226",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            },
+            {
+                "name": "flagbit/factfinder",
+                "version": "dev-issue-227",
+                "version_normalized": "dev-issue-227",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "276236c99452f97ea234348984da6fcf50c4effe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/276236c99452f97ea234348984da6fcf50c4effe",
+                    "reference": "276236c99452f97ea234348984da6fcf50c4effe",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-11-09T17:32:05+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Oleh Kravets",
+                        "email": "oleh.kravets@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Nicolai Essig",
+                        "email": "nicolai.essig@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder - Integrates FACT-Finder search for Magento",
+                "keywords": [
+                    "FACT-Finder",
+                    "magento",
+                    "search"
+                ],
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/issue-227",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            },
+            {
+                "name": "flagbit/factfinder",
+                "version": "dev-issue-230",
+                "version_normalized": "dev-issue-230",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "7ae7611e91a9b53b893b76c64dbb460ef3d09499"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/7ae7611e91a9b53b893b76c64dbb460ef3d09499",
+                    "reference": "7ae7611e91a9b53b893b76c64dbb460ef3d09499",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-11-08T14:03:12+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Oleh Kravets",
+                        "email": "oleh.kravets@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Nicolai Essig",
+                        "email": "nicolai.essig@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder - Integrates FACT-Finder search for Magento",
+                "keywords": [
+                    "FACT-Finder",
+                    "magento",
+                    "search"
+                ],
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/issue-230",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            },
+            {
+                "name": "flagbit/factfinder",
+                "version": "dev-legacy-3.5",
+                "version_normalized": "dev-legacy-3.5",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "7a253bc6ca9179b1644e5f40c5e6a0f9d0d884d6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/7a253bc6ca9179b1644e5f40c5e6a0f9d0d884d6",
+                    "reference": "7a253bc6ca9179b1644e5f40c5e6a0f9d0d884d6",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-01-22T09:37:26+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder",
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/legacy-3.5",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            },
+            {
+                "name": "flagbit/factfinder",
+                "version": "dev-marcharding-master",
+                "version_normalized": "dev-marcharding-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "54a8528cf28664e315a89ceae90ce3c9d1ec5361"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/54a8528cf28664e315a89ceae90ce3c9d1ec5361",
+                    "reference": "54a8528cf28664e315a89ceae90ce3c9d1ec5361",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-03-21T11:09:20+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Oleh Kravets",
+                        "email": "oleh.kravets@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Nicolai Essig",
+                        "email": "nicolai.essig@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder",
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/marcharding-master",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            },
+            {
+                "name": "flagbit/factfinder",
+                "version": "dev-revert-207-KOEMPF-2711",
+                "version_normalized": "dev-revert-207-KOEMPF-2711",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "487235e80466db4cc3daec19eacbbf0bfa66095d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/487235e80466db4cc3daec19eacbbf0bfa66095d",
+                    "reference": "487235e80466db4cc3daec19eacbbf0bfa66095d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-05-15T09:24:02+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Oleh Kravets",
+                        "email": "oleh.kravets@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Nicolai Essig",
+                        "email": "nicolai.essig@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder",
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/revert-207-KOEMPF-2711",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            },
+            {
+                "name": "flagbit/factfinder",
+                "version": "dev-revert-216-improves-composer-description",
+                "version_normalized": "dev-revert-216-improves-composer-description",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-FACTFinder.git",
+                    "reference": "1d77213cc70b43068a313a307e3003b5dc6b62b0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-FACTFinder/zipball/1d77213cc70b43068a313a307e3003b5dc6b62b0",
+                    "reference": "1d77213cc70b43068a313a307e3003b5dc6b62b0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-10-17T11:36:00+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Joerg Weller",
+                        "email": "weller@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Oleh Kravets",
+                        "email": "oleh.kravets@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Nicolai Essig",
+                        "email": "nicolai.essig@flagbit.de",
+                        "homepage": "http://www.flagbit.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Flagbit FACTFinder",
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-FACTFinder/tree/revert-216-improves-composer-description",
+                    "issues": "https://github.com/flagbit/Magento-FACTFinder/issues"
+                }
+            }
+        ]
+    }
+}

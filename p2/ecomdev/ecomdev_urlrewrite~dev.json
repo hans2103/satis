@@ -1,0 +1,82 @@
+{
+    "packages": {
+        "ecomdev/ecomdev_urlrewrite": [
+            {
+                "name": "ecomdev/ecomdev_urlrewrite",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Cotya/EcomDev_UrlRewrite.git",
+                    "reference": "ff28c7823c86f4baab554e03ac52b4a9bba6a1a1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Cotya/EcomDev_UrlRewrite/zipball/ff28c7823c86f4baab554e03ac52b4a9bba6a1a1",
+                    "reference": "ff28c7823c86f4baab554e03ac52b4a9bba6a1a1",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "ivanchepurnyi/ecomdev_phpunit": "dev-dev"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": ">=3.0"
+                },
+                "time": "2015-12-02T00:50:35+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ivan Chepurnyi"
+                    }
+                ],
+                "description": "Alternative Url Rewrite Implementation (former maintained from EcomDev, till they stopped to provide support)",
+                "homepage": "https://github.com/Cotya/EcomDev_UrlRewrite",
+                "support": {
+                    "source": "https://github.com/Cotya/EcomDev_UrlRewrite/tree/v0.2.1",
+                    "issues": "https://github.com/Cotya/EcomDev_UrlRewrite/issues"
+                }
+            },
+            {
+                "name": "ecomdev/ecomdev_urlrewrite",
+                "version": "dev-travis-experiment",
+                "version_normalized": "dev-travis-experiment",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Cotya/EcomDev_UrlRewrite.git",
+                    "reference": "9f1bbceefce33a160e02685a77376a32217b1978"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Cotya/EcomDev_UrlRewrite/zipball/9f1bbceefce33a160e02685a77376a32217b1978",
+                    "reference": "9f1bbceefce33a160e02685a77376a32217b1978",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "ivanchepurnyi/ecomdev_phpunit": "dev-dev"
+                },
+                "time": "2015-12-02T00:43:27+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ivan Chepurnyi"
+                    }
+                ],
+                "description": "Alternative Url Rewrite Implementation",
+                "homepage": "http://shop.ecomdev.org/url-rewrite-indexer.html",
+                "support": {
+                    "source": "https://github.com/Cotya/EcomDev_UrlRewrite/tree/travis-experiment",
+                    "issues": "https://github.com/Cotya/EcomDev_UrlRewrite/issues"
+                }
+            }
+        ]
+    }
+}

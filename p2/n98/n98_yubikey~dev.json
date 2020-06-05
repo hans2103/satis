@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "n98/n98_yubikey": [
+            {
+                "name": "n98/N98_Yubikey",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/netz98/N98_Yubikey.git",
+                    "reference": "b65f43b56cde778fbe0d5f662caf757a52beaf0b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/netz98/N98_Yubikey/zipball/b65f43b56cde778fbe0d5f662caf757a52beaf0b",
+                    "reference": "b65f43b56cde778fbe0d5f662caf757a52beaf0b",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-10-01T20:49:40+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "netz98 new media GmbH",
+                        "email": "magento@netz98.de"
+                    }
+                ],
+                "description": "Adds yubikey based two factor authentification to admin login",
+                "homepage": "https://github.com/netz98/N98_Yubikey",
+                "support": {
+                    "source": "https://github.com/netz98/N98_Yubikey/tree/master",
+                    "issues": "https://github.com/netz98/N98_Yubikey/issues"
+                }
+            }
+        ]
+    }
+}

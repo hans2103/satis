@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "connect20/fianet_sac": [
+            {
+                "name": "connect20/Fianet_Sac",
+                "version": "0.5.8",
+                "version_normalized": "0.5.8.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Fianet_Sac/0.5.8/Fianet_Sac-0.5.8.tgz"
+                },
+                "require": {
+                    "connect20/fianet_core": ">=0.5.7"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrice Beck",
+                        "email": "kalliser@gmail.com"
+                    }
+                ],
+                "description": "FIA-NET Système d'Analyse des Commandes"
+            },
+            {
+                "name": "connect20/Fianet_Sac",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Fianet_Sac/1.0.1/Fianet_Sac-1.0.1.tgz"
+                },
+                "require": {
+                    "connect20/official_fianet_core": "*"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "FIA-NET",
+                        "email": "support-boutique@fia-net.com"
+                    }
+                ],
+                "description": "FIA-NET Certissim"
+            }
+        ]
+    }
+}

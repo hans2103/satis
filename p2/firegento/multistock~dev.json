@@ -1,0 +1,66 @@
+{
+    "packages": {
+        "firegento/multistock": [
+            {
+                "name": "firegento/multistock",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/MultiStock.git",
+                    "reference": "88cda16987397cde882acf38dbf990d2977db4ff"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/MultiStock/zipball/88cda16987397cde882acf38dbf990d2977db4ff",
+                    "reference": "88cda16987397cde882acf38dbf990d2977db4ff",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "time": "2014-09-12T21:42:49+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "FireGento MultiStock will give you more than one stock and multiple stock items.",
+                "homepage": "https://github.com/magento-hackathon/MultiStock",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/MultiStock/tree/master",
+                    "issues": "https://github.com/magento-hackathon/MultiStock/issues"
+                }
+            },
+            {
+                "name": "firegento/multistock",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/MultiStock.git",
+                    "reference": "6fbd4a455672aa3f25fc5451d69dbef1a26964b7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/MultiStock/zipball/6fbd4a455672aa3f25fc5451d69dbef1a26964b7",
+                    "reference": "6fbd4a455672aa3f25fc5451d69dbef1a26964b7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-19T10:07:41+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "FireGento MultiStock will give you more than one stock and multiple stock items.",
+                "homepage": "https://github.com/magento-hackathon/MultiStock",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/MultiStock/tree/develop",
+                    "issues": "https://github.com/magento-hackathon/MultiStock/issues"
+                }
+            }
+        ]
+    }
+}

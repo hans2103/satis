@@ -1,0 +1,76 @@
+{
+    "packages": {
+        "aoepeople/aoe_modelcache": [
+            {
+                "name": "aoepeople/aoe_modelcache",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_ModelCache.git",
+                    "reference": "6b88db748d8aabba2e96de996b3c40905184f201"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_ModelCache/zipball/6b88db748d8aabba2e96de996b3c40905184f201",
+                    "reference": "6b88db748d8aabba2e96de996b3c40905184f201",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-26T04:08:15+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com"
+                    }
+                ],
+                "description": "Magento Model Cache",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_ModelCache/tree/master",
+                    "issues": "https://github.com/AOEpeople/Aoe_ModelCache/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_modelcache",
+                "version": "dev-experimental",
+                "version_normalized": "dev-experimental",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_ModelCache.git",
+                    "reference": "10275397c2115807158782af9ccc0473937e3655"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_ModelCache/zipball/10275397c2115807158782af9ccc0473937e3655",
+                    "reference": "10275397c2115807158782af9ccc0473937e3655",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-26T03:45:55+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com"
+                    }
+                ],
+                "description": "Magento Model Cache",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_ModelCache/tree/experimental",
+                    "issues": "https://github.com/AOEpeople/Aoe_ModelCache/issues"
+                }
+            }
+        ]
+    }
+}

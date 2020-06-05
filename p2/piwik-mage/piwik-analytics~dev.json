@@ -1,0 +1,38 @@
+{
+    "packages": {
+        "piwik-mage/piwik-analytics": [
+            {
+                "name": "piwik-mage/piwik-analytics",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/adrianspeyer/Piwik-for-Magento.git",
+                    "reference": "210270735d6a8adcc4af3b1ee46548e1b6e71067"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/adrianspeyer/Piwik-for-Magento/zipball/210270735d6a8adcc4af3b1ee46548e1b6e71067",
+                    "reference": "210270735d6a8adcc4af3b1ee46548e1b6e71067",
+                    "shasum": ""
+                },
+                "time": "2018-01-04T04:36:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Adrian Speyer",
+                        "email": "adrian@adrianspeyer.com"
+                    }
+                ],
+                "description": "This is a GPL released Extension that allows you to get your Magento Ecommerce Transaction data in your Piwik install.",
+                "support": {
+                    "source": "https://github.com/adrianspeyer/Piwik-for-Magento/tree/master",
+                    "issues": "https://github.com/adrianspeyer/Piwik-for-Magento/issues"
+                }
+            }
+        ]
+    }
+}

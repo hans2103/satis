@@ -1,0 +1,127 @@
+{
+    "packages": {
+        "qubit/universalvariable": [
+            {
+                "name": "qubit/universalvariable",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/QubitProducts/UniversalVariable-Magento-Extension.git",
+                    "reference": "156d991ab4d1476ca730d680339cf5a892944842"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/QubitProducts/UniversalVariable-Magento-Extension/zipball/156d991ab4d1476ca730d680339cf5a892944842",
+                    "reference": "156d991ab4d1476ca730d680339cf5a892944842",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-08-27T10:52:38+00:00",
+                "type": "magento-module",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jing Dong"
+                    }
+                ],
+                "description": "QuBit Universal Variable is our suggested way to structure the data presented on your pages. Affiliates, remarking or advertising tags become easier to implement. (https://github.com/QubitProducts/UniversalVariable-Magento-Extension)",
+                "support": {
+                    "source": "https://github.com/QubitProducts/UniversalVariable-Magento-Extension/tree/master",
+                    "issues": "https://github.com/QubitProducts/UniversalVariable-Magento-Extension/issues"
+                }
+            },
+            {
+                "name": "qubit/universalvariable",
+                "version": "dev-travis",
+                "version_normalized": "dev-travis",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/QubitProducts/UniversalVariable-Magento-Extension.git",
+                    "reference": "8357204c5b71d5a7fb4fb0a261675b0187eb0d29"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/QubitProducts/UniversalVariable-Magento-Extension/zipball/8357204c5b71d5a7fb4fb0a261675b0187eb0d29",
+                    "reference": "8357204c5b71d5a7fb4fb0a261675b0187eb0d29",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "ecomdev/mage-ci": "1.0.6"
+                },
+                "time": "2013-12-17T12:16:28+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "test/"
+                },
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jing Dong/@activars",
+                        "role": "maintainer"
+                    },
+                    {
+                        "name": "Robert Coleman/@rjocoleman",
+                        "role": "contributor"
+                    },
+                    {
+                        "name": "Rolando Granadino/@rgranadino",
+                        "role": "contributor"
+                    },
+                    {
+                        "name": "Rudger/@Rud5G",
+                        "role": "contributor"
+                    }
+                ],
+                "description": "QuBit Universal Variable is our suggested way to structure the data presented on your pages. Affiliates, remarking or advertising tags become easier to implement. (https://github.com/QubitProducts/UniversalVariable-Magento-Extension)",
+                "support": {
+                    "source": "https://github.com/QubitProducts/UniversalVariable-Magento-Extension/tree/travis",
+                    "issues": "https://github.com/QubitProducts/UniversalVariable-Magento-Extension/issues"
+                }
+            },
+            {
+                "name": "qubit/universalvariable",
+                "version": "dev-updates-rogan-2",
+                "version_normalized": "dev-updates-rogan-2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/QubitProducts/UniversalVariable-Magento-Extension.git",
+                    "reference": "89f5b6083919f6022e052cd67d6eda8eface0731"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/QubitProducts/UniversalVariable-Magento-Extension/zipball/89f5b6083919f6022e052cd67d6eda8eface0731",
+                    "reference": "89f5b6083919f6022e052cd67d6eda8eface0731",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-11-14T09:33:24+00:00",
+                "type": "magento-module",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jing Dong"
+                    }
+                ],
+                "description": "QuBit Universal Variable is our suggested way to structure the data presented on your pages. Affiliates, remarking or advertising tags become easier to implement. (https://github.com/QubitProducts/UniversalVariable-Magento-Extension)",
+                "support": {
+                    "source": "https://github.com/QubitProducts/UniversalVariable-Magento-Extension/tree/updates-rogan-2",
+                    "issues": "https://github.com/QubitProducts/UniversalVariable-Magento-Extension/issues"
+                }
+            }
+        ]
+    }
+}

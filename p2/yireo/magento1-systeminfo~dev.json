@@ -1,0 +1,53 @@
+{
+    "packages": {
+        "yireo/magento1-systeminfo": [
+            {
+                "name": "yireo/magento1-systeminfo",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/yireo/Yireo_SystemInfo.git",
+                    "reference": "8734a468c05406bb06a668d39c16c6dfe8a3cddc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/yireo/Yireo_SystemInfo/zipball/8734a468c05406bb06a668d39c16c6dfe8a3cddc",
+                    "reference": "8734a468c05406bb06a668d39c16c6dfe8a3cddc",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2019-05-30T11:55:04+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "source/"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Display useful system information in Magento backend",
+                "homepage": "https://github.com/yireo/Yireo_SystemInfo",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/yireo/Yireo_SystemInfo/tree/master",
+                    "issues": "https://github.com/yireo/Yireo_SystemInfo/issues"
+                }
+            }
+        ]
+    }
+}

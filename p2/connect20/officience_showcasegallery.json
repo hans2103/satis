@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/officience_showcasegallery": [
+            {
+                "name": "connect20/Officience_ShowcaseGallery",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Officience_ShowcaseGallery/0.1.0/Officience_ShowcaseGallery-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Officience",
+                        "email": "itdev.officience@gmail.com"
+                    }
+                ],
+                "description": "Showcase extension for Magento"
+            },
+            {
+                "name": "connect20/Officience_ShowcaseGallery",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Officience_ShowcaseGallery/0.1.1/Officience_ShowcaseGallery-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "ToThanhTrung",
+                        "email": "thanhtrung.to@officience.com"
+                    }
+                ],
+                "description": "This extension that allows customer can create the albums in order to promotion products"
+            }
+        ]
+    }
+}

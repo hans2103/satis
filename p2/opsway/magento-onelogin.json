@@ -1,0 +1,82 @@
+{
+    "packages": {
+        "opsway/magento-onelogin": [
+            {
+                "name": "opsway/magento-onelogin",
+                "version": "v1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/opsway/magento-mod-onelogin.git",
+                    "reference": "8ecec38f3a2687e17a288158b621838ac767a2b4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/opsway/magento-mod-onelogin/zipball/8ecec38f3a2687e17a288158b621838ac767a2b4",
+                    "reference": "8ecec38f3a2687e17a288158b621838ac767a2b4",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/opsway_opswayonelogin": "self.version"
+                },
+                "time": "2015-08-18T22:16:00+00:00",
+                "type": "magento-module",
+                "license": [
+                    "BSD-3-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Andriy Samilyak"
+                    }
+                ],
+                "description": "Module that makes it possible to login to Magento Admin via Onelogin Identity provider",
+                "homepage": "https://github.com/opsway/magento-mod-onelogin",
+                "support": {
+                    "source": "https://github.com/opsway/magento-mod-onelogin/tree/v1.0.0",
+                    "issues": "https://github.com/opsway/magento-mod-onelogin/issues"
+                }
+            },
+            {
+                "name": "opsway/magento-onelogin",
+                "version": "v1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/opsway/magento-mod-onelogin.git",
+                    "reference": "cda78ba834eb58eb6f6cbf1a733e4cefe1397da9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/opsway/magento-mod-onelogin/zipball/cda78ba834eb58eb6f6cbf1a733e4cefe1397da9",
+                    "reference": "cda78ba834eb58eb6f6cbf1a733e4cefe1397da9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/opsway_opswayonelogin": "self.version"
+                },
+                "time": "2016-01-14T20:59:13+00:00",
+                "type": "magento-module",
+                "license": [
+                    "BSD-3-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Andriy Samilyak"
+                    }
+                ],
+                "description": "Module that makes it possible to login to Magento Admin via Onelogin Identity provider",
+                "homepage": "https://github.com/opsway/magento-mod-onelogin",
+                "support": {
+                    "source": "https://github.com/opsway/magento-mod-onelogin/tree/v1.0.1",
+                    "issues": "https://github.com/opsway/magento-mod-onelogin/issues"
+                }
+            }
+        ]
+    }
+}

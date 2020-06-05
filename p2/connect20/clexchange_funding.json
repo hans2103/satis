@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/clexchange_funding": [
+            {
+                "name": "connect20/Clexchange_Funding",
+                "version": "1.0.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Clexchange_Funding/1.0/Clexchange_Funding-1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Dhananjay Goel",
+                        "email": "dhananjay.goel@agstechnologies.com"
+                    }
+                ],
+                "description": "CLX Funding allows users to submit an online loan application to lenders from the checkout page itself"
+            }
+        ]
+    }
+}

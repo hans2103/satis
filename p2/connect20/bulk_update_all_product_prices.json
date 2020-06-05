@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/bulk_update_all_product_prices": [
+            {
+                "name": "connect20/Bulk_Update_All_Product_Prices",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Bulk_Update_All_Product_Prices/1.1.2/Bulk_Update_All_Product_Prices-1.1.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "David Buell",
+                        "email": "support@savethemage.com"
+                    }
+                ],
+                "description": "Bulk update all of the products in your store with one action, adding or subtracting values."
+            },
+            {
+                "name": "connect20/Bulk_Update_All_Product_Prices",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Bulk_Update_All_Product_Prices/1.2.0/Bulk_Update_All_Product_Prices-1.2.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "SaveTheMage",
+                        "email": "support@savethemage.com"
+                    }
+                ],
+                "description": "Bulk update all of the products in your store with one action, adding or subtracting values."
+            }
+        ]
+    }
+}

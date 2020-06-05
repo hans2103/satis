@@ -1,0 +1,61 @@
+{
+    "packages": {
+        "connect20/modulesgarden_gpndata": [
+            {
+                "name": "connect20/Modulesgarden_Gpndata",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Modulesgarden_Gpndata/1.2.0/Modulesgarden_Gpndata-1.2.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "ModulesGarden",
+                        "email": "peter@inbsgroup.com"
+                    }
+                ],
+                "description": "ModulesGarden GPN DATA For Magento will allow you to integrate GPN DATA payment gateway with your Magento."
+            },
+            {
+                "name": "connect20/Modulesgarden_Gpndata",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Modulesgarden_Gpndata/1.2.1/Modulesgarden_Gpndata-1.2.1.tgz"
+                },
+                "require": {
+                    "connect20/modulesgarden_base": ">=1.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "ModulesGarden",
+                        "email": "peter@inbsgroup.com"
+                    }
+                ],
+                "description": "GPN DATA For Magento\r\n\r\nModulesGarden GPN DATA For Magento will allow you to integrate GPN DATA payment gateway with your Magento. \r\n\r\nModulesGarden GPN DATA For Magento will allow you to integrate GPN DATA payment gateway with your Magento. Owing to quick and simple installation and configuration of the extension you will be able to implement convenient and secure payment method to your online store!\r\n\r\nYou will be able to benefit from of all proven GPN DATA solutions, like e.g. recurring billing or 3D Secure. All this directly from your Magento!\r\n\r\nWith GPN DATA For Magento your online payments will become much more business friendly and secure."
+            }
+        ]
+    }
+}

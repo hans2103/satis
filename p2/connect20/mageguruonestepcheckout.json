@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/mageguruonestepcheckout": [
+            {
+                "name": "connect20/MageguruOneStepCheckout",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/mageguruonestepcheckout/1.0.1/mageguruonestepcheckout-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "developer",
+                        "email": "mageguruindia@gmail.com"
+                    }
+                ],
+                "description": "OneStepCheckout simplifies the checkout process of your  Store."
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/bothinteract_cleanproducttexts": [
+            {
+                "name": "connect20/BothInteract_CleanProductTexts",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/BothInteract_CleanProductTexts/1.0.0/BothInteract_CleanProductTexts-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT-License-(MITL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthias Kerstner",
+                        "email": "matthias@both-interact.com"
+                    }
+                ],
+                "description": "This extension helps you to automatically clean product texts."
+            },
+            {
+                "name": "connect20/BothInteract_CleanProductTexts",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/BothInteract_CleanProductTexts/1.1.0/BothInteract_CleanProductTexts-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT-License-(MITL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthias Kerstner",
+                        "email": "matthias@both-interact.com"
+                    }
+                ],
+                "description": "This extension helps you to automatically clean product texts."
+            }
+        ]
+    }
+}

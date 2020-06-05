@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/neteven_netevensync": [
+            {
+                "name": "connect20/neteven_netevensync",
+                "version": "1.0.8.7",
+                "version_normalized": "1.0.8.7",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/neteven_netevensync/1.0.8.7/neteven_netevensync-1.0.8.7.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Hervé Guétin",
+                        "email": "herve.guetin@agence-soon.fr"
+                    }
+                ],
+                "description": "Official connector to Neteven marketplace solution."
+            },
+            {
+                "name": "connect20/Neteven_NetevenSync",
+                "version": "2.2.4",
+                "version_normalized": "2.2.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/neteven_netevensync/2.2.4/neteven_netevensync-2.2.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jacques Bodin-Hullin",
+                        "email": "j.bodinhullin@monsieurbiz.com"
+                    }
+                ],
+                "description": "Official connector to Neteven marketplace solution."
+            }
+        ]
+    }
+}

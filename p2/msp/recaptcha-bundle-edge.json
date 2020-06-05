@@ -1,0 +1,48 @@
+{
+    "packages": {
+        "msp/recaptcha-bundle-edge": [
+            {
+                "name": "msp/recaptcha-bundle-edge",
+                "version": "2.2.2",
+                "version_normalized": "2.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/msp/recaptcha-bundle-edge/msp-recaptcha-bundle-edge-2.2.2.0.zip",
+                    "shasum": "48eb6f5f79ee4f40761c7e4d5df07a2d803afcd6"
+                },
+                "require": {
+                    "msp/recaptcha": "2.2.2"
+                },
+                "replace": {
+                    "msp/recaptcha-bundle": "<=2.2.2"
+                },
+                "type": "metapackage",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Bundling metapackage for msp/recaptcha: Google reCaptcha integration for Magento2 (Edge release!)"
+            },
+            {
+                "name": "msp/recaptcha-bundle-edge",
+                "version": "2.2.3",
+                "version_normalized": "2.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/msp/recaptcha-bundle-edge/msp-recaptcha-bundle-edge-2.2.3.0.zip",
+                    "shasum": "0c3129fb3884af4bb73b068d5bd1ee845d1091a9"
+                },
+                "require": {
+                    "msp/recaptcha": "2.2.3"
+                },
+                "replace": {
+                    "msp/recaptcha-bundle": "<=2.2.3"
+                },
+                "type": "metapackage",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Bundling metapackage for msp/recaptcha: Google reCaptcha integration for Magento2 (Edge release!)"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/sitewards_disabledproducts": [
+            {
+                "name": "connect20/sitewards_disabledproducts",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/sitewards_disabledproducts/1.0.0/sitewards_disabledproducts-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Sitewards Magento Team",
+                        "email": "magento@sitewards.com"
+                    }
+                ],
+                "description": "Extension to disable the add-to-cart button on products and to display a static cms block instead."
+            },
+            {
+                "name": "connect20/sitewards_disabledproducts",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/sitewards_disabledproducts/1.0.1/sitewards_disabledproducts-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Sitewards Magento Team",
+                        "email": "magento@sitewards.com"
+                    }
+                ],
+                "description": "Extension to disable the add-to-cart button on products and to display a static cms block instead."
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/rcdevs_openotp_authentication": [
+            {
+                "name": "connect20/RCDevs_OpenOTP_Authentication",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/RCDevs_OpenOTP_Authentication/1.1.2/RCDevs_OpenOTP_Authentication-1.1.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(-GPL-)"
+                ],
+                "authors": [
+                    {
+                        "name": "RCDevs",
+                        "email": "support@rcdevs.com"
+                    }
+                ],
+                "description": "This Plugin enables strong two factor authentication for admins and users to connect to administration panel"
+            },
+            {
+                "name": "connect20/RCDevs_OpenOTP_Authentication",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/RCDevs_OpenOTP_Authentication/1.1.3/RCDevs_OpenOTP_Authentication-1.1.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(-GPL-)"
+                ],
+                "authors": [
+                    {
+                        "name": "RCDevs",
+                        "email": "support@rcdevs.com"
+                    }
+                ],
+                "description": "This Plugin enables strong two factor authentication for admins and users to connect to administration panel"
+            }
+        ]
+    }
+}

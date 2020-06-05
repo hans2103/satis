@@ -1,0 +1,66 @@
+{
+    "packages": {
+        "loewenstark/newsletter": [
+            {
+                "name": "loewenstark/newsletter",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mklooss/Loewenstark_Newsletter.git",
+                    "reference": "dd3aef0109ac29e23afd985f08f5f81e2c88b38d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mklooss/Loewenstark_Newsletter/zipball/dd3aef0109ac29e23afd985f08f5f81e2c88b38d",
+                    "reference": "dd3aef0109ac29e23afd985f08f5f81e2c88b38d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-28T12:00:20+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "Unsubscribe form Newsletter in Magento",
+                "homepage": "https://github.com/mklooss/Loewenstark_Newsletter",
+                "support": {
+                    "source": "https://github.com/mklooss/Loewenstark_Newsletter/tree/v1.5.0.4",
+                    "issues": "https://github.com/mklooss/Loewenstark_Newsletter/issues"
+                }
+            },
+            {
+                "name": "loewenstark/newsletter",
+                "version": "dev-dev",
+                "version_normalized": "dev-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mklooss/Loewenstark_Newsletter.git",
+                    "reference": "1cc036f1ad382fd192801ae03a4a8be848a6aeea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mklooss/Loewenstark_Newsletter/zipball/1cc036f1ad382fd192801ae03a4a8be848a6aeea",
+                    "reference": "1cc036f1ad382fd192801ae03a4a8be848a6aeea",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-28T12:00:10+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "Unsubscribe form Newsletter in Magento",
+                "homepage": "https://github.com/mklooss/Loewenstark_Newsletter",
+                "support": {
+                    "source": "https://github.com/mklooss/Loewenstark_Newsletter/tree/dev",
+                    "issues": "https://github.com/mklooss/Loewenstark_Newsletter/issues"
+                }
+            }
+        ]
+    }
+}

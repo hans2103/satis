@@ -1,0 +1,38 @@
+{
+    "packages": {
+        "bastaya/log": [
+            {
+                "name": "bastaya/log",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bartnowaczyk/log.git",
+                    "reference": "023aa8ec52e3fbdaa5cb575ae9b21ac488bfa4b2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bartnowaczyk/log/zipball/023aa8ec52e3fbdaa5cb575ae9b21ac488bfa4b2",
+                    "reference": "023aa8ec52e3fbdaa5cb575ae9b21ac488bfa4b2",
+                    "shasum": ""
+                },
+                "time": "2017-03-22T14:27:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Bartek Nowaczyk",
+                        "email": "bart.nowaczyk@gmail.com"
+                    }
+                ],
+                "description": "Magento module to complex log information (using db, email, file, slack, hipchat)",
+                "support": {
+                    "source": "https://github.com/bartnowaczyk/log/tree/master",
+                    "issues": "https://github.com/bartnowaczyk/log/issues"
+                }
+            }
+        ]
+    }
+}

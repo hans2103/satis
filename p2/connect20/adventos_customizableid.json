@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/adventos_customizableid": [
+            {
+                "name": "connect20/Adventos_CustomizableId",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Adventos_CustomizableId/1.0.0/Adventos_CustomizableId-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Karsten Hoffmann",
+                        "email": "karsten@adventos.de"
+                    }
+                ],
+                "description": "Add Prefix to OrderId"
+            },
+            {
+                "name": "connect20/Adventos_CustomizableId",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Adventos_CustomizableId/1.0.1/Adventos_CustomizableId-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Karsten Hoffmann",
+                        "email": "karsten@adventos.de"
+                    }
+                ],
+                "description": "Add Prefix to OrderId"
+            }
+        ]
+    }
+}

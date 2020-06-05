@@ -1,0 +1,50 @@
+{
+    "packages": {
+        "aoepeople/aoe_classpathcache": [
+            {
+                "name": "aoepeople/aoe_classpathcache",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_ClassPathCache.git",
+                    "reference": "4930611645d42f468d776bceaeabf1fcb8f94ebf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_ClassPathCache/zipball/4930611645d42f468d776bceaeabf1fcb8f94ebf",
+                    "reference": "4930611645d42f468d776bceaeabf1fcb8f94ebf",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "require-dev": {
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2015-06-10T22:45:32+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "skip-package-deployment": true,
+                    "magento-root-dir": "./"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "{firstname}.{lastname}@aoe.com"
+                    }
+                ],
+                "description": "Class path cache for Magento autoloader.",
+                "homepage": "https://github.com/aoepeople/Aoe_ClassPathCache",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_ClassPathCache/tree/v0.5.2",
+                    "issues": "https://github.com/AOEpeople/Aoe_ClassPathCache/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "aydus/attributeproducts": [
+            {
+                "name": "aydus/attributeproducts",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/AttributeProducts.git",
+                    "reference": "53c93ebe9cc139e806f0610bd06eff72f9127c53"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/AttributeProducts/zipball/53c93ebe9cc139e806f0610bd06eff72f9127c53",
+                    "reference": "53c93ebe9cc139e806f0610bd06eff72f9127c53",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2015-08-11T17:30:45+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "davidt@aydus.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Widget to show a list of products having an attribute value.",
+                "homepage": "https://github.com/aydus/AttributeProducts.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/AttributeProducts/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/AttributeProducts/issues"
+                }
+            }
+        ]
+    }
+}

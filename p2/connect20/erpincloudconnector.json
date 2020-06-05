@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/erpincloudconnector": [
+            {
+                "name": "connect20/ERPinCloudConnector",
+                "version": "2.1.2",
+                "version_normalized": "2.1.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ERPinCloudConnector/2.1.2/ERPinCloudConnector-2.1.2.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Team ERPInCloud",
+                        "email": "sales@erpincloud.com"
+                    }
+                ],
+                "description": "ERPinCloud Connector"
+            }
+        ]
+    }
+}

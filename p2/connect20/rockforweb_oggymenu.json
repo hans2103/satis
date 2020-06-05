@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/rockforweb_oggymenu": [
+            {
+                "name": "connect20/Rockforweb_Oggymenu",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Rockforweb_Oggymenu/1.0.0/Rockforweb_Oggymenu-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_latest": ">=1.7.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "rockforweb",
+                        "email": "rockforweb@yandex.ru"
+                    }
+                ],
+                "description": "Responsive drop down menu. Might contain product categories, cms pages. Can display product count for categories in menu."
+            }
+        ]
+    }
+}

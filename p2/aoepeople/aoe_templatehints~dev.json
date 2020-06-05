@@ -1,0 +1,46 @@
+{
+    "packages": {
+        "aoepeople/aoe_templatehints": [
+            {
+                "name": "aoepeople/aoe_templatehints",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_TemplateHints.git",
+                    "reference": "417bc451fbbe5f51e093af249a8a4b3ee54fee3b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_TemplateHints/zipball/417bc451fbbe5f51e093af249a8a4b3ee54fee3b",
+                    "reference": "417bc451fbbe5f51e093af249a8a4b3ee54fee3b",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "aoemedia/aoe_templatehints": "*",
+                    "fbrnc/aoe_templatehints": "*"
+                },
+                "time": "2017-03-23T15:56:07+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "{firtname}.{lastname}@aoe.com"
+                    }
+                ],
+                "description": "Advanced Template Hints for Magento",
+                "homepage": "http://www.fabrizio-branca.de/magento-advanced-template-hints-20.html",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_TemplateHints/tree/v0.4.4",
+                    "issues": "https://github.com/AOEpeople/Aoe_TemplateHints/issues"
+                }
+            }
+        ]
+    }
+}

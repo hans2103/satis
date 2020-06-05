@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "avstudnitz/admin-notification-advanced": [
+            {
+                "name": "avstudnitz/admin-notification-advanced",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_AdminNotificationAdvanced.git",
+                    "reference": "983f8c0212c101c51ed0c13f8e2d3fbc0b3bb00a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_AdminNotificationAdvanced/zipball/983f8c0212c101c51ed0c13f8e2d3fbc0b3bb00a",
+                    "reference": "983f8c0212c101c51ed0c13f8e2d3fbc0b3bb00a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-05-27T13:37:06+00:00",
+                "type": "magento-module",
+                "description": "Adds options to mark all messages unread or remove all messages from admin notification popup and toolbar.",
+                "homepage": "https://github.com/avstudnitz/AvS_AdminNotificationAdvanced",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_AdminNotificationAdvanced/tree/master",
+                    "issues": "https://github.com/avstudnitz/AvS_AdminNotificationAdvanced/issues"
+                }
+            }
+        ]
+    }
+}

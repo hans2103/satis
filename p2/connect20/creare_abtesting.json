@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/creare_abtesting": [
+            {
+                "name": "connect20/Creare_Abtesting",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Creare_Abtesting/0.1.0/Creare_Abtesting-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Robert Kent",
+                        "email": "magento@creare.co.uk"
+                    }
+                ],
+                "description": "Split testing Magento using 3 seperate Google Analytics accounts - and 2 themes."
+            }
+        ]
+    }
+}

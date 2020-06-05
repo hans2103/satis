@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "dabio/singleshipping": [
+            {
+                "name": "dabio/singleshipping",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/dabio/magento-singleshipping.git",
+                    "reference": "142462812ec057596115e93fdd7e442fbb15d285"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/dabio/magento-singleshipping/zipball/142462812ec057596115e93fdd7e442fbb15d285",
+                    "reference": "142462812ec057596115e93fdd7e442fbb15d285",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-07-25T08:15:07+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Danilo Braband",
+                        "email": "dbraband@gmail.com"
+                    }
+                ],
+                "description": "Allows to checkout with a single shipping method without annoy the user.",
+                "support": {
+                    "source": "https://github.com/dabio/magento-singleshipping/tree/master",
+                    "issues": "https://github.com/dabio/magento-singleshipping/issues"
+                }
+            }
+        ]
+    }
+}

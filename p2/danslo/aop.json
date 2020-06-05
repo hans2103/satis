@@ -1,0 +1,48 @@
+{
+    "packages": {
+        "danslo/aop": [
+            {
+                "name": "danslo/aop",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/danslo/Danslo_Aop.git",
+                    "reference": "5b9a5516c3d3ac5fa4fd1fd88ab96fe1b06f00db"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/danslo/Danslo_Aop/zipball/5b9a5516c3d3ac5fa4fd1fd88ab96fe1b06f00db",
+                    "reference": "5b9a5516c3d3ac5fa4fd1fd88ab96fe1b06f00db",
+                    "shasum": ""
+                },
+                "require": {
+                    "goaop/framework": "1.0.*",
+                    "magento-hackathon/magento-composer-installer": "3.0.*",
+                    "mikey179/vfsstream": "1.4.*"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "0.3.*"
+                },
+                "time": "2015-11-12T11:31:08+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "."
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Sloof"
+                    }
+                ],
+                "description": "Bringing aspect oriented programming to Magento.",
+                "support": {
+                    "source": "https://github.com/danslo/Danslo_Aop/tree/0.1.0",
+                    "issues": "https://github.com/danslo/Danslo_Aop/issues"
+                }
+            }
+        ]
+    }
+}

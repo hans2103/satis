@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/inriver_pim_extension": [
+            {
+                "name": "connect20/InRiver_PIM_Extension",
+                "version": "5.3.0.0",
+                "version_normalized": "5.3.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/InRiver_PIM_Extension/5.3.0.0/InRiver_PIM_Extension-5.3.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Andreas Hellström",
+                        "email": "andreas.hellstrom@inriver.com"
+                    }
+                ],
+                "description": "Integrate inRiver PIM & Magento with this extension package"
+            }
+        ]
+    }
+}

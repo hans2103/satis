@@ -1,0 +1,90 @@
+{
+    "packages": {
+        "connect20/planetpay_ipaygateway": [
+            {
+                "name": "connect20/planetpay_ipaygateway",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/planetpay_ipaygateway/1.0.7/planetpay_ipaygateway-1.0.7.tgz"
+                },
+                "require": {
+                    "connect20/mage_adminhtml": "*",
+                    "connect20/mage_checkout": "*",
+                    "connect20/mage_customer": "*",
+                    "connect20/mage_payment": "*"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Brad Seeley",
+                        "email": "bseeley@planetpayment.com"
+                    }
+                ],
+                "description": "Magento Payment Method and Currency Conversion extension to use service provided by Planet Payment."
+            },
+            {
+                "name": "connect20/planetpay_ipaygateway",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/planetpay_ipaygateway/1.0.8/planetpay_ipaygateway-1.0.8.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-v.-3.0-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Brad Seeley",
+                        "email": "bseeley@planetpayment.com"
+                    }
+                ],
+                "description": "Magento Payment Method and Currency Conversion extension to use service provided by Planet Payment."
+            },
+            {
+                "name": "connect20/planetpay_ipaygateway",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/planetpay_ipaygateway/1.0.9/planetpay_ipaygateway-1.0.9.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-v.-3.0-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Brad Seeley",
+                        "email": "bseeley@planetpayment.com"
+                    }
+                ],
+                "description": "Magento Payment Method and Currency Conversion extension to use service provided by Planet Payment"
+            }
+        ]
+    }
+}

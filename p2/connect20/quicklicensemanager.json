@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/quicklicensemanager": [
+            {
+                "name": "connect20/QuickLicenseManager",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/QuickLicenseManager/1.0.1/QuickLicenseManager-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "LGPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Soraco Technologies",
+                        "email": "ralph@soraco.co"
+                    }
+                ],
+                "description": "Integration of Quick License Manager with Magento"
+            },
+            {
+                "name": "connect20/QuickLicenseManager",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/QuickLicenseManager/1.0.2/QuickLicenseManager-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "LGPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Soraco Technologies",
+                        "email": "ralph@soraco.co"
+                    }
+                ],
+                "description": "Integrates QLM with Magento by automatically generating a license key when a new order is placed.\r\n\r\n"
+            }
+        ]
+    }
+}

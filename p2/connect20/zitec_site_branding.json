@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/zitec_site_branding": [
+            {
+                "name": "connect20/Zitec_Site_Branding",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Zitec_Site_Branding/0.1.0/Zitec_Site_Branding-0.1.0.tgz"
+                },
+                "require": {
+                    "connect20/magento_core_modules": ">=1.7.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Alexandru Enciu",
+                        "email": "alexandru.enciu@zitec.ro"
+                    }
+                ],
+                "description": "Offers the possibility to change the site background from the admin interface: flexible, easy to use."
+            }
+        ]
+    }
+}

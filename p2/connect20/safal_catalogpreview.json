@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/safal_catalogpreview": [
+            {
+                "name": "connect20/Safal_Catalogpreview",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Safal_Catalogpreview/1.0.1/Safal_Catalogpreview-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "SafalWeb",
+                        "email": "ankit.ank25@gmail.com"
+                    }
+                ],
+                "description": "Safal Catalog Preview is an extension to preview enlarge product image to customers on your store. \r\n\r\nIt's fully customizable from admin."
+            }
+        ]
+    }
+}

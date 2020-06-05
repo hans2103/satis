@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/fulfillment_ordersync": [
+            {
+                "name": "connect20/Fulfillment_Ordersync",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Fulfillment_Ordersync/1.0.0/Fulfillment_Ordersync-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Storeship",
+                        "email": "sales@storeship.co.uk"
+                    }
+                ],
+                "description": "To sync the Magento orders with Storeship for shipping"
+            },
+            {
+                "name": "connect20/Fulfillment_Ordersync",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Fulfillment_Ordersync/1.0.1/Fulfillment_Ordersync-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Storeship",
+                        "email": "sales@storeship.co.uk"
+                    }
+                ],
+                "description": "To sync the Magento orders with Storeship for shipping"
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "packages": {
+        "webgriffe/discount-sticker-extension": [
+            {
+                "name": "webgriffe/discount-sticker-extension",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/webgriffe/discount-sticker-extension.git",
+                    "reference": "50a15aa4e05879e148e39b1a8a43df9a1220c1b9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/webgriffe/discount-sticker-extension/zipball/50a15aa4e05879e148e39b1a8a43df9a1220c1b9",
+                    "reference": "50a15aa4e05879e148e39b1a8a43df9a1220c1b9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "dev-dev"
+                },
+                "time": "2017-11-16T15:50:05+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "magento"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Webgriffe Srl",
+                        "email": "info@webgriffe.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/webgriffe/discount-sticker-extension/tree/1.0.0",
+                    "issues": "https://github.com/webgriffe/discount-sticker-extension/issues"
+                }
+            }
+        ]
+    }
+}

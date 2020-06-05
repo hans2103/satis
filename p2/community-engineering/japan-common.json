@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "community-engineering/japan-common": [
+            {
+                "name": "community-engineering/japan-common",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/community-engineering/japan-common/community-engineering-japan-common-1.0.0.0.zip",
+                    "shasum": "7cb8fe0ab736668dce5abacf7a7ef113f6e298ce"
+                },
+                "require": {
+                    "community-engineering/language-ja_jp": "1.0.0",
+                    "community-engineering/module-configurable-pdf-font": "1.0.0",
+                    "community-engineering/module-currency-precision": "1.0.0",
+                    "community-engineering/module-font-ipa": "1.0.0",
+                    "community-engineering/module-font-source-han-sans-japanese": "1.0.0",
+                    "community-engineering/module-japanese-address": "1.0.0",
+                    "community-engineering/module-japanese-default-cms-pages": "1.0.0",
+                    "community-engineering/module-japanese-default-config": "1.0.0",
+                    "community-engineering/module-japanese-name": "1.0.0",
+                    "community-engineering/module-japanese-postal-code": "1.0.0",
+                    "community-engineering/module-japanese-region": "1.0.0",
+                    "community-engineering/module-japanese-store-address": "1.0.0",
+                    "community-engineering/module-japanese-url-rewrite": "1.0.0",
+                    "community-engineering/module-japanese-yen-formatting": "1.0.0",
+                    "community-engineering/module-kuromoji": "1.0.0"
+                },
+                "type": "metapackage",
+                "description": "Magento Japanese localization meta package."
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "lilmuckers/magento-lilmuckers_queue": [
+            {
+                "name": "lilmuckers/magento-lilmuckers_queue",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/lilmuckers/magento-lilmuckers_queue.git",
+                    "reference": "e73d1f28e9ed587ccf3c832ef9a5c279ccbddfa1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/lilmuckers/magento-lilmuckers_queue/zipball/e73d1f28e9ed587ccf3c832ef9a5c279ccbddfa1",
+                    "reference": "e73d1f28e9ed587ccf3c832ef9a5c279ccbddfa1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-04-13T13:36:53+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Patrick McKinley",
+                        "email": "contact@patrick-mckinley.com"
+                    }
+                ],
+                "description": "A generic multi-adapter queuing system for magento.",
+                "support": {
+                    "source": "https://github.com/lilmuckers/magento-lilmuckers_queue/tree/master",
+                    "issues": "https://github.com/lilmuckers/magento-lilmuckers_queue/issues"
+                }
+            }
+        ]
+    }
+}

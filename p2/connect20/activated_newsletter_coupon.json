@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/activated_newsletter_coupon": [
+            {
+                "name": "connect20/Activated_Newsletter_Coupon",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Activated_Newsletter_Coupon/1.0.0/Activated_Newsletter_Coupon-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "EULA"
+                ],
+                "authors": [
+                    {
+                        "name": "Activated Apps",
+                        "email": "admin@activatedapps.com"
+                    }
+                ],
+                "description": "Send coupons on newsletter sign up."
+            },
+            {
+                "name": "connect20/Activated_Newsletter_Coupon",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Activated_Newsletter_Coupon/1.0.1/Activated_Newsletter_Coupon-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "EULA"
+                ],
+                "authors": [
+                    {
+                        "name": "Activated Apps",
+                        "email": "admin@activatedapps.com"
+                    }
+                ],
+                "description": "Send coupons on newsletter sign up."
+            }
+        ]
+    }
+}

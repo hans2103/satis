@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/casengo_chat_widget": [
+            {
+                "name": "connect20/Casengo_Chat_Widget",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Casengo_Chat_Widget/1.0.0/Casengo_Chat_Widget-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Casengo Corporate",
+                        "email": "support@casengo.com"
+                    }
+                ],
+                "description": "This plugin adds the Casengo chat widget to every page of your Magento website or blog.\r\n"
+            }
+        ]
+    }
+}

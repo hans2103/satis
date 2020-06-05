@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/brunobrasilweb_fretegratis": [
+            {
+                "name": "connect20/Brunobrasilweb_FreteGratis",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Brunobrasilweb_FreteGratis/0.1.0/Brunobrasilweb_FreteGratis-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Apache-License,-Version-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Bruno Brasil",
+                        "email": "brunobrasilweb@gmail.com"
+                    }
+                ],
+                "description": "Extensão para frete grátis por faixa de CEP Brasileiro."
+            }
+        ]
+    }
+}

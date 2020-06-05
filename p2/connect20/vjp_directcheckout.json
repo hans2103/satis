@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/vjp_directcheckout": [
+            {
+                "name": "connect20/VJP_DirectCheckout",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/VJP_DirectCheckout/1.0.0/VJP_DirectCheckout-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "vishal4671",
+                        "email": "vishal6714@gmail.com"
+                    }
+                ],
+                "description": "Direct Checkout"
+            },
+            {
+                "name": "connect20/VJP_DirectCheckout",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/VJP_DirectCheckout/1.0.1/VJP_DirectCheckout-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "vishal4671",
+                        "email": "vishal6714@gmail.com"
+                    }
+                ],
+                "description": "Direct Checkout"
+            }
+        ]
+    }
+}

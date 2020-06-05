@@ -1,0 +1,45 @@
+{
+    "packages": {
+        "riconeitzel/payment-filter": [
+            {
+                "name": "riconeitzel/payment-filter",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/riconeitzel/PaymentFilter.git",
+                    "reference": "1f767d5c0067b4e5ad5c41363cb358fbbc548bca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/riconeitzel/PaymentFilter/zipball/1f767d5c0067b4e5ad5c41363cb358fbbc548bca",
+                    "reference": "1f767d5c0067b4e5ad5c41363cb358fbbc548bca",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-10-12T07:51:34+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    },
+                    {
+                        "name": "Rico Neitzel",
+                        "email": "info@buro71a.de"
+                    }
+                ],
+                "description": "Magento PaymentFilter for Products and Customer Groups",
+                "support": {
+                    "source": "https://github.com/riconeitzel/PaymentFilter/tree/master",
+                    "issues": "https://github.com/riconeitzel/PaymentFilter/issues"
+                }
+            }
+        ]
+    }
+}

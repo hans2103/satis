@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/catagory_and_product_shipping": [
+            {
+                "name": "connect20/catagory_and_product_shipping",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/catagory_and_product_shipping/1.0.0/catagory_and_product_shipping-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Khemchand Joshi",
+                        "email": "khemchandj@a3logics.com"
+                    }
+                ],
+                "description": "Perfect solution to add flat-rate shipping charges to any product/category specifically, that would work flawless regardless of the feature and functionality of your store."
+            }
+        ]
+    }
+}

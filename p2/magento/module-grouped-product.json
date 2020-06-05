@@ -1,0 +1,1676 @@
+{
+    "packages": {
+        "magento/module-grouped-product": [
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.0.2",
+                "version_normalized": "100.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.0.2.0.zip",
+                    "shasum": "b330326bdd2883cac228c9da09b23066f4094ef1"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-msrp": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.0.3",
+                "version_normalized": "100.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.0.3.0.zip",
+                    "shasum": "dcb2be8b2ecdffb7e7d90360191e807b58fe7ab9"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-msrp": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.0.4",
+                "version_normalized": "100.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.0.4.0.zip",
+                    "shasum": "e3fcf4f84ee52bad039098d41906bac9013467d4"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-msrp": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.0.5",
+                "version_normalized": "100.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.0.5.0.zip",
+                    "shasum": "e06f107530068cf9cd67961778378a4affdd90b5"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-msrp": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.0.6",
+                "version_normalized": "100.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.0.6.0.zip",
+                    "shasum": "e0411186bb69c8983f865034cbcb76081e0722bf"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-msrp": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.0.7",
+                "version_normalized": "100.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.0.7.0.zip",
+                    "shasum": "80fe4788216365bb8274c54337190482e285d7b9"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-msrp": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.0.8",
+                "version_normalized": "100.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.0.8.0.zip",
+                    "shasum": "eb791e060bf29f2d9a25d80434a65da981e83ff1"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-msrp": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.1.0",
+                "version_normalized": "100.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.1.0.0.zip",
+                    "shasum": "3c986f526a5da33df5a3cab16f3a91f49d18fd60"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-msrp": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.1.0-rc1",
+                "version_normalized": "100.1.0.0-RC1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.1.0.0-RC1.zip",
+                    "shasum": "816ad4a92068184ec2eb1b4e1fb351aa8ad07111"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-msrp": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.1.0-rc2",
+                "version_normalized": "100.1.0.0-RC2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.1.0.0-RC2.zip",
+                    "shasum": "a38baa6ec44d3d0a7e845b6ae2d6864372cfdea4"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-msrp": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.1.0-rc3",
+                "version_normalized": "100.1.0.0-RC3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.1.0.0-RC3.zip",
+                    "shasum": "3345096366b76e0e9d49d5f7a82c5ff8858b4e35"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-msrp": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.1.1",
+                "version_normalized": "100.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.1.1.0.zip",
+                    "shasum": "ce3098a887c1884b4aca3e554e7a77fc613610cf"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-msrp": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.1.2",
+                "version_normalized": "100.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.1.2.0.zip",
+                    "shasum": "1ce0dcae4bce264590ad1353a851d8de1cdcd5e3"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-msrp": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.1.3",
+                "version_normalized": "100.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.1.3.0.zip",
+                    "shasum": "976b055abdb6e1b59cc2e46d813136ccbc808783"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-msrp": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.1.4",
+                "version_normalized": "100.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.1.4.0.zip",
+                    "shasum": "559d5dc899c4804a7737655b7c385a94e5271ed6"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-msrp": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.1.5",
+                "version_normalized": "100.1.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.1.5.0.zip",
+                    "shasum": "fbf7be81082f1e6600cf67c091272215b4a17b4d"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-msrp": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.1.6",
+                "version_normalized": "100.1.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.1.6.0.zip",
+                    "shasum": "7e03e5676d09d849f6f06b39ade9fb4b3fb2e3c3"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-msrp": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.1.7",
+                "version_normalized": "100.1.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.1.7.0.zip",
+                    "shasum": "2fb77f258cbadc2591baef58ddfc0ef18edbfc32"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-msrp": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.2.0",
+                "version_normalized": "100.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.2.0.0.zip",
+                    "shasum": "929b9576f5d09eff819e8b7414ff09d69788b890"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-msrp": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.2.0-rc20",
+                "version_normalized": "100.2.0.0-RC20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.2.0.0-RC20.zip",
+                    "shasum": "b64eef12f34fbb62feb58947a89f8a72c20e2821"
+                },
+                "require": {
+                    "magento/framework": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "101.1.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "100.2.*",
+                    "magento/module-eav": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-msrp": "100.2.*",
+                    "magento/module-quote": "100.2.*",
+                    "magento/module-sales": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.2.0-rc21",
+                "version_normalized": "100.2.0.0-RC21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.2.0.0-RC21.zip",
+                    "shasum": "c0dd9241373a28dc65fe1b28cac45fbcf7bcaada"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-msrp": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.2.0-rc22",
+                "version_normalized": "100.2.0.0-RC22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.2.0.0-RC22.zip",
+                    "shasum": "138020a53f93138e035b08b98941b918375edd29"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-msrp": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.2.0-rc23",
+                "version_normalized": "100.2.0.0-RC23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.2.0.0-RC23.zip",
+                    "shasum": "42e675deee6ec696fe60ea48c94feed157eb89b5"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-msrp": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.2.0-rc30",
+                "version_normalized": "100.2.0.0-RC30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.2.0.0-RC30.zip",
+                    "shasum": "9666c916faf6701f4d2d025259ffb7272a1bcba2"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-msrp": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.2.1",
+                "version_normalized": "100.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.2.1.0.zip",
+                    "shasum": "09e33af942586078cb3ff299980a22e12ae85ad6"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-msrp": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.2.2",
+                "version_normalized": "100.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.2.2.0.zip",
+                    "shasum": "5fb2547b2847f92e7f66f4a9e35fb8716b1aa3a4"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-msrp": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.2.3",
+                "version_normalized": "100.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.2.3.0.zip",
+                    "shasum": "ee6dc1c512a49acf70d6f8489b6a64f35df67812"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-msrp": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.2.4",
+                "version_normalized": "100.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.2.4.0.zip",
+                    "shasum": "1603b092c1c15f488a3e23cc93aee1c1b197d403"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-msrp": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.2.5",
+                "version_normalized": "100.2.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.2.5.0.zip",
+                    "shasum": "5e7230f214bc434c53717b660e438795cdc1475b"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-msrp": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.2.6",
+                "version_normalized": "100.2.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.2.6.0.zip",
+                    "shasum": "7588fe1e8cf62481f3389ad026cc71c3d303498a"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-msrp": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.2.7",
+                "version_normalized": "100.2.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.2.7.0.zip",
+                    "shasum": "3e803a7174b8abac2a350f221d49c39067050760"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-msrp": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.2.8",
+                "version_normalized": "100.2.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.2.8.0.zip",
+                    "shasum": "888e07e041f25f3abdf3775089c335a7abc76048"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-msrp": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "~7.0.13|~7.1.0|~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.2.9",
+                "version_normalized": "100.2.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.2.9.0.zip",
+                    "shasum": "3e4abdb1469bea3c1dee46b7e67dafcb3042cae2"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-msrp": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "~7.0.13||~7.1.0||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.3.0",
+                "version_normalized": "100.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.3.0.0.zip",
+                    "shasum": "cc51a59b54568f509e2baa5aff90f866be4ead5a"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-msrp": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version: 100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.3.1",
+                "version_normalized": "100.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.3.1.0.zip",
+                    "shasum": "a80950a2b6919304e818ea52e5bbbd450f272130"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-msrp": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version: 100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.3.2",
+                "version_normalized": "100.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.3.2.0.zip",
+                    "shasum": "f980d6a21b908a8431330b7ed9bd056bc0cd77de"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-msrp": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version: 100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.3.3",
+                "version_normalized": "100.3.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.3.3.0.zip",
+                    "shasum": "567ce59cc3c726c2e717ed879482ee180ff1aa39"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-msrp": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version: 100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.3.4",
+                "version_normalized": "100.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.3.4.0.zip",
+                    "shasum": "7c7a77114f45a3ae5bcc3639ebf371b174b3d16c"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-msrp": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version: 100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-product",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-grouped-product/magento-module-grouped-product-100.3.5.0.zip",
+                    "shasum": "dff2cd3eadb14e05ce647448487b4e5607a8fb45"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-msrp": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-grouped-product-sample-data": "Sample Data version: 100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

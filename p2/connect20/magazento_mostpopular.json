@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/magazento_mostpopular": [
+            {
+                "name": "connect20/magazento_mostpopular",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/magazento_mostpopular/1.0.0/magazento_mostpopular-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "volgodark",
+                        "email": "volgodark@gmail.com"
+                    }
+                ],
+                "description": "Most-viewed products in sidebars. Magento 1.4+ and configurable products support."
+            },
+            {
+                "name": "connect20/magazento_mostpopular",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/magazento_mostpopular/1.0.3/magazento_mostpopular-1.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "volgodark",
+                        "email": "volgodark@gmail.com"
+                    }
+                ],
+                "description": "Most-viewed products in sidebars. Magento 1.4+ and configurable products support."
+            }
+        ]
+    }
+}

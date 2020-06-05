@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "aligent/missingcustomerfix": [
+            {
+                "name": "aligent/missingcustomerfix",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/MissingCustomerFix.git",
+                    "reference": "1ab30ffcc5f9872f2893890173f6f88f88007848"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/MissingCustomerFix/zipball/1ab30ffcc5f9872f2893890173f6f88f88007848",
+                    "reference": "1ab30ffcc5f9872f2893890173f6f88f88007848",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-02-28T00:57:19+00:00",
+                "type": "magento-module",
+                "description": "Work-around to restore lost customer details on Magento orders.",
+                "homepage": "https://github.com/aligent/MissingCustomerFix",
+                "support": {
+                    "source": "https://github.com/aligent/MissingCustomerFix/tree/master",
+                    "issues": "https://github.com/aligent/MissingCustomerFix/issues"
+                }
+            }
+        ]
+    }
+}

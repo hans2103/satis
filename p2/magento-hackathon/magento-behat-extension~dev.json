@@ -1,0 +1,52 @@
+{
+    "packages": {
+        "magento-hackathon/magento-behat-extension": [
+            {
+                "name": "magento-hackathon/magento-behat-extension",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/MageBehat.git",
+                    "reference": "2eb4fe0672813ffb61389274640b18c6f14c9a9b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/MageBehat/zipball/2eb4fe0672813ffb61389274640b18c6f14c9a9b",
+                    "reference": "2eb4fe0672813ffb61389274640b18c6f14c9a9b",
+                    "shasum": ""
+                },
+                "require": {
+                    "behat/behat": "2.4.4",
+                    "behat/mink-browserkit-driver": "*",
+                    "behat/mink-extension": "*",
+                    "behat/mink-goutte-driver": ">=1.0.3",
+                    "behat/mink-selenium2-driver": "*",
+                    "magetest": "dev-master",
+                    "php": ">=5.3.0"
+                },
+                "time": "2013-05-27T17:14:03+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "MageTest": "lib/MageTest/src"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "description": "MageBehat - framework to run Behat/Mink for Magento extension integration tests",
+                "homepage": "https://github.com/magento-hackathon/MageBehat",
+                "keywords": [
+                    "bdd",
+                    "behat",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/magento-hackathon/MageBehat/tree/master",
+                    "issues": "https://github.com/magento-hackathon/MageBehat/issues"
+                }
+            }
+        ]
+    }
+}

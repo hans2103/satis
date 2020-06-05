@@ -1,0 +1,52 @@
+{
+    "packages": {
+        "firegento/fastsimpleimportdemo": [
+            {
+                "name": "firegento/fastsimpleimportdemo",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/firegento/FireGento_FastSimpleImport2_Demo.git",
+                    "reference": "4b381e513f5f9c64928c0c80234873b10a4cc140"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/firegento/FireGento_FastSimpleImport2_Demo/zipball/4b381e513f5f9c64928c0c80234873b10a4cc140",
+                    "reference": "4b381e513f5f9c64928c0c80234873b10a4cc140",
+                    "shasum": ""
+                },
+                "require": {
+                    "firegento/fastsimpleimport": "*",
+                    "league/csv": "^9.0",
+                    "php": "~5.6|~7.0|~7.1"
+                },
+                "time": "2020-05-06T08:24:52+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "FireGento\\FastSimpleImportDemo\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Team FireGento",
+                        "email": "team@firegento.com"
+                    }
+                ],
+                "description": "Wrapper for Magento2 ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/magento-hackathon/FireGento_FastSimpleImport2_Demo",
+                "support": {
+                    "source": "https://github.com/firegento/FireGento_FastSimpleImport2_Demo/tree/master",
+                    "issues": "https://github.com/firegento/FireGento_FastSimpleImport2_Demo/issues"
+                }
+            }
+        ]
+    }
+}

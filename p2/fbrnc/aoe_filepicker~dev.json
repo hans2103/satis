@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "fbrnc/aoe_filepicker": [
+            {
+                "name": "fbrnc/aoe_filepicker",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fbrnc/Aoe_FilePicker.git",
+                    "reference": "ba7ffedf36fa8d97ea558f918ecf7925f228cf17"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/fbrnc/Aoe_FilePicker/zipball/ba7ffedf36fa8d97ea558f918ecf7925f228cf17",
+                    "reference": "ba7ffedf36fa8d97ea558f918ecf7925f228cf17",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-01-17T04:56:09+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Integrates Filepicker.io into Magento.",
+                "homepage": "http://www.fabrizio-branca.de/uploading-product-images-to-magento-using-aoe-filepicker.html",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_FilePicker/tree/master",
+                    "issues": "https://github.com/fbrnc/Aoe_FilePicker/issues"
+                }
+            }
+        ]
+    }
+}

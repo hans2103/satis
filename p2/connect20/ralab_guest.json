@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/ralab_guest": [
+            {
+                "name": "connect20/Ralab_Guest",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ralab_Guest/1.0.0/Ralab_Guest-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Kalpesh Balar",
+                        "email": "kalpeshbalar@gmail.com"
+                    }
+                ],
+                "description": "Adds the ability convert all guest users into registered customers. "
+            },
+            {
+                "name": "connect20/Ralab_Guest",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ralab_Guest/1.0.1/Ralab_Guest-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Kalpesh Balar",
+                        "email": "kalpeshbalar@gmail.com"
+                    }
+                ],
+                "description": "Adds the ability convert guest users into registered customers. "
+            }
+        ]
+    }
+}

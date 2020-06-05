@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "n98/n98_infofiles": [
+            {
+                "name": "n98/n98_infofiles",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/netz98/N98_InfoFiles.git",
+                    "reference": "253026212b5d4b14187b7ff5d602c3b9c53c20f7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/netz98/N98_InfoFiles/zipball/253026212b5d4b14187b7ff5d602c3b9c53c20f7",
+                    "reference": "253026212b5d4b14187b7ff5d602c3b9c53c20f7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-04-21T11:59:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "netz98 new media GmbH",
+                        "email": "magento@netz98.de"
+                    }
+                ],
+                "description": "Provide downloadable informational files for products.",
+                "homepage": "https://github.com/netz98/N98_InfoFiles",
+                "support": {
+                    "source": "https://github.com/netz98/N98_InfoFiles/tree/master",
+                    "issues": "https://github.com/netz98/N98_InfoFiles/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/xonu_paypalinvoicesender": [
+            {
+                "name": "connect20/xonu_PayPalInvoiceSender",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/xonu_PayPalInvoiceSender/1.0.3/xonu_PayPalInvoiceSender-1.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "xonu.de-EULA"
+                ],
+                "authors": [
+                    {
+                        "name": "Pawel Kazakow",
+                        "email": "support@xonu.de"
+                    }
+                ],
+                "description": "Sends invoice automatically after an order is paid using PayPal."
+            }
+        ]
+    }
+}

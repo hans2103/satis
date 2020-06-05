@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "connect20/modulesgarden_sapphire": [
+            {
+                "name": "connect20/Modulesgarden_Sapphire",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Modulesgarden_Sapphire/1.0.1/Modulesgarden_Sapphire-1.0.1.tgz"
+                },
+                "require": {
+                    "connect20/modulesgarden_base": ">=1.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "ModulesGarden",
+                        "email": "peter@inbsgroup.com"
+                    }
+                ],
+                "description": "ModulesGarden Sapphire - Admin Theme For Magento\r\n\r\nUpload, activate and completely change the look of your admin panel. All this with just a couple of clicks!"
+            },
+            {
+                "name": "connect20/Modulesgarden_Sapphire",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Modulesgarden_Sapphire/1.0.2/Modulesgarden_Sapphire-1.0.2.tgz"
+                },
+                "require": {
+                    "connect20/modulesgarden_base": ">=1.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "ModulesGarden",
+                        "email": "peter@inbsgroup.com"
+                    }
+                ],
+                "description": "Upload, activate and completely change the look of your admin panel. All this with just a couple of clicks!"
+            }
+        ]
+    }
+}

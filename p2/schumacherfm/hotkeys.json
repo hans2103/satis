@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "schumacherfm/hotkeys": [
+            {
+                "name": "schumacherfm/hotkeys",
+                "version": "v1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SchumacherFM/Magento-Hotkeys.git",
+                    "reference": "9374a69c1a7ae0e9ba43c27ce7c9bf4f309635ef"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/SchumacherFM/Magento-Hotkeys/zipball/9374a69c1a7ae0e9ba43c27ce7c9bf4f309635ef",
+                    "reference": "9374a69c1a7ae0e9ba43c27ce7c9bf4f309635ef",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-08T03:02:34+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher",
+                        "email": "cyrill@schumacher.fm"
+                    }
+                ],
+                "description": "Providing Hotkeys for the Magento Backend",
+                "homepage": "https://github.com/SchumacherFM/Magento-Hotkeys",
+                "support": {
+                    "source": "https://github.com/SchumacherFM/Magento-Hotkeys/tree/v1.0.0",
+                    "issues": "https://github.com/SchumacherFM/Magento-Hotkeys/issues"
+                }
+            }
+        ]
+    }
+}

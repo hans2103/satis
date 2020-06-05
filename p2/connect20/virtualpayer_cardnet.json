@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/virtualpayer_cardnet": [
+            {
+                "name": "connect20/VirtualPayer_Cardnet",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/VirtualPayer_Cardnet/1.0.0/VirtualPayer_Cardnet-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "VirtualPayer",
+                        "email": "support@virtualpayer.com"
+                    }
+                ],
+                "description": "Lloyds Cardnet Hosted Payment Page redirects the customer to the Cardnet Hosted Page to complete payment."
+            },
+            {
+                "name": "connect20/VirtualPayer_Cardnet",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/VirtualPayer_Cardnet/1.0.1/VirtualPayer_Cardnet-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "VirtualPayer",
+                        "email": "support@virtualpayer.com"
+                    }
+                ],
+                "description": "Resolved issue with Callback URL hanging."
+            }
+        ]
+    }
+}

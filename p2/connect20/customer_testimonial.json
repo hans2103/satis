@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/customer_testimonial": [
+            {
+                "name": "connect20/customer_testimonial",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/customer_testimonial/1.0.0/customer_testimonial-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Chandan Kumar Singh",
+                        "email": "chandankumar8050@gmail.com"
+                    }
+                ],
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+            }
+        ]
+    }
+}

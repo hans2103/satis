@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/currency-rate-importer": [
+            {
+                "name": "connect20/currency-rate-importer",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/currency-rate-importer/0.1.0/currency-rate-importer-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Tarun Mukherjee",
+                        "email": "tmukherjee13@gmail.com"
+                    }
+                ],
+                "description": "Currency rate importer"
+            }
+        ]
+    }
+}

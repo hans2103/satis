@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/grasshopperpebbles_jqueryupdate": [
+            {
+                "name": "connect20/Grasshopperpebbles_Jqueryupdate",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Grasshopperpebbles_Jqueryupdate/1.0.0/Grasshopperpebbles_Jqueryupdate-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Les Green",
+                        "email": "lesgreen@grasshopperpebbles.com"
+                    }
+                ],
+                "description": "Statndardizing the use of jQuery and jQuery UI for front-end and back-end development"
+            }
+        ]
+    }
+}

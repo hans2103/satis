@@ -1,0 +1,2246 @@
+{
+    "packages": {
+        "magento/module-theme": [
+            {
+                "name": "magento/module-theme",
+                "version": "100.0.10",
+                "version_normalized": "100.0.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.0.10.0.zip",
+                    "shasum": "167d000c083594337ff7b5973d2f652c2f4ad3c5"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-cms": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-require-js": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-widget": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.0.*",
+                    "magento/module-translation": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.0.2",
+                "version_normalized": "100.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.0.2.0.zip",
+                    "shasum": "7a22809cf204623e3498c1cb3e10f07fc464cc7e"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-cms": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-require-js": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-widget": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.0.*",
+                    "magento/module-translation": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.0.3",
+                "version_normalized": "100.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.0.3.0.zip",
+                    "shasum": "5c9a859c73c04d381974c4754bf977c1dbebd2fe"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-cms": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-require-js": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-widget": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.0.*",
+                    "magento/module-translation": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.0.4",
+                "version_normalized": "100.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.0.4.0.zip",
+                    "shasum": "c21066df8f3969b88c20a60f698659fb0d600958"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-cms": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-require-js": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-widget": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.0.*",
+                    "magento/module-translation": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.0.5",
+                "version_normalized": "100.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.0.5.0.zip",
+                    "shasum": "c57d9323453f949b04ae25bda7b40fbc46b06f89"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-cms": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-require-js": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-widget": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.0.*",
+                    "magento/module-translation": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.0.6",
+                "version_normalized": "100.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.0.6.0.zip",
+                    "shasum": "8645cdcc352a050787539f21a65c3396e5e99b84"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-cms": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-require-js": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-widget": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.0.*",
+                    "magento/module-translation": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.0.7",
+                "version_normalized": "100.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.0.7.0.zip",
+                    "shasum": "05b29eb1cc422aba000d56af51196662d4f3e1cb"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-cms": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-require-js": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-widget": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.0.*",
+                    "magento/module-translation": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.0.8",
+                "version_normalized": "100.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.0.8.0.zip",
+                    "shasum": "cf43c42fdc1d0137a9ce6f407535aa652c6884e6"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-cms": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-require-js": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-widget": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.0.*",
+                    "magento/module-translation": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.0.9",
+                "version_normalized": "100.0.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.0.9.0.zip",
+                    "shasum": "e4e37028c0ea368a48d3792804f9aa0938558a1e"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-cms": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-require-js": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-widget": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.0.*",
+                    "magento/module-translation": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.1.0",
+                "version_normalized": "100.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.1.0.0.zip",
+                    "shasum": "abacaddf6c872d2e81c763a59907429583337e23"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-require-js": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-widget": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-translation": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.1.0-rc1",
+                "version_normalized": "100.1.0.0-RC1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.1.0.0-RC1.zip",
+                    "shasum": "f866810c655857390edca1d9b6025e51d151c8d8"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-require-js": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-widget": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-translation": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.1.0-rc2",
+                "version_normalized": "100.1.0.0-RC2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.1.0.0-RC2.zip",
+                    "shasum": "4e72311a8b4be7fb614103f7faeb1fdcf3886ac2"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-require-js": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-widget": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-translation": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.1.0-rc3",
+                "version_normalized": "100.1.0.0-RC3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.1.0.0-RC3.zip",
+                    "shasum": "ebe45e240fc6ef0331b5ebf19f5929f3ac39ea3b"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-require-js": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-widget": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-translation": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.1.1",
+                "version_normalized": "100.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.1.1.0.zip",
+                    "shasum": "c5c06665d1f66412322e52ae8ff9ac8a6c8f64c4"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-require-js": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-widget": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-translation": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.1.10",
+                "version_normalized": "100.1.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.1.10.0.zip",
+                    "shasum": "6c4694930143e0b5e03ebafded94508f740c0e43"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-require-js": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-widget": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-translation": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.1.11",
+                "version_normalized": "100.1.11.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.1.11.0.zip",
+                    "shasum": "af4a6526ddcb97012c8876217327eee8dd04812f"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-require-js": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-widget": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-translation": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.1.12",
+                "version_normalized": "100.1.12.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.1.12.0.zip",
+                    "shasum": "933109cc87a7687efc9ba8057bee22ce23835bfc"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-require-js": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-widget": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-translation": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.1.13",
+                "version_normalized": "100.1.13.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.1.13.0.zip",
+                    "shasum": "ea2e5d13b1f7e2a94ca04dbe040c209659e2e05e"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-require-js": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-widget": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-translation": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.1.14",
+                "version_normalized": "100.1.14.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.1.14.0.zip",
+                    "shasum": "7e18521cbd9c8bea456a763c8fc29f4ef2cefa56"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-require-js": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-widget": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-translation": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.1.2",
+                "version_normalized": "100.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.1.2.0.zip",
+                    "shasum": "185e10fd63b775054959916b2ba532535ecc82f7"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-require-js": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-widget": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-translation": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.1.3",
+                "version_normalized": "100.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.1.3.0.zip",
+                    "shasum": "eb989f6b2b498a6b7ab8fbe44258717b3d2d6946"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-require-js": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-widget": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-translation": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.1.4",
+                "version_normalized": "100.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.1.4.0.zip",
+                    "shasum": "5119e901b42c986d548c700990d4a58f3850f855"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-require-js": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-widget": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-translation": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.1.5",
+                "version_normalized": "100.1.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.1.5.0.zip",
+                    "shasum": "07359ea90e739eba88e2af2906234cf55c6e12a9"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-require-js": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-widget": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-translation": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.1.6",
+                "version_normalized": "100.1.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.1.6.0.zip",
+                    "shasum": "1bc33ba78a5a79a568d3f42e9285c39c2ff80ff7"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-require-js": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-widget": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-translation": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.1.7",
+                "version_normalized": "100.1.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.1.7.0.zip",
+                    "shasum": "80bc206529c9c7c1811b52163644cbf3f1880a13"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-require-js": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-widget": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-translation": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.1.8",
+                "version_normalized": "100.1.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.1.8.0.zip",
+                    "shasum": "ccb358207ba36387f8606c0d9a3181951f41bb30"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-require-js": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-widget": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-translation": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.1.9",
+                "version_normalized": "100.1.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.1.9.0.zip",
+                    "shasum": "edccdc45191c9caea8fdc18866278219c9f70096"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-require-js": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-widget": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-theme-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-translation": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.2.0",
+                "version_normalized": "100.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.2.0.0.zip",
+                    "shasum": "34d22b25ebf9408e89d279228e34d1691a9a28f6"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-require-js": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-widget": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-theme-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-translation": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.2.0-rc20",
+                "version_normalized": "100.2.0.0-RC20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.2.0.0-RC20.zip",
+                    "shasum": "2c115e86bc89da53939d11a45666ca2632f0627b"
+                },
+                "require": {
+                    "magento/framework": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-cms": "101.1.*",
+                    "magento/module-config": "100.2.*",
+                    "magento/module-customer": "100.2.*",
+                    "magento/module-eav": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-require-js": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "100.2.*",
+                    "magento/module-widget": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-theme-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-translation": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.2.0-rc21",
+                "version_normalized": "100.2.0.0-RC21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.2.0.0-RC21.zip",
+                    "shasum": "34aead83f03188219619b15777a6895b45344645"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-require-js": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-widget": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-theme-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-translation": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.2.0-rc22",
+                "version_normalized": "100.2.0.0-RC22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.2.0.0-RC22.zip",
+                    "shasum": "2636bee935ae6f01ea6856ea2722edf415710e19"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-require-js": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-widget": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-theme-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-translation": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.2.0-rc23",
+                "version_normalized": "100.2.0.0-RC23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.2.0.0-RC23.zip",
+                    "shasum": "da2d07cbb9c7ac0a53f0d2993d5f31d70c81ddae"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-require-js": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-widget": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-theme-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-translation": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.2.0-rc30",
+                "version_normalized": "100.2.0.0-RC30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.2.0.0-RC30.zip",
+                    "shasum": "143b4121cc20721b2c0346721d9788f378b12ad7"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-require-js": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-widget": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-theme-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-translation": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.2.1",
+                "version_normalized": "100.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.2.1.0.zip",
+                    "shasum": "6d423a4238bc47b3543a5d4422f5ed439e0c8e2f"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-require-js": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-widget": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-theme-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-translation": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.2.10",
+                "version_normalized": "100.2.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.2.10.0.zip",
+                    "shasum": "a5bc59c4a1251e02e684f5253834293a75c1cfc6"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-require-js": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-widget": "101.0.*",
+                    "php": "~7.0.13|~7.1.0|~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-theme-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-translation": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.2.11",
+                "version_normalized": "100.2.11.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.2.11.0.zip",
+                    "shasum": "96f0dabe3e06fd336ea1c3697375418e0dfd37b0"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-require-js": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-widget": "101.0.*",
+                    "php": "~7.0.13||~7.1.0||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-theme-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-translation": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.2.2",
+                "version_normalized": "100.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.2.2.0.zip",
+                    "shasum": "9c203d97ffdbe9bcb0ff7af761793360a48a0e46"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-require-js": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-widget": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-theme-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-translation": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.2.3",
+                "version_normalized": "100.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.2.3.0.zip",
+                    "shasum": "526dbb148646d7759a65ba16059cdf3e5830a4f6"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-require-js": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-widget": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-theme-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-translation": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.2.4",
+                "version_normalized": "100.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.2.4.0.zip",
+                    "shasum": "4c938707027142a1e250f8a5c4a4b2dde51ab6a6"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-require-js": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-widget": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-theme-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-translation": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.2.5",
+                "version_normalized": "100.2.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.2.5.0.zip",
+                    "shasum": "19c5b2f95aa258256ff37e211cd2ce1326cdc063"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-require-js": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-widget": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-theme-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-translation": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.2.6",
+                "version_normalized": "100.2.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.2.6.0.zip",
+                    "shasum": "28b89e5df1404c484ecfb3093316a9782b70fd77"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-require-js": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-widget": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-theme-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-translation": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.2.7",
+                "version_normalized": "100.2.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.2.7.0.zip",
+                    "shasum": "464213a088bf94934c7ccfaed1e2a13bc0d61f98"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-require-js": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-widget": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-theme-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-translation": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.2.8",
+                "version_normalized": "100.2.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.2.8.0.zip",
+                    "shasum": "792c3b96a2e3ff4d662b40b250a65cf3a09ca935"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-require-js": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-widget": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-theme-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-translation": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "100.2.9",
+                "version_normalized": "100.2.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-100.2.9.0.zip",
+                    "shasum": "1a3f608265884938fe5e98dba9c0821fb2184516"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-require-js": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-widget": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-theme-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-translation": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "101.0.0",
+                "version_normalized": "101.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-101.0.0.0.zip",
+                    "shasum": "76330538d0a9f3b56c1b201b795fe259781db574"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-require-js": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "magento/module-widget": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.3.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-theme-sample-data": "Sample Data version: 100.3.*",
+                    "magento/module-translation": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "101.0.1",
+                "version_normalized": "101.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-101.0.1.0.zip",
+                    "shasum": "e6fed3b1a3a3f21452f151e1eb2aa36510cb1b50"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-require-js": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "magento/module-widget": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.3.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-theme-sample-data": "Sample Data version: 100.3.*",
+                    "magento/module-translation": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "101.0.2",
+                "version_normalized": "101.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-101.0.2.0.zip",
+                    "shasum": "5de4e2f570a41c5caaccd4e912f0b9340149a0ce"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-require-js": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "magento/module-widget": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.3.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-theme-sample-data": "Sample Data version: 100.3.*",
+                    "magento/module-translation": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "101.0.2-p2",
+                "version_normalized": "101.0.2.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-101.0.2.0-patch2.zip",
+                    "shasum": "67d8b1c941d52206eb53ce94d8e66c3401782a44"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-require-js": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "magento/module-widget": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.3.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-theme-sample-data": "Sample Data version: 100.3.*",
+                    "magento/module-translation": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "101.0.3",
+                "version_normalized": "101.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-101.0.3.0.zip",
+                    "shasum": "9cd651992caa57962cba8db4c16438f942d08a70"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-require-js": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "magento/module-widget": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.3.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-theme-sample-data": "Sample Data version: 100.3.*",
+                    "magento/module-translation": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "101.0.4",
+                "version_normalized": "101.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-101.0.4.0.zip",
+                    "shasum": "2c55dca36518fd151dc27f77862d595dfdd0d3eb"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-require-js": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "magento/module-widget": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.3.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-theme-sample-data": "Sample Data version: 100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "101.0.4-p2",
+                "version_normalized": "101.0.4.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-101.0.4.0-patch2.zip",
+                    "shasum": "8ce934ab49f5c1a3043bcda12d9ea57affde572d"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-require-js": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "magento/module-widget": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.3.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-theme-sample-data": "Sample Data version: 100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-theme",
+                "version": "101.0.5",
+                "version_normalized": "101.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-theme/magento-module-theme-101.0.5.0.zip",
+                    "shasum": "d7485f7189914fe59a490dcd89867cfe53447dea"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-require-js": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "magento/module-widget": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-deploy": "100.3.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-theme-sample-data": "Sample Data version: 100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Theme\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

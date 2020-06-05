@@ -1,0 +1,1221 @@
+{
+    "packages": {
+        "diglin/ricento": [
+            {
+                "name": "diglin/ricento",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Ricardo.git",
+                    "reference": "99ef9f95cf09de7df6a016722f26e1f2f22e31f0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Ricardo/zipball/99ef9f95cf09de7df6a016722f26e1f2f22e31f0",
+                    "reference": "99ef9f95cf09de7df6a016722f26e1f2f22e31f0",
+                    "shasum": ""
+                },
+                "require": {
+                    "diglin/ricardo": "~1.2.2",
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "ivanchepurnyi/ecomdev_phpunit": "*"
+                },
+                "time": "2018-12-05T07:39:43+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "license_uri": "http://opensource.org/licenses/osl-3.0.php",
+                        "summary": "Sell your products from Magento to ricardo.ch and sync your order back into your shop to treat them",
+                        "channel": "community",
+                        "php_min": "5.3.2",
+                        "php_max": "7.0.*",
+                        "stability": "stable",
+                        "content": [
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Diglin_Ricento.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "file",
+                                "path": "adminhtml/default/default/layout/ricento.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/template/ricento"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "frontend/base/default/template/ricento"
+                            },
+                            {
+                                "type": "mageskin",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/ricento"
+                            },
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Diglin/Ricento"
+                            },
+                            {
+                                "type": "mageweb",
+                                "structure": "dir",
+                                "path": "js/ricento"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Diglin/Ricardo"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "en_US/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "en_US/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "fr_FR/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "fr_FR/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_DE/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "de_DE/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_CH/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "de_CH/template/email/ricento"
+                            }
+                        ],
+                        "notes": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "diglin",
+                        "email": "sly@diglin.com"
+                    }
+                ],
+                "description": "Ricardo.ch extension for Magento.",
+                "homepage": "http://www.ricento.ch",
+                "support": {
+                    "email": "support@diglin.com",
+                    "issues": "http://support.diglin.com/",
+                    "source": "https://github.com/diglin/ricento"
+                }
+            },
+            {
+                "name": "diglin/ricento",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Ricardo.git",
+                    "reference": "d4aa445f3780a1c5a95d74ec4d396722fbb56a5b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Ricardo/zipball/d4aa445f3780a1c5a95d74ec4d396722fbb56a5b",
+                    "reference": "d4aa445f3780a1c5a95d74ec4d396722fbb56a5b",
+                    "shasum": ""
+                },
+                "require": {
+                    "diglin/ricardo": "~1.2.2",
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "ivanchepurnyi/ecomdev_phpunit": "*"
+                },
+                "time": "2017-07-13T10:49:38+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "license_uri": "http://opensource.org/licenses/osl-3.0.php",
+                        "summary": "Sell your products from Magento to ricardo.ch and sync your order back into your shop to treat them",
+                        "channel": "community",
+                        "php_min": "5.3.2",
+                        "php_max": "7.0.*",
+                        "stability": "stable",
+                        "content": [
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Diglin_Ricento.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "file",
+                                "path": "adminhtml/default/default/layout/ricento.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/template/ricento"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "frontend/base/default/template/ricento"
+                            },
+                            {
+                                "type": "mageskin",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/ricento"
+                            },
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Diglin/Ricento"
+                            },
+                            {
+                                "type": "mageweb",
+                                "structure": "dir",
+                                "path": "js/ricento"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Diglin/Ricardo"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "en_US/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "en_US/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "fr_FR/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "fr_FR/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_DE/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "de_DE/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_CH/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "de_CH/template/email/ricento"
+                            }
+                        ],
+                        "notes": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "diglin",
+                        "email": "sly@diglin.com"
+                    }
+                ],
+                "description": "Ricardo.ch extension for Magento.",
+                "homepage": "http://www.ricento.ch",
+                "support": {
+                    "email": "support@diglin.com",
+                    "issues": "http://support.diglin.com/",
+                    "source": "https://github.com/diglin/ricento"
+                }
+            },
+            {
+                "name": "diglin/ricento",
+                "version": "dev-feature/RIC-113-overview-fee-confirmation",
+                "version_normalized": "dev-feature/RIC-113-overview-fee-confirmation",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Ricardo.git",
+                    "reference": "35435f149bbd78d3b87e95251acdf9898535c1bd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Ricardo/zipball/35435f149bbd78d3b87e95251acdf9898535c1bd",
+                    "reference": "35435f149bbd78d3b87e95251acdf9898535c1bd",
+                    "shasum": ""
+                },
+                "require": {
+                    "diglin/ricardo": "1.*",
+                    "magento-hackathon/magento-composer-installer": "2.*",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "ivanchepurnyi/ecomdev_phpunit": "0.3.*"
+                },
+                "time": "2015-03-28T22:36:49+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "license_uri": "http://opensource.org/licenses/osl-3.0.php",
+                        "summary": "Sell your products from Magento to ricardo.ch and sync your order back into your shop to treat them",
+                        "channel": "community",
+                        "php_min": "5.3.2",
+                        "php_max": "6.0.0",
+                        "stability": "stable",
+                        "content": [
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Diglin_Ricento.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "file",
+                                "path": "adminhtml/default/default/layout/ricento.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/template/ricento"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "frontend/base/default/template/ricento"
+                            },
+                            {
+                                "type": "mageskin",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/ricento"
+                            },
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Diglin/Ricento"
+                            },
+                            {
+                                "type": "mageweb",
+                                "structure": "dir",
+                                "path": "js/ricento"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Diglin/Ricardo"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "en_US/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "en_US/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "fr_FR/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "fr_FR/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_DE/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "de_DE/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_CH/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "de_CH/template/email/ricento"
+                            }
+                        ],
+                        "notes": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "diglin",
+                        "email": "sly@diglin.com"
+                    }
+                ],
+                "description": "Ricardo.ch extension for Magento.",
+                "homepage": "http://www.ricento.ch",
+                "support": {
+                    "email": "support@diglin.com",
+                    "issues": "http://support.diglin.com/",
+                    "source": "https://github.com/diglin/ricento"
+                }
+            },
+            {
+                "name": "diglin/ricento",
+                "version": "dev-feature/RIC-115-currency-conversion",
+                "version_normalized": "dev-feature/RIC-115-currency-conversion",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Ricardo.git",
+                    "reference": "a99b60223319b89726368c97b1e9e367363c20e7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Ricardo/zipball/a99b60223319b89726368c97b1e9e367363c20e7",
+                    "reference": "a99b60223319b89726368c97b1e9e367363c20e7",
+                    "shasum": ""
+                },
+                "require": {
+                    "diglin/ricardo": "dev-develop",
+                    "magento-hackathon/magento-composer-installer": "2.*",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "ivanchepurnyi/ecomdev_phpunit": "0.3.*"
+                },
+                "time": "2015-04-10T09:58:54+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "license_uri": "http://opensource.org/licenses/osl-3.0.php",
+                        "summary": "Sell your products from Magento to ricardo.ch and sync your order back into your shop to treat them",
+                        "channel": "community",
+                        "php_min": "5.3.2",
+                        "php_max": "6.0.0",
+                        "stability": "stable",
+                        "content": [
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Diglin_Ricento.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "file",
+                                "path": "adminhtml/default/default/layout/ricento.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/template/ricento"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "frontend/base/default/template/ricento"
+                            },
+                            {
+                                "type": "mageskin",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/ricento"
+                            },
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Diglin/Ricento"
+                            },
+                            {
+                                "type": "mageweb",
+                                "structure": "dir",
+                                "path": "js/ricento"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Diglin/Ricardo"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "en_US/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "en_US/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "fr_FR/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "fr_FR/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_DE/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "de_DE/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_CH/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "de_CH/template/email/ricento"
+                            }
+                        ],
+                        "notes": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "diglin",
+                        "email": "sly@diglin.com"
+                    }
+                ],
+                "description": "Ricardo.ch extension for Magento.",
+                "homepage": "http://www.ricento.ch",
+                "support": {
+                    "email": "support@diglin.com",
+                    "issues": "http://support.diglin.com/",
+                    "source": "https://github.com/diglin/ricento"
+                }
+            },
+            {
+                "name": "diglin/ricento",
+                "version": "dev-feature/RIC-116-category-autodiscover",
+                "version_normalized": "dev-feature/RIC-116-category-autodiscover",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Ricardo.git",
+                    "reference": "8e274df1ee39e66988e616346c7302d4ab4974ac"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Ricardo/zipball/8e274df1ee39e66988e616346c7302d4ab4974ac",
+                    "reference": "8e274df1ee39e66988e616346c7302d4ab4974ac",
+                    "shasum": ""
+                },
+                "require": {
+                    "diglin/ricardo": "dev-develop",
+                    "magento-hackathon/magento-composer-installer": "2.*",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "ivanchepurnyi/ecomdev_phpunit": "0.3.*"
+                },
+                "time": "2015-04-06T23:38:10+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "license_uri": "http://opensource.org/licenses/osl-3.0.php",
+                        "summary": "Sell your products from Magento to ricardo.ch and sync your order back into your shop to treat them",
+                        "channel": "community",
+                        "php_min": "5.3.2",
+                        "php_max": "6.0.0",
+                        "stability": "stable",
+                        "content": [
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Diglin_Ricento.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "file",
+                                "path": "adminhtml/default/default/layout/ricento.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/template/ricento"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "frontend/base/default/template/ricento"
+                            },
+                            {
+                                "type": "mageskin",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/ricento"
+                            },
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Diglin/Ricento"
+                            },
+                            {
+                                "type": "mageweb",
+                                "structure": "dir",
+                                "path": "js/ricento"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Diglin/Ricardo"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "en_US/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "en_US/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "fr_FR/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "fr_FR/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_DE/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "de_DE/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_CH/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "de_CH/template/email/ricento"
+                            }
+                        ],
+                        "notes": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "diglin",
+                        "email": "sly@diglin.com"
+                    }
+                ],
+                "description": "Ricardo.ch extension for Magento.",
+                "homepage": "http://www.ricento.ch",
+                "support": {
+                    "email": "support@diglin.com",
+                    "issues": "http://support.diglin.com/",
+                    "source": "https://github.com/diglin/ricento"
+                }
+            },
+            {
+                "name": "diglin/ricento",
+                "version": "dev-feature/RIC-117-inventory-quantity-option-in",
+                "version_normalized": "dev-feature/RIC-117-inventory-quantity-option-in",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Ricardo.git",
+                    "reference": "f8815c81cd5c93d28522b4a38cff99de81cd6a8f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Ricardo/zipball/f8815c81cd5c93d28522b4a38cff99de81cd6a8f",
+                    "reference": "f8815c81cd5c93d28522b4a38cff99de81cd6a8f",
+                    "shasum": ""
+                },
+                "require": {
+                    "diglin/ricardo": "1.*",
+                    "magento-hackathon/magento-composer-installer": "2.*",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "ivanchepurnyi/ecomdev_phpunit": "0.3.*"
+                },
+                "time": "2015-03-09T13:52:50+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "license_uri": "http://opensource.org/licenses/osl-3.0.php",
+                        "summary": "Sell your products from Magento to ricardo.ch and sync your order back into your shop to treat them",
+                        "channel": "community",
+                        "php_min": "5.3.2",
+                        "php_max": "6.0.0",
+                        "stability": "stable",
+                        "content": [
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Diglin_Ricento.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "file",
+                                "path": "adminhtml/default/default/layout/ricento.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/template/ricento"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "frontend/base/default/template/ricento"
+                            },
+                            {
+                                "type": "mageskin",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/ricento"
+                            },
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Diglin/Ricento"
+                            },
+                            {
+                                "type": "mageweb",
+                                "structure": "dir",
+                                "path": "js/ricento"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Diglin/Ricardo"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "en_US/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "en_US/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "fr_FR/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "fr_FR/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_DE/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "de_DE/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_CH/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "de_CH/template/email/ricento"
+                            }
+                        ],
+                        "notes": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "diglin",
+                        "email": "sly@diglin.com"
+                    }
+                ],
+                "description": "Ricardo.ch extension for Magento.",
+                "homepage": "http://www.ricento.ch",
+                "support": {
+                    "email": "support@diglin.com",
+                    "issues": "http://support.diglin.com/",
+                    "source": "https://github.com/diglin/ricento"
+                }
+            },
+            {
+                "name": "diglin/ricento",
+                "version": "dev-feature/RIC-118-bulk-method",
+                "version_normalized": "dev-feature/RIC-118-bulk-method",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Ricardo.git",
+                    "reference": "c5defd2d320ad2b9836d0cdb7ec9151ab5f07eed"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Ricardo/zipball/c5defd2d320ad2b9836d0cdb7ec9151ab5f07eed",
+                    "reference": "c5defd2d320ad2b9836d0cdb7ec9151ab5f07eed",
+                    "shasum": ""
+                },
+                "require": {
+                    "diglin/ricardo": "dev-develop",
+                    "magento-hackathon/magento-composer-installer": "2.*",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "ivanchepurnyi/ecomdev_phpunit": "0.3.*"
+                },
+                "time": "2015-04-01T00:51:25+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "license_uri": "http://opensource.org/licenses/osl-3.0.php",
+                        "summary": "Sell your products from Magento to ricardo.ch and sync your order back into your shop to treat them",
+                        "channel": "community",
+                        "php_min": "5.3.2",
+                        "php_max": "6.0.0",
+                        "stability": "stable",
+                        "content": [
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Diglin_Ricento.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "file",
+                                "path": "adminhtml/default/default/layout/ricento.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/template/ricento"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "frontend/base/default/template/ricento"
+                            },
+                            {
+                                "type": "mageskin",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/ricento"
+                            },
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Diglin/Ricento"
+                            },
+                            {
+                                "type": "mageweb",
+                                "structure": "dir",
+                                "path": "js/ricento"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Diglin/Ricardo"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "en_US/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "en_US/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "fr_FR/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "fr_FR/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_DE/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "de_DE/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_CH/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "de_CH/template/email/ricento"
+                            }
+                        ],
+                        "notes": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "diglin",
+                        "email": "sly@diglin.com"
+                    }
+                ],
+                "description": "Ricardo.ch extension for Magento.",
+                "homepage": "http://www.ricento.ch",
+                "support": {
+                    "email": "support@diglin.com",
+                    "issues": "http://support.diglin.com/",
+                    "source": "https://github.com/diglin/ricento"
+                }
+            },
+            {
+                "name": "diglin/ricento",
+                "version": "dev-features/inventory-sync",
+                "version_normalized": "dev-features/inventory-sync",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Ricardo.git",
+                    "reference": "386de1fb46aef87129b33fc9dd51b56c3dd24b89"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Ricardo/zipball/386de1fb46aef87129b33fc9dd51b56c3dd24b89",
+                    "reference": "386de1fb46aef87129b33fc9dd51b56c3dd24b89",
+                    "shasum": ""
+                },
+                "require": {
+                    "diglin/ricardo": "1.*",
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "ivanchepurnyi/ecomdev_phpunit": "*"
+                },
+                "time": "2016-08-30T16:32:17+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "license_uri": "http://opensource.org/licenses/osl-3.0.php",
+                        "summary": "Sell your products from Magento to ricardo.ch and sync your order back into your shop to treat them",
+                        "channel": "community",
+                        "php_min": "5.3.2",
+                        "php_max": "6.0.0",
+                        "stability": "stable",
+                        "content": [
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Diglin_Ricento.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "file",
+                                "path": "adminhtml/default/default/layout/ricento.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/template/ricento"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "frontend/base/default/template/ricento"
+                            },
+                            {
+                                "type": "mageskin",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/ricento"
+                            },
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Diglin/Ricento"
+                            },
+                            {
+                                "type": "mageweb",
+                                "structure": "dir",
+                                "path": "js/ricento"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Diglin/Ricardo"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "en_US/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "en_US/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "fr_FR/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "fr_FR/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_DE/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "de_DE/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_CH/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "de_CH/template/email/ricento"
+                            }
+                        ],
+                        "notes": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "diglin",
+                        "email": "sly@diglin.com"
+                    }
+                ],
+                "description": "Ricardo.ch extension for Magento.",
+                "homepage": "http://www.ricento.ch",
+                "support": {
+                    "email": "support@diglin.com",
+                    "issues": "http://support.diglin.com/",
+                    "source": "https://github.com/diglin/ricento"
+                }
+            },
+            {
+                "name": "diglin/ricento",
+                "version": "dev-features/memory-change",
+                "version_normalized": "dev-features/memory-change",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Ricardo.git",
+                    "reference": "9463ba5ea82e54332f323a87cb89b8a9a9abf223"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Ricardo/zipball/9463ba5ea82e54332f323a87cb89b8a9a9abf223",
+                    "reference": "9463ba5ea82e54332f323a87cb89b8a9a9abf223",
+                    "shasum": ""
+                },
+                "require": {
+                    "diglin/ricardo": "1.*",
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "ivanchepurnyi/ecomdev_phpunit": "*"
+                },
+                "time": "2015-08-04T10:04:40+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "license_uri": "http://opensource.org/licenses/osl-3.0.php",
+                        "summary": "Sell your products from Magento to ricardo.ch and sync your order back into your shop to treat them",
+                        "channel": "community",
+                        "php_min": "5.3.2",
+                        "php_max": "6.0.0",
+                        "stability": "stable",
+                        "content": [
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Diglin_Ricento.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "file",
+                                "path": "adminhtml/default/default/layout/ricento.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/template/ricento"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "frontend/base/default/template/ricento"
+                            },
+                            {
+                                "type": "mageskin",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/ricento"
+                            },
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Diglin/Ricento"
+                            },
+                            {
+                                "type": "mageweb",
+                                "structure": "dir",
+                                "path": "js/ricento"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Diglin/Ricardo"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "en_US/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "en_US/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "fr_FR/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "fr_FR/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_DE/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "de_DE/template/email/ricento"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_CH/Diglin_Ricento.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "de_CH/template/email/ricento"
+                            }
+                        ],
+                        "notes": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "diglin",
+                        "email": "sly@diglin.com"
+                    }
+                ],
+                "description": "Ricardo.ch extension for Magento.",
+                "homepage": "http://www.ricento.ch",
+                "support": {
+                    "email": "support@diglin.com",
+                    "issues": "http://support.diglin.com/",
+                    "source": "https://github.com/diglin/ricento"
+                }
+            }
+        ]
+    }
+}

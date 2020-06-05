@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "timste/emailqueue": [
+            {
+                "name": "timste/emailqueue",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/timste/Timste_Emailqueue.git",
+                    "reference": "f957f176487f2b752b97c81dc65034f795565196"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/timste/Timste_Emailqueue/zipball/f957f176487f2b752b97c81dc65034f795565196",
+                    "reference": "f957f176487f2b752b97c81dc65034f795565196",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-10T16:05:04+00:00",
+                "type": "magento-module",
+                "license": [
+                    "CC-BY-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Timste"
+                    }
+                ],
+                "description": "disable the email queue transactional email",
+                "homepage": "https://github.com/timste/Timste_Emailqueue",
+                "support": {
+                    "source": "https://github.com/timste/Timste_Emailqueue/tree/master",
+                    "issues": "https://github.com/timste/Timste_Emailqueue/issues"
+                }
+            }
+        ]
+    }
+}

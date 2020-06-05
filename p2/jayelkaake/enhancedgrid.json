@@ -1,0 +1,291 @@
+{
+    "packages": {
+        "jayelkaake/enhancedgrid": [
+            {
+                "name": "jayelkaake/enhancedgrid",
+                "version": "1.3.4.2",
+                "version_normalized": "1.3.4.2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jayelkaake/enhancedgrid.git",
+                    "reference": "f25432d7129854adb98f5816108d8fa76e243bdd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jayelkaake/enhancedgrid/zipball/f25432d7129854adb98f5816108d8fa76e243bdd",
+                    "reference": "f25432d7129854adb98f5816108d8fa76e243bdd",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-11-16T23:48:49+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/TBT/Enhancedgrid",
+                            "app/code/community/TBT/Enhancedgrid"
+                        ],
+                        [
+                            "js/tbt/enhancedgrid",
+                            "js/tbt/enhancedgrid"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tbt_enhancedgrid.xml",
+                            "app/design/adminhtml/default/default/layout/tbt_enhancedgrid.xml"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/tbt/enhancedgrid",
+                            "app/design/adminhtml/default/default/template/tbt/enhancedgrid"
+                        ],
+                        [
+                            "app/etc/modules/TBT_Enhancedgrid.xml",
+                            "app/etc/modules/TBT_Enhancedgrid.xml"
+                        ]
+                    ],
+                    "magento_connect": {
+                        "license_uri": "http://www.gnu.org/licenses/gpl-3.0.html",
+                        "summary": "Enhanced admin product grid with images, custom attributes and more.",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "version": "1.3.4",
+                        "php_max": "5.6.13",
+                        "name": "TBT_Enhancedgrid",
+                        "stability": "stable",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "TBT/Enhancedgrid"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/TBT_Enhancedgrid.xml"
+                            },
+                            {
+                                "type": "mage",
+                                "structure": "file",
+                                "path": "app/design/adminhtml/default/default/layout/tbt_enhancedgrid.xml"
+                            },
+                            {
+                                "type": "mage",
+                                "structure": "folder",
+                                "path": "app/design/adminhtml/default/default/template/tbt/enhancedgrid"
+                            },
+                            {
+                                "type": "mage",
+                                "structure": "folder",
+                                "path": "js/tbt/enhancedgrid"
+                            }
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Jay El-Kaake (special thanks to evaldas.taroza@ufirstgroup.com to making the composer.json file)",
+                        "email": "jay@sweettoothhq.com",
+                        "homepage": "http://www.sweettoothrewards.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Improves the existing Magento admin product management grid. It adds some useful, customizable features to the admin product management grid including new columns and tools.",
+                "support": {
+                    "source": "https://github.com/jayelkaake/enhancedgrid/tree/v1.3.4.2",
+                    "issues": "https://github.com/jayelkaake/enhancedgrid/issues"
+                }
+            },
+            {
+                "name": "jayelkaake/enhancedgrid",
+                "version": "1.3.4.3",
+                "version_normalized": "1.3.4.3",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jayelkaake/enhancedgrid.git",
+                    "reference": "a328cc69b8c1bdc54aaa7aba94044a2a170635ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jayelkaake/enhancedgrid/zipball/a328cc69b8c1bdc54aaa7aba94044a2a170635ce",
+                    "reference": "a328cc69b8c1bdc54aaa7aba94044a2a170635ce",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-11-25T18:13:44+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/TBT/Enhancedgrid",
+                            "app/code/community/TBT/Enhancedgrid"
+                        ],
+                        [
+                            "js/tbt/enhancedgrid",
+                            "js/tbt/enhancedgrid"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tbt_enhancedgrid.xml",
+                            "app/design/adminhtml/default/default/layout/tbt_enhancedgrid.xml"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/tbt/enhancedgrid",
+                            "app/design/adminhtml/default/default/template/tbt/enhancedgrid"
+                        ],
+                        [
+                            "app/etc/modules/TBT_Enhancedgrid.xml",
+                            "app/etc/modules/TBT_Enhancedgrid.xml"
+                        ]
+                    ],
+                    "magento_connect": {
+                        "license_uri": "http://www.gnu.org/licenses/gpl-3.0.html",
+                        "summary": "Enhanced admin product grid with images, custom attributes and more.",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "version": "1.3.4",
+                        "php_max": "5.6.13",
+                        "name": "TBT_Enhancedgrid",
+                        "stability": "stable",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "TBT/Enhancedgrid"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/TBT_Enhancedgrid.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "file",
+                                "path": "adminhtml/default/default/layout/tbt_enhancedgrid.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/template/tbt/enhancedgrid"
+                            },
+                            {
+                                "type": "mageweb",
+                                "structure": "dir",
+                                "path": "js/tbt/enhancedgrid"
+                            }
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Jay El-Kaake",
+                        "email": "jay@sweettoothhq.com",
+                        "homepage": "http://www.sweettoothrewards.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Improves the existing Magento admin product management grid. It adds some useful, customizable features to the admin product management grid including new columns and tools.",
+                "support": {
+                    "source": "https://github.com/jayelkaake/enhancedgrid/tree/v1.3.4.3",
+                    "issues": "https://github.com/jayelkaake/enhancedgrid/issues"
+                }
+            },
+            {
+                "name": "jayelkaake/enhancedgrid",
+                "version": "1.3.6",
+                "version_normalized": "1.3.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jayelkaake/enhancedgrid.git",
+                    "reference": "5b54cce5dd997de9543de7268a02c424f81ea2e0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jayelkaake/enhancedgrid/zipball/5b54cce5dd997de9543de7268a02c424f81ea2e0",
+                    "reference": "5b54cce5dd997de9543de7268a02c424f81ea2e0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-02-10T07:17:17+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/TBT/Enhancedgrid",
+                            "app/code/community/TBT/Enhancedgrid"
+                        ],
+                        [
+                            "js/tbt/enhancedgrid",
+                            "js/tbt/enhancedgrid"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tbt_enhancedgrid.xml",
+                            "app/design/adminhtml/default/default/layout/tbt_enhancedgrid.xml"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/tbt/enhancedgrid",
+                            "app/design/adminhtml/default/default/template/tbt/enhancedgrid"
+                        ],
+                        [
+                            "app/etc/modules/TBT_Enhancedgrid.xml",
+                            "app/etc/modules/TBT_Enhancedgrid.xml"
+                        ]
+                    ],
+                    "magento_connect": {
+                        "license_uri": "http://www.gnu.org/licenses/gpl-3.0.html",
+                        "summary": "Enhanced admin product grid with images, custom attributes and more.",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "version": "1.3.6",
+                        "php_max": "7.0.14",
+                        "name": "TBT_Enhancedgrid",
+                        "stability": "stable",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "TBT/Enhancedgrid"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/TBT_Enhancedgrid.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "file",
+                                "path": "adminhtml/default/default/layout/tbt_enhancedgrid.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "adminhtml/default/default/template/tbt/enhancedgrid"
+                            },
+                            {
+                                "type": "mageweb",
+                                "structure": "dir",
+                                "path": "js/tbt/enhancedgrid"
+                            }
+                        ]
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Jay El-Kaake",
+                        "email": "jay@sweettoothhq.com",
+                        "homepage": "http://www.sweettoothrewards.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Improves the existing Magento admin product management grid. It adds some useful, customizable features to the admin product management grid including new columns and tools.",
+                "support": {
+                    "source": "https://github.com/jayelkaake/enhancedgrid/tree/1.3.6",
+                    "issues": "https://github.com/jayelkaake/enhancedgrid/issues"
+                }
+            }
+        ]
+    }
+}

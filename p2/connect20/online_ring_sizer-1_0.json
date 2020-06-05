@@ -1,0 +1,87 @@
+{
+    "packages": {
+        "connect20/online_ring_sizer-1_0": [
+            {
+                "name": "connect20/Online_Ring_sizer-1_0",
+                "version": "1.0.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Online_Ring_sizer-1_0/1.0.0.0/Online_Ring_sizer-1_0-1.0.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "FMRS",
+                        "email": "ev@triplenext.com"
+                    }
+                ],
+                "description": "FMRSModule"
+            },
+            {
+                "name": "connect20/Online_Ring_sizer-1_0",
+                "version": "1.0.0.2",
+                "version_normalized": "1.0.0.2",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Online_Ring_sizer-1_0/1.0.0.2/Online_Ring_sizer-1_0-1.0.0.2.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "TripleNext",
+                        "email": "ev@triplenext.com"
+                    }
+                ],
+                "description": "A simple on display ring sizer widget that let your customers find their ring size online"
+            },
+            {
+                "name": "connect20/Online_Ring_sizer-1_0",
+                "version": "1.0.0.3",
+                "version_normalized": "1.0.0.3",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Online_Ring_sizer-1_0/1.0.0.3/Online_Ring_sizer-1_0-1.0.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "TripleNext",
+                        "email": "ev@triplenext.com"
+                    }
+                ],
+                "description": "A simple on display ring sizer widget that let your customers find their ring size online"
+            }
+        ]
+    }
+}

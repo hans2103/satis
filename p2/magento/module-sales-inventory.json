@@ -1,0 +1,742 @@
+{
+    "packages": {
+        "magento/module-sales-inventory": [
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.0.0",
+                "version_normalized": "100.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.0.0.0.zip",
+                    "shasum": "70e81c043c14fb5ad32b927e0e79ff40f64bbcb7"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.0.1",
+                "version_normalized": "100.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.0.1.0.zip",
+                    "shasum": "23c9fb40176bdaf92777d54b9154a2af127a1876"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.1.0",
+                "version_normalized": "100.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.1.0.0.zip",
+                    "shasum": "fb17c67ce1712b1cf6c0b4d5e4373d24d7067a56"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.1.1",
+                "version_normalized": "100.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.1.1.0.zip",
+                    "shasum": "6489c7cf3f1c933a7f001a88dec2780bbfaaeac4"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.1.2",
+                "version_normalized": "100.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.1.2.0.zip",
+                    "shasum": "5b26fc3561b1edb17ee88dcfbb34f79cec04034e"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.1.3",
+                "version_normalized": "100.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.1.3.0.zip",
+                    "shasum": "9d5107af4ce5f4d95c0d96f51f7d6227c41ebe32"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.1.4",
+                "version_normalized": "100.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.1.4.0.zip",
+                    "shasum": "f8e9621cc61153b4d345d058e701cdf6b9faa408"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.2.0",
+                "version_normalized": "100.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.2.0.0.zip",
+                    "shasum": "8837c4d181b9c4527c3b136de2bda5b654dc02ed"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.2.0-rc20",
+                "version_normalized": "100.2.0.0-RC20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.2.0.0-RC20.zip",
+                    "shasum": "81c0dbd360999d4b796307d5815c0a9aada25a4b"
+                },
+                "require": {
+                    "magento/framework": "100.2.*",
+                    "magento/module-catalog": "101.1.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-sales": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.2.0-rc21",
+                "version_normalized": "100.2.0.0-RC21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.2.0.0-RC21.zip",
+                    "shasum": "bbefbe6fc1f3b3d25f2e3e84afb8b0c1a67f46d6"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.2.0-rc22",
+                "version_normalized": "100.2.0.0-RC22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.2.0.0-RC22.zip",
+                    "shasum": "3151eae1cf07a0c6b4574f937ebfcb5a78a5d44b"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.2.0-rc23",
+                "version_normalized": "100.2.0.0-RC23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.2.0.0-RC23.zip",
+                    "shasum": "784e5027832bbc0e1977135edd63e4ca1329ecd8"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.2.0-rc30",
+                "version_normalized": "100.2.0.0-RC30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.2.0.0-RC30.zip",
+                    "shasum": "07a3938a6a50fef797814555095fba1f93fa5ee9"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.2.1",
+                "version_normalized": "100.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.2.1.0.zip",
+                    "shasum": "b78b6e5eca1a6ac3e9e38b2f68527b13a5adab2e"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.2.2",
+                "version_normalized": "100.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.2.2.0.zip",
+                    "shasum": "67bccefdecce8f328fa9561fc03ca2895a637f87"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.2.3",
+                "version_normalized": "100.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.2.3.0.zip",
+                    "shasum": "ebc8400f8fcfa8491bffef271c9ae480dd174b00"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.2.4",
+                "version_normalized": "100.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.2.4.0.zip",
+                    "shasum": "15d3c81c7717f6a966f3b8cf0c7745dd559a7ffe"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0|~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.2.5",
+                "version_normalized": "100.2.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.2.5.0.zip",
+                    "shasum": "fac9e4dd1ce82f75682d165f6a8023703edeba0b"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13||~7.1.0||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.3.0",
+                "version_normalized": "100.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.3.0.0.zip",
+                    "shasum": "caf1315bff05d41a138814b766bdba38175564a3"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.3.1",
+                "version_normalized": "100.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.3.1.0.zip",
+                    "shasum": "6982aab2739a7ec5df5b25b5cac28dc70fea4c6b"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.3.2",
+                "version_normalized": "100.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.3.2.0.zip",
+                    "shasum": "e0f30012eb823288324f03f5606c34b0268e2e76"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.3.3",
+                "version_normalized": "100.3.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.3.3.0.zip",
+                    "shasum": "5c99753380026886644544a54ebae904231dd62d"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-inventory",
+                "version": "100.3.4",
+                "version_normalized": "100.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-sales-inventory/magento-module-sales-inventory-100.3.4.0.zip",
+                    "shasum": "67a9020d58bcab5335865c4f3b442566d3131db7"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/brosolutions_custombackground": [
+            {
+                "name": "connect20/BroSolutions_CustomBackground",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/BroSolutions_CustomBackground/1.0.0/BroSolutions_CustomBackground-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex",
+                        "email": "silyadev@gmail.com"
+                    }
+                ],
+                "description": "Site Background Management"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/pi_stores": [
+            {
+                "name": "connect20/PI_Stores",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/PI_Stores/1.0.0/PI_Stores-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "pureimagination",
+                        "email": "johncarter15oct@gmail.com"
+                    }
+                ],
+                "description": "This extension helps you to display your store locations on Google map."
+            }
+        ]
+    }
+}

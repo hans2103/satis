@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "kirchbergerknorr/heidelpay": [
+            {
+                "name": "kirchbergerknorr/heidelpay",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/kirchbergerknorr/heidelpay.git",
+                    "reference": "8f79222b1c497303398aa3b90c274a454df6bb15"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/kirchbergerknorr/heidelpay/zipball/8f79222b1c497303398aa3b90c274a454df6bb15",
+                    "reference": "8f79222b1c497303398aa3b90c274a454df6bb15",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-03-09T17:28:03+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Aleksey Razbakov",
+                        "email": "aleksey@razbakov.com"
+                    }
+                ],
+                "description": "Heidelpay",
+                "homepage": "http://www.magentocommerce.com/magento-connect/heidelpay-1.html",
+                "keywords": [
+                    "heidelpay",
+                    "magento",
+                    "payment"
+                ],
+                "support": {
+                    "source": "https://github.com/kirchbergerknorr/heidelpay/tree/master",
+                    "issues": "https://github.com/kirchbergerknorr/heidelpay/issues"
+                }
+            }
+        ]
+    }
+}

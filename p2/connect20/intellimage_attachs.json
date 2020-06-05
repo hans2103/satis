@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/intellimage_attachs": [
+            {
+                "name": "connect20/Intellimage_Attachs",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Intellimage_Attachs/1.0.0/Intellimage_Attachs-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Hugo Mauricio Prado Macat",
+                        "email": "mauricioprado00@gmail.com"
+                    }
+                ],
+                "description": "Allows to attach files to any kind of products."
+            }
+        ]
+    }
+}

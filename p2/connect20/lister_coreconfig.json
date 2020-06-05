@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/lister_coreconfig": [
+            {
+                "name": "connect20/Lister_Coreconfig",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Lister_Coreconfig/0.0.1/Lister_Coreconfig-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Lister Technologies (P) Ltd",
+                        "email": "senthil.muppidathi@listertechnologies.com"
+                    }
+                ],
+                "description": "Coreconfig - Module which is used to import the config data via csv and store it in the respective table (core_config_data)"
+            }
+        ]
+    }
+}

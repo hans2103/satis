@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/hqpeak_torblocker": [
+            {
+                "name": "connect20/Hqpeak_TorBlocker",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Hqpeak_TorBlocker/1.0.0/Hqpeak_TorBlocker-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "HQPeak",
+                        "email": "contact@hqpeak.com"
+                    }
+                ],
+                "description": "Most of the time Tor exit nodes are used to enumerate vulnerabilities of our online product, to perform attack or to be used as a spam source. This extension allow us to limit the actions that could be performed by the users that are coming from a Tor exit nodes using http://hqpeak.com/torexitlist/ free service. Could be upgraded to premium or could be set up any url to service that will give you response in the described json format. Premium list is updated on every 5 minutes, while free version list is updated on 5 h."
+            }
+        ]
+    }
+}

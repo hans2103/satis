@@ -1,0 +1,438 @@
+{
+    "packages": {
+        "magento/module-inventory-shipping-admin-ui": [
+            {
+                "name": "magento/module-inventory-shipping-admin-ui",
+                "version": "1.0.0-rc",
+                "version_normalized": "1.0.0.0-RC",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping-admin-ui/magento-module-inventory-shipping-admin-ui-1.0.0.0-RC.zip",
+                    "shasum": "f5d059a18bba9b93f667032aac636ee4bb4e4191"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.0.*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShippingAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping-admin-ui",
+                "version": "1.0.0-beta",
+                "version_normalized": "1.0.0.0-beta",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping-admin-ui/magento-module-inventory-shipping-admin-ui-1.0.0.0-beta.zip",
+                    "shasum": "6a559763ac78da89b02f445a110d0bcdfaf6e78a"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.0.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShippingAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping-admin-ui",
+                "version": "1.0.0-beta2",
+                "version_normalized": "1.0.0.0-beta2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping-admin-ui/magento-module-inventory-shipping-admin-ui-1.0.0.0-beta2.zip",
+                    "shasum": "642949698c70f8e4d5a37288a3ae1a8905727933"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.0.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShippingAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping-admin-ui",
+                "version": "1.0.0-beta3",
+                "version_normalized": "1.0.0.0-beta3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping-admin-ui/magento-module-inventory-shipping-admin-ui-1.0.0.0-beta3.zip",
+                    "shasum": "ce8c84546243947aa59eefa82d9e6da0905c8131"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.0.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShippingAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping-admin-ui",
+                "version": "1.0.0-beta4",
+                "version_normalized": "1.0.0.0-beta4",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping-admin-ui/magento-module-inventory-shipping-admin-ui-1.0.0.0-beta4.zip",
+                    "shasum": "dbc806b1bcde38b3cf8211abc6746d4742568d14"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.0.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShippingAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping-admin-ui",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping-admin-ui/magento-module-inventory-shipping-admin-ui-1.0.3.0.zip",
+                    "shasum": "861a97645471792c51a520a8744042a28e7a2246"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.0.*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShippingAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping-admin-ui",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping-admin-ui/magento-module-inventory-shipping-admin-ui-1.0.4.0.zip",
+                    "shasum": "faa48dd7930974c8fd4c792d70f9ab71fd971b78"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-inventory-api": "*",
+                    "magento/module-inventory-configuration-api": "*",
+                    "magento/module-inventory-sales-api": "*",
+                    "magento/module-inventory-source-selection-api": "*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShippingAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping-admin-ui",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping-admin-ui/magento-module-inventory-shipping-admin-ui-1.0.5.0.zip",
+                    "shasum": "a3fea914cc0cb9cd2c8a027a27653fb2c4814fe3"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.2.*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShippingAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping-admin-ui",
+                "version": "1.0.5-beta2",
+                "version_normalized": "1.0.5.0-beta2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping-admin-ui/magento-module-inventory-shipping-admin-ui-1.0.5.0-beta2.zip",
+                    "shasum": "f34d603d0d599c2205f2572416d6b145fc35d3ab"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.2.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShippingAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping-admin-ui",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping-admin-ui/magento-module-inventory-shipping-admin-ui-1.0.6.0.zip",
+                    "shasum": "4b3bdfe95878c1b22a0266b7749b513b61b57139"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.2.*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShippingAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping-admin-ui",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping-admin-ui/magento-module-inventory-shipping-admin-ui-1.0.7.0.zip",
+                    "shasum": "43c6764dfdcff13768303fbe792f84f4d4ac4bd9"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.2.*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShippingAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-shipping-admin-ui",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-shipping-admin-ui/magento-module-inventory-shipping-admin-ui-1.0.8.0.zip",
+                    "shasum": "607761941b8cc2ee07e4985c9c405daa608d0033"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-inventory-source-selection-api": "1.2.*",
+                    "magento/module-sales": "*",
+                    "magento/module-shipping": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryShippingAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

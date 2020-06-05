@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/leonambernini_extrabuttons": [
+            {
+                "name": "connect20/LeonamBernini_ExtraButtons",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/LeonamBernini_ExtraButtons/2.0.1/LeonamBernini_ExtraButtons-2.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Leonam Bernini",
+                        "email": "leonam.b@hotmail.com"
+                    }
+                ],
+                "description": "Extra Button extension for magento"
+            }
+        ]
+    }
+}

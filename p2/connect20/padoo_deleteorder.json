@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/padoo_deleteorder": [
+            {
+                "name": "connect20/padoo_deleteorder",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/padoo_deleteorder/1.0.0/padoo_deleteorder-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Padoosoft",
+                        "email": "stdspace@gmail.com"
+                    }
+                ],
+                "description": "Allow delete order and bulk orders and related invoices, shipments."
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sliderbywebline": [
+            {
+                "name": "connect20/sliderbywebline",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/sliderbywebline/0.1.0/sliderbywebline-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU"
+                ],
+                "authors": [
+                    {
+                        "name": "Webline",
+                        "email": "partners@weblineindia.com"
+                    }
+                ],
+                "description": "Banner Slider"
+            }
+        ]
+    }
+}

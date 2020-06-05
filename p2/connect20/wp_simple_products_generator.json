@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/wp_simple_products_generator": [
+            {
+                "name": "connect20/wp_simple_products_generator",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/wp_simple_products_generator/2.0.0/wp_simple_products_generator-2.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Creative-Commons-Attribution-3.0-Unported-License"
+                ],
+                "authors": [
+                    {
+                        "name": "WebAndPeople",
+                        "email": "design@webandpeople.com"
+                    }
+                ],
+                "description": "Generate Simple Products for Configurable Product (Web-Experiment.Info)"
+            },
+            {
+                "name": "connect20/wp_simple_products_generator",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/wp_simple_products_generator/2.1.0/wp_simple_products_generator-2.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Creative-Commons-Attribution-3.0-Unported-License"
+                ],
+                "authors": [
+                    {
+                        "name": "WebAndPeople",
+                        "email": "design@webandpeople.com"
+                    }
+                ],
+                "description": "Generate Simple Products for Configurable Product (Web-Experiment.Info)"
+            }
+        ]
+    }
+}

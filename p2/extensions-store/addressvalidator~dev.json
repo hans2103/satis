@@ -1,0 +1,192 @@
+{
+    "packages": {
+        "extensions-store/addressvalidator": [
+            {
+                "name": "extensions-store/addressvalidator",
+                "version": "1.6.x-dev",
+                "version_normalized": "1.6.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/Addressvalidator.git",
+                    "reference": "17231791cb2406e760634a2710770dcb48b88d6b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/Addressvalidator/zipball/17231791cb2406e760634a2710770dcb48b88d6b",
+                    "reference": "17231791cb2406e760634a2710770dcb48b88d6b",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2017-05-20T18:56:03+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Extensions Store",
+                        "email": "admin@extensions-store.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Validate billing and shipping addresses in the One Page Checkout.",
+                "homepage": "https://github.com/ExtensionsStore/Addressvalidator.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/Addressvalidator/tree/1.6",
+                    "issues": "https://github.com/ExtensionsStore/Addressvalidator/issues"
+                }
+            },
+            {
+                "name": "extensions-store/addressvalidator",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/Addressvalidator.git",
+                    "reference": "0f7ff5c266e450b0d2030c7f08f7aae5422b86e8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/Addressvalidator/zipball/0f7ff5c266e450b0d2030c7f08f7aae5422b86e8",
+                    "reference": "0f7ff5c266e450b0d2030c7f08f7aae5422b86e8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2017-04-13T17:12:24+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Extensions Store",
+                        "email": "admin@extensions-store.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Validate billing and shipping addresses in the One Page Checkout.",
+                "homepage": "https://github.com/ExtensionsStore/Addressvalidator.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/Addressvalidator/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/Addressvalidator/issues"
+                }
+            },
+            {
+                "name": "extensions-store/addressvalidator",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/Addressvalidator.git",
+                    "reference": "0318918191578e283d23e1225e65de33e6709d85"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/Addressvalidator/zipball/0318918191578e283d23e1225e65de33e6709d85",
+                    "reference": "0318918191578e283d23e1225e65de33e6709d85",
+                    "shasum": ""
+                },
+                "time": "2019-02-17T14:14:38+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "ExtensionsStore\\Addressvalidator\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Address Validator Magento 2 module",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/Addressvalidator/tree/develop",
+                    "issues": "https://github.com/ExtensionsStore/Addressvalidator/issues"
+                }
+            },
+            {
+                "name": "extensions-store/addressvalidator",
+                "version": "dev-lightcheckout",
+                "version_normalized": "dev-lightcheckout",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/Addressvalidator.git",
+                    "reference": "4fd4ae2f11d7858f942f2d7b7ab4eec210b6f295"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/Addressvalidator/zipball/4fd4ae2f11d7858f942f2d7b7ab4eec210b6f295",
+                    "reference": "4fd4ae2f11d7858f942f2d7b7ab4eec210b6f295",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2017-05-07T23:13:28+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Extensions Store",
+                        "email": "admin@extensions-store.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Validate billing and shipping addresses in the One Page Checkout.",
+                "homepage": "https://github.com/ExtensionsStore/Addressvalidator.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/Addressvalidator/tree/lightcheckout",
+                    "issues": "https://github.com/ExtensionsStore/Addressvalidator/issues"
+                }
+            },
+            {
+                "name": "extensions-store/addressvalidator",
+                "version": "dev-magento2",
+                "version_normalized": "dev-magento2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/Addressvalidator.git",
+                    "reference": "39819f4229766c36b4e477e628cc2d74becc498e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/Addressvalidator/zipball/39819f4229766c36b4e477e628cc2d74becc498e",
+                    "reference": "39819f4229766c36b4e477e628cc2d74becc498e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2016-07-04T13:16:37+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Extensions Store",
+                        "email": "admin@extensions-store.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Validate billing and shipping addresses in the One Page Checkout.",
+                "homepage": "https://github.com/ExtensionsStore/Addressvalidator.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/Addressvalidator/tree/magento2",
+                    "issues": "https://github.com/ExtensionsStore/Addressvalidator/issues"
+                }
+            }
+        ]
+    }
+}

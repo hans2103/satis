@@ -1,0 +1,120 @@
+{
+    "packages": {
+        "magento/module-adobe-stock-image-admin-ui": [
+            {
+                "name": "magento/module-adobe-stock-image-admin-ui",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-adobe-stock-image-admin-ui/magento-module-adobe-stock-image-admin-ui-1.0.0.0.zip",
+                    "shasum": "9429db87196341ed099e639dc7902d1f0f92c68c"
+                },
+                "require": {
+                    "magento/framework": "~102.0.4",
+                    "magento/module-adobe-ims": "1.*.*",
+                    "magento/module-adobe-ims-api": "1.*.*",
+                    "magento/module-adobe-stock-asset-api": "1.*.*",
+                    "magento/module-adobe-stock-client-api": "1.*.*",
+                    "magento/module-adobe-stock-image-api": "1.*.*",
+                    "magento/module-backend": "~101.0.4",
+                    "magento/module-ui": "~101.1.4",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-cms": "~103.0.4"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeStockImageAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the admin panel images UI implementation"
+            },
+            {
+                "name": "magento/module-adobe-stock-image-admin-ui",
+                "version": "1.0.0-beta1",
+                "version_normalized": "1.0.0.0-beta1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-adobe-stock-image-admin-ui/magento-module-adobe-stock-image-admin-ui-1.0.0.0-beta1.zip",
+                    "shasum": "205d1bc1532df10448711301172d3e1e0db4bd43"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-adobe-ims": "1.0.0-beta1",
+                    "magento/module-adobe-ims-api": "1.0.0-beta1",
+                    "magento/module-adobe-stock-asset-api": "1.0.0-beta1",
+                    "magento/module-adobe-stock-client-api": "1.0.0-beta1",
+                    "magento/module-adobe-stock-image-api": "1.0.0-beta1",
+                    "magento/module-backend": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-cms": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeStockImageAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the admin panel images UI implementation"
+            },
+            {
+                "name": "magento/module-adobe-stock-image-admin-ui",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-adobe-stock-image-admin-ui/magento-module-adobe-stock-image-admin-ui-1.0.1.0.zip",
+                    "shasum": "7aee8874378aaf13e9bb6a7fd6cafea80f3e2ec7"
+                },
+                "require": {
+                    "magento/framework": "~102.0.4",
+                    "magento/module-adobe-ims": "1.*.*",
+                    "magento/module-adobe-ims-api": "1.*.*",
+                    "magento/module-adobe-stock-asset-api": "1.*.*",
+                    "magento/module-adobe-stock-client-api": "1.*.*",
+                    "magento/module-adobe-stock-image-api": "1.*.*",
+                    "magento/module-backend": "~101.0.4",
+                    "magento/module-ui": "~101.1.4",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-cms": "~103.0.4"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeStockImageAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the admin panel images UI implementation"
+            }
+        ]
+    }
+}

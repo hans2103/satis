@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/fooman_speedsteradvanced": [
+            {
+                "name": "connect20/Fooman_SpeedsterAdvanced",
+                "version": "0.8.14",
+                "version_normalized": "0.8.14.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Fooman_SpeedsterAdvanced/0.8.14/Fooman_SpeedsterAdvanced-0.8.14.tgz"
+                },
+                "require": {
+                    "connect20/fooman_common": "*"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0-/-BSD-see-files"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Speed up your store by minifying JS and CSS."
+            }
+        ]
+    }
+}

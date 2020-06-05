@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "fballiano/magento-turpentine-recently-viewed": [
+            {
+                "name": "fballiano/magento-turpentine-recently-viewed",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fballiano/magento-turpentine-recently-viewed.git",
+                    "reference": "201e487e57c46ca79efe44921c674fe2ef52e2fe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/fballiano/magento-turpentine-recently-viewed/zipball/201e487e57c46ca79efe44921c674fe2ef52e2fe",
+                    "reference": "201e487e57c46ca79efe44921c674fe2ef52e2fe",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "time": "2016-01-04T19:53:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Balliano",
+                        "email": "fabrizio@fabrizioballiano.it",
+                        "homepage": "http://fabrizioballiano.it",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Makes the recently viewed block available and working on Magento EE + Varnish (Turpentine).",
+                "homepage": "https://github.com/fballiano/magento-turpentine-recently-viewed",
+                "support": {
+                    "source": "https://github.com/fballiano/magento-turpentine-recently-viewed/tree/master",
+                    "issues": "https://github.com/fballiano/magento-turpentine-recently-viewed/issues"
+                }
+            }
+        ]
+    }
+}

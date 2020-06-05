@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "quafzi/auto-shipping-status": [
+            {
+                "name": "quafzi/auto-shipping-status",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/quafzi/magento-auto-shipping-status.git",
+                    "reference": "8b37e828e2393cf0bf838c0628ef18e7e71991dd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/quafzi/magento-auto-shipping-status/zipball/8b37e828e2393cf0bf838c0628ef18e7e71991dd",
+                    "reference": "8b37e828e2393cf0bf838c0628ef18e7e71991dd",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-10T13:08:39+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas Birke",
+                        "email": "tbirke@netextreme.de"
+                    }
+                ],
+                "description": "Update shipping status from partial shipped to shipped after all items were shipped",
+                "support": {
+                    "source": "https://github.com/quafzi/magento-auto-shipping-status/tree/1.0.0",
+                    "issues": "https://github.com/quafzi/magento-auto-shipping-status/issues"
+                }
+            }
+        ]
+    }
+}

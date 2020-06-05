@@ -1,0 +1,62 @@
+{
+    "packages": {
+        "magento/module-adobe-stock-client-api": [
+            {
+                "name": "magento/module-adobe-stock-client-api",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-adobe-stock-client-api/magento-module-adobe-stock-client-api-1.0.0.0.zip",
+                    "shasum": "d50de661787f40fe9e357a11aec58aff78f6fc19"
+                },
+                "require": {
+                    "magento/framework": "~102.0.4",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeStockClientApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for interaction with Adobe Stock API"
+            },
+            {
+                "name": "magento/module-adobe-stock-client-api",
+                "version": "1.0.0-beta1",
+                "version_normalized": "1.0.0.0-beta1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-adobe-stock-client-api/magento-module-adobe-stock-client-api-1.0.0.0-beta1.zip",
+                    "shasum": "72cedbd0a2c0fbe5fc4e997ab9ebe5423c2eebc9"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeStockClientApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for interaction with Adobe Stock API"
+            }
+        ]
+    }
+}

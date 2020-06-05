@@ -1,0 +1,495 @@
+{
+    "packages": {
+        "magento/module-inventory-catalog": [
+            {
+                "name": "magento/module-inventory-catalog",
+                "version": "1.0.0-rc",
+                "version_normalized": "1.0.0.0-RC",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-catalog/magento-module-inventory-catalog-1.0.0.0-RC.zip",
+                    "shasum": "3974e69f94b4ea6c280b8e60c9150c938b03408c"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-inventory-configuration": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-inventory-reservations-api": "1.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-catalog",
+                "version": "1.0.0-beta",
+                "version_normalized": "1.0.0.0-beta",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-catalog/magento-module-inventory-catalog-1.0.0.0-beta.zip",
+                    "shasum": "143f82ccaafd5e17593cff433d0cca943d66aa1b"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-inventory-reservations-api": "1.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-catalog",
+                "version": "1.0.0-beta2",
+                "version_normalized": "1.0.0.0-beta2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-catalog/magento-module-inventory-catalog-1.0.0.0-beta2.zip",
+                    "shasum": "c927e1ff8afe6a2d92b5f6e35d4001eb0337d233"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-inventory-reservations-api": "1.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-catalog",
+                "version": "1.0.0-beta3",
+                "version_normalized": "1.0.0.0-beta3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-catalog/magento-module-inventory-catalog-1.0.0.0-beta3.zip",
+                    "shasum": "4defe24a032d13bd2410a460bb67a4f7970f6edc"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-inventory-reservations-api": "1.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-catalog",
+                "version": "1.0.0-beta4",
+                "version_normalized": "1.0.0.0-beta4",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-catalog/magento-module-inventory-catalog-1.0.0.0-beta4.zip",
+                    "shasum": "8e90a7da7df30c9baceba052cb322cd7ff17a4be"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-inventory-configuration": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-inventory-reservations-api": "1.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-catalog",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-catalog/magento-module-inventory-catalog-1.0.3.0.zip",
+                    "shasum": "4255e35f8f0638633793b5fd44cf4a85756ea067"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-inventory-configuration": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-inventory-reservations-api": "1.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-catalog",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-catalog/magento-module-inventory-catalog-1.0.4.0.zip",
+                    "shasum": "cf9fc73a20f4d4929c67ffddc5046bcf92437c69"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory": "*",
+                    "magento/module-inventory-api": "*",
+                    "magento/module-inventory-catalog-api": "*",
+                    "magento/module-inventory-configuration": "*",
+                    "magento/module-inventory-configuration-api": "*",
+                    "magento/module-inventory-indexer": "*",
+                    "magento/module-inventory-sales-api": "*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-inventory-reservations-api": "1.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-catalog",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-catalog/magento-module-inventory-catalog-1.0.5.0.zip",
+                    "shasum": "1d5c2bc2a7e573aa74c7802569c55284437ace01"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-configuration": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-inventory-reservations-api": "1.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-catalog",
+                "version": "1.0.5-beta2",
+                "version_normalized": "1.0.5.0-beta2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-catalog/magento-module-inventory-catalog-1.0.5.0-beta2.zip",
+                    "shasum": "222cc659ca9950d4cdd0c85f7001a508cd453835"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-configuration": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-inventory-reservations-api": "1.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-catalog",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-catalog/magento-module-inventory-catalog-1.0.6.0.zip",
+                    "shasum": "4f7116b3453de59f722e625d5abc6d1195080fc5"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-configuration": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-inventory-reservations-api": "1.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-catalog",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-catalog/magento-module-inventory-catalog-1.0.7.0.zip",
+                    "shasum": "96bc2f046417a47abb06301744d3a6aed20cf3b7"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-configuration": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-inventory-reservations-api": "1.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-catalog",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-catalog/magento-module-inventory-catalog-1.0.8.0.zip",
+                    "shasum": "f388df40f070d6a8280a86c6e8fd8deb27df2c1c"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-configuration": "1.0.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-inventory-reservations-api": "1.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

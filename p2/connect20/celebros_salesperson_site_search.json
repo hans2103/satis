@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/celebros_salesperson_site_search": [
+            {
+                "name": "connect20/Celebros_Salesperson_Site_Search",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Celebros_Salesperson_Site_Search/2.1.1/Celebros_Salesperson_Site_Search-2.1.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.10"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "ConversionPro-V8"
+                ],
+                "authors": [
+                    {
+                        "name": "Celebros LTD",
+                        "email": "jeffreyt@celebros.com"
+                    }
+                ],
+                "description": "ConversionPro V8 for Magento is the leading Semantic Site Search, Merchandizing and Navigation for Magento"
+            }
+        ]
+    }
+}

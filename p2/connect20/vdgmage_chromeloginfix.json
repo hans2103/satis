@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/vdgmage_chromeloginfix": [
+            {
+                "name": "connect20/vdgmage_chromeloginfix",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/vdgmage_chromeloginfix/1.0.0/vdgmage_chromeloginfix-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "BSD-license"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel van der Garde",
+                        "email": "daniel@vdgmage.com"
+                    }
+                ],
+                "description": "This extension fixes an issue with logging in on the backend using Google Chrome."
+            },
+            {
+                "name": "connect20/vdgmage_chromeloginfix",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/vdgmage_chromeloginfix/1.0.1/vdgmage_chromeloginfix-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "BSD-license"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel van der Garde",
+                        "email": "daniel@vdgmage.com"
+                    }
+                ],
+                "description": "This extension fixes an issue with logging in on the backend using Google Chrome."
+            }
+        ]
+    }
+}

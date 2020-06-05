@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/wmdlogincheck": [
+            {
+                "name": "connect20/Wmdlogincheck",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Wmdlogincheck/1.0.5/Wmdlogincheck-1.0.5.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "EULA"
+                ],
+                "authors": [
+                    {
+                        "name": "Dominik Wyss",
+                        "email": "info@digiswiss.ch"
+                    }
+                ],
+                "description": "Login Check extension is checking for user login, if not redirects to login page. CMS Pages and actions of your choice. "
+            }
+        ]
+    }
+}

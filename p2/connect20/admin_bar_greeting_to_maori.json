@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/admin_bar_greeting_to_maori": [
+            {
+                "name": "connect20/Admin_Bar_Greeting_To_Maori",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Admin_Bar_Greeting_To_Maori/1.0.1/Admin_Bar_Greeting_To_Maori-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPLv2-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "ROI Marketing",
+                        "email": "info@roimarketing.co.nz"
+                    }
+                ],
+                "description": "Change Your Admin Bar Greeting To Maori"
+            }
+        ]
+    }
+}

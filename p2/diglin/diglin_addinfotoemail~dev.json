@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "diglin/diglin_addinfotoemail": [
+            {
+                "name": "diglin/diglin_addinfotoemail",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Addinfotoemail.git",
+                    "reference": "f4fcc69d7611029672a05d24d15822663766c5cf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Addinfotoemail/zipball/f4fcc69d7611029672a05d24d15822663766c5cf",
+                    "reference": "f4fcc69d7611029672a05d24d15822663766c5cf",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-09-22T19:57:37+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sylvain Rayé",
+                        "email": "{firstname}.{lastname}@diglin.com"
+                    }
+                ],
+                "description": "Allow you to add additional information about your products into sales email as comments after main inforamation. e.g. User Start Guide, Promotion, Tips, etc",
+                "homepage": "https://github.com/diglin/Diglin_Addinfotoemail",
+                "support": {
+                    "source": "https://github.com/diglin/Diglin_Addinfotoemail/tree/1.1.1",
+                    "issues": "https://github.com/diglin/Diglin_Addinfotoemail/issues"
+                }
+            }
+        ]
+    }
+}

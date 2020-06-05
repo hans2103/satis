@@ -1,0 +1,36 @@
+{
+    "packages": {
+        "alanstormdotcom/unremove": [
+            {
+                "name": "alanstormdotcom/unremove",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ffuenf/Alanstorm_Layout-Unremove.git",
+                    "reference": "17eb6a4f3bcac57dc3a67bb382e4d2d3f5765e3d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ffuenf/Alanstorm_Layout-Unremove/zipball/17eb6a4f3bcac57dc3a67bb382e4d2d3f5765e3d",
+                    "reference": "17eb6a4f3bcac57dc3a67bb382e4d2d3f5765e3d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "2.*"
+                },
+                "time": "2014-10-08T12:23:38+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "description": "Adds the possibility to use the local.xml layout file to reverse the effects of a remove tag.",
+                "homepage": "https://github.com/ffuenf/Alanstorm_Layout-Unremove",
+                "support": {
+                    "source": "https://github.com/ffuenf/Alanstorm_Layout-Unremove/tree/1.0.1",
+                    "issues": "https://github.com/ffuenf/Alanstorm_Layout-Unremove/issues"
+                }
+            }
+        ]
+    }
+}

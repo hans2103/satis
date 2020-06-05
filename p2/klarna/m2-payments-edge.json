@@ -1,0 +1,162 @@
+{
+    "packages": {
+        "klarna/m2-payments-edge": [
+            {
+                "name": "klarna/m2-payments-edge",
+                "version": "5.2.2",
+                "version_normalized": "5.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/m2-payments-edge/klarna-m2-payments-edge-5.2.2.0.zip",
+                    "shasum": "9de6e54501303373a670f01686602979bc93d3fb"
+                },
+                "require": {
+                    "klarna/module-core": "4.5.9",
+                    "klarna/module-kp": "5.5.6",
+                    "klarna/module-ordermanagement": "4.4.4"
+                },
+                "replace": {
+                    "klarna/m2-payments": "<=5.2.2"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.2.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/marketplace-eqp": "^2.0",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.12",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "metapackage",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "description": "Klarna Payments for Magento 2 (CE & EE) (Edge release!)"
+            },
+            {
+                "name": "klarna/m2-payments-edge",
+                "version": "7.3.5",
+                "version_normalized": "7.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/m2-payments-edge/klarna-m2-payments-edge-7.3.5.0.zip",
+                    "shasum": "5e6dacb2aff4ffc7de48977f54035d6039bf4568"
+                },
+                "require": {
+                    "klarna/module-core": "5.2.2",
+                    "klarna/module-kp": "6.3.4",
+                    "klarna/module-ordermanagement": "5.0.7"
+                },
+                "replace": {
+                    "klarna/m2-payments": "<=7.3.5"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.10.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento-coding-standard": "*",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.14",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "~3.0.0",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "metapackage",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "description": "Klarna Payments for Magento 2 (CE & EE) (Edge release!)"
+            },
+            {
+                "name": "klarna/m2-payments-edge",
+                "version": "7.4.3",
+                "version_normalized": "7.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/m2-payments-edge/klarna-m2-payments-edge-7.4.3.0.zip",
+                    "shasum": "6c469ced297f62183a5b9f1252d349ec5bed5b24"
+                },
+                "require": {
+                    "klarna/module-core": "5.2.4",
+                    "klarna/module-kp": "6.4.1",
+                    "klarna/module-ordermanagement": "5.0.7"
+                },
+                "replace": {
+                    "klarna/m2-payments": "<=7.4.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.10.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento-coding-standard": "*",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.14",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "~3.0.0",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "metapackage",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "description": "Klarna Payments for Magento 2 (CE & EE) (Edge release!)"
+            },
+            {
+                "name": "klarna/m2-payments-edge",
+                "version": "7.5.0",
+                "version_normalized": "7.5.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/klarna/m2-payments-edge/klarna-m2-payments-edge-7.5.0.0.zip",
+                    "shasum": "ccf020fd83d547a545a5ad6a4430ca447a8dd432"
+                },
+                "require": {
+                    "klarna/module-core": "5.3.0",
+                    "klarna/module-kp": "6.5.0",
+                    "klarna/module-ordermanagement": "5.0.8"
+                },
+                "replace": {
+                    "klarna/m2-payments": "<=7.5.0"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.10.1",
+                    "jakub-onderka/php-console-highlighter": "^0.3.2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento-coding-standard": "*",
+                    "mikey179/vfsstream": "^1.6",
+                    "pdepend/pdepend": "^2.5",
+                    "phploc/phploc": "^4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpro/grumphp": "^0.14",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "~3.0.0",
+                    "squizlabs/php_codesniffer": "^3.2",
+                    "theseer/phpdox": "^0.10.1"
+                },
+                "type": "metapackage",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "description": "Klarna Payments for Magento 2 (CE & EE) (Edge release!)"
+            }
+        ]
+    }
+}

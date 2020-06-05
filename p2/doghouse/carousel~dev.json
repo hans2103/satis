@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "doghouse/carousel": [
+            {
+                "name": "doghouse/carousel",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/DoghouseMedia/Doghouse_Carousel.git",
+                    "reference": "d655fa590aa292be9ae549a0d5db75cf09050d0f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/DoghouseMedia/Doghouse_Carousel/zipball/d655fa590aa292be9ae549a0d5db75cf09050d0f",
+                    "reference": "d655fa590aa292be9ae549a0d5db75cf09050d0f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-07-03T01:25:51+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Erfan Imani",
+                        "email": "erfan@dhmedia.com.au"
+                    }
+                ],
+                "description": "Illest Magento carousel alive that doesn't make any design decisions for you.",
+                "homepage": "https://github.com/DoghouseMedia/Doghouse_Carousel",
+                "support": {
+                    "source": "https://github.com/DoghouseMedia/Doghouse_Carousel/tree/master",
+                    "issues": "https://github.com/DoghouseMedia/Doghouse_Carousel/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sitewards_pricecheck_framework": [
+            {
+                "name": "connect20/Sitewards_PriceCheck_Framework",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Sitewards_PriceCheck_Framework/1.0.1/Sitewards_PriceCheck_Framework-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Sitewards Magento Team",
+                        "email": "magento@sitewards.com"
+                    }
+                ],
+                "description": "This extension provides an easy to use framework for overriding the standard Magento Product price model."
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/mage_googletrustedstore": [
+            {
+                "name": "connect20/Mage_GoogleTrustedStore",
+                "version": "1.0.14",
+                "version_normalized": "1.0.14.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_GoogleTrustedStore/1.0.14/Mage_GoogleTrustedStore-1.0.14.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento",
+                        "email": "Magento-GTS-Support@magento.com"
+                    }
+                ],
+                "description": "Magento Integration with the Google Trusted Stores Program."
+            }
+        ]
+    }
+}

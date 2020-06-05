@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/amg_securepay": [
+            {
+                "name": "connect20/AMG_SecurePay",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/AMG_SecurePay/0.1.0/AMG_SecurePay-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU"
+                ],
+                "authors": [
+                    {
+                        "name": "AMG",
+                        "email": "magento@amgms.com"
+                    }
+                ],
+                "description": "AMG_SecurePay"
+            }
+        ]
+    }
+}

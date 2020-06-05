@@ -1,0 +1,72 @@
+{
+    "packages": {
+        "magento/module-page-builder-product-recommendations": [
+            {
+                "name": "magento/module-page-builder-product-recommendations",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-page-builder-product-recommendations/magento-module-page-builder-product-recommendations-1.0.0.0.zip",
+                    "shasum": "d7cbb0a161ac6eeb42c0833b915e9f5402f980cb"
+                },
+                "require": {
+                    "magento/framework": "~102.0.0",
+                    "magento/module-catalog": "~103.0.0",
+                    "magento/module-page-builder": "~1.0",
+                    "magento/module-product-recommendations-admin": "~2.0.1",
+                    "magento/module-product-recommendations-layout": "~3.0.0",
+                    "magento/module-store": "~101.0.0",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ProductRecommendationsLayout\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "PageBuilder Product Recommendations module"
+            },
+            {
+                "name": "magento/module-page-builder-product-recommendations",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-page-builder-product-recommendations/magento-module-page-builder-product-recommendations-1.0.1.0.zip",
+                    "shasum": "161fc9e76f8b01a2aa6d19b8b3ac3cc54f530495"
+                },
+                "require": {
+                    "magento/framework": "~102.0.0",
+                    "magento/module-catalog": "~103.0.0",
+                    "magento/module-page-builder": "~1.0",
+                    "magento/module-product-recommendations-admin": "~2.0.1",
+                    "magento/module-product-recommendations-layout": "~3.0.0",
+                    "magento/module-store": "~101.0.0",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\PageBuilderProductRecommendations\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "PageBuilder Product Recommendations module"
+            }
+        ]
+    }
+}

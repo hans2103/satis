@@ -1,0 +1,37 @@
+{
+    "packages": {
+        "blissmedia/catalog": [
+            {
+                "name": "blissmedia/catalog",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/blissmedia/Bliss_Catalog.git",
+                    "reference": "60cd6e78cbf5ee2241942ad10a37c61e6c763468"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/blissmedia/Bliss_Catalog/zipball/60cd6e78cbf5ee2241942ad10a37c61e6c763468",
+                    "reference": "60cd6e78cbf5ee2241942ad10a37c61e6c763468",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-10-17T22:16:13+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "James Harrison"
+                    }
+                ],
+                "homepage": "https://github.com/blissmedia/bliss_catalog",
+                "support": {
+                    "source": "https://github.com/blissmedia/Bliss_Catalog/tree/master",
+                    "issues": "https://github.com/blissmedia/Bliss_Catalog/issues"
+                }
+            }
+        ]
+    }
+}

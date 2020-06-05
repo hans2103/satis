@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/globalcheckout": [
+            {
+                "name": "connect20/globalcheckout",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/globalcheckout/1.0.0/globalcheckout-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-GENERAL-PUBLIC-LICENSE-(GPL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "AnnaConcept",
+                        "email": "info@annaconcept.com"
+                    }
+                ],
+                "description": "Global Checkout international payment gateway"
+            },
+            {
+                "name": "connect20/globalcheckout",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/globalcheckout/1.0.1/globalcheckout-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "AnnaConcept",
+                        "email": "info@annaconcept.com"
+                    }
+                ],
+                "description": "Sell Internationally in hours! Fraud free, lowest shipping rates and multi-lingual customer support."
+            }
+        ]
+    }
+}

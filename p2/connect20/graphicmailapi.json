@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/graphicmailapi": [
+            {
+                "name": "connect20/GraphicMailApi",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/GraphicMailApi/1.0.4/GraphicMailApi-1.0.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "a1professionals",
+                        "email": "teamlead@a1professionals.com"
+                    }
+                ],
+                "description": "Grow  your mailing list through Magento transactions! Every time someone \r\nregisters to buy from your online shop or service via Magento, ask them \r\nto opt in to your GraphicMail newsletter. This way, you can send them \r\ntargeted newsletters, i.e. notify them of new specials, good deals, or \r\nnew products."
+            }
+        ]
+    }
+}

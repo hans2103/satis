@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ti_autocrossupsells": [
+            {
+                "name": "connect20/Ti_Autocrossupsells",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ti_Autocrossupsells/1.0.1/Ti_Autocrossupsells-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Ti Technologies",
+                        "email": "info@titechnologies.in"
+                    }
+                ],
+                "description": "It will do the automatic cross-sell and up-sell functionality with category filter. \r\nIts working like who bought this also bought concept. "
+            }
+        ]
+    }
+}

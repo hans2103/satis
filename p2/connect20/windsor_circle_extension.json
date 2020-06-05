@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/windsor_circle_extension": [
+            {
+                "name": "connect20/Windsor_Circle_Extension",
+                "version": "1.0.97",
+                "version_normalized": "1.0.97.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Replenishment_Automator/1.0.97/Replenishment_Automator-1.0.97.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "authors": [
+                    {
+                        "name": "Andrew Pearson",
+                        "email": "partners@windsorcircle.com"
+                    }
+                ],
+                "description": "Windsor Circle Predictive Marketing Platform"
+            }
+        ]
+    }
+}

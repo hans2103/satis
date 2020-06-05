@@ -1,0 +1,88 @@
+{
+    "packages": {
+        "loewenstark/seo": [
+            {
+                "name": "loewenstark/seo",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mklooss/Loewenstark_Seo.git",
+                    "reference": "f889e648e28e51434226c27cd47a22fb384f7df4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mklooss/Loewenstark_Seo/zipball/f889e648e28e51434226c27cd47a22fb384f7df4",
+                    "reference": "f889e648e28e51434226c27cd47a22fb384f7df4",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-01-09T10:53:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Mathis Klooss"
+                    },
+                    {
+                        "name": "Volker Thiel"
+                    },
+                    {
+                        "name": "Leon Weickert"
+                    }
+                ],
+                "description": "technical SEO improvments",
+                "homepage": "https://github.com/mklooss/Loewenstark_Seo",
+                "support": {
+                    "source": "https://github.com/mklooss/Loewenstark_Seo/tree/master",
+                    "issues": "https://github.com/mklooss/Loewenstark_Seo/issues"
+                }
+            },
+            {
+                "name": "loewenstark/seo",
+                "version": "dev-feature-catalogsearch-robots",
+                "version_normalized": "dev-feature-catalogsearch-robots",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mklooss/Loewenstark_Seo.git",
+                    "reference": "3be9da745ecb3f5b2603dcbc9f6dc914dbaca580"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mklooss/Loewenstark_Seo/zipball/3be9da745ecb3f5b2603dcbc9f6dc914dbaca580",
+                    "reference": "3be9da745ecb3f5b2603dcbc9f6dc914dbaca580",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-02-09T14:10:25+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Mathis Klooss"
+                    },
+                    {
+                        "name": "Volker Thiel"
+                    },
+                    {
+                        "name": "Leon Weickert"
+                    }
+                ],
+                "description": "technical SEO improvments",
+                "homepage": "https://github.com/mklooss/Loewenstark_Seo",
+                "support": {
+                    "source": "https://github.com/mklooss/Loewenstark_Seo/tree/feature-catalogsearch-robots",
+                    "issues": "https://github.com/mklooss/Loewenstark_Seo/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/chainpay": [
+            {
+                "name": "connect20/ChainPay",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ChainPay/1.1.0/ChainPay-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MITL"
+                ],
+                "authors": [
+                    {
+                        "name": "James Carter",
+                        "email": "james.carter@altxe.com"
+                    }
+                ],
+                "description": "Enable ChainPay to accept Bitcoin on your Magento platform. Pay less to receive your payments. "
+            },
+            {
+                "name": "connect20/ChainPay",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ChainPay/1.1.1/ChainPay-1.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MITL"
+                ],
+                "authors": [
+                    {
+                        "name": "James Carter",
+                        "email": "james.carter@altxe.com"
+                    }
+                ],
+                "description": "Enable ChainPay to accept Bitcoin on your Magento platform. Pay less to receive your payments. "
+            }
+        ]
+    }
+}

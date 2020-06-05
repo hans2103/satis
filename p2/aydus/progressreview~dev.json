@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "aydus/progressreview": [
+            {
+                "name": "aydus/progressreview",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/ProgressReview.git",
+                    "reference": "d49d3ceb7dd93a641a50983bc441a5ba43af6176"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/ProgressReview/zipball/d49d3ceb7dd93a641a50983bc441a5ba43af6176",
+                    "reference": "d49d3ceb7dd93a641a50983bc441a5ba43af6176",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2015-08-20T17:32:05+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "davidt@aydus.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Displays a cart review box in the checkout side bar. Review box will be updated as checkout progresses.",
+                "homepage": "https://github.com/aydus/ProgressReview.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/ProgressReview/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/ProgressReview/issues"
+                }
+            }
+        ]
+    }
+}

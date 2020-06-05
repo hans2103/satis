@@ -1,0 +1,66 @@
+{
+    "packages": {
+        "businessfactory/roi_hunter_easy": [
+            {
+                "name": "businessfactory/roi_hunter_easy",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/businessfactory/roi_hunter_easy/businessfactory-roi_hunter_easy-1.1.2.0.zip",
+                    "shasum": "baeeb22df11b5f62bbde526f15591b4b5cd86fac"
+                },
+                "require": {
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "1.0.0-beta"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "BusinessFactory\\RoiHunterEasy\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Module for quick creation of dynamic remarketing ads."
+            },
+            {
+                "name": "businessfactory/roi_hunter_easy",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/businessfactory/roi_hunter_easy/businessfactory-roi_hunter_easy-1.1.3.0.zip",
+                    "shasum": "e072096e4d34b00e44ee33d56530fce045d36cbb"
+                },
+                "require": {
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "1.0.0-beta"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "BusinessFactory\\RoiHunterEasy\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Module for quick creation of dynamic remarketing ads."
+            }
+        ]
+    }
+}

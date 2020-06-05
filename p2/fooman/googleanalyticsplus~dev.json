@@ -1,0 +1,63 @@
+{
+    "packages": {
+        "fooman/googleanalyticsplus": [
+            {
+                "name": "fooman/googleanalyticsplus",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/googleanalyticsplus.git",
+                    "reference": "15bc130decd4888062092d2aac1fdd6a34101151"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/fooman/googleanalyticsplus/zipball/15bc130decd4888062092d2aac1fdd6a34101151",
+                    "reference": "15bc130decd4888062092d2aac1fdd6a34101151",
+                    "shasum": ""
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-11-13T02:09:20+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/GoogleAnalyticsPlus/",
+                            "app/code/community/Fooman/GoogleAnalyticsPlus/"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/googleanalyticsplus.xml",
+                            "app/design/frontend/base/default/layout/googleanalyticsplus.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/fooman/googleanalyticsplus/",
+                            "app/design/frontend/base/default/template/fooman/googleanalyticsplus/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_GoogleAnalyticsPlus.xml",
+                            "app/etc/modules/Fooman_GoogleAnalyticsPlus.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Additional features for the default GoogleAnalytics module.",
+                "homepage": "https://github.com/fooman/googleanalyticsplus",
+                "support": {
+                    "source": "https://github.com/fooman/googleanalyticsplus/tree/v0.18.4",
+                    "issues": "https://github.com/fooman/googleanalyticsplus/issues"
+                }
+            }
+        ]
+    }
+}

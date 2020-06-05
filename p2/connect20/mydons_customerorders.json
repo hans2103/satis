@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/mydons_customerorders": [
+            {
+                "name": "connect20/Mydons_Customerorders",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mydons_Customerorders/0.1.0/Mydons_Customerorders-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ramesh Pushparaj",
+                        "email": "ramesh.vlb08@gmail.com"
+                    }
+                ],
+                "description": "A custom report extension which shows the list of customers not placed any order for the past three months"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/irzzo_autoreviewreminderemail": [
+            {
+                "name": "connect20/irzzo_autoreviewreminderemail",
+                "version": "1.0.4.2",
+                "version_normalized": "1.0.4.2",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/irzzo_autoreviewreminderemail/1.0.4.2/irzzo_autoreviewreminderemail-1.0.4.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Nitin Gupta",
+                        "email": "support@irzoo.com"
+                    }
+                ],
+                "description": "Provides you the power to send automated emails to customers asking them to review the products purchased."
+            }
+        ]
+    }
+}

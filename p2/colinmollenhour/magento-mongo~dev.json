@@ -1,0 +1,76 @@
+{
+    "packages": {
+        "colinmollenhour/magento-mongo": [
+            {
+                "name": "colinmollenhour/magento-mongo",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/colinmollenhour/magento-mongo.git",
+                    "reference": "9f994b83733631e60252b199f79a9a1c432eb73f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/colinmollenhour/magento-mongo/zipball/9f994b83733631e60252b199f79a9a1c432eb73f",
+                    "reference": "9f994b83733631e60252b199f79a9a1c432eb73f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-02-04T16:24:15+00:00",
+                "type": "magento-module",
+                "license": [
+                    "BSD-3-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin Mollenhour",
+                        "email": "colin@mollenhour.com"
+                    }
+                ],
+                "description": "MongoDb abstraction layer and atomic job queue for Magento.",
+                "support": {
+                    "source": "https://github.com/colinmollenhour/magento-mongo/tree/master",
+                    "issues": "https://github.com/colinmollenhour/magento-mongo/issues"
+                }
+            },
+            {
+                "name": "colinmollenhour/magento-mongo",
+                "version": "dev-fix-getconnection",
+                "version_normalized": "dev-fix-getconnection",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/colinmollenhour/magento-mongo.git",
+                    "reference": "dce5e5713a4c1d2f1626346ce2ccf674a6600e01"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/colinmollenhour/magento-mongo/zipball/dce5e5713a4c1d2f1626346ce2ccf674a6600e01",
+                    "reference": "dce5e5713a4c1d2f1626346ce2ccf674a6600e01",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-10-08T19:59:34+00:00",
+                "type": "magento-module",
+                "license": [
+                    "BSD-3-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin Mollenhour",
+                        "email": "colin@mollenhour.com"
+                    }
+                ],
+                "description": "MongoDb abstraction layer and atomic job queue for Magento.",
+                "support": {
+                    "source": "https://github.com/colinmollenhour/magento-mongo/tree/fix-getconnection",
+                    "issues": "https://github.com/colinmollenhour/magento-mongo/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/netgo_favouritelist": [
+            {
+                "name": "connect20/Netgo_Favouritelist",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Netgo_Favouritelist/1.0.0/Netgo_Favouritelist-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "NetGo",
+                        "email": "netattingomails@gmail.com"
+                    }
+                ],
+                "description": "This extension helps customers to add the favourite product in their account dashboard."
+            },
+            {
+                "name": "connect20/Netgo_Favouritelist",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Netgo_Favouritelist/1.0.1/Netgo_Favouritelist-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "NetGo",
+                        "email": "netattingomails@gmail.com"
+                    }
+                ],
+                "description": "This extension helps customers to add the favourite product in their account dashboard."
+            }
+        ]
+    }
+}

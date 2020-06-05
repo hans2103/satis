@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/bluemedia_bluepayment": [
+            {
+                "name": "connect20/BlueMedia_BluePayment",
+                "version": "1.3.4",
+                "version_normalized": "1.3.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/BlueMedia_BluePayment/1.3.4/BlueMedia_BluePayment-1.3.4.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.5.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "BlueMedia",
+                        "email": "info@bm.pl"
+                    }
+                ],
+                "description": "Moduł obsługuje płatności internetowe realizowane przez bramkę płatniczą firmy Blue Media."
+            }
+        ]
+    }
+}

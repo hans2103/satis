@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/solwin_attributeimage": [
+            {
+                "name": "connect20/Solwin_AttributeImage",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Solwin_AttributeImage/1.0.0/Solwin_AttributeImage-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sanjay Dabhoya",
+                        "email": "stdabhoya@yahoo.com"
+                    }
+                ],
+                "description": "This extension add images to attribute options displayed in layered navigation."
+            }
+        ]
+    }
+}

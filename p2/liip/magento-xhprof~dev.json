@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "liip/magento-xhprof": [
+            {
+                "name": "liip/magento-xhprof",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/liip/magento-xhprof.git",
+                    "reference": "e791760a700c189f27e7688bd6b6f79492b1870e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/liip/magento-xhprof/zipball/e791760a700c189f27e7688bd6b6f79492b1870e",
+                    "reference": "e791760a700c189f27e7688bd6b6f79492b1870e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-03-19T13:50:49+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Liip AG",
+                        "homepage": "http://www.liip.ch/"
+                    }
+                ],
+                "description": "Profile Magento with XHProf",
+                "homepage": "https://github.com/liip/magento-xhprof",
+                "support": {
+                    "source": "https://github.com/liip/magento-xhprof/tree/master",
+                    "issues": "https://github.com/liip/magento-xhprof/issues"
+                }
+            }
+        ]
+    }
+}

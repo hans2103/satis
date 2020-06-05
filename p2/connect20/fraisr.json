@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/fraisr": [
+            {
+                "name": "connect20/Fraisr",
+                "version": "0.3.5",
+                "version_normalized": "0.3.5.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Fraisr/0.3.5/Fraisr-0.3.5.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Andre Herrn",
+                        "email": "andre.herrn@das-medienkombinat.de"
+                    }
+                ],
+                "description": "Extension zur Anbindung von Magento an den fraisr-Marktplatz"
+            }
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "connect20/whiplash_fulfillment": [
+            {
+                "name": "connect20/Whiplash_Fulfillment",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/yd521cdsf5re1serkcjbf4r50rew54cxc12/0.0.1/yd521cdsf5re1serkcjbf4r50rew54cxc12-0.0.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.2.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "yd521cdsf5re1serkcjbf4r50rew54cxc12"
+                ],
+                "authors": [
+                    {
+                        "name": "Peter Imai",
+                        "email": "james@whiplashmerch.com"
+                    }
+                ],
+                "description": "The Whiplash extension enables you to seamlessly connect your Magento store with Whiplash Fulfillment."
+            },
+            {
+                "name": "connect20/Whiplash_Fulfillment",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/yd521cdsf5re1serkcjbf4r50rew54cxc12/1.0.0/yd521cdsf5re1serkcjbf4r50rew54cxc12-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.2.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "yd521cdsf5re1serkcjbf4r50rew54cxc12"
+                ],
+                "authors": [
+                    {
+                        "name": "Peter Imai",
+                        "email": "james@whiplashmerch.com"
+                    }
+                ],
+                "description": "The Whiplash extension  Adds real-time synchronization of Products and Orders between Magento and Whiplash."
+            }
+        ]
+    }
+}

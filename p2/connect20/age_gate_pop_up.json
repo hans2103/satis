@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/age_gate_pop_up": [
+            {
+                "name": "connect20/Age_Gate_Pop_Up",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Age_Gate_Pop_Up/1.0.0/Age_Gate_Pop_Up-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Massachusetts-Institute-of-Technology-License-(MITL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Vsourz Digital",
+                        "email": "mehul@vsourz.com"
+                    }
+                ],
+                "description": "Age Gate allows you to lock your store until users confirms their Age. \r\n"
+            }
+        ]
+    }
+}

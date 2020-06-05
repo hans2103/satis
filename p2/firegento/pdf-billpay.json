@@ -1,0 +1,39 @@
+{
+    "packages": {
+        "firegento/pdf-billpay": [
+            {
+                "name": "firegento/pdf-billpay",
+                "version": "v1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/firegento/firegento-pdf-billpay.git",
+                    "reference": "f9ee6311d505a523dd7319cdca4abd823f1a5f83"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/firegento/firegento-pdf-billpay/zipball/f9ee6311d505a523dd7319cdca4abd823f1a5f83",
+                    "reference": "f9ee6311d505a523dd7319cdca4abd823f1a5f83",
+                    "shasum": ""
+                },
+                "require": {
+                    "firegento/pdf": "1.*"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Magento composer installer (or a replacement) is needed to install this packages"
+                },
+                "time": "2016-03-05T12:58:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "FireGento Pdf Billpay adds the detailed Billpay payment information on the FireGento PDF invoices.",
+                "homepage": "https://github.com/firegento/firegento-pdf-billpay",
+                "support": {
+                    "source": "https://github.com/firegento/firegento-pdf-billpay/tree/v1.0.0",
+                    "issues": "https://github.com/firegento/firegento-pdf-billpay/issues"
+                }
+            }
+        ]
+    }
+}

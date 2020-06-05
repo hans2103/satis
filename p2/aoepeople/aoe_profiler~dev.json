@@ -1,0 +1,78 @@
+{
+    "packages": {
+        "aoepeople/aoe_profiler": [
+            {
+                "name": "aoepeople/aoe_profiler",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_Profiler.git",
+                    "reference": "dd9fdf94879e687c2bb5140229910450c46e8f7f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_Profiler/zipball/dd9fdf94879e687c2bb5140229910450c46e8f7f",
+                    "reference": "dd9fdf94879e687c2bb5140229910450c46e8f7f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-11-10T00:25:06+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "fabrizio.branca@aoe.com"
+                    }
+                ],
+                "description": "Magento Profiler",
+                "homepage": "http://www.fabrizio-branca.de/magento-profiler.html",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_Profiler/tree/master",
+                    "issues": "https://github.com/AOEpeople/Aoe_Profiler/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_profiler",
+                "version": "dev-tmp",
+                "version_normalized": "dev-tmp",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_Profiler.git",
+                    "reference": "8bfb60e8e74bc82fe2f0572981963c025e37c20d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_Profiler/zipball/8bfb60e8e74bc82fe2f0572981963c025e37c20d",
+                    "reference": "8bfb60e8e74bc82fe2f0572981963c025e37c20d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-17T20:46:03+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "fabrizio.branca@aoe.com"
+                    }
+                ],
+                "description": "Magento Profiler",
+                "homepage": "http://www.fabrizio-branca.de/magento-profiler.html",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_Profiler/tree/tmp",
+                    "issues": "https://github.com/AOEpeople/Aoe_Profiler/issues"
+                }
+            }
+        ]
+    }
+}

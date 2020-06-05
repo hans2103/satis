@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "logicspot/core": [
+            {
+                "name": "logicspot/core",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LogicSpot/Magento_Core.git",
+                    "reference": "20029ab942b8c721fcf83610820081ecde658a6b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LogicSpot/Magento_Core/zipball/20029ab942b8c721fcf83610820081ecde658a6b",
+                    "reference": "20029ab942b8c721fcf83610820081ecde658a6b",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-11-18T15:41:10+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "LogicSpot",
+                        "email": "support@logicspot.com"
+                    }
+                ],
+                "description": "Core module for all LogicSpot modules",
+                "homepage": "http://logicspot.com",
+                "support": {
+                    "source": "https://github.com/LogicSpot/Magento_Core/tree/1.1.0",
+                    "issues": "https://github.com/LogicSpot/Magento_Core/issues"
+                }
+            }
+        ]
+    }
+}

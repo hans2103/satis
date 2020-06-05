@@ -1,0 +1,1146 @@
+{
+    "packages": {
+        "magento/module-catalog-rule-configurable": [
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.0.2",
+                "version_normalized": "100.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.0.2.0.zip",
+                    "shasum": "cb871422c6fb0df9e50b5ba4dd87440d8158330d"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-configurable-product": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.0.3",
+                "version_normalized": "100.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.0.3.0.zip",
+                    "shasum": "4ebded3ff006c89db01e88d83f0c5bef3ddc6c5b"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-configurable-product": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.0.4",
+                "version_normalized": "100.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.0.4.0.zip",
+                    "shasum": "e33e164ac9a5f686e66dddac875be0da0ae91acd"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-configurable-product": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.0.5",
+                "version_normalized": "100.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.0.5.0.zip",
+                    "shasum": "a96ac938eaf60ad9ffdecd1b0da4b2a3a286b12a"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-configurable-product": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.0.6",
+                "version_normalized": "100.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.0.6.0.zip",
+                    "shasum": "f82330ffbd15c6c321c5fa7eea3daa2250ae675c"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog-rule": "100.0.*",
+                    "magento/module-configurable-product": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.0.7",
+                "version_normalized": "100.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.0.7.0.zip",
+                    "shasum": "3baf90795deabf044db0eaa105410694532e0e66"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog-rule": "100.0.*",
+                    "magento/module-configurable-product": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.1.0",
+                "version_normalized": "100.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.1.0.0.zip",
+                    "shasum": "6de12150826cc6ff4b6bccb060676656bab51ca1"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-configurable-product": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.1.0-rc1",
+                "version_normalized": "100.1.0.0-RC1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.1.0.0-RC1.zip",
+                    "shasum": "ccbd8b36fed1c4bedeab93e6a36a85bd363127d9"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-configurable-product": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.1.0-rc2",
+                "version_normalized": "100.1.0.0-RC2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.1.0.0-RC2.zip",
+                    "shasum": "1a0e0418194cadfb29d6034355447db576615971"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-configurable-product": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.1.0-rc3",
+                "version_normalized": "100.1.0.0-RC3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.1.0.0-RC3.zip",
+                    "shasum": "3eb25a4c9850e556fa3b8cda52526895759dffe0"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-configurable-product": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.1.1",
+                "version_normalized": "100.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.1.1.0.zip",
+                    "shasum": "bff89ef23b80e517c8e13194170f6b2021522a1f"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog-rule": "100.1.*",
+                    "magento/module-configurable-product": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.1.2",
+                "version_normalized": "100.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.1.2.0.zip",
+                    "shasum": "32d7c163afb67e9a586417703f88cfd8a0e64298"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog-rule": "100.1.*",
+                    "magento/module-configurable-product": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.1.3",
+                "version_normalized": "100.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.1.3.0.zip",
+                    "shasum": "6abde529aae1a8c3e0044725ccc6b8f098b7f9ff"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog-rule": "100.1.*",
+                    "magento/module-configurable-product": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.1.4",
+                "version_normalized": "100.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.1.4.0.zip",
+                    "shasum": "fa94589ccb38c16fa67077209d7bc3242406d921"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog-rule": "100.1.*",
+                    "magento/module-configurable-product": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.1.5",
+                "version_normalized": "100.1.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.1.5.0.zip",
+                    "shasum": "4381a7b63fa9ae560ee8254706c4a4d31e603231"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog-rule": "100.1.*",
+                    "magento/module-configurable-product": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.2.0",
+                "version_normalized": "100.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.2.0.0.zip",
+                    "shasum": "8d50976caf1b1de4f9227a38d5d25da56b40d9c0"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-configurable-product": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.2.0-rc20",
+                "version_normalized": "100.2.0.0-RC20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.2.0.0-RC20.zip",
+                    "shasum": "3881f45cf106aa3e6a6f4d8cc7fd3d06436ca374"
+                },
+                "require": {
+                    "magento/framework": "100.2.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog": "101.1.*",
+                    "magento/module-catalog-rule": "100.2.*",
+                    "magento/module-configurable-product": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.2.0-rc21",
+                "version_normalized": "100.2.0.0-RC21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.2.0.0-RC21.zip",
+                    "shasum": "2e5ddcdfaa870603495f86c08264e259538aeb58"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-configurable-product": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.2.0-rc22",
+                "version_normalized": "100.2.0.0-RC22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.2.0.0-RC22.zip",
+                    "shasum": "5ead4e6094695cf35b88cd7be0468fce4b2b2f67"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-configurable-product": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.2.0-rc23",
+                "version_normalized": "100.2.0.0-RC23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.2.0.0-RC23.zip",
+                    "shasum": "e56d570af93654e01ccc8a78c000913bcd88452e"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-configurable-product": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.2.0-rc30",
+                "version_normalized": "100.2.0.0-RC30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.2.0.0-RC30.zip",
+                    "shasum": "bbda91e33cbe8f1a5ca748ddd29cd267016f2d2a"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-configurable-product": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.2.1",
+                "version_normalized": "100.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.2.1.0.zip",
+                    "shasum": "010c730371a5e755f768f2755114f68d89d5db3a"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-configurable-product": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.2.2",
+                "version_normalized": "100.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.2.2.0.zip",
+                    "shasum": "90ae70f283b72d5e50860d9fc8a14afba831cc5a"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-configurable-product": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.2.3",
+                "version_normalized": "100.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.2.3.0.zip",
+                    "shasum": "b9864b467116c001f516caddcd945d988b2a7433"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-configurable-product": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.2.4",
+                "version_normalized": "100.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.2.4.0.zip",
+                    "shasum": "4aef27136d7e6947b6bfdd789d420b8e8c359841"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-configurable-product": "100.2.*",
+                    "php": "~7.0.13|~7.1.0|~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.2.5",
+                "version_normalized": "100.2.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.2.5.0.zip",
+                    "shasum": "06911b9210c59453eb86561e7de11aec075bf7a0"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-configurable-product": "100.2.*",
+                    "php": "~7.0.13||~7.1.0||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.3.0",
+                "version_normalized": "100.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.3.0.0.zip",
+                    "shasum": "42915c5ac23a6d4b3f6a3857f6cbfa5bbb1240e0"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-rule": "101.1.*",
+                    "magento/module-configurable-product": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.3.1",
+                "version_normalized": "100.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.3.1.0.zip",
+                    "shasum": "0281e9723bb534ba2e12a55ae11260f6904485d6"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-rule": "101.1.*",
+                    "magento/module-configurable-product": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.3.2",
+                "version_normalized": "100.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.3.2.0.zip",
+                    "shasum": "211989a299c9567e06575119cc901dbae84ac0bd"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-rule": "101.1.*",
+                    "magento/module-configurable-product": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.3.3",
+                "version_normalized": "100.3.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.3.3.0.zip",
+                    "shasum": "961b29edc22ee7e73aec2bc47328840b8864d04c"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-rule": "101.1.*",
+                    "magento/module-configurable-product": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.3.4",
+                "version_normalized": "100.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.3.4.0.zip",
+                    "shasum": "e160815a5dcea68660553690c1a77aac43c970c2"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-rule": "101.1.*",
+                    "magento/module-configurable-product": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.3.4-p2",
+                "version_normalized": "100.3.4.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.3.4.0-patch2.zip",
+                    "shasum": "c8f4690c108df1e1cca96627cd7395c7b7cb724d"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-rule": "101.1.*",
+                    "magento/module-configurable-product": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule-configurable",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-catalog-rule-configurable/magento-module-catalog-rule-configurable-100.3.5.0.zip",
+                    "shasum": "b2f4998b596fcb9a76708098a0953b3328437366"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-rule": "101.1.*",
+                    "magento/module-configurable-product": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRuleConfigurable\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

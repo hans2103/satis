@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/bricks_search": [
+            {
+                "name": "connect20/Bricks_Search",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Bricks_Search/0.0.1/Bricks_Search-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "n/a"
+                ],
+                "authors": [
+                    {
+                        "name": "Adam Hodson",
+                        "email": "adam.hodson@gmail.com"
+                    }
+                ],
+                "description": "n/a"
+            },
+            {
+                "name": "connect20/Bricks_Search",
+                "version": "0.0.1.1",
+                "version_normalized": "0.0.1.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Bricks_Search/0.0.1.1/Bricks_Search-0.0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "adam",
+                        "email": "adam@bricksandmortarsweb.com"
+                    }
+                ],
+                "description": "Bricks_Search"
+            }
+        ]
+    }
+}

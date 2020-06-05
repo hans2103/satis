@@ -1,0 +1,267 @@
+{
+    "packages": {
+        "magento/module-swagger-webapi": [
+            {
+                "name": "magento/module-swagger-webapi",
+                "version": "100.2.0",
+                "version_normalized": "100.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-swagger-webapi/magento-module-swagger-webapi-100.2.0.0.zip",
+                    "shasum": "12101efc2927c752ba150759ff3fcc5018a5597b"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-swagger": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SwaggerWebapi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-swagger-webapi",
+                "version": "100.2.1",
+                "version_normalized": "100.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-swagger-webapi/magento-module-swagger-webapi-100.2.1.0.zip",
+                    "shasum": "4d9900775792047e814049bfb1a585c148aa1617"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-swagger": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SwaggerWebapi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-swagger-webapi",
+                "version": "100.2.2",
+                "version_normalized": "100.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-swagger-webapi/magento-module-swagger-webapi-100.2.2.0.zip",
+                    "shasum": "9b9003bb6cf8ace73bfee16fa347a6553b16137b"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-swagger": "100.2.*",
+                    "php": "~7.0.13|~7.1.0|~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SwaggerWebapi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-swagger-webapi",
+                "version": "100.2.3",
+                "version_normalized": "100.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-swagger-webapi/magento-module-swagger-webapi-100.2.3.0.zip",
+                    "shasum": "b5ac783bac6929f7fc799a711adab3a9f3c64820"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-swagger": "100.2.*",
+                    "php": "~7.0.13||~7.1.0||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SwaggerWebapi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-swagger-webapi",
+                "version": "100.3.0",
+                "version_normalized": "100.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-swagger-webapi/magento-module-swagger-webapi-100.3.0.0.zip",
+                    "shasum": "ffb191b00eeb62809b54319dba21114450a5333b"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-swagger": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SwaggerWebapi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-swagger-webapi",
+                "version": "100.3.1",
+                "version_normalized": "100.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-swagger-webapi/magento-module-swagger-webapi-100.3.1.0.zip",
+                    "shasum": "7e4ee0f77d30c0e358771d2815ed1065bcfea7a2"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-swagger": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SwaggerWebapi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-swagger-webapi",
+                "version": "100.3.2",
+                "version_normalized": "100.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-swagger-webapi/magento-module-swagger-webapi-100.3.2.0.zip",
+                    "shasum": "26fa450b4ff6916c3a32fb1ec6dd3d40a9ecbb24"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-swagger": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SwaggerWebapi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-swagger-webapi",
+                "version": "100.3.3",
+                "version_normalized": "100.3.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-swagger-webapi/magento-module-swagger-webapi-100.3.3.0.zip",
+                    "shasum": "309d2d7ea16ce45c25a28c7e74b0f41abb2c2d74"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-swagger": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SwaggerWebapi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-swagger-webapi",
+                "version": "100.3.4",
+                "version_normalized": "100.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-swagger-webapi/magento-module-swagger-webapi-100.3.4.0.zip",
+                    "shasum": "88c1396e11767ccf083aad03047f1924361d8344"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-swagger": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SwaggerWebapi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

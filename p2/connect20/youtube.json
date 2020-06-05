@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/youtube": [
+            {
+                "name": "connect20/youtube",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/youtube-feed/0.1.0/youtube-feed-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "adam",
+                        "email": "adam@bricksandmortarweb.com"
+                    }
+                ],
+                "description": "youtube"
+            }
+        ]
+    }
+}

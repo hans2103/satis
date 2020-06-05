@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/magebuzz_free_testimonial": [
+            {
+                "name": "connect20/Magebuzz_Free_Testimonial",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Magebuzz_Free_Testimonial/0.1.2/Magebuzz_Free_Testimonial-0.1.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Magebuzz",
+                        "email": "magebuzz@gmail.com"
+                    }
+                ],
+                "description": "Allow customer to submit testimonial for your store."
+            }
+        ]
+    }
+}

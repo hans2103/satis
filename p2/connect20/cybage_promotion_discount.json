@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/cybage_promotion_discount": [
+            {
+                "name": "connect20/Cybage_Promotion_Discount",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Cybage_Promotion_Discount/1.0.0/Cybage_Promotion_Discount-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Cybage Software Pvt. Ltd.",
+                        "email": "Support_Magento@cybage.com"
+                    }
+                ],
+                "description": "The Promotion Discount plug-in supports bifurcation of discount. It displays the catalog price discount and shopping cart discount separately."
+            }
+        ]
+    }
+}

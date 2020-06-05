@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/worldnet_hpp": [
+            {
+                "name": "connect20/WorldNet_HPP",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/WorldNet_HPP/1.2.0/WorldNet_HPP-1.2.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kevin Pattison",
+                        "email": "kevin.pattison@worldnettps.com"
+                    }
+                ],
+                "description": "This module provides a Magento payment method for the WorldNet TPS payment system. It implements payments through the WorldNet TPS Hosted Payment Page (HPP)."
+            }
+        ]
+    }
+}

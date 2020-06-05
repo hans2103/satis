@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/invoicepayment": [
+            {
+                "name": "connect20/InvoicePayment",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/InvoicePayment/1.1.0/InvoicePayment-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "rouven.rieker@itabs.de"
+                    }
+                ],
+                "description": "Stellt die Zahlungsmöglichkeit \"Rechnung\" zur Verfügung. / Provides the payment method \"invoice\"."
+            },
+            {
+                "name": "connect20/InvoicePayment",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/InvoicePayment/1.2.0/InvoicePayment-1.2.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "rouven.rieker@itabs.de"
+                    }
+                ],
+                "description": "Stellt die Zahlungsmöglichkeit \"Rechnung\" zur Verfügung. / Provides the payment method \"invoice\"."
+            }
+        ]
+    }
+}

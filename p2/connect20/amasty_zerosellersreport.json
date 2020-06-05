@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/amasty_zerosellersreport": [
+            {
+                "name": "connect20/Amasty_ZeroSellersReport",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Amasty_ZeroSellersReport/1.0.0/Amasty_ZeroSellersReport-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Single-Use-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Amasty Team",
+                        "email": "support@amasty.com"
+                    }
+                ],
+                "description": "Zero product sales tracker extension for Magento."
+            }
+        ]
+    }
+}

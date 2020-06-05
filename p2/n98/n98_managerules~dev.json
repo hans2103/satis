@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "n98/n98_managerules": [
+            {
+                "name": "n98/N98_ManageRules",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/netz98/N98_ManageRules.git",
+                    "reference": "0396dc978b4112a6470c14bc49013ebac79fcebf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/netz98/N98_ManageRules/zipball/0396dc978b4112a6470c14bc49013ebac79fcebf",
+                    "reference": "0396dc978b4112a6470c14bc49013ebac79fcebf",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-06-19T09:00:42+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "netz98 new media GmbH",
+                        "email": "magento@netz98.de"
+                    }
+                ],
+                "description": "Changes the catalog rules representation.",
+                "homepage": "https://github.com/netz98/N98_ManageRules",
+                "support": {
+                    "source": "https://github.com/netz98/N98_ManageRules/tree/master",
+                    "issues": "https://github.com/netz98/N98_ManageRules/issues"
+                }
+            }
+        ]
+    }
+}

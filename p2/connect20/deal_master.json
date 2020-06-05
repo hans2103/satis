@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/deal_master": [
+            {
+                "name": "connect20/Deal_Master",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Deal_Master/0.1.1/Deal_Master-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU"
+                ],
+                "authors": [
+                    {
+                        "name": "Atul Mehta",
+                        "email": "partners@weblineindia.com"
+                    }
+                ],
+                "description": "Deal Master by Webline"
+            }
+        ]
+    }
+}

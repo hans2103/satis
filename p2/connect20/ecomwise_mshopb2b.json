@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ecomwise_mshopb2b": [
+            {
+                "name": "connect20/Ecomwise_MshopB2B",
+                "version": "1.2.7",
+                "version_normalized": "1.2.7.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ecomwise_MshopB2B/1.2.7/Ecomwise_MshopB2B-1.2.7.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "EcomwiseTeam",
+                        "email": "info@ecomwise.com"
+                    }
+                ],
+                "description": "Ecomwise MshopB2B"
+            }
+        ]
+    }
+}

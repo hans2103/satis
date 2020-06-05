@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/homepage_slideshow_extension": [
+            {
+                "name": "connect20/Homepage_Slideshow_Extension",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Homepage_Slideshow_Extension/1.0.0/Homepage_Slideshow_Extension-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Academic--Free--License--(AFL)--v.3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Anh Hien",
+                        "email": "hienda@netbase.vn"
+                    }
+                ],
+                "description": "CMSMART Magento Slideshow Home Page Extension"
+            }
+        ]
+    }
+}

@@ -1,0 +1,780 @@
+{
+    "packages": {
+        "ebizmarts/mc-magento": [
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.10",
+                "version_normalized": "1.1.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "8e72142ed95c6ebd5ed142c75e156903a5581d4d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/8e72142ed95c6ebd5ed142c75e156903a5581d4d",
+                    "reference": "8e72142ed95c6ebd5ed142c75e156903a5581d4d",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "colinmollenhour/modman": "^1.12",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "phpunit/phpunit": "^4.8"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Map/copy module files with your Magento installation"
+                },
+                "time": "2017-10-31T18:58:11+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/1.1.10",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            },
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.11",
+                "version_normalized": "1.1.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "7c883a8a32cfb89ef32cee4abbab866c5ef369be"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/7c883a8a32cfb89ef32cee4abbab866c5ef369be",
+                    "reference": "7c883a8a32cfb89ef32cee4abbab866c5ef369be",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "colinmollenhour/modman": "^1.12",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "phpunit/phpunit": "^4.8"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Map/copy module files with your Magento installation"
+                },
+                "time": "2018-03-06T21:33:55+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/1.1.11",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            },
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.12",
+                "version_normalized": "1.1.12.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "4b0a70ba848b73fe561e3c9f49b6926c8d0d1507"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/4b0a70ba848b73fe561e3c9f49b6926c8d0d1507",
+                    "reference": "4b0a70ba848b73fe561e3c9f49b6926c8d0d1507",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "colinmollenhour/modman": "^1.12",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "phpunit/phpunit": "^4.8"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Map/copy module files with your Magento installation"
+                },
+                "time": "2018-05-29T18:20:09+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/1.1.12",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            },
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.13",
+                "version_normalized": "1.1.13.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "1d98d2ea82a7713379c790ea2f1d4464a266c6d3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/1d98d2ea82a7713379c790ea2f1d4464a266c6d3",
+                    "reference": "1d98d2ea82a7713379c790ea2f1d4464a266c6d3",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "colinmollenhour/modman": "^1.12",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "phpunit/phpunit": "^4.8"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Map/copy module files with your Magento installation"
+                },
+                "time": "2018-12-11T14:44:31+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/1.1.13",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            },
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.14",
+                "version_normalized": "1.1.14.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "1e478306d822ce1b1a0096ed7c43b4f8ebcef358"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/1e478306d822ce1b1a0096ed7c43b4f8ebcef358",
+                    "reference": "1e478306d822ce1b1a0096ed7c43b4f8ebcef358",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "colinmollenhour/modman": "^1.12",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "phpunit/phpunit": "^4.8"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Map/copy module files with your Magento installation"
+                },
+                "time": "2019-01-16T19:04:29+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/1.1.14",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            },
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.15",
+                "version_normalized": "1.1.15.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "b78025021b73433976399f836a2df0ebe48f3c73"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/b78025021b73433976399f836a2df0ebe48f3c73",
+                    "reference": "b78025021b73433976399f836a2df0ebe48f3c73",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "colinmollenhour/modman": "^1.12",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "phpunit/phpunit": "^4.8"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Map/copy module files with your Magento installation"
+                },
+                "time": "2019-02-18T21:06:50+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/1.1.15",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            },
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.16",
+                "version_normalized": "1.1.16.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "8e5fdeef39cd9e9881a715d41196e87fca093ab9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/8e5fdeef39cd9e9881a715d41196e87fca093ab9",
+                    "reference": "8e5fdeef39cd9e9881a715d41196e87fca093ab9",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "colinmollenhour/modman": "^1.12",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "phpunit/phpunit": "^4.8"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Map/copy module files with your Magento installation"
+                },
+                "time": "2019-04-30T19:07:14+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/1.1.16",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            },
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.17",
+                "version_normalized": "1.1.17.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "b61364723b41722ee839e13954aa7b1a836fc06a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/b61364723b41722ee839e13954aa7b1a836fc06a",
+                    "reference": "b61364723b41722ee839e13954aa7b1a836fc06a",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "colinmollenhour/modman": "^1.12",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "phpunit/phpunit": "^4.8"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Map/copy module files with your Magento installation"
+                },
+                "time": "2019-07-22T18:50:12+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/master",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            },
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.18",
+                "version_normalized": "1.1.18.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "38deee5b4e479ce82ea363175dbdee349d2a96ef"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/38deee5b4e479ce82ea363175dbdee349d2a96ef",
+                    "reference": "38deee5b4e479ce82ea363175dbdee349d2a96ef",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "colinmollenhour/modman": "^1.12",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "phpunit/phpunit": "^4.8"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Map/copy module files with your Magento installation"
+                },
+                "time": "2019-10-07T19:23:59+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/1.1.18",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            },
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.19",
+                "version_normalized": "1.1.19.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "215ea173a6eeb9a890cd45427b0100441d0a9846"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/215ea173a6eeb9a890cd45427b0100441d0a9846",
+                    "reference": "215ea173a6eeb9a890cd45427b0100441d0a9846",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "colinmollenhour/modman": "^1.12",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "phpunit/phpunit": "^4.8"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Map/copy module files with your Magento installation"
+                },
+                "time": "2020-03-03T16:44:02+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/1.1.19",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            },
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "5c61b4bee3157f736e8499f236576369e8b14158"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/5c61b4bee3157f736e8499f236576369e8b14158",
+                    "reference": "5c61b4bee3157f736e8499f236576369e8b14158",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-10-25T20:40:32+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/1.1.2",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            },
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.20",
+                "version_normalized": "1.1.20.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "270db2236f2bee858ebf4b6721a89cf24de59b7a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/270db2236f2bee858ebf4b6721a89cf24de59b7a",
+                    "reference": "270db2236f2bee858ebf4b6721a89cf24de59b7a",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "colinmollenhour/modman": "^1.12",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "phpunit/phpunit": "^4.8"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Map/copy module files with your Magento installation"
+                },
+                "time": "2020-03-30T19:47:59+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/1.1.20",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            },
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "c63586d0b3d01d5e69a3edfbfe399fb36877c959"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/c63586d0b3d01d5e69a3edfbfe399fb36877c959",
+                    "reference": "c63586d0b3d01d5e69a3edfbfe399fb36877c959",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-12-15T20:04:07+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/1.1.3",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            },
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.5",
+                "version_normalized": "1.1.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "c057979f69ba10039e1d5a9cb5d71ed65b3b4585"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/c057979f69ba10039e1d5a9cb5d71ed65b3b4585",
+                    "reference": "c057979f69ba10039e1d5a9cb5d71ed65b3b4585",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-02-08T20:58:46+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/1.1.5",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            },
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.6",
+                "version_normalized": "1.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "70b6d38d0fe925dae1462c4cfed517a9c19305a7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/70b6d38d0fe925dae1462c4cfed517a9c19305a7",
+                    "reference": "70b6d38d0fe925dae1462c4cfed517a9c19305a7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-03-30T20:05:22+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/1.1.6",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            },
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.7",
+                "version_normalized": "1.1.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "4e848d2a294864dc11c8685bf0099eeb41c96533"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/4e848d2a294864dc11c8685bf0099eeb41c96533",
+                    "reference": "4e848d2a294864dc11c8685bf0099eeb41c96533",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "colinmollenhour/modman": "^1.12",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "phpunit/phpunit": "^4.8"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Map/copy module files with your Magento installation"
+                },
+                "time": "2017-06-01T19:12:44+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/1.1.7",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            },
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.8",
+                "version_normalized": "1.1.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "801008e250504ab86a4fb4b3a79ace316726d3d2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/801008e250504ab86a4fb4b3a79ace316726d3d2",
+                    "reference": "801008e250504ab86a4fb4b3a79ace316726d3d2",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "colinmollenhour/modman": "^1.12",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "phpunit/phpunit": "^4.8"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Map/copy module files with your Magento installation"
+                },
+                "time": "2017-07-27T14:56:53+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/1.1.8",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            },
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.9",
+                "version_normalized": "1.1.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "dfdc4ed5ab876f677d47ba415025486ed62300c0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/dfdc4ed5ab876f677d47ba415025486ed62300c0",
+                    "reference": "dfdc4ed5ab876f677d47ba415025486ed62300c0",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "colinmollenhour/modman": "^1.12",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "phpunit/phpunit": "^4.8"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Map/copy module files with your Magento installation"
+                },
+                "time": "2017-09-18T19:14:23+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/1.1.9",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            },
+            {
+                "name": "ebizmarts/mc-magento",
+                "version": "1.1.9.1",
+                "version_normalized": "1.1.9.1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mailchimp/mc-magento.git",
+                    "reference": "bd1f83117fc908a32384e2535e3b7e009998008b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mailchimp/mc-magento/zipball/bd1f83117fc908a32384e2535e3b7e009998008b",
+                    "reference": "bd1f83117fc908a32384e2535e3b7e009998008b",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "colinmollenhour/modman": "^1.12",
+                    "magento-ecg/coding-standard": "^2.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "phpunit/phpunit": "^4.8"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Map/copy module files with your Magento installation"
+                },
+                "time": "2017-09-21T17:20:29+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ebizmarts",
+                        "email": "mailchimp@ebizmarts-desk.zendesk.com"
+                    }
+                ],
+                "description": "FULL SUPPORTED integration with MailChimp Email Marketing and Mandrill Transactional Emails for Magento.",
+                "homepage": "https://connect.mailchimp.com/integrations/magento",
+                "support": {
+                    "source": "https://github.com/mailchimp/mc-magento/tree/1.1.9.1",
+                    "issues": "https://github.com/mailchimp/mc-magento/issues"
+                }
+            }
+        ]
+    }
+}

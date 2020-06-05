@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "limesoda/limesoda_sample-data-generator": [
+            {
+                "name": "limesoda/limesoda_sample-data-generator",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LimeSoda/LimeSoda_SampleDataGenerator.git",
+                    "reference": "fb7519e4500059e638b087992966761db7fce703"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LimeSoda/LimeSoda_SampleDataGenerator/zipball/fb7519e4500059e638b087992966761db7fce703",
+                    "reference": "fb7519e4500059e638b087992966761db7fce703",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-04-09T09:48:20+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthias Zeis",
+                        "email": "m.zeis@limesoda.com"
+                    }
+                ],
+                "description": "Tool to generate Magento websites, stores, categories, products, customers etc.",
+                "homepage": "https://github.com/LimeSoda/LimeSoda_SampleDataGenerator",
+                "support": {
+                    "source": "https://github.com/LimeSoda/LimeSoda_SampleDataGenerator/tree/0.1.2",
+                    "issues": "https://github.com/LimeSoda/LimeSoda_SampleDataGenerator/issues"
+                }
+            }
+        ]
+    }
+}

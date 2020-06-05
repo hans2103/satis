@@ -1,0 +1,87 @@
+{
+    "packages": {
+        "connect20/expert_customerredirect": [
+            {
+                "name": "connect20/Expert_CustomerRedirect",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Expert_CustomerRedirect/1.0.0.1/Expert_CustomerRedirect-1.0.0.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.5.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sharad Patel",
+                        "email": "coderz.expert@gmail.com"
+                    }
+                ],
+                "description": "The Extension Provide function to redirect Customer after login or Create account.\r\n"
+            },
+            {
+                "name": "connect20/Expert_CustomerRedirect",
+                "version": "1.0.0.2",
+                "version_normalized": "1.0.0.2",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Expert_CustomerRedirect/1.0.0.2/Expert_CustomerRedirect-1.0.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Suraj Kumawat",
+                        "email": "coderz.expert@gmail.com"
+                    }
+                ],
+                "description": "The Extension Provide function to redirect Customer after login or Create account."
+            },
+            {
+                "name": "connect20/Expert_CustomerRedirect",
+                "version": "1.0.0.3",
+                "version_normalized": "1.0.0.3",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Expert_CustomerRedirect/1.0.0.3/Expert_CustomerRedirect-1.0.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Suraj Kumawat",
+                        "email": "coderz.expert@gmail.com"
+                    }
+                ],
+                "description": "The Extension Provide function to redirect Customer after login or Create account."
+            }
+        ]
+    }
+}

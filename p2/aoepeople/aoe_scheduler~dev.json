@@ -1,0 +1,466 @@
+{
+    "packages": {
+        "aoepeople/aoe_scheduler": [
+            {
+                "name": "aoepeople/aoe_scheduler",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_Scheduler.git",
+                    "reference": "397953123c4208fceb2d2a80f4294ef174d43193"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_Scheduler/zipball/397953123c4208fceb2d2a80f4294ef174d43193",
+                    "reference": "397953123c4208fceb2d2a80f4294ef174d43193",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "replace": {
+                    "fbrnc/aoe_scheduler": "*"
+                },
+                "time": "2020-04-16T20:19:07+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "description": "Magento Cron Scheduler",
+                "homepage": "https://github.com/AOEpeople/Aoe_Scheduler",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_Scheduler/tree/master",
+                    "issues": "https://github.com/AOEpeople/Aoe_Scheduler/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_scheduler",
+                "version": "dev-adding_tests",
+                "version_normalized": "dev-adding_tests",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_Scheduler.git",
+                    "reference": "3f6f28d6a371ab77326515f2c406877b313e6d69"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_Scheduler/zipball/3f6f28d6a371ab77326515f2c406877b313e6d69",
+                    "reference": "3f6f28d6a371ab77326515f2c406877b313e6d69",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "replace": {
+                    "fbrnc/aoe_scheduler": "*"
+                },
+                "time": "2015-12-17T18:31:04+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "description": "Magento Cron Scheduler",
+                "homepage": "https://github.com/AOEpeople/Aoe_Scheduler",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_Scheduler/tree/adding_tests",
+                    "issues": "https://github.com/AOEpeople/Aoe_Scheduler/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_scheduler",
+                "version": "dev-check_cache_prefix",
+                "version_normalized": "dev-check_cache_prefix",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_Scheduler.git",
+                    "reference": "e038ef3f3d2d4f24310bab5c4db54c71fe7f7a24"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_Scheduler/zipball/e038ef3f3d2d4f24310bab5c4db54c71fe7f7a24",
+                    "reference": "e038ef3f3d2d4f24310bab5c4db54c71fe7f7a24",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "replace": {
+                    "fbrnc/aoe_scheduler": "*"
+                },
+                "time": "2016-06-08T04:02:10+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "description": "Magento Cron Scheduler",
+                "homepage": "https://github.com/AOEpeople/Aoe_Scheduler",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_Scheduler/tree/check_cache_prefix",
+                    "issues": "https://github.com/AOEpeople/Aoe_Scheduler/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_scheduler",
+                "version": "dev-cronjob_dependencies",
+                "version_normalized": "dev-cronjob_dependencies",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_Scheduler.git",
+                    "reference": "a42acbf4f252b317d0f7ea723137454a3b2dcc30"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_Scheduler/zipball/a42acbf4f252b317d0f7ea723137454a3b2dcc30",
+                    "reference": "a42acbf4f252b317d0f7ea723137454a3b2dcc30",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "replace": {
+                    "fbrnc/aoe_scheduler": "*"
+                },
+                "time": "2016-12-14T14:41:47+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "description": "Magento Cron Scheduler",
+                "homepage": "https://github.com/AOEpeople/Aoe_Scheduler",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_Scheduler/tree/cronjob_dependencies",
+                    "issues": "https://github.com/AOEpeople/Aoe_Scheduler/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_scheduler",
+                "version": "dev-graceful_dead",
+                "version_normalized": "dev-graceful_dead",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_Scheduler.git",
+                    "reference": "912b35aadec95784e81a2f5df35b42fb4d014547"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_Scheduler/zipball/912b35aadec95784e81a2f5df35b42fb4d014547",
+                    "reference": "912b35aadec95784e81a2f5df35b42fb4d014547",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "replace": {
+                    "fbrnc/aoe_scheduler": "*"
+                },
+                "time": "2015-07-02T17:32:18+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "description": "Magento Cron Scheduler",
+                "homepage": "https://github.com/AOEpeople/Aoe_Scheduler",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_Scheduler/tree/1.2.0",
+                    "issues": "https://github.com/AOEpeople/Aoe_Scheduler/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_scheduler",
+                "version": "dev-issue/126",
+                "version_normalized": "dev-issue/126",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_Scheduler.git",
+                    "reference": "dc6dd265f0bf0001e13f79ac864f12aa738a733e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_Scheduler/zipball/dc6dd265f0bf0001e13f79ac864f12aa738a733e",
+                    "reference": "dc6dd265f0bf0001e13f79ac864f12aa738a733e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "replace": {
+                    "fbrnc/aoe_scheduler": "*"
+                },
+                "time": "2015-06-26T19:31:04+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "description": "Magento Cron Scheduler",
+                "homepage": "https://github.com/AOEpeople/Aoe_Scheduler",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_Scheduler/tree/issue/126",
+                    "issues": "https://github.com/AOEpeople/Aoe_Scheduler/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_scheduler",
+                "version": "dev-issue/158_new_timeline",
+                "version_normalized": "dev-issue/158_new_timeline",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_Scheduler.git",
+                    "reference": "098762dd20e4780c890887d7e4eab7c6ae1b4757"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_Scheduler/zipball/098762dd20e4780c890887d7e4eab7c6ae1b4757",
+                    "reference": "098762dd20e4780c890887d7e4eab7c6ae1b4757",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "replace": {
+                    "fbrnc/aoe_scheduler": "*"
+                },
+                "time": "2015-11-10T18:42:13+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "description": "Magento Cron Scheduler",
+                "homepage": "https://github.com/AOEpeople/Aoe_Scheduler",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_Scheduler/tree/issue/158_new_timeline",
+                    "issues": "https://github.com/AOEpeople/Aoe_Scheduler/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_scheduler",
+                "version": "dev-issue/176_abandoned_locks",
+                "version_normalized": "dev-issue/176_abandoned_locks",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_Scheduler.git",
+                    "reference": "00810f0762383bfb8c491990d170a5335e4c0549"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_Scheduler/zipball/00810f0762383bfb8c491990d170a5335e4c0549",
+                    "reference": "00810f0762383bfb8c491990d170a5335e4c0549",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "replace": {
+                    "fbrnc/aoe_scheduler": "*"
+                },
+                "time": "2015-11-04T21:45:59+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "description": "Magento Cron Scheduler",
+                "homepage": "https://github.com/AOEpeople/Aoe_Scheduler",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_Scheduler/tree/issue/176_abandoned_locks",
+                    "issues": "https://github.com/AOEpeople/Aoe_Scheduler/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_scheduler",
+                "version": "dev-lee/patch-1",
+                "version_normalized": "dev-lee/patch-1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_Scheduler.git",
+                    "reference": "a348cf4f3cc1722614d35356f8b799b500dfd132"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_Scheduler/zipball/a348cf4f3cc1722614d35356f8b799b500dfd132",
+                    "reference": "a348cf4f3cc1722614d35356f8b799b500dfd132",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "replace": {
+                    "fbrnc/aoe_scheduler": "*"
+                },
+                "time": "2015-08-17T13:26:37+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "description": "Magento Cron Scheduler",
+                "homepage": "https://github.com/AOEpeople/Aoe_Scheduler",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_Scheduler/tree/lee/patch-1",
+                    "issues": "https://github.com/AOEpeople/Aoe_Scheduler/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_scheduler",
+                "version": "dev-travis",
+                "version_normalized": "dev-travis",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_Scheduler.git",
+                    "reference": "601f732aa56ce93c4e69b549abfea6f441b0a333"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_Scheduler/zipball/601f732aa56ce93c4e69b549abfea6f441b0a333",
+                    "reference": "601f732aa56ce93c4e69b549abfea6f441b0a333",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "replace": {
+                    "fbrnc/aoe_scheduler": "*"
+                },
+                "time": "2019-06-05T05:41:30+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "description": "Magento Cron Scheduler",
+                "homepage": "https://github.com/AOEpeople/Aoe_Scheduler",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_Scheduler/tree/travis",
+                    "issues": "https://github.com/AOEpeople/Aoe_Scheduler/issues"
+                }
+            }
+        ]
+    }
+}

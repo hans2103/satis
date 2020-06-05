@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/planet_payment_checkout": [
+            {
+                "name": "connect20/Planet_Payment_Checkout",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Planet_Payment_Checkout/1.0.0/Planet_Payment_Checkout-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Mayank",
+                        "email": "mayank@chetu.com"
+                    }
+                ],
+                "description": "Planet Payment module is support more 300 credit and debit cards, and also support back office operation."
+            }
+        ]
+    }
+}

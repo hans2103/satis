@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/itfosters_pallcurrencys": [
+            {
+                "name": "connect20/Itfosters_Pallcurrencys",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Itfosters_Pallcurrencys/0.1.0/Itfosters_Pallcurrencys-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Raj kumar",
+                        "email": "rajwebsoft@gmail.com"
+                    }
+                ],
+                "description": "Paypal standard support the all the currency with INR"
+            },
+            {
+                "name": "connect20/Itfosters_Pallcurrencys",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Itfosters_Pallcurrencys/0.1.1/Itfosters_Pallcurrencys-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Raj kumar",
+                        "email": "rajwebsoft@gmail.com"
+                    }
+                ],
+                "description": "All the currency is not supported by the paypal then use the unsported currency in this exenstion"
+            }
+        ]
+    }
+}

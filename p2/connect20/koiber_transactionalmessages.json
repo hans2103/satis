@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/koiber_transactionalmessages": [
+            {
+                "name": "connect20/Koiber_TransactionalMessages",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Koiber_TransactionalMessages/1.0.0/Koiber_TransactionalMessages-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT-Licence"
+                ],
+                "authors": [
+                    {
+                        "name": "Koiber",
+                        "email": "bsbinfor@gmail.com"
+                    }
+                ],
+                "description": "Módulo desenvolvido com a finaliade de integrar o aplicativo Koiber com o magento"
+            },
+            {
+                "name": "connect20/Koiber_TransactionalMessages",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Koiber_TransactionalMessages/1.0.1/Koiber_TransactionalMessages-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT-Licence"
+                ],
+                "authors": [
+                    {
+                        "name": "Koiber",
+                        "email": "bsbinfor@gmail.com"
+                    }
+                ],
+                "description": "Módulo desenvolvido com a finaliade de integrar o aplicativo Koiber com o magento"
+            }
+        ]
+    }
+}

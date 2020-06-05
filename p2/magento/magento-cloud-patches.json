@@ -1,0 +1,203 @@
+{
+    "packages": {
+        "magento/magento-cloud-patches": [
+            {
+                "name": "magento/magento-cloud-patches",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento-cloud-patches/magento-magento-cloud-patches-1.0.0.0.zip",
+                    "shasum": "34ac42a0246d2bf356ead36db523342121f77a10"
+                },
+                "require": {
+                    "composer/composer": "@stable",
+                    "ext-json": "*",
+                    "php": "^7.0",
+                    "symfony/config": "^3.3||^4.3",
+                    "symfony/console": "^2.6||^4.0",
+                    "symfony/dependency-injection": "^3.3||^4.3",
+                    "symfony/process": "^2.1||^4.1"
+                },
+                "conflict": {
+                    "symfony/process": "^4.2"
+                },
+                "require-dev": {
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "^6.2",
+                    "squizlabs/php_codesniffer": "^3.0"
+                },
+                "bin": [
+                    "bin/ece-patches"
+                ],
+                "type": "magento2-component",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\CloudPatches\\": "src/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Provides critical fixes for Magento 2 Enterprise Edition"
+            },
+            {
+                "name": "magento/magento-cloud-patches",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento-cloud-patches/magento-magento-cloud-patches-1.0.1.0.zip",
+                    "shasum": "ce2b71cbfce34c6ef08ca96b6ce7be11b2adf65b"
+                },
+                "require": {
+                    "composer/composer": "@stable",
+                    "ext-json": "*",
+                    "php": "^7.0",
+                    "symfony/config": "^3.3||^4.4",
+                    "symfony/console": "^2.8||^4.0",
+                    "symfony/dependency-injection": "^3.3||^4.3",
+                    "symfony/process": "^2.1||^4.1"
+                },
+                "conflict": {
+                    "symfony/process": "^4.2"
+                },
+                "require-dev": {
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "^6.2",
+                    "squizlabs/php_codesniffer": "^3.0"
+                },
+                "bin": [
+                    "bin/ece-patches"
+                ],
+                "type": "magento2-component",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\CloudPatches\\": "src/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Provides critical fixes for Magento 2 Enterprise Edition"
+            },
+            {
+                "name": "magento/magento-cloud-patches",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento-cloud-patches/magento-magento-cloud-patches-1.0.2.0.zip",
+                    "shasum": "30ff28deb83d724026f6aae2a5ef1d544127ecf9"
+                },
+                "require": {
+                    "composer/composer": "@stable",
+                    "composer/semver": "^1.5",
+                    "ext-json": "*",
+                    "php": "^7.0",
+                    "symfony/config": "^3.3||^4.4",
+                    "symfony/console": "^2.6||^4.0",
+                    "symfony/dependency-injection": "^3.3||^4.3",
+                    "symfony/process": "^2.1||^4.1"
+                },
+                "require-dev": {
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "^6.2",
+                    "squizlabs/php_codesniffer": "^3.0"
+                },
+                "bin": [
+                    "bin/ece-patches"
+                ],
+                "type": "magento2-component",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\CloudPatches\\": "src/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Provides critical fixes for Magento 2 Enterprise Edition"
+            },
+            {
+                "name": "magento/magento-cloud-patches",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento-cloud-patches/magento-magento-cloud-patches-1.0.3.0.zip",
+                    "shasum": "ac65695882f2f4bfecbc6acee69a2c97ecdd9f9b"
+                },
+                "require": {
+                    "composer/composer": "@stable",
+                    "composer/semver": "^1.5",
+                    "ext-json": "*",
+                    "php": "^7.0",
+                    "symfony/config": "^3.3||^4.4",
+                    "symfony/console": "^2.6||^4.0",
+                    "symfony/dependency-injection": "^3.3||^4.3",
+                    "symfony/process": "^2.1||^4.1"
+                },
+                "require-dev": {
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "^6.2",
+                    "squizlabs/php_codesniffer": "^3.0"
+                },
+                "bin": [
+                    "bin/ece-patches"
+                ],
+                "type": "magento2-component",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\CloudPatches\\": "src/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Provides critical fixes for Magento 2 Enterprise Edition"
+            },
+            {
+                "name": "magento/magento-cloud-patches",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento-cloud-patches/magento-magento-cloud-patches-1.0.4.0.zip",
+                    "shasum": "67570736ab2cbbdc3ea1f2486740d3fb08029d5d"
+                },
+                "require": {
+                    "composer/composer": "@stable",
+                    "composer/semver": "^1.5",
+                    "ext-json": "*",
+                    "php": "^7.0",
+                    "symfony/config": "^3.3||^4.4",
+                    "symfony/console": "^2.6||^4.0",
+                    "symfony/dependency-injection": "^3.3||^4.3",
+                    "symfony/process": "^2.1||^4.1"
+                },
+                "require-dev": {
+                    "codeception/codeception": "^2.5.3",
+                    "consolidation/robo": "^1.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "^6.2",
+                    "squizlabs/php_codesniffer": "^3.0"
+                },
+                "bin": [
+                    "bin/ece-patches"
+                ],
+                "type": "magento2-component",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\CloudPatches\\": "src/",
+                        "Magento\\CloudPatches\\Test\\Functional\\": "tests/functional/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Provides critical fixes for Magento 2 Enterprise Edition"
+            }
+        ]
+    }
+}

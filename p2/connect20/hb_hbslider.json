@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/hb_hbslider": [
+            {
+                "name": "connect20/Hb_Hbslider",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Hb_Hbslider/0.1.0/Hb_Hbslider-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Brijesh Mishra",
+                        "email": "brijeshmkt@gmail.com"
+                    }
+                ],
+                "description": "Simple Carousal slider to display sliding images on home page."
+            }
+        ]
+    }
+}

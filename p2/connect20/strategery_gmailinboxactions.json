@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/strategery_gmailinboxactions": [
+            {
+                "name": "connect20/Strategery_GmailInboxActions",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Strategery_GmailInboxActions/0.2.0/Strategery_GmailInboxActions-0.2.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Gabriel Somoza",
+                        "email": "work@gabrielsomoza.com"
+                    }
+                ],
+                "description": "Adds Schema.org markup to outgoing emails for Gmails \"Actions in the Inbox\" features."
+            }
+        ]
+    }
+}

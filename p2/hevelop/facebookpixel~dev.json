@@ -1,0 +1,86 @@
+{
+    "packages": {
+        "hevelop/facebookpixel": [
+            {
+                "name": "hevelop/facebookpixel",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Hevelop/Facebookpixel.git",
+                    "reference": "e925990eaa11aacab73d92cf2a87d04564a3b926"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Hevelop/Facebookpixel/zipball/e925990eaa11aacab73d92cf2a87d04564a3b926",
+                    "reference": "e925990eaa11aacab73d92cf2a87d04564a3b926",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": "~5.4.0|~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2018-12-07T15:19:10+00:00",
+                "type": "magento-module",
+                "license": [
+                    "AGPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Bordin",
+                        "email": "alex@hevelop.com"
+                    },
+                    {
+                        "name": "Simone Marcato",
+                        "email": "simone@hevelop.com"
+                    }
+                ],
+                "description": "Facebook Pixel tracking",
+                "support": {
+                    "source": "https://github.com/Hevelop/Facebookpixel/tree/v1.5.8",
+                    "issues": "https://github.com/Hevelop/Facebookpixel/issues"
+                }
+            },
+            {
+                "name": "hevelop/facebookpixel",
+                "version": "dev-no-catalog-id",
+                "version_normalized": "dev-no-catalog-id",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Hevelop/Facebookpixel.git",
+                    "reference": "242045ac156a0402d7d15541f96241a2d4466643"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Hevelop/Facebookpixel/zipball/242045ac156a0402d7d15541f96241a2d4466643",
+                    "reference": "242045ac156a0402d7d15541f96241a2d4466643",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": "~5.4.0|~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2018-12-11T08:40:42+00:00",
+                "type": "magento-module",
+                "license": [
+                    "AGPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Bordin",
+                        "email": "alex@hevelop.com"
+                    },
+                    {
+                        "name": "Simone Marcato",
+                        "email": "simone@hevelop.com"
+                    }
+                ],
+                "description": "Facebook Pixel tracking",
+                "support": {
+                    "source": "https://github.com/Hevelop/Facebookpixel/tree/no-catalog-id",
+                    "issues": "https://github.com/Hevelop/Facebookpixel/issues"
+                }
+            }
+        ]
+    }
+}

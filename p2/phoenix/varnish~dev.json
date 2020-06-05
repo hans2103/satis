@@ -1,0 +1,93 @@
+{
+    "packages": {
+        "phoenix/varnish": [
+            {
+                "name": "phoenix/varnish",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/PHOENIX-MEDIA/Magento-PageCache-powered-by-Varnish.git",
+                    "reference": "4afa0fff70b95a7f64827941e9151e6487919af4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/PHOENIX-MEDIA/Magento-PageCache-powered-by-Varnish/zipball/4afa0fff70b95a7f64827941e9151e6487919af4",
+                    "reference": "4afa0fff70b95a7f64827941e9151e6487919af4",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-04-20T10:22:33+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Phoenix/VarnishCache",
+                            "app/code/community/Phoenix/VarnishCache"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/varnishcache.xml",
+                            "app/design/adminhtml/default/default/layout/varnishcache.xml"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/varnishcache",
+                            "app/design/adminhtml/default/default/template/varnishcache"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/varnishcache.xml",
+                            "app/design/frontend/base/default/layout/varnishcache.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/varnishcache",
+                            "app/design/frontend/base/default/template/varnishcache"
+                        ],
+                        [
+                            "app/etc/modules/Phoenix_VarnishCache.xml",
+                            "app/etc/modules/Phoenix_VarnishCache.xml"
+                        ],
+                        [
+                            "app/etc/varnishcache.xml",
+                            "app/etc/varnishcache.xml"
+                        ],
+                        [
+                            "app/locale/de_DE/Phoenix_VarnishCache.csv",
+                            "app/locale/de_DE/Phoenix_VarnishCache.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Phoenix_VarnishCache.csv",
+                            "app/locale/en_US/Phoenix_VarnishCache.csv"
+                        ],
+                        [
+                            "app/locale/es_ES/Phoenix_VarnishCache.csv",
+                            "app/locale/es_ES/Phoenix_VarnishCache.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Phoenix_VarnishCache.csv",
+                            "app/locale/fr_FR/Phoenix_VarnishCache.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Phoenix_VarnishCache.csv",
+                            "app/locale/nb_NO/Phoenix_VarnishCache.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "phoenix-media",
+                        "email": "info@phoenix-media.eu"
+                    }
+                ],
+                "description": "Certified module to integrate Magento and Varnish that makes your eCommerce site fly.",
+                "support": {
+                    "source": "https://github.com/PHOENIX-MEDIA/Magento-PageCache-powered-by-Varnish/tree/master",
+                    "issues": "https://github.com/PHOENIX-MEDIA/Magento-PageCache-powered-by-Varnish/issues"
+                }
+            }
+        ]
+    }
+}

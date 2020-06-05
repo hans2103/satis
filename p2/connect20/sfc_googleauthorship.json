@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sfc_googleauthorship": [
+            {
+                "name": "connect20/SFC_GoogleAuthorship",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SFC_GoogleAuthorship/1.0.1/SFC_GoogleAuthorship-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "luke james",
+                        "email": "ljames@storefrontconsulting.com"
+                    }
+                ],
+                "description": "The StoreFront Google Authorship extension allows you to associate Google Authorship tags with your CMS content."
+            }
+        ]
+    }
+}

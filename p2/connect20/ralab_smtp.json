@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/ralab_smtp": [
+            {
+                "name": "connect20/Ralab_SMTP",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ralab_SMTP/1.0.0/Ralab_SMTP-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Kalpesh Balar",
+                        "email": "kalpeshbalar@gmail.com"
+                    }
+                ],
+                "description": "Simple SMTP is the an open source magento extension to Authenticate with any SMTP Server."
+            },
+            {
+                "name": "connect20/Ralab_SMTP",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ralab_SMTP/1.0.1/Ralab_SMTP-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Kalpesh Balar",
+                        "email": "kalpeshbalar@gmail.com"
+                    }
+                ],
+                "description": "Simple SMTP is the an open source magento extension to Authenticate with any SMTP Server."
+            }
+        ]
+    }
+}

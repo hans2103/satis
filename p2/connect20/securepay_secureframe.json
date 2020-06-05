@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/securepay_secureframe": [
+            {
+                "name": "connect20/SecurePay_SecureFrame",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SecurePay_SecureFrame/1.0.0/SecurePay_SecureFrame-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)-v3"
+                ],
+                "authors": [
+                    {
+                        "name": "Magnus Jason",
+                        "email": "support@securepay.com.au"
+                    }
+                ],
+                "description": "Adds the ability to accept payments via SecurePay's SecureFrame interface."
+            },
+            {
+                "name": "connect20/SecurePay_SecureFrame",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SecurePay_SecureFrame/1.1.0/SecurePay_SecureFrame-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Steve Katsaras",
+                        "email": "steve.katsaras@securepay.com.au"
+                    }
+                ],
+                "description": "Allows acceptance of payments via SecurePay.com.au's SecureFrame interface."
+            }
+        ]
+    }
+}

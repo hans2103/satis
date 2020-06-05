@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/mybuys_personalization_extension": [
+            {
+                "name": "connect20/MyBuys_Personalization_Extension",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MyBuys_Personalization_Extension/1.0.9/MyBuys_Personalization_Extension-1.0.9.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Commercial-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Greg Croasdill",
+                        "email": "gregc@human-element.com"
+                    }
+                ],
+                "description": "MyBuys Website Code & Data Feed Integration"
+            },
+            {
+                "name": "connect20/MyBuys_Personalization_Extension",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MyBuys_Personalization_Extension/1.1.0/MyBuys_Personalization_Extension-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "MyBuys Sandbox",
+                        "email": "rbrant@mybuys.com"
+                    }
+                ],
+                "description": "MyBuys Website Code & Data Feed Integration"
+            }
+        ]
+    }
+}

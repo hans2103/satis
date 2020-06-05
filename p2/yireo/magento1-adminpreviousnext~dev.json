@@ -1,0 +1,53 @@
+{
+    "packages": {
+        "yireo/magento1-adminpreviousnext": [
+            {
+                "name": "yireo/magento1-adminpreviousnext",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/yireo/Yireo_AdminPreviousNext.git",
+                    "reference": "008643f16d906073ca077c5a93e45f02ddc7ecee"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/yireo/Yireo_AdminPreviousNext/zipball/008643f16d906073ca077c5a93e45f02ddc7ecee",
+                    "reference": "008643f16d906073ca077c5a93e45f02ddc7ecee",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2017-08-17T14:09:37+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "source/"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Adds a previous/next button on product-edit pages in the backend",
+                "homepage": "https://www.yireo.com/software/magento-extensions/adminpreviousnext",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/yireo/Yireo_AdminPreviousNext/tree/master",
+                    "issues": "https://github.com/yireo/Yireo_AdminPreviousNext/issues"
+                }
+            }
+        ]
+    }
+}

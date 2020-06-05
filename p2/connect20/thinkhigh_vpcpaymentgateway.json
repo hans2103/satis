@@ -1,0 +1,90 @@
+{
+    "packages": {
+        "connect20/thinkhigh_vpcpaymentgateway": [
+            {
+                "name": "connect20/Thinkhigh_VPCpaymentgateway",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Thinkhigh_VPCpaymentgateway/0.1.0/Thinkhigh_VPCpaymentgateway-0.1.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Mitali",
+                        "email": "mitukkngr@gmail.com"
+                    }
+                ],
+                "description": "The MIGS payment gateway"
+            },
+            {
+                "name": "connect20/Thinkhigh_VPCpaymentgateway",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Thinkhigh_VPCpaymentgateway/1.0.1/Thinkhigh_VPCpaymentgateway-1.0.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Mitali",
+                        "email": "mitukkngr@gmail.com"
+                    }
+                ],
+                "description": "The MIGS payment gateway"
+            },
+            {
+                "name": "connect20/Thinkhigh_VPCpaymentgateway",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Thinkhigh_VPCpaymentgateway/1.0.2/Thinkhigh_VPCpaymentgateway-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Mitali",
+                        "email": "mitukkngr@gmail.com"
+                    }
+                ],
+                "description": "The MIGS payment extension for Magento. 3-party Payment(Redirect to payment gateway collect card details)"
+            }
+        ]
+    }
+}

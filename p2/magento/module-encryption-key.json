@@ -1,0 +1,911 @@
+{
+    "packages": {
+        "magento/module-encryption-key": [
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.0.2",
+                "version_normalized": "100.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.0.2.0.zip",
+                    "shasum": "9c9e42b33b371f9a9adc5d03b49ad2e9e0bee69d"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.0.3",
+                "version_normalized": "100.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.0.3.0.zip",
+                    "shasum": "c9f5d0bdfb2fc30870080635fe1c909cdf7d9223"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.0.4",
+                "version_normalized": "100.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.0.4.0.zip",
+                    "shasum": "e9bf6a22c2ea0a34b8293aa6a10fdbf6163ccfff"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.0.5",
+                "version_normalized": "100.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.0.5.0.zip",
+                    "shasum": "27e5d484615af5ff34e7017ed978895899cece00"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.0.6",
+                "version_normalized": "100.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.0.6.0.zip",
+                    "shasum": "32c03608d7b3e1b892f69bbea0a4763f1c50c956"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.0.7",
+                "version_normalized": "100.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.0.7.0.zip",
+                    "shasum": "70ffb316392259cb2dd85b8094a671746904a288"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.1.0",
+                "version_normalized": "100.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.1.0.0.zip",
+                    "shasum": "82ba1b2c182337a40464e9ecc907ceacd21beb8f"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.1.0-rc1",
+                "version_normalized": "100.1.0.0-RC1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.1.0.0-RC1.zip",
+                    "shasum": "4b2da6b2aac173c36b34692f9da9addb06a290aa"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.1.0-rc2",
+                "version_normalized": "100.1.0.0-RC2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.1.0.0-RC2.zip",
+                    "shasum": "99ff660265f70c802587ca346017a6e4165bab3f"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.1.0-rc3",
+                "version_normalized": "100.1.0.0-RC3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.1.0.0-RC3.zip",
+                    "shasum": "63032c2f2c1bb014932cb3afe79c9d4a00451ed3"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.1.1",
+                "version_normalized": "100.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.1.1.0.zip",
+                    "shasum": "fdd7b5894dee1377cb51d3847f324e83892e5897"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.1.2",
+                "version_normalized": "100.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.1.2.0.zip",
+                    "shasum": "0ff294f0b3de7ea5b980241b40c3a41429d14f7a"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.1.3",
+                "version_normalized": "100.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.1.3.0.zip",
+                    "shasum": "5f7ec6bd361330ccef12de6107deddddbaa9600a"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.1.4",
+                "version_normalized": "100.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.1.4.0.zip",
+                    "shasum": "79e08fc61615e701b4916d549e61b33cb697009a"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.2.0",
+                "version_normalized": "100.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.2.0.0.zip",
+                    "shasum": "36110a994559a0f26ff237eaf7e0055d8223af06"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.2.0-rc20",
+                "version_normalized": "100.2.0.0-RC20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.2.0.0-RC20.zip",
+                    "shasum": "74f8784923fc912c50c3b558446c75e1638b5a86"
+                },
+                "require": {
+                    "magento/framework": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-config": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.2.0-rc21",
+                "version_normalized": "100.2.0.0-RC21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.2.0.0-RC21.zip",
+                    "shasum": "89e46afdeae6e428b047704250f230c2d75b572a"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.2.0-rc22",
+                "version_normalized": "100.2.0.0-RC22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.2.0.0-RC22.zip",
+                    "shasum": "8282fc16e3455de7173f8a37c37981919ddfff3c"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.2.0-rc23",
+                "version_normalized": "100.2.0.0-RC23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.2.0.0-RC23.zip",
+                    "shasum": "d43042abef055c3a207f09abe01fdb5b5f5f818f"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.2.0-rc30",
+                "version_normalized": "100.2.0.0-RC30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.2.0.0-RC30.zip",
+                    "shasum": "fb6336d80ee0a328eb74ecb8cf065202458b64a0"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.2.1",
+                "version_normalized": "100.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.2.1.0.zip",
+                    "shasum": "2f4b915bccac75c14570e23eb6b131b91325907b"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.2.2",
+                "version_normalized": "100.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.2.2.0.zip",
+                    "shasum": "f9b0e7d02735161ce32ebc4afcea59874b8df971"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.2.3",
+                "version_normalized": "100.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.2.3.0.zip",
+                    "shasum": "5a46f0d2a1ea832592b4399f81955e76c3c093de"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.2.4",
+                "version_normalized": "100.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.2.4.0.zip",
+                    "shasum": "1123a20bb4cc8544a3b2712bd7dfcdc8e526bd04"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "php": "~7.0.13|~7.1.0|~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.2.5",
+                "version_normalized": "100.2.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.2.5.0.zip",
+                    "shasum": "23d833861f43ddb6d9239c74d198cb7b5aa35f11"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "php": "~7.0.13||~7.1.0||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.3.0",
+                "version_normalized": "100.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.3.0.0.zip",
+                    "shasum": "8961676609bad7fecfcf21055202c300af910226"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-config": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.3.1",
+                "version_normalized": "100.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.3.1.0.zip",
+                    "shasum": "099f36ac60c8226e0c3c1485d29d336c44744dde"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-config": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.3.2",
+                "version_normalized": "100.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.3.2.0.zip",
+                    "shasum": "bfd7d090a352c18ed9a70af191a3dec68ca07889"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-config": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.3.3",
+                "version_normalized": "100.3.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.3.3.0.zip",
+                    "shasum": "e73088b36a3368509a6f06c5247c0920f30a9911"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-config": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.3.4",
+                "version_normalized": "100.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.3.4.0.zip",
+                    "shasum": "f1635a931a6d7c7b8899fcc2c1aa555c90f94d91"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-config": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-encryption-key",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-encryption-key/magento-module-encryption-key-100.3.5.0.zip",
+                    "shasum": "3576245bda31bee99fbe16fae57b972a54997a62"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-config": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\EncryptionKey\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

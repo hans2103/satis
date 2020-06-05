@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ordertags": [
+            {
+                "name": "connect20/Ordertags",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ordertags/0.1.0/Ordertags-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Weblineindia",
+                        "email": "partners@weblineindia.com"
+                    }
+                ],
+                "description": "Admin can view the advanced filter based on the order priority and conditons."
+            }
+        ]
+    }
+}

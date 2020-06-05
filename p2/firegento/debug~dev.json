@@ -1,0 +1,114 @@
+{
+    "packages": {
+        "firegento/debug": [
+            {
+                "name": "firegento/debug",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/firegento/firegento-debug.git",
+                    "reference": "7685eeec5a1bcef282a140c9b10d351d2bab7420"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/firegento/firegento-debug/zipball/7685eeec5a1bcef282a140c9b10d351d2bab7420",
+                    "reference": "7685eeec5a1bcef282a140c9b10d351d2bab7420",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-10-29T08:41:53+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "therouv@googlemail.com"
+                    }
+                ],
+                "description": "Diagnostic extension for Magento. Checks modules, rewrites, and displays the log files in the backend.",
+                "homepage": "https://github.com/firegento/firegento-debug",
+                "support": {
+                    "source": "https://github.com/firegento/firegento-debug/tree/v1.5.0",
+                    "issues": "https://github.com/firegento/firegento-debug/issues"
+                }
+            },
+            {
+                "name": "firegento/debug",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/firegento/firegento-debug.git",
+                    "reference": "fc70b47a09caa182b47434cdcbde1db8e46d2558"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/firegento/firegento-debug/zipball/fc70b47a09caa182b47434cdcbde1db8e46d2558",
+                    "reference": "fc70b47a09caa182b47434cdcbde1db8e46d2558",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-10-22T19:59:28+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "therouv@googlemail.com"
+                    }
+                ],
+                "description": "Diagnostic extension for Magento. Checks modules, rewrites, and displays the log files in the backend.",
+                "homepage": "https://github.com/firegento/firegento-debug",
+                "support": {
+                    "source": "https://github.com/firegento/firegento-debug/tree/develop",
+                    "issues": "https://github.com/firegento/firegento-debug/issues"
+                }
+            },
+            {
+                "name": "firegento/debug",
+                "version": "dev-riker09-hotfix-admin-routing",
+                "version_normalized": "dev-riker09-hotfix-admin-routing",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/firegento/firegento-debug.git",
+                    "reference": "c3458a64fa82ca141b71e990ca828009e1b26f34"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/firegento/firegento-debug/zipball/c3458a64fa82ca141b71e990ca828009e1b26f34",
+                    "reference": "c3458a64fa82ca141b71e990ca828009e1b26f34",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-10-29T08:39:12+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "therouv@googlemail.com"
+                    }
+                ],
+                "description": "Diagnostic extension for Magento. Checks modules, rewrites, and displays the log files in the backend.",
+                "homepage": "https://github.com/firegento/firegento-debug",
+                "support": {
+                    "source": "https://github.com/firegento/firegento-debug/tree/riker09-hotfix-admin-routing",
+                    "issues": "https://github.com/firegento/firegento-debug/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/bitbull_satispay": [
+            {
+                "name": "connect20/Bitbull_Satispay",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Bitbull_Satispay/0.2.0/Bitbull_Satispay-0.2.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Renato Cason",
+                        "email": "devel@bitbull.it"
+                    }
+                ],
+                "description": "Satispay payment gateway for Magento 1.9.x"
+            },
+            {
+                "name": "connect20/Bitbull_Satispay",
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Bitbull_Satispay/0.2.1/Bitbull_Satispay-0.2.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Renato Cason",
+                        "email": "devel@bitbull.it"
+                    }
+                ],
+                "description": "Accept payments via Satispay."
+            }
+        ]
+    }
+}

@@ -1,0 +1,342 @@
+{
+    "packages": {
+        "magento/google-shopping-ads": [
+            {
+                "name": "magento/google-shopping-ads",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/google-shopping-ads/magento-google-shopping-ads-1.1.1.0.zip",
+                    "shasum": "e420f24ceef7f32e234563697fa2c5c498190358"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": ">=6.0",
+                    "guzzlehttp/psr7": "~1.0",
+                    "magento/framework": ">=101.0.4",
+                    "magento/module-backend": ">=100.2.4",
+                    "magento/module-bundle": ">=100.2.3",
+                    "magento/module-catalog": ">=102.0.4",
+                    "magento/module-catalog-inventory": ">=100.2.3",
+                    "magento/module-checkout": ">=100.2.4",
+                    "magento/module-config": ">=101.0.4",
+                    "magento/module-configurable-product": ">=100.2.4",
+                    "magento/module-directory": ">=100.2.3",
+                    "magento/module-downloadable": ">=100.2.3",
+                    "magento/module-eav": ">=101.0.3",
+                    "magento/module-store": ">=100.2.3",
+                    "magento/module-ui": ">=101.0.4",
+                    "php": "7.0.2||7.0.4||>=7.0.6 <7.4"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GoogleShoppingAds\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Connect your Magento admin with Google Merchant Center and Google Ads. Leverage Google machine learning through Google Smart Shopping campaigns"
+            },
+            {
+                "name": "magento/google-shopping-ads",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/google-shopping-ads/magento-google-shopping-ads-1.1.2.0.zip",
+                    "shasum": "57ae444cd7f92b68ec8274dfaf0e87ce48c73550"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": ">=6.0",
+                    "guzzlehttp/psr7": "~1.0",
+                    "magento/framework": ">=101.0.4",
+                    "magento/module-backend": ">=100.2.4",
+                    "magento/module-bundle": ">=100.2.3",
+                    "magento/module-catalog": ">=102.0.4",
+                    "magento/module-catalog-inventory": ">=100.2.3",
+                    "magento/module-checkout": ">=100.2.4",
+                    "magento/module-config": ">=101.0.4",
+                    "magento/module-configurable-product": ">=100.2.4",
+                    "magento/module-directory": ">=100.2.3",
+                    "magento/module-downloadable": ">=100.2.3",
+                    "magento/module-eav": ">=101.0.3",
+                    "magento/module-store": ">=100.2.3",
+                    "magento/module-ui": ">=101.0.4",
+                    "php": "7.0.2||7.0.4||>=7.0.6 <7.4"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GoogleShoppingAds\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Connect your Magento admin with Google Merchant Center and Google Ads. Leverage Google machine learning through Google Smart Shopping campaigns"
+            },
+            {
+                "name": "magento/google-shopping-ads",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/google-shopping-ads/magento-google-shopping-ads-2.0.0.0.zip",
+                    "shasum": "75ca15fb067b7a78632b12ef129bd4b923cef906"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": ">=6.0",
+                    "guzzlehttp/psr7": "~1.0",
+                    "magento/framework": ">=101.0.4",
+                    "magento/module-backend": ">=100.2.4",
+                    "magento/module-bundle": ">=100.2.3",
+                    "magento/module-catalog": ">=102.0.4",
+                    "magento/module-catalog-inventory": ">=100.2.3",
+                    "magento/module-checkout": ">=100.2.4",
+                    "magento/module-config": ">=101.0.4",
+                    "magento/module-configurable-product": ">=100.2.4",
+                    "magento/module-directory": ">=100.2.3",
+                    "magento/module-downloadable": ">=100.2.3",
+                    "magento/module-eav": ">=101.0.3",
+                    "magento/module-store": ">=100.2.3",
+                    "magento/module-ui": ">=101.0.4",
+                    "php": "7.0.2||7.0.4||>=7.0.6 <7.4"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GoogleShoppingAds\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Connect your Magento admin with Google Merchant Center and Google Ads. Leverage Google machine learning through Google Smart Shopping campaigns"
+            },
+            {
+                "name": "magento/google-shopping-ads",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/google-shopping-ads/magento-google-shopping-ads-2.0.1.0.zip",
+                    "shasum": "3390ea98cb6843bf584381e02d6d1d300c82f9ed"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": ">=6.0",
+                    "guzzlehttp/psr7": "~1.0",
+                    "magento/framework": ">=101.0.4",
+                    "magento/module-backend": ">=100.2.4",
+                    "magento/module-bundle": ">=100.2.3",
+                    "magento/module-catalog": ">=102.0.4",
+                    "magento/module-catalog-inventory": ">=100.2.3",
+                    "magento/module-checkout": ">=100.2.4",
+                    "magento/module-config": ">=101.0.4",
+                    "magento/module-configurable-product": ">=100.2.4",
+                    "magento/module-directory": ">=100.2.3",
+                    "magento/module-downloadable": ">=100.2.3",
+                    "magento/module-eav": ">=101.0.3",
+                    "magento/module-store": ">=100.2.3",
+                    "magento/module-ui": ">=101.0.4",
+                    "php": "7.0.2||7.0.4||>=7.0.6 <7.4"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GoogleShoppingAds\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Connect your Magento admin with Google Merchant Center and Google Ads. Leverage Google machine learning through Google Smart Shopping campaigns"
+            },
+            {
+                "name": "magento/google-shopping-ads",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/google-shopping-ads/magento-google-shopping-ads-2.0.2.0.zip",
+                    "shasum": "cddf381a2d2e4ed62530d90746b050c6596e0e7e"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": ">=6.0",
+                    "guzzlehttp/psr7": "~1.0",
+                    "magento/framework": ">=101.0.4",
+                    "magento/module-backend": ">=100.2.4",
+                    "magento/module-bundle": ">=100.2.3",
+                    "magento/module-catalog": ">=102.0.4",
+                    "magento/module-catalog-inventory": ">=100.2.3",
+                    "magento/module-checkout": ">=100.2.4",
+                    "magento/module-config": ">=101.0.4",
+                    "magento/module-configurable-product": ">=100.2.4",
+                    "magento/module-directory": ">=100.2.3",
+                    "magento/module-downloadable": ">=100.2.3",
+                    "magento/module-eav": ">=101.0.3",
+                    "magento/module-store": ">=100.2.3",
+                    "magento/module-ui": ">=101.0.4",
+                    "php": "7.0.2||7.0.4||>=7.0.6 <7.4"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GoogleShoppingAds\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Connect your Magento admin with Google Merchant Center and Google Ads. Leverage Google machine learning through Google Smart Shopping campaigns"
+            },
+            {
+                "name": "magento/google-shopping-ads",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/google-shopping-ads/magento-google-shopping-ads-3.0.0.0.zip",
+                    "shasum": "f3fdf58a0402e13587c562de5d683514fdcbc7fb"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": ">=6.0",
+                    "guzzlehttp/psr7": "~1.0",
+                    "magento/framework": ">=101.0.4",
+                    "magento/module-backend": ">=100.2.4",
+                    "magento/module-bundle": ">=100.2.3",
+                    "magento/module-catalog": ">=102.0.4",
+                    "magento/module-catalog-inventory": ">=100.2.3",
+                    "magento/module-checkout": ">=100.2.4",
+                    "magento/module-config": ">=101.0.4",
+                    "magento/module-configurable-product": ">=100.2.4",
+                    "magento/module-directory": ">=100.2.3",
+                    "magento/module-downloadable": ">=100.2.3",
+                    "magento/module-eav": ">=101.0.3",
+                    "magento/module-store": ">=100.2.3",
+                    "magento/module-ui": ">=101.0.4",
+                    "php": "7.0.2||7.0.4||>=7.0.6 <7.4"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GoogleShoppingAds\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Connect your Magento admin with Google Merchant Center and Google Ads. Leverage Google machine learning through Google Smart Shopping campaigns"
+            },
+            {
+                "name": "magento/google-shopping-ads",
+                "version": "3.0.1",
+                "version_normalized": "3.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/google-shopping-ads/magento-google-shopping-ads-3.0.1.0.zip",
+                    "shasum": "ce31e720d60451784b9fdb3769e43e149f50d436"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": ">=6.0",
+                    "guzzlehttp/psr7": "~1.0",
+                    "magento/framework": ">=101.0.4",
+                    "magento/module-backend": ">=100.2.4",
+                    "magento/module-bundle": ">=100.2.3",
+                    "magento/module-catalog": ">=102.0.4",
+                    "magento/module-catalog-inventory": ">=100.2.3",
+                    "magento/module-checkout": ">=100.2.4",
+                    "magento/module-config": ">=101.0.4",
+                    "magento/module-configurable-product": ">=100.2.4",
+                    "magento/module-directory": ">=100.2.3",
+                    "magento/module-downloadable": ">=100.2.3",
+                    "magento/module-eav": ">=101.0.3",
+                    "magento/module-store": ">=100.2.3",
+                    "magento/module-ui": ">=101.0.4",
+                    "php": "7.0.2||7.0.4||>=7.0.6 <7.4"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GoogleShoppingAds\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Connect your Magento admin with Google Merchant Center and Google Ads. Leverage Google machine learning through Google Smart Shopping campaigns"
+            },
+            {
+                "name": "magento/google-shopping-ads",
+                "version": "3.0.2",
+                "version_normalized": "3.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/google-shopping-ads/magento-google-shopping-ads-3.0.2.0.zip",
+                    "shasum": "9ae1bcb06b17792fbad7bf6acbe7b101057d4aa5"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": ">=6.0",
+                    "guzzlehttp/psr7": "~1.0",
+                    "magento/framework": ">=101.0.4",
+                    "magento/module-backend": ">=100.2.4",
+                    "magento/module-bundle": ">=100.2.3",
+                    "magento/module-catalog": ">=102.0.4",
+                    "magento/module-catalog-inventory": ">=100.2.3",
+                    "magento/module-checkout": ">=100.2.4",
+                    "magento/module-config": ">=101.0.4",
+                    "magento/module-configurable-product": ">=100.2.4",
+                    "magento/module-directory": ">=100.2.3",
+                    "magento/module-downloadable": ">=100.2.3",
+                    "magento/module-eav": ">=101.0.3",
+                    "magento/module-store": ">=100.2.3",
+                    "magento/module-ui": ">=101.0.4",
+                    "php": "7.0.2||7.0.4||>=7.0.6 <7.4"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GoogleShoppingAds\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Connect your Magento admin with Google Merchant Center and Google Ads. Leverage Google machine learning through Google Smart Shopping campaigns"
+            }
+        ]
+    }
+}

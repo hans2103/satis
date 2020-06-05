@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/etracker_connect": [
+            {
+                "name": "connect20/etracker_connect",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/etracker_connect/1.1.0/etracker_connect-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Justselling Germany Limited",
+                        "email": "info@justselling.de"
+                    }
+                ],
+                "description": "Gezielte Shop-Analyse mit den etracker Optimisation Suites."
+            }
+        ]
+    }
+}

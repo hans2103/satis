@@ -1,0 +1,1130 @@
+{
+    "packages": {
+        "vertex/module-tax": [
+            {
+                "name": "vertex/module-tax",
+                "version": "2.1.10",
+                "version_normalized": "2.1.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-2.1.10.0.zip",
+                    "shasum": "bfcc47f86bf85839d4f6e69027e9269db4912a78"
+                },
+                "require": {
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100.0.2|^101.0.0",
+                    "magento/module-backend": "^100.0.2",
+                    "magento/module-catalog": "^100.0.2|^101.0.0|^102.0.0",
+                    "magento/module-config": "^100.0.2|^101.0.0",
+                    "magento/module-customer": "^100.0.2|^101.0.0",
+                    "magento/module-directory": "^100.0.2",
+                    "magento/module-eav": "^100.0.2|^101.0.0",
+                    "magento/module-quote": "^100.0.2|^101.0.0",
+                    "magento/module-sales": "^100.0.2|^101.0.0",
+                    "magento/module-shipping": "^100.0.2",
+                    "magento/module-store": "^100.0.2",
+                    "magento/module-tax": "<100.3.0",
+                    "php": "^5.5.22|^7.0"
+                },
+                "conflict": {
+                    "magento/module-gift-wrapping": ">=101.1.0",
+                    "pixafy/tax": "*",
+                    "pixafy/tax-ee": "*",
+                    "vertex/tax": "*",
+                    "vertex/tax-ee": "*"
+                },
+                "require-dev": {
+                    "allure-framework/allure-codeception": "^1.2",
+                    "magento/magento2-functional-testing-framework": "^1.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2",
+                    "phpmd/phpmd": "^2.6",
+                    "phpunit/phpunit": "~6.2.0",
+                    "vlucas/phpdotenv": "^2.4"
+                },
+                "suggest": {
+                    "magento/module-checkout": "Vertex Tax Links for Magento 2 also supports Magento's Checkout module",
+                    "magento/module-gift-card-account": "Vertex Tax Links for Magento 2 also supports Magento's Gift Card Account module",
+                    "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module",
+                    "magento/module-multishipping": "Vertex Tax Links for Magento 2 also supports Magento's Multishipping module",
+                    "magento/module-reward": "Vertex Tax Links for Magento 2 also supports Magento's Reward module"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\Tax\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Tax Links for Magento 2"
+            },
+            {
+                "name": "vertex/module-tax",
+                "version": "2.1.2",
+                "version_normalized": "2.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-2.1.2.0.zip",
+                    "shasum": "5138f65c4db9d3ad4f2f33558cb3cd80ac3e180f"
+                },
+                "require": {
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100.0.2|^101.0.0",
+                    "magento/module-backend": "^100.0.2",
+                    "magento/module-catalog": "^100.0.2|^101.0.0|^102.0.0",
+                    "magento/module-config": "^100.0.2|^101.0.0",
+                    "magento/module-customer": "^100.0.2|^101.0.0",
+                    "magento/module-directory": "^100.0.2",
+                    "magento/module-eav": "^100.0.2|^101.0.0",
+                    "magento/module-quote": "^100.0.2|^101.0.0",
+                    "magento/module-sales": "^100.0.2|^101.0.0",
+                    "magento/module-shipping": "^100.0.2",
+                    "magento/module-store": "^100.0.2",
+                    "magento/module-tax": "<=100.2.4",
+                    "php": "^5.6|^7.0"
+                },
+                "conflict": {
+                    "magento/module-gift-wrapping": ">101.0.2",
+                    "pixafy/tax": "*",
+                    "pixafy/tax-ee": "*",
+                    "vertex/tax": "*",
+                    "vertex/tax-ee": "*"
+                },
+                "require-dev": {
+                    "allure-framework/allure-codeception": "^1.2",
+                    "magento/magento2-functional-testing-framework": "^1.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2",
+                    "phpmd/phpmd": "^2.6",
+                    "phpunit/phpunit": "~6.2.0",
+                    "vlucas/phpdotenv": "^2.4"
+                },
+                "suggest": {
+                    "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\Tax\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Tax component for Magento 2"
+            },
+            {
+                "name": "vertex/module-tax",
+                "version": "2.1.7",
+                "version_normalized": "2.1.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-2.1.7.0.zip",
+                    "shasum": "aef3578e65b8b843a7724160620a1e0cf88d33d7"
+                },
+                "require": {
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100.0.2|^101.0.0",
+                    "magento/module-backend": "^100.0.2",
+                    "magento/module-catalog": "^100.0.2|^101.0.0|^102.0.0",
+                    "magento/module-config": "^100.0.2|^101.0.0",
+                    "magento/module-customer": "^100.0.2|^101.0.0",
+                    "magento/module-directory": "^100.0.2",
+                    "magento/module-eav": "^100.0.2|^101.0.0",
+                    "magento/module-quote": "^100.0.2|^101.0.0",
+                    "magento/module-sales": "^100.0.2|^101.0.0",
+                    "magento/module-shipping": "^100.0.2",
+                    "magento/module-store": "^100.0.2",
+                    "magento/module-tax": "<=100.2.5",
+                    "php": "^5.5.22|^7.0"
+                },
+                "conflict": {
+                    "magento/module-gift-wrapping": ">101.0.3",
+                    "pixafy/tax": "*",
+                    "pixafy/tax-ee": "*",
+                    "vertex/tax": "*",
+                    "vertex/tax-ee": "*"
+                },
+                "require-dev": {
+                    "allure-framework/allure-codeception": "^1.2",
+                    "magento/magento2-functional-testing-framework": "^1.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2",
+                    "phpmd/phpmd": "^2.6",
+                    "phpunit/phpunit": "~6.2.0",
+                    "vlucas/phpdotenv": "^2.4"
+                },
+                "suggest": {
+                    "magento/module-checkout": "Vertex Tax Links for Magento 2 also supports Magento's Checkout module",
+                    "magento/module-gift-card-account": "Vertex Tax Links for Magento 2 also supports Magento's Gift Card Account module",
+                    "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module",
+                    "magento/module-multishipping": "Vertex Tax Links for Magento 2 also supports Magento's Multishipping module",
+                    "magento/module-reward": "Vertex Tax Links for Magento 2 also supports Magento's Reward module"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\Tax\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Tax Links for Magento 2"
+            },
+            {
+                "name": "vertex/module-tax",
+                "version": "2.1.8",
+                "version_normalized": "2.1.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-2.1.8.0.zip",
+                    "shasum": "8364f8157551026541e411dc024e16574765990c"
+                },
+                "require": {
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100.0.2|^101.0.0",
+                    "magento/module-backend": "^100.0.2",
+                    "magento/module-catalog": "^100.0.2|^101.0.0|^102.0.0",
+                    "magento/module-config": "^100.0.2|^101.0.0",
+                    "magento/module-customer": "^100.0.2|^101.0.0",
+                    "magento/module-directory": "^100.0.2",
+                    "magento/module-eav": "^100.0.2|^101.0.0",
+                    "magento/module-quote": "^100.0.2|^101.0.0",
+                    "magento/module-sales": "^100.0.2|^101.0.0",
+                    "magento/module-shipping": "^100.0.2",
+                    "magento/module-store": "^100.0.2",
+                    "magento/module-tax": "<=100.2.5",
+                    "php": "^5.5.22|^7.0"
+                },
+                "conflict": {
+                    "magento/module-gift-wrapping": ">101.0.3",
+                    "pixafy/tax": "*",
+                    "pixafy/tax-ee": "*",
+                    "vertex/tax": "*",
+                    "vertex/tax-ee": "*"
+                },
+                "require-dev": {
+                    "allure-framework/allure-codeception": "^1.2",
+                    "magento/magento2-functional-testing-framework": "^1.0",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2",
+                    "phpmd/phpmd": "^2.6",
+                    "phpunit/phpunit": "~6.2.0",
+                    "vlucas/phpdotenv": "^2.4"
+                },
+                "suggest": {
+                    "magento/module-checkout": "Vertex Tax Links for Magento 2 also supports Magento's Checkout module",
+                    "magento/module-gift-card-account": "Vertex Tax Links for Magento 2 also supports Magento's Gift Card Account module",
+                    "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module",
+                    "magento/module-multishipping": "Vertex Tax Links for Magento 2 also supports Magento's Multishipping module",
+                    "magento/module-reward": "Vertex Tax Links for Magento 2 also supports Magento's Reward module"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\Tax\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Tax Links for Magento 2"
+            },
+            {
+                "name": "vertex/module-tax",
+                "version": "2.1.9",
+                "version_normalized": "2.1.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-2.1.9.0.zip",
+                    "shasum": "bf6b49f384511b0cff627742ee3309f1f9780aa5"
+                },
+                "require": {
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100.0.2|^101.0.0",
+                    "magento/module-backend": "^100.0.2",
+                    "magento/module-catalog": "^100.0.2|^101.0.0|^102.0.0",
+                    "magento/module-config": "^100.0.2|^101.0.0",
+                    "magento/module-customer": "^100.0.2|^101.0.0",
+                    "magento/module-directory": "^100.0.2",
+                    "magento/module-eav": "^100.0.2|^101.0.0",
+                    "magento/module-quote": "^100.0.2|^101.0.0",
+                    "magento/module-sales": "^100.0.2|^101.0.0",
+                    "magento/module-shipping": "^100.0.2",
+                    "magento/module-store": "^100.0.2",
+                    "magento/module-tax": "<=100.2.5",
+                    "php": "^5.5.22|^7.0"
+                },
+                "conflict": {
+                    "magento/module-gift-wrapping": ">101.0.3",
+                    "pixafy/tax": "*",
+                    "pixafy/tax-ee": "*",
+                    "vertex/tax": "*",
+                    "vertex/tax-ee": "*"
+                },
+                "require-dev": {
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2",
+                    "phpmd/phpmd": "^2.6",
+                    "phpunit/phpunit": "~6.2.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "Vertex Tax Links for Magento 2 also supports Magento's Checkout module",
+                    "magento/module-gift-card-account": "Vertex Tax Links for Magento 2 also supports Magento's Gift Card Account module",
+                    "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module",
+                    "magento/module-multishipping": "Vertex Tax Links for Magento 2 also supports Magento's Multishipping module",
+                    "magento/module-reward": "Vertex Tax Links for Magento 2 also supports Magento's Reward module"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\Tax\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Tax Links for Magento 2"
+            },
+            {
+                "name": "vertex/module-tax",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-2.2.0.0.zip",
+                    "shasum": "06c07fee5f1d4d687884346479c4117719750d49"
+                },
+                "require": {
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100|^101|^102",
+                    "magento/module-backend": "^100|^101",
+                    "magento/module-config": "^100|^101",
+                    "magento/module-customer": "^100|^101|^102",
+                    "magento/module-directory": "^100",
+                    "magento/module-eav": "^100|^101|^102",
+                    "magento/module-quote": "^100|^101",
+                    "magento/module-sales": "^100|^101|^102",
+                    "magento/module-shipping": "^100",
+                    "magento/module-store": "^100|^101",
+                    "magento/module-tax": "^100",
+                    "php": "^5.6|^7.0",
+                    "vertex/sdk": "^1.0.0"
+                },
+                "conflict": {
+                    "magento/module-gift-wrapping": ">=102",
+                    "pixafy/tax": "*",
+                    "pixafy/tax-ee": "*",
+                    "vertex/tax": "*",
+                    "vertex/tax-ee": "*"
+                },
+                "require-dev": {
+                    "magento/magento2-functional-testing-framework": "^2.3",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2"
+                },
+                "suggest": {
+                    "magento/module-checkout": "Vertex Tax Links for Magento 2 also supports Magento's Checkout module",
+                    "magento/module-gift-card-account": "Vertex Tax Links for Magento 2 also supports Magento's Gift Card Account module",
+                    "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module",
+                    "magento/module-multishipping": "Vertex Tax Links for Magento 2 also supports Magento's Multishipping module",
+                    "magento/module-reward": "Vertex Tax Links for Magento 2 also supports Magento's Reward module"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\Tax\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Tax Links for Magento 2"
+            },
+            {
+                "name": "vertex/module-tax",
+                "version": "2.2.1",
+                "version_normalized": "2.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-2.2.1.0.zip",
+                    "shasum": "6bf1adc2c1973bc6aa854d17fb7072649d9aa7a6"
+                },
+                "require": {
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100|^101|^102",
+                    "magento/module-backend": "^100|^101",
+                    "magento/module-catalog": "^100|^101|^102|^103",
+                    "magento/module-config": "^100|^101",
+                    "magento/module-customer": "^100|^101|^102",
+                    "magento/module-directory": "^100",
+                    "magento/module-eav": "^100|^101|^102",
+                    "magento/module-quote": "^100|^101",
+                    "magento/module-sales": "^100|^101|^102",
+                    "magento/module-shipping": "^100",
+                    "magento/module-store": "^100|^101",
+                    "magento/module-tax": "^100",
+                    "php": "^5.6|^7.0",
+                    "vertex/sdk": "^1.0.0"
+                },
+                "conflict": {
+                    "magento/module-gift-wrapping": ">=102",
+                    "pixafy/tax": "*",
+                    "pixafy/tax-ee": "*",
+                    "vertex/tax": "*",
+                    "vertex/tax-ee": "*"
+                },
+                "require-dev": {
+                    "magento/magento2-functional-testing-framework": "^2.3",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2"
+                },
+                "suggest": {
+                    "magento/module-checkout": "Vertex Tax Links for Magento 2 also supports Magento's Checkout module",
+                    "magento/module-gift-card-account": "Vertex Tax Links for Magento 2 also supports Magento's Gift Card Account module",
+                    "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module",
+                    "magento/module-multishipping": "Vertex Tax Links for Magento 2 also supports Magento's Multishipping module",
+                    "magento/module-reward": "Vertex Tax Links for Magento 2 also supports Magento's Reward module"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\Tax\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Tax Links for Magento 2"
+            },
+            {
+                "name": "vertex/module-tax",
+                "version": "2.2.1-beta1",
+                "version_normalized": "2.2.1.0-beta1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-2.2.1.0-beta1.zip",
+                    "shasum": "51e179bc5f831cb3d2b59e17eb608ea4fca5e120"
+                },
+                "require": {
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100|^101|^102",
+                    "magento/module-backend": "^100|^101",
+                    "magento/module-config": "^100|^101",
+                    "magento/module-customer": "^100|^101|^102",
+                    "magento/module-directory": "^100",
+                    "magento/module-eav": "^100|^101|^102",
+                    "magento/module-quote": "^100|^101",
+                    "magento/module-sales": "^100|^101|^102",
+                    "magento/module-shipping": "^100",
+                    "magento/module-store": "^100|^101",
+                    "magento/module-tax": "^100",
+                    "php": "^5.6|^7.0",
+                    "vertex/sdk": "^1.0.0"
+                },
+                "conflict": {
+                    "magento/module-gift-wrapping": ">=102",
+                    "pixafy/tax": "*",
+                    "pixafy/tax-ee": "*",
+                    "vertex/tax": "*",
+                    "vertex/tax-ee": "*"
+                },
+                "require-dev": {
+                    "magento/magento2-functional-testing-framework": "^2.3",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2"
+                },
+                "suggest": {
+                    "magento/module-checkout": "Vertex Tax Links for Magento 2 also supports Magento's Checkout module",
+                    "magento/module-gift-card-account": "Vertex Tax Links for Magento 2 also supports Magento's Gift Card Account module",
+                    "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module",
+                    "magento/module-multishipping": "Vertex Tax Links for Magento 2 also supports Magento's Multishipping module",
+                    "magento/module-reward": "Vertex Tax Links for Magento 2 also supports Magento's Reward module"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\Tax\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Tax Links for Magento 2"
+            },
+            {
+                "name": "vertex/module-tax",
+                "version": "2.2.1-beta2",
+                "version_normalized": "2.2.1.0-beta2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-2.2.1.0-beta2.zip",
+                    "shasum": "77e753ba170e114b740089ea45e2d5a309acfd85"
+                },
+                "require": {
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100|^101|^102",
+                    "magento/module-backend": "^100|^101",
+                    "magento/module-catalog": "^100|^101|^102|^103",
+                    "magento/module-config": "^100|^101",
+                    "magento/module-customer": "^100|^101|^102",
+                    "magento/module-directory": "^100",
+                    "magento/module-eav": "^100|^101|^102",
+                    "magento/module-quote": "^100|^101",
+                    "magento/module-sales": "^100|^101|^102",
+                    "magento/module-shipping": "^100",
+                    "magento/module-store": "^100|^101",
+                    "magento/module-tax": "^100",
+                    "php": "^5.6|^7.0",
+                    "vertex/sdk": "^1.0.0"
+                },
+                "conflict": {
+                    "magento/module-gift-wrapping": ">=102",
+                    "pixafy/tax": "*",
+                    "pixafy/tax-ee": "*",
+                    "vertex/tax": "*",
+                    "vertex/tax-ee": "*"
+                },
+                "require-dev": {
+                    "magento/magento2-functional-testing-framework": "^2.3",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2"
+                },
+                "suggest": {
+                    "magento/module-checkout": "Vertex Tax Links for Magento 2 also supports Magento's Checkout module",
+                    "magento/module-gift-card-account": "Vertex Tax Links for Magento 2 also supports Magento's Gift Card Account module",
+                    "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module",
+                    "magento/module-multishipping": "Vertex Tax Links for Magento 2 also supports Magento's Multishipping module",
+                    "magento/module-reward": "Vertex Tax Links for Magento 2 also supports Magento's Reward module"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\Tax\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Tax Links for Magento 2"
+            },
+            {
+                "name": "vertex/module-tax",
+                "version": "2.2.1-beta3",
+                "version_normalized": "2.2.1.0-beta3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-2.2.1.0-beta3.zip",
+                    "shasum": "e096b474b3a7896f97e307238261b8eb3931e16b"
+                },
+                "require": {
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100|^101|^102",
+                    "magento/module-backend": "^100|^101",
+                    "magento/module-catalog": "^100|^101|^102|^103",
+                    "magento/module-config": "^100|^101",
+                    "magento/module-customer": "^100|^101|^102",
+                    "magento/module-directory": "^100",
+                    "magento/module-eav": "^100|^101|^102",
+                    "magento/module-quote": "^100|^101",
+                    "magento/module-sales": "^100|^101|^102",
+                    "magento/module-shipping": "^100",
+                    "magento/module-store": "^100|^101",
+                    "magento/module-tax": "^100",
+                    "php": "^5.6|^7.0",
+                    "vertex/sdk": "^1.0.0"
+                },
+                "conflict": {
+                    "magento/module-gift-wrapping": ">=102",
+                    "pixafy/tax": "*",
+                    "pixafy/tax-ee": "*",
+                    "vertex/tax": "*",
+                    "vertex/tax-ee": "*"
+                },
+                "require-dev": {
+                    "magento/magento2-functional-testing-framework": "^2.3",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2"
+                },
+                "suggest": {
+                    "magento/module-checkout": "Vertex Tax Links for Magento 2 also supports Magento's Checkout module",
+                    "magento/module-gift-card-account": "Vertex Tax Links for Magento 2 also supports Magento's Gift Card Account module",
+                    "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module",
+                    "magento/module-multishipping": "Vertex Tax Links for Magento 2 also supports Magento's Multishipping module",
+                    "magento/module-reward": "Vertex Tax Links for Magento 2 also supports Magento's Reward module"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\Tax\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Tax Links for Magento 2"
+            },
+            {
+                "name": "vertex/module-tax",
+                "version": "2.2.2",
+                "version_normalized": "2.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-2.2.2.0.zip",
+                    "shasum": "d9104d136e0db1362cf72ad97d9af1f1fe18613f"
+                },
+                "require": {
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100|^101|^102",
+                    "magento/module-backend": "^100|^101",
+                    "magento/module-catalog": "^100|^101|^102|^103",
+                    "magento/module-config": "^100|^101",
+                    "magento/module-customer": "^100|^101|^102",
+                    "magento/module-directory": "^100",
+                    "magento/module-eav": "^100|^101|^102",
+                    "magento/module-quote": "^100|^101",
+                    "magento/module-sales": "^100|^101|^102",
+                    "magento/module-shipping": "^100",
+                    "magento/module-store": "^100|^101",
+                    "magento/module-tax": "^100",
+                    "php": "^5.6|^7.0",
+                    "vertex/sdk": "^1.0.0"
+                },
+                "conflict": {
+                    "magento/module-gift-wrapping": ">=102",
+                    "pixafy/tax": "*",
+                    "pixafy/tax-ee": "*",
+                    "vertex/tax": "*",
+                    "vertex/tax-ee": "*"
+                },
+                "require-dev": {
+                    "magento/magento2-functional-testing-framework": "^2.3",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2"
+                },
+                "suggest": {
+                    "magento/module-checkout": "Vertex Tax Links for Magento 2 also supports Magento's Checkout module",
+                    "magento/module-gift-card-account": "Vertex Tax Links for Magento 2 also supports Magento's Gift Card Account module",
+                    "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module",
+                    "magento/module-multishipping": "Vertex Tax Links for Magento 2 also supports Magento's Multishipping module",
+                    "magento/module-reward": "Vertex Tax Links for Magento 2 also supports Magento's Reward module"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\Tax\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Tax Links for Magento 2"
+            },
+            {
+                "name": "vertex/module-tax",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-3.0.0.0.zip",
+                    "shasum": "dd5e23680878e70fdff546fa661822b100ab2bf3"
+                },
+                "require": {
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100|^101|^102",
+                    "magento/module-backend": "^100|^101",
+                    "magento/module-catalog": "^100|^101|^102|^103",
+                    "magento/module-config": "^100|^101",
+                    "magento/module-customer": "^100|^101|^102",
+                    "magento/module-directory": "^100",
+                    "magento/module-eav": "^100|^101|^102",
+                    "magento/module-quote": "^100|^101",
+                    "magento/module-sales": "^100|^101|^102",
+                    "magento/module-shipping": "^100",
+                    "magento/module-store": "^100|^101",
+                    "magento/module-tax": "^100",
+                    "php": "^5.6|^7.0",
+                    "vertex/sdk": "^1.0.0"
+                },
+                "conflict": {
+                    "magento/module-gift-wrapping": ">=102",
+                    "pixafy/tax": "*",
+                    "pixafy/tax-ee": "*",
+                    "vertex/tax": "*",
+                    "vertex/tax-ee": "*"
+                },
+                "require-dev": {
+                    "magento/magento2-functional-testing-framework": "^2.3",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2"
+                },
+                "suggest": {
+                    "magento/module-checkout": "Vertex Tax Links for Magento 2 also supports Magento's Checkout module",
+                    "magento/module-gift-card-account": "Vertex Tax Links for Magento 2 also supports Magento's Gift Card Account module",
+                    "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module",
+                    "magento/module-multishipping": "Vertex Tax Links for Magento 2 also supports Magento's Multishipping module",
+                    "magento/module-reward": "Vertex Tax Links for Magento 2 also supports Magento's Reward module"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\Tax\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Tax Links for Magento 2"
+            },
+            {
+                "name": "vertex/module-tax",
+                "version": "3.1.0",
+                "version_normalized": "3.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-3.1.0.0.zip",
+                    "shasum": "f741436e6732930f69d24f7f8291101b0d3382c6"
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100|^101|^102",
+                    "magento/module-backend": "^100|^101",
+                    "magento/module-catalog": "^100|^101|^102|^103",
+                    "magento/module-checkout": "^100",
+                    "magento/module-config": "^100|^101",
+                    "magento/module-cron": "^100",
+                    "magento/module-customer": "^100|^101|^102",
+                    "magento/module-directory": "^100",
+                    "magento/module-eav": "^100|^101|^102",
+                    "magento/module-quote": "^100|^101",
+                    "magento/module-sales": "^100|^101|^102",
+                    "magento/module-shipping": "^100",
+                    "magento/module-store": "^100|^101",
+                    "magento/module-tax": "^100",
+                    "magento/module-ui": "^100|^101",
+                    "php": "^5.6|^7.0",
+                    "vertex/sdk": "^1.1.0"
+                },
+                "conflict": {
+                    "magento/module-gift-wrapping": ">=102",
+                    "pixafy/tax": "*",
+                    "pixafy/tax-ee": "*",
+                    "vertex/tax": "*",
+                    "vertex/tax-ee": "*"
+                },
+                "require-dev": {
+                    "ext-dom": "*",
+                    "ext-simplexml": "*",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2"
+                },
+                "suggest": {
+                    "magento/module-gift-card-account": "Vertex Tax Links for Magento 2 also supports Magento's Gift Card Account module",
+                    "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module",
+                    "magento/module-multishipping": "Vertex Tax Links for Magento 2 also supports Magento's Multishipping module",
+                    "magento/module-reward": "Vertex Tax Links for Magento 2 also supports Magento's Reward module"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\Tax\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Tax Links for Magento 2"
+            },
+            {
+                "name": "vertex/module-tax",
+                "version": "3.2.0",
+                "version_normalized": "3.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-3.2.0.0.zip",
+                    "shasum": "befec6e8881dd98c775100bbf510cad0191b14c9"
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100|^101|^102",
+                    "magento/module-backend": "^100|^101",
+                    "magento/module-catalog": "^100|^101|^102|^103",
+                    "magento/module-checkout": "^100",
+                    "magento/module-config": "^100|^101",
+                    "magento/module-cron": "^100",
+                    "magento/module-customer": "^100|^101|^102",
+                    "magento/module-directory": "^100",
+                    "magento/module-eav": "^100|^101|^102",
+                    "magento/module-quote": ">=100.1.0 <=100.1.11 || >=101.0.0 <=101.0.9 || >=101.1.0 <= 101.1.3",
+                    "magento/module-sales": "^100|^101|^102",
+                    "magento/module-shipping": "^100",
+                    "magento/module-store": "^100|^101",
+                    "magento/module-tax": "^100",
+                    "magento/module-ui": "^100|^101",
+                    "php": "^7.0",
+                    "vertex/sdk": "^1.2.0"
+                },
+                "conflict": {
+                    "pixafy/tax": "*",
+                    "pixafy/tax-ee": "*",
+                    "vertex/tax": "*",
+                    "vertex/tax-ee": "*"
+                },
+                "require-dev": {
+                    "ext-dom": "*",
+                    "ext-simplexml": "*",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2"
+                },
+                "suggest": {
+                    "magento/module-gift-card-account": "Vertex Tax Links for Magento 2 also supports Magento's Gift Card Account module",
+                    "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module",
+                    "magento/module-multishipping": "Vertex Tax Links for Magento 2 also supports Magento's Multishipping module",
+                    "magento/module-reward": "Vertex Tax Links for Magento 2 also supports Magento's Reward module"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\Tax\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Tax Links for Magento 2"
+            },
+            {
+                "name": "vertex/module-tax",
+                "version": "3.2.1",
+                "version_normalized": "3.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-3.2.1.0.zip",
+                    "shasum": "705b85355dfa20739f2b71556577ca536bb60a22"
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100|^101|^102",
+                    "magento/module-backend": "^100|^101",
+                    "magento/module-catalog": "^100|^101|^102|^103",
+                    "magento/module-checkout": "^100",
+                    "magento/module-config": "^100|^101",
+                    "magento/module-cron": "^100",
+                    "magento/module-customer": "^100|^101|^102",
+                    "magento/module-directory": "^100",
+                    "magento/module-eav": "^100|^101|^102",
+                    "magento/module-quote": ">=100.1.0 <=100.1.11 || >=101.0.0 <=101.0.9 || >=101.1.0 <= 101.1.3",
+                    "magento/module-sales": "^100|^101|^102",
+                    "magento/module-shipping": "^100",
+                    "magento/module-store": "^100|^101",
+                    "magento/module-tax": "^100",
+                    "magento/module-ui": "^100|^101",
+                    "php": "^7.0",
+                    "vertex/sdk": "^1.2.0"
+                },
+                "conflict": {
+                    "pixafy/tax": "*",
+                    "pixafy/tax-ee": "*",
+                    "vertex/tax": "*",
+                    "vertex/tax-ee": "*"
+                },
+                "require-dev": {
+                    "ext-dom": "*",
+                    "ext-simplexml": "*",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2"
+                },
+                "suggest": {
+                    "magento/module-gift-card-account": "Vertex Tax Links for Magento 2 also supports Magento's Gift Card Account module",
+                    "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module",
+                    "magento/module-multishipping": "Vertex Tax Links for Magento 2 also supports Magento's Multishipping module",
+                    "magento/module-reward": "Vertex Tax Links for Magento 2 also supports Magento's Reward module"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\Tax\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Tax Links for Magento 2"
+            },
+            {
+                "name": "vertex/module-tax",
+                "version": "3.3.0",
+                "version_normalized": "3.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-3.3.0.0.zip",
+                    "shasum": "35bb1281c59da26a8ff6de9d2eaf3f2576285978"
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100|^101|^102",
+                    "magento/module-backend": "^100|^101",
+                    "magento/module-catalog": "^100|^101|^102|^103",
+                    "magento/module-checkout": "^100",
+                    "magento/module-config": "^100|^101",
+                    "magento/module-cron": "^100",
+                    "magento/module-customer": "^100|^101|^102",
+                    "magento/module-directory": "^100",
+                    "magento/module-eav": "^100|^101|^102",
+                    "magento/module-quote": ">=100.1.0 <=100.1.11 || >=101.0.0 <=101.0.10 || >=101.1.0 <= 101.1.4",
+                    "magento/module-sales": "^100|^101|^102",
+                    "magento/module-shipping": "^100",
+                    "magento/module-store": "^100|^101",
+                    "magento/module-tax": "^100",
+                    "magento/module-ui": "^100|^101",
+                    "php": "^7.0",
+                    "vertex/sdk": "^1.2.0"
+                },
+                "conflict": {
+                    "pixafy/tax": "*",
+                    "pixafy/tax-ee": "*",
+                    "vertex/tax": "*",
+                    "vertex/tax-ee": "*"
+                },
+                "require-dev": {
+                    "ext-dom": "*",
+                    "ext-simplexml": "*",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2"
+                },
+                "suggest": {
+                    "magento/module-gift-card-account": "Vertex Tax Links for Magento 2 also supports Magento's Gift Card Account module",
+                    "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module",
+                    "magento/module-multishipping": "Vertex Tax Links for Magento 2 also supports Magento's Multishipping module",
+                    "magento/module-reward": "Vertex Tax Links for Magento 2 also supports Magento's Reward module"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\Tax\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Tax Links for Magento 2"
+            },
+            {
+                "name": "vertex/module-tax",
+                "version": "3.3.1",
+                "version_normalized": "3.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-3.3.1.0.zip",
+                    "shasum": "0ca636304e2cae8b9915e170b4f8bfb9dc6e1384"
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100|^101|^102",
+                    "magento/module-backend": "^100|^101",
+                    "magento/module-catalog": "^100|^101|^102|^103",
+                    "magento/module-checkout": "^100",
+                    "magento/module-config": "^100|^101",
+                    "magento/module-cron": "^100",
+                    "magento/module-customer": "^100|^101|^102",
+                    "magento/module-directory": "^100",
+                    "magento/module-eav": "^100|^101|^102",
+                    "magento/module-quote": ">=100.1.0 <=100.1.11 || >=101.0.0 <=101.0.10 || >=101.1.0 < 101.1.5",
+                    "magento/module-sales": "^100|^101|^102",
+                    "magento/module-shipping": "^100",
+                    "magento/module-store": "^100|^101",
+                    "magento/module-tax": "^100",
+                    "magento/module-ui": "^100|^101",
+                    "php": "^7.0",
+                    "vertex/sdk": "^1.2.0"
+                },
+                "conflict": {
+                    "pixafy/tax": "*",
+                    "pixafy/tax-ee": "*",
+                    "vertex/tax": "*",
+                    "vertex/tax-ee": "*"
+                },
+                "require-dev": {
+                    "ext-dom": "*",
+                    "ext-simplexml": "*",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2"
+                },
+                "suggest": {
+                    "magento/module-gift-card-account": "Vertex Tax Links for Magento 2 also supports Magento's Gift Card Account module",
+                    "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module",
+                    "magento/module-multishipping": "Vertex Tax Links for Magento 2 also supports Magento's Multishipping module",
+                    "magento/module-reward": "Vertex Tax Links for Magento 2 also supports Magento's Reward module"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\Tax\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Tax Links for Magento 2"
+            },
+            {
+                "name": "vertex/module-tax",
+                "version": "3.4.0",
+                "version_normalized": "3.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-tax/vertex-module-tax-3.4.0.0.zip",
+                    "shasum": "7762da2cba9ec285fed2b2eac6c872fe27770e36"
+                },
+                "require": {
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100|^101|^102",
+                    "magento/module-backend": "^100|^101",
+                    "magento/module-catalog": "^100|^101|^102|^103",
+                    "magento/module-checkout": "^100",
+                    "magento/module-config": "^100|^101",
+                    "magento/module-cron": "^100",
+                    "magento/module-customer": "^100|^101|^102",
+                    "magento/module-directory": "^100",
+                    "magento/module-eav": "^100|^101|^102",
+                    "magento/module-quote": ">=101.1.0 <= 101.1.5 || 101.2.0",
+                    "magento/module-sales": "^100|^101|^102",
+                    "magento/module-shipping": "^100",
+                    "magento/module-store": "^100|^101",
+                    "magento/module-tax": "^100",
+                    "magento/module-ui": "^100|^101",
+                    "php": "^7.1",
+                    "vertex/sdk": "^1.2.0"
+                },
+                "conflict": {
+                    "pixafy/tax": "*",
+                    "pixafy/tax-ee": "*",
+                    "vertex/tax": "*",
+                    "vertex/tax-ee": "*"
+                },
+                "require-dev": {
+                    "ext-dom": "*",
+                    "ext-simplexml": "*",
+                    "magento/magento-coding-standard": "^5",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2"
+                },
+                "suggest": {
+                    "magento/module-gift-card-account": "Vertex Tax Links for Magento 2 also supports Magento's Gift Card Account module",
+                    "magento/module-gift-wrapping": "Vertex Tax Links for Magento 2 also supports Magento's Gift Wrapping module",
+                    "magento/module-multishipping": "Vertex Tax Links for Magento 2 also supports Magento's Multishipping module",
+                    "magento/module-reward": "Vertex Tax Links for Magento 2 also supports Magento's Reward module"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\Tax\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Tax Links for Magento 2"
+            }
+        ]
+    }
+}

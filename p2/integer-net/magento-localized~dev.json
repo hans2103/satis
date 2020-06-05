@@ -1,0 +1,113 @@
+{
+    "packages": {
+        "integer-net/magento-localized": [
+            {
+                "name": "integer-net/magento-localized",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/MagentoLocalized.git",
+                    "reference": "0c86d70732e5a48cb232207a06fce6082cf10853"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/MagentoLocalized/zipball/0c86d70732e5a48cb232207a06fce6082cf10853",
+                    "reference": "0c86d70732e5a48cb232207a06fce6082cf10853",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-07-24T08:56:06+00:00",
+                "type": "magento-module",
+                "description": "Base package for Magento Localized (i.e. Magento DE)",
+                "homepage": "https://github.com/integer-net/MagentoLocalized",
+                "support": {
+                    "source": "https://github.com/integer-net/MagentoLocalized/tree/master",
+                    "issues": "https://github.com/integer-net/MagentoLocalized/issues"
+                }
+            },
+            {
+                "name": "integer-net/magento-localized",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/MagentoLocalized.git",
+                    "reference": "19dfdeb4cc2107f8172722b5924c8f21074a6b96"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/MagentoLocalized/zipball/19dfdeb4cc2107f8172722b5924c8f21074a6b96",
+                    "reference": "19dfdeb4cc2107f8172722b5924c8f21074a6b96",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-06-06T13:02:04+00:00",
+                "type": "magento-module",
+                "description": "Base package for Magento Localized (i.e. Magento DE)",
+                "homepage": "https://github.com/integer-net/MagentoLocalized",
+                "support": {
+                    "source": "https://github.com/integer-net/MagentoLocalized/tree/develop",
+                    "issues": "https://github.com/integer-net/MagentoLocalized/issues"
+                }
+            },
+            {
+                "name": "integer-net/magento-localized",
+                "version": "dev-ebay",
+                "version_normalized": "dev-ebay",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/MagentoLocalized.git",
+                    "reference": "cb4adc92cfacaafa4da3031e5af5d1cefbb0bc48"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/MagentoLocalized/zipball/cb4adc92cfacaafa4da3031e5af5d1cefbb0bc48",
+                    "reference": "cb4adc92cfacaafa4da3031e5af5d1cefbb0bc48",
+                    "shasum": ""
+                },
+                "require": {
+                    "avstudnitz/admin-notification-advanced": "dev-master",
+                    "avstudnitz/scopehint": "dev-master",
+                    "billsafe/billsafe": "dev-master",
+                    "connect20/cashondelivery": "*",
+                    "connect20/dermodpro_baseprice": "*",
+                    "connect20/locale_mage_community_fr_fr": "*",
+                    "connect20/locale_mage_community_it_it": "*",
+                    "etws/et_russianlanguagepack": "dev-master",
+                    "fbrnc/aoe_jscsststamp": "dev-master",
+                    "fbrnc/aoe_managestores": "dev-master",
+                    "firegento/magesetup": "dev-development",
+                    "firegento/pdf": "dev-development",
+                    "ikonoshirt/customadminnotifications": "dev-master",
+                    "integer-net/autoshipping": "dev-master",
+                    "integer-net/magento-localized-at": "dev-master",
+                    "integer-net/magento-localized-ch": "dev-master",
+                    "integer-net/magento-localized-de": "dev-master",
+                    "integer-net/magento-localized-ebay": "dev-master",
+                    "integer-net/magento-localized-ru": "dev-master",
+                    "integer-net/removecustomeraccountlinks": "dev-master",
+                    "itabs/invoice": "dev-master",
+                    "magento-hackathon/localefallback": "dev-master",
+                    "riconeitzel/german-localepack-de-de": "dev-preview",
+                    "therouv/debitpayment": "dev-master",
+                    "tim-reynolds/magento-qconfig": "dev-master"
+                },
+                "time": "2013-08-26T14:33:32+00:00",
+                "type": "library",
+                "extra": {
+                    "magento-root-dir": "",
+                    "skip-package-deployment": true
+                },
+                "support": {
+                    "source": "https://github.com/integer-net/MagentoLocalized/tree/ebay",
+                    "issues": "https://github.com/integer-net/MagentoLocalized/issues"
+                }
+            }
+        ]
+    }
+}

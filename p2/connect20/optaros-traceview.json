@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/optaros-traceview": [
+            {
+                "name": "connect20/optaros-traceview",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/optaros-traceview/1.0.0/optaros-traceview-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Olivier Pepin",
+                        "email": "opepin@gmail.com"
+                    }
+                ],
+                "description": "TraceView profiling through Varien_Profiler"
+            },
+            {
+                "name": "connect20/optaros-traceview",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/optaros-traceview/1.0.1/optaros-traceview-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Olivier Pepin",
+                        "email": "opepin@gmail.com"
+                    }
+                ],
+                "description": "TraceView profiling through Varien_Profiler"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/praxigento_jirafeedback": [
+            {
+                "name": "connect20/Praxigento_JiraFeedback",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Praxigento_JiraFeedback/1.0.0/Praxigento_JiraFeedback-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Apache-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Gusev",
+                        "email": "info@flancer.lv"
+                    }
+                ],
+                "description": "JIRA Feedback by Praxigento"
+            },
+            {
+                "name": "connect20/Praxigento_JiraFeedback",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Praxigento_JiraFeedback/1.0.1/Praxigento_JiraFeedback-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Apache-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Gusev",
+                        "email": "info@flancer.lv"
+                    }
+                ],
+                "description": "JIRA Feedback by Praxigento"
+            }
+        ]
+    }
+}

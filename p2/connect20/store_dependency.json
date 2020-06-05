@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/store_dependency": [
+            {
+                "name": "connect20/store_dependency",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/store_dependency/1.0.0/store_dependency-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Customweb-Software-Licence"
+                ],
+                "authors": [
+                    {
+                        "name": "Severin Klingler",
+                        "email": "info@customweb.com"
+                    }
+                ],
+                "description": "The Extension allows you to synchronize and share content as well as settings among your different magento stores. "
+            }
+        ]
+    }
+}

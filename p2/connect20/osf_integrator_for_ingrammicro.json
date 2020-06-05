@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/osf_integrator_for_ingrammicro": [
+            {
+                "name": "connect20/OSF_Integrator_for_IngramMicro",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/OSF_Integrator_for_IngramMicro/1.0.0/OSF_Integrator_for_IngramMicro-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "End-User-License-Agreement-(EULA)"
+                ],
+                "authors": [
+                    {
+                        "name": "OSF Global",
+                        "email": "chris.hooven@osf-global.com"
+                    }
+                ],
+                "description": "Automated flow for IngramMicro integration from product import to ship notification"
+            },
+            {
+                "name": "connect20/OSF_Integrator_for_IngramMicro",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/OSF_Integrator_for_IngramMicro/1.0.1/OSF_Integrator_for_IngramMicro-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "End-User-License-Agreement-(EULA)"
+                ],
+                "authors": [
+                    {
+                        "name": "OSF Global",
+                        "email": "info@osf-global.com"
+                    }
+                ],
+                "description": "Automated flow for IngramMicro integration from product import to ship notification"
+            }
+        ]
+    }
+}

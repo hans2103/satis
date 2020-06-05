@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/officience_customerattribute": [
+            {
+                "name": "connect20/Officience_CustomerAttribute",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Officience_CustomerAttribute/0.0.1/Officience_CustomerAttribute-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "khanh trieu nguyen le",
+                        "email": "trieu181989@gmail.com"
+                    }
+                ],
+                "description": "A customer attributes manager extension which can collect customer's information smarter"
+            },
+            {
+                "name": "connect20/Officience_CustomerAttribute",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Officience_CustomerAttribute/0.0.2/Officience_CustomerAttribute-0.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "khanh trieu nguyen le",
+                        "email": "trieu181989@gmail.com"
+                    }
+                ],
+                "description": "A customer attributes manager extension which can collect customer's information smarter"
+            }
+        ]
+    }
+}

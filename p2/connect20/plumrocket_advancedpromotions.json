@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "connect20/plumrocket_advancedpromotions": [
+            {
+                "name": "connect20/Plumrocket_AdvancedPromotions",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Plumrocket_AdvancedPromotions/1.0.0/Plumrocket_AdvancedPromotions-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/plumrocket_base": "*"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "End-user-License-Agreement"
+                ],
+                "authors": [
+                    {
+                        "name": "Plumrocket Team",
+                        "email": "support@plumrocket.com"
+                    }
+                ],
+                "description": "Advanced Promotions Magento Extension allows to significantly speed-up Admin's work with Shopping Cart Price Rules and Catalog Price Rules by adding some very useful features."
+            },
+            {
+                "name": "connect20/Plumrocket_AdvancedPromotions",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Plumrocket_AdvancedPromotions/1.0.1/Plumrocket_AdvancedPromotions-1.0.1.tgz"
+                },
+                "require": {
+                    "connect20/plumrocket_base": "*"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "End-user-License-Agreement"
+                ],
+                "authors": [
+                    {
+                        "name": "Plumrocket Team",
+                        "email": "support@plumrocket.com"
+                    }
+                ],
+                "description": "Advanced Promotions Magento Extension allows to significantly speed-up Admin's work with Shopping Cart Price Rules and Catalog Price Rules by adding some very useful features."
+            }
+        ]
+    }
+}

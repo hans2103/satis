@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "ibuildings/gearman": [
+            {
+                "name": "ibuildings/gearman",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/frak/Magento-Gearman-Module.git",
+                    "reference": "88716e566bed53b1627744b6597387d38dfee765"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/frak/Magento-Gearman-Module/zipball/88716e566bed53b1627744b6597387d38dfee765",
+                    "reference": "88716e566bed53b1627744b6597387d38dfee765",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-03-17T14:13:12+00:00",
+                "type": "magento-module",
+                "license": [
+                    "LICENSE"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Davey",
+                        "email": "frak.off@gmail.com"
+                    }
+                ],
+                "description": "Allow asynchronous task processing via the Gearman job server.",
+                "homepage": "http://www.ibuildings.com/",
+                "support": {
+                    "source": "https://github.com/frak/Magento-Gearman-Module/tree/master",
+                    "issues": "https://github.com/frak/Magento-Gearman-Module/issues"
+                }
+            }
+        ]
+    }
+}

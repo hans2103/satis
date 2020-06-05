@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/mgs_responsiveslideshow": [
+            {
+                "name": "connect20/MGS_ResponsiveSlideshow",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MGS_ResponsiveSlideshow/1.0.0/MGS_ResponsiveSlideshow-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Mage Solution",
+                        "email": "info@magesolution.com"
+                    }
+                ],
+                "description": "Slideshow homepage is usually paid highest attention by visitors. So, it's one of the most important in your website. Responsive Slideshow extension allows you to easy making the beautiful slideshow in your website."
+            }
+        ]
+    }
+}

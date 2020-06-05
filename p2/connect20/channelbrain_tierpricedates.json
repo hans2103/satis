@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/channelbrain_tierpricedates": [
+            {
+                "name": "connect20/Channelbrain_TierPriceDates",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Channelbrain_TierPriceDates/2.0.0/Channelbrain_TierPriceDates-2.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Webdesk",
+                        "email": "amit.webdesksolution@gmail.com"
+                    }
+                ],
+                "description": "This extension add from date and to date in tier price"
+            }
+        ]
+    }
+}

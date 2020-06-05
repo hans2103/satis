@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/he_devtools_emailredirect": [
+            {
+                "name": "connect20/HE_DevTools_EmailRedirect",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/HE_DevTools_EmailRedirect/1.0.0/HE_DevTools_EmailRedirect-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Human Element",
+                        "email": "gregc@human-element.com"
+                    }
+                ],
+                "description": "HE Dev Tools Email Redirect allows a developer to redirect all email from a Magento store to a specific address."
+            }
+        ]
+    }
+}

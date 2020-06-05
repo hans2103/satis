@@ -1,0 +1,104 @@
+{
+    "packages": {
+        "mzax/emarketing": [
+            {
+                "name": "mzax/emarketing",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mage-mzax/emarketing.git",
+                    "reference": "db4e9f3a04d79b65249a378195e7364953ebe3b6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mage-mzax/emarketing/zipball/db4e9f3a04d79b65249a378195e7364953ebe3b6",
+                    "reference": "db4e9f3a04d79b65249a378195e7364953ebe3b6",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "jsiefer/mage-mock": "@dev",
+                    "magento/core": "~1.9",
+                    "soundasleep/html2text": "*",
+                    "squizlabs/php_codesniffer": "^2.7",
+                    "symfony/css-selector": "~2.7",
+                    "tijsverkoyen/css-to-inline-styles": "~1.5",
+                    "ua-parser/uap-php": "~3.4"
+                },
+                "time": "2017-11-09T06:39:48+00:00",
+                "type": "magento-module",
+                "autoload": {
+                    "psr-0": {
+                        "Mzax_Emarketing_": [
+                            "src/module/app/code/community"
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jacob Siefer",
+                        "email": "jacob@mzax.de"
+                    }
+                ],
+                "description": "Magento extension to xreate automated marketing campaigns that run for a set period of time and target customers determined by multiple filters.",
+                "homepage": "http://www.mzax.de",
+                "support": {
+                    "source": "https://github.com/mage-mzax/emarketing/tree/master",
+                    "issues": "https://github.com/mage-mzax/emarketing/issues"
+                }
+            },
+            {
+                "name": "mzax/emarketing",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mage-mzax/emarketing.git",
+                    "reference": "08c679d64753ec1dc55f0aaad3682c731aa1e1bf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mage-mzax/emarketing/zipball/08c679d64753ec1dc55f0aaad3682c731aa1e1bf",
+                    "reference": "08c679d64753ec1dc55f0aaad3682c731aa1e1bf",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "jsiefer/mage-mock": "@dev",
+                    "magento/core": "~1.9",
+                    "soundasleep/html2text": "*",
+                    "squizlabs/php_codesniffer": "^2.7",
+                    "symfony/css-selector": "~2.7",
+                    "tijsverkoyen/css-to-inline-styles": "~1.5",
+                    "ua-parser/uap-php": "~3.4"
+                },
+                "time": "2017-04-02T20:02:29+00:00",
+                "type": "magento-module",
+                "autoload": {
+                    "psr-0": {
+                        "Mzax_Emarketing_": [
+                            "src/module/app/code/community"
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jacob Siefer",
+                        "email": "jacob@mzax.de"
+                    }
+                ],
+                "description": "Magento extension to xreate automated marketing campaigns that run for a set period of time and target customers determined by multiple filters.",
+                "homepage": "http://www.mzax.de",
+                "support": {
+                    "source": "https://github.com/mage-mzax/emarketing/tree/0.5.1",
+                    "issues": "https://github.com/mage-mzax/emarketing/issues"
+                }
+            }
+        ]
+    }
+}

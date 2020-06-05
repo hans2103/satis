@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/tentura_mvideo": [
+            {
+                "name": "connect20/Tentura_Mvideo",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Tentura_Mvideo/0.1.0/Tentura_Mvideo-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Tentura Team",
+                        "email": "info@tentura.eu"
+                    }
+                ],
+                "description": "Extension for upload videos to Youtube directly from your Magento Shop"
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "packages": {
+        "unleashedtech/min-order-fee-magento": [
+            {
+                "name": "unleashedtech/min-order-fee-magento",
+                "version": "v1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/unleashedtech/min-order-fee-magento.git",
+                    "reference": "cc7e60d6fbaaedc2a04dbb8216b33b9551953d8e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unleashedtech/min-order-fee-magento/zipball/cc7e60d6fbaaedc2a04dbb8216b33b9551953d8e",
+                    "reference": "cc7e60d6fbaaedc2a04dbb8216b33b9551953d8e",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "phing/phing": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Enables automatic installation into your Magento site"
+                },
+                "time": "2014-11-15T20:26:11+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin O'Dell",
+                        "email": "codell@unleashed-technologies.com",
+                        "homepage": "http://www.colinodell.com",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Unleashed Technologies",
+                        "homepage": "http://www.unleashed-technologies.com"
+                    }
+                ],
+                "description": "Charge customers a fee for small orders",
+                "homepage": "http://gitlab.utdev.com/magento-modules/min-order-fee/tree/master",
+                "keywords": [
+                    "magento",
+                    "sales"
+                ],
+                "support": {
+                    "source": "https://github.com/unleashedtech/min-order-fee-magento/tree/v1.2.0",
+                    "issues": "https://github.com/unleashedtech/min-order-fee-magento/issues"
+                }
+            }
+        ]
+    }
+}

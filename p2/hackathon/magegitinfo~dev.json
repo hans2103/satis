@@ -1,0 +1,54 @@
+{
+    "packages": {
+        "hackathon/magegitinfo": [
+            {
+                "name": "hackathon/magegitinfo",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/mage-git-info.git",
+                    "reference": "1c11a3f693a5371004a7c60df6a88fde26d52242"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/mage-git-info/zipball/1c11a3f693a5371004a7c60df6a88fde26d52242",
+                    "reference": "1c11a3f693a5371004a7c60df6a88fde26d52242",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-02-15T09:40:21+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Tom Kadwill",
+                        "email": "tomkadwill@gmail.com"
+                    },
+                    {
+                        "name": "Stephan Hoyer",
+                        "email": "ste.hoyer@gmail.com"
+                    },
+                    {
+                        "name": "André Herrn",
+                        "email": "info@andre-herrn.de"
+                    },
+                    {
+                        "name": "Anjey Lobas",
+                        "email": "anjey.lobas@goodahead.com"
+                    }
+                ],
+                "description": "This module shows information about current git status in the admin footer and allows to switch branches from there.",
+                "homepage": "https://github.com/magento-hackathon/mage-git-info",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/mage-git-info/tree/0.1.0",
+                    "issues": "https://github.com/magento-hackathon/mage-git-info/issues"
+                }
+            }
+        ]
+    }
+}

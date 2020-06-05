@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/achang_scene7": [
+            {
+                "name": "connect20/Achang_Scene7",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Achang_Scene7/0.1.0/Achang_Scene7-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Minglong Li",
+                        "email": "magento@achang.com"
+                    }
+                ],
+                "description": "The scene7 extension help you to use adobe scene7 to customize product on magento"
+            }
+        ]
+    }
+}

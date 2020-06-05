@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "magento-hackathon/localefallback": [
+            {
+                "name": "magento-hackathon/localefallback",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_LocaleFallback.git",
+                    "reference": "d53e71816247db48e840e5dde52e2b821131b61f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_LocaleFallback/zipball/d53e71816247db48e840e5dde52e2b821131b61f",
+                    "reference": "d53e71816247db48e840e5dde52e2b821131b61f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-11-17T14:10:14+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Allows a fallback for locales (translations, emails etc.)",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_LocaleFallback",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_LocaleFallback/tree/master"
+                }
+            }
+        ]
+    }
+}

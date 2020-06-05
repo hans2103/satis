@@ -1,0 +1,229 @@
+{
+    "packages": {
+        "msp/recaptcha": [
+            {
+                "name": "msp/recaptcha",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/msp/recaptcha/msp-recaptcha-2.0.0.0.zip",
+                    "shasum": "9ea10df3e275a82072840cfbb0bf2a7a98693bdb"
+                },
+                "require": {
+                    "google/recaptcha": "^1.1",
+                    "magento/magento-composer-installer": "*",
+                    "php": "^7.0|^7.1|^7.2"
+                },
+                "suggest": {
+                    "msp/security-suite": "Full MageSpecialist Security Suite"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\ReCaptcha\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Google reCaptcha integration for Magento2 - Member of MageSpecialist SecuritySuite"
+            },
+            {
+                "name": "msp/recaptcha",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/msp/recaptcha/msp-recaptcha-2.0.1.0.zip",
+                    "shasum": "7952d603b73ad6b5a63733d92e21ac047cb9c037"
+                },
+                "require": {
+                    "google/recaptcha": "^1.1",
+                    "magento/magento-composer-installer": "*",
+                    "php": "^7.0|^7.1|^7.2"
+                },
+                "suggest": {
+                    "msp/security-suite": "Full MageSpecialist Security Suite"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\ReCaptcha\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Google reCaptcha integration for Magento2 - Member of MageSpecialist SecuritySuite"
+            },
+            {
+                "name": "msp/recaptcha",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/msp/recaptcha/msp-recaptcha-2.0.2.0.zip",
+                    "shasum": "f037ce5e2b4202117adc4ec0ab93212ef31bff7e"
+                },
+                "require": {
+                    "google/recaptcha": "^1.1",
+                    "magento/magento-composer-installer": "*",
+                    "php": "^7.0|^7.1|^7.2"
+                },
+                "suggest": {
+                    "msp/security-suite": "Full MageSpecialist Security Suite"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\ReCaptcha\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Google reCaptcha integration for Magento2 - Member of MageSpecialist SecuritySuite"
+            },
+            {
+                "name": "msp/recaptcha",
+                "version": "2.1.2",
+                "version_normalized": "2.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/msp/recaptcha/msp-recaptcha-2.1.2.0.zip",
+                    "shasum": "47844182af1aed548871ae5b8db4a84480652856"
+                },
+                "require": {
+                    "google/recaptcha": "^1.1",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-customer": "*",
+                    "magento/module-newsletter": "*",
+                    "php": "^5.6|^7.0|^7.1|^7.2"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\ReCaptcha\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Google reCaptcha integration for Magento2"
+            },
+            {
+                "name": "msp/recaptcha",
+                "version": "2.1.3",
+                "version_normalized": "2.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/msp/recaptcha/msp-recaptcha-2.1.3.0.zip",
+                    "shasum": "689f64ce595ae9a39471cff91cdbf8396681ef81"
+                },
+                "require": {
+                    "google/recaptcha": "^1.1",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-customer": "*",
+                    "magento/module-newsletter": "*",
+                    "php": "^5.6|^7.0|^7.1|^7.2|^7.3"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\ReCaptcha\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Google reCaptcha integration for Magento2"
+            },
+            {
+                "name": "msp/recaptcha",
+                "version": "2.2.2",
+                "version_normalized": "2.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/msp/recaptcha/msp-recaptcha-2.2.2.0.zip",
+                    "shasum": "a6a5b69d24332c58975f8af8b33505e0b51679ea"
+                },
+                "require": {
+                    "google/recaptcha": "^1.1",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-customer": "*",
+                    "magento/module-newsletter": "*",
+                    "php": "^7.1|^7.2|^7.3"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\ReCaptcha\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Google reCaptcha integration for Magento2"
+            },
+            {
+                "name": "msp/recaptcha",
+                "version": "2.2.3",
+                "version_normalized": "2.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/msp/recaptcha/msp-recaptcha-2.2.3.0.zip",
+                    "shasum": "1d83bfe56e4c821f89e1e24bb4e31d1b7accc40a"
+                },
+                "require": {
+                    "google/recaptcha": "^1.1",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-customer": "*",
+                    "magento/module-newsletter": "*",
+                    "php": "^7.1|^7.2|^7.3"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\ReCaptcha\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    }
+                ],
+                "description": "Google reCaptcha integration for Magento2"
+            }
+        ]
+    }
+}

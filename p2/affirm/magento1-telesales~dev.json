@@ -1,0 +1,52 @@
+{
+    "packages": {
+        "affirm/magento1-telesales": [
+            {
+                "name": "affirm/magento1-telesales",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Affirm/Magento1_Affirm_Telesales.git",
+                    "reference": "b4af6e07b172c4b765f228c60834abfcefe268dd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Affirm/Magento1_Affirm_Telesales/zipball/b4af6e07b172c4b765f228c60834abfcefe268dd",
+                    "reference": "b4af6e07b172c4b765f228c60834abfcefe268dd",
+                    "shasum": ""
+                },
+                "require": {
+                    "affirm/affirm-php": ">=3.5.4",
+                    "php": ">=5.2"
+                },
+                "time": "2019-04-09T21:27:36+00:00",
+                "type": "magento-module",
+                "license": [
+                    "BSD-3-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Affirm, Inc.",
+                        "homepage": "https://www.affirm.com"
+                    }
+                ],
+                "description": "Affirm Telesales",
+                "homepage": "https://github.com/Affirm/Magento1_Affirm_Telesales",
+                "keywords": [
+                    "affirm",
+                    "api",
+                    "consumer finance",
+                    "credit",
+                    "e-commerce",
+                    "payment method",
+                    "telesales"
+                ],
+                "support": {
+                    "source": "https://github.com/Affirm/Magento1_Affirm_Telesales/tree/master",
+                    "issues": "https://github.com/Affirm/Magento1_Affirm_Telesales/issues"
+                }
+            }
+        ]
+    }
+}

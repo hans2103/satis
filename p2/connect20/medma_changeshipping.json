@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/medma_changeshipping": [
+            {
+                "name": "connect20/Medma_ChangeShipping",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Medma_ChangeShipping/1.0.0/Medma_ChangeShipping-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Medma Infomatix",
+                        "email": "gaurav@medma.in"
+                    }
+                ],
+                "description": "A shipping extension that allows the admin to change the shipping after order is placed from the frontend."
+            }
+        ]
+    }
+}

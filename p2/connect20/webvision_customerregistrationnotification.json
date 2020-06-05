@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/webvision_customerregistrationnotification": [
+            {
+                "name": "connect20/WebVision_CustomerRegistrationNotification",
+                "version": "1.3.3",
+                "version_normalized": "1.3.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/WebVision_CustomerRegistrationNotification/1.3.3/WebVision_CustomerRegistrationNotification-1.3.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "LGPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Tim Werdin",
+                        "email": "t.werdin@web-vision.de"
+                    }
+                ],
+                "description": "Get a notification email of every new customer registration, including a customizable email template."
+            }
+        ]
+    }
+}

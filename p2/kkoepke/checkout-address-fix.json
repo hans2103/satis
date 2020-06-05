@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "kkoepke/checkout-address-fix": [
+            {
+                "name": "kkoepke/checkout-address-fix",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/kkoepke/kkoepke_CheckoutAddressFix.git",
+                    "reference": "f5d4b9b8f87f20c509393065cafe8439d807ebcd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/kkoepke/kkoepke_CheckoutAddressFix/zipball/f5d4b9b8f87f20c509393065cafe8439d807ebcd",
+                    "reference": "f5d4b9b8f87f20c509393065cafe8439d807ebcd",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2014-08-25T15:30:21+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "kkoepke",
+                        "email": "kkoepke@scm.lupcom.de"
+                    }
+                ],
+                "description": "Magento Bugfix for remembering customer addresses after reload guest checkout",
+                "support": {
+                    "source": "https://github.com/kkoepke/kkoepke_CheckoutAddressFix/tree/0.1.0",
+                    "issues": "https://github.com/kkoepke/kkoepke_CheckoutAddressFix/issues"
+                }
+            }
+        ]
+    }
+}

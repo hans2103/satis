@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/reflektion_individualization_extension": [
+            {
+                "name": "connect20/Reflektion_Individualization_Extension",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Reflektion_Individualization_Extension/1.0.0/Reflektion_Individualization_Extension-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Amar",
+                        "email": "amar.chokhawala@reflektion.com"
+                    }
+                ],
+                "description": "Reflektion Individualization Extension"
+            },
+            {
+                "name": "connect20/Reflektion_Individualization_Extension",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Reflektion_Individualization_Extension/1.0.5/Reflektion_Individualization_Extension-1.0.5.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Amar",
+                        "email": "amar.chokhawala@reflektion.com"
+                    }
+                ],
+                "description": "Reflektion Individualization Extension"
+            }
+        ]
+    }
+}

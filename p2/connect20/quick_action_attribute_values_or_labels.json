@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/quick_action_attribute_values_or_labels": [
+            {
+                "name": "connect20/Quick_Action_Attribute_Values_or_Labels",
+                "version": "1.6.2",
+                "version_normalized": "1.6.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Quick_Action_Attribute_Values_or_Labels/1.6.2/Quick_Action_Attribute_Values_or_Labels-1.6.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "CueBlocks",
+                        "email": "riti.gulati@cueblocks.com"
+                    }
+                ],
+                "description": "Extension to add Attribute Labels by CueBlocks.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/cp_rfq": [
+            {
+                "name": "connect20/CP_Rfq",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CP_Rfq/0.0.1/CP_Rfq-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Commerce Pundit",
+                        "email": "support@commercepundit.com"
+                    }
+                ],
+                "description": "Request For Quotation"
+            },
+            {
+                "name": "connect20/CP_Rfq",
+                "version": "0.0.3",
+                "version_normalized": "0.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CP_Rfq/0.0.3/CP_Rfq-0.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Commerce Pundit",
+                        "email": "support@commercepundit.com"
+                    }
+                ],
+                "description": "Request For Quotation extension by Commerce Pundit will help you manage your Quotation submitted by User. "
+            }
+        ]
+    }
+}

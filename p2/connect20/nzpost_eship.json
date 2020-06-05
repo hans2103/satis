@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/nzpost_eship": [
+            {
+                "name": "connect20/Nzpost_Eship",
+                "version": "1.0.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Nzpost_Eship/1.0.0.0/Nzpost_Eship-1.0.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "George Plummer",
+                        "email": "george@shipit.click"
+                    }
+                ],
+                "description": "This extension allows for rate quotes as well as automated shipping."
+            },
+            {
+                "name": "connect20/Nzpost_Eship",
+                "version": "1.0.1.0",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Nzpost_Eship/1.0.1.0/Nzpost_Eship-1.0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "George Plummer",
+                        "email": "george@shipit.click"
+                    }
+                ],
+                "description": "This extension allows for rate quotes as well as automated shipping."
+            }
+        ]
+    }
+}

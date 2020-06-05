@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "fballiano/magento-category-sort-direction": [
+            {
+                "name": "fballiano/magento-category-sort-direction",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fballiano/magento-category-sort-direction.git",
+                    "reference": "0c75cff7901563c1b114777b1c95c3830de7b970"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/fballiano/magento-category-sort-direction/zipball/0c75cff7901563c1b114777b1c95c3830de7b970",
+                    "reference": "0c75cff7901563c1b114777b1c95c3830de7b970",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "time": "2016-01-04T19:52:55+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Balliano",
+                        "email": "fabrizio@fabrizioballiano.it",
+                        "homepage": "http://fabrizioballiano.it",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Allows you to decide the product sorting direction on category pages.",
+                "homepage": "https://github.com/fballiano/magento-category-sort-direction",
+                "support": {
+                    "source": "https://github.com/fballiano/magento-category-sort-direction/tree/master",
+                    "issues": "https://github.com/fballiano/magento-category-sort-direction/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,354 @@
+{
+    "packages": {
+        "magento/module-inventory": [
+            {
+                "name": "magento/module-inventory",
+                "version": "1.0.0-rc",
+                "version_normalized": "1.0.0.0-RC",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory/magento-module-inventory-1.0.0.0-RC.zip",
+                    "shasum": "4409c4ff75bcef4c7ebba482d066e4cfdf6eaf1b"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Inventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory",
+                "version": "1.0.0-beta",
+                "version_normalized": "1.0.0.0-beta",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory/magento-module-inventory-1.0.0.0-beta.zip",
+                    "shasum": "c1f37cded6e847d0d46f44184199ea81f06d434c"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Inventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory",
+                "version": "1.0.0-beta2",
+                "version_normalized": "1.0.0.0-beta2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory/magento-module-inventory-1.0.0.0-beta2.zip",
+                    "shasum": "784f65aa06417158420f0690c56c818bd3d906e8"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Inventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory",
+                "version": "1.0.0-beta3",
+                "version_normalized": "1.0.0.0-beta3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory/magento-module-inventory-1.0.0.0-beta3.zip",
+                    "shasum": "65784774e64e4112677605d30d63727f45b9ec4e"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Inventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory",
+                "version": "1.0.0-beta4",
+                "version_normalized": "1.0.0.0-beta4",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory/magento-module-inventory-1.0.0.0-beta4.zip",
+                    "shasum": "996f3dc898b018af2e3846da32ac128fdc601d33"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Inventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory/magento-module-inventory-1.0.3.0.zip",
+                    "shasum": "8b826c450afc0f0292a63e76e9fe72f98e18e561"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Inventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory/magento-module-inventory-1.0.4.0.zip",
+                    "shasum": "ce21405c9662b13edd131a3d52c562160f4d9f52"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Inventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory/magento-module-inventory-1.0.5.0.zip",
+                    "shasum": "bde4d6fecb23a3aa694aa23df46aceb301f84c16"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Inventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory",
+                "version": "1.0.5-beta2",
+                "version_normalized": "1.0.5.0-beta2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory/magento-module-inventory-1.0.5.0-beta2.zip",
+                    "shasum": "b667d15a149f1a20b3e15ae23d4d00c8735c007a"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Inventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory/magento-module-inventory-1.0.6.0.zip",
+                    "shasum": "646ee1e26ee111094b3fec7e59e08ea6b8ea021f"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Inventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory/magento-module-inventory-1.0.7.0.zip",
+                    "shasum": "0198263fcdc98ebb764ec97ca6f32572a0f73faa"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Inventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory/magento-module-inventory-1.0.8.0.zip",
+                    "shasum": "7c455268fb2d8e1c8bfbeed31a6048142d36f2b9"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Inventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

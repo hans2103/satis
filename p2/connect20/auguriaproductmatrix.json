@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/auguriaproductmatrix": [
+            {
+                "name": "connect20/auguriaproductmatrix",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/auguriaproductmatrix/0.0.1/auguriaproductmatrix-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Auguria",
+                        "email": "magento@auguria.net"
+                    }
+                ],
+                "description": "Children products matrix of a configurable product on the product view page."
+            },
+            {
+                "name": "connect20/auguriaproductmatrix",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/auguriaproductmatrix/0.0.2/auguriaproductmatrix-0.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Auguria",
+                        "email": "magento@auguria.net"
+                    }
+                ],
+                "description": "Children products matrix of a configurable product on the product view page."
+            }
+        ]
+    }
+}

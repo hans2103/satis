@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/yousave_alternative_pricing": [
+            {
+                "name": "connect20/YouSave_Alternative_Pricing",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/YouSave_Alternative_Pricing/1.0.1/YouSave_Alternative_Pricing-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Gershon",
+                        "email": "gershon.webgate@gmail.com"
+                    }
+                ],
+                "description": "Calculates and displays percentage and amount customer save if special price exists for product."
+            }
+        ]
+    }
+}

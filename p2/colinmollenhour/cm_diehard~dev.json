@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "colinmollenhour/cm_diehard": [
+            {
+                "name": "colinmollenhour/cm_diehard",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/colinmollenhour/Cm_Diehard.git",
+                    "reference": "cd49b5c82ac989d784a82ca89ca5d12ffa430b5a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/colinmollenhour/Cm_Diehard/zipball/cd49b5c82ac989d784a82ca89ca5d12ffa430b5a",
+                    "reference": "cd49b5c82ac989d784a82ca89ca5d12ffa430b5a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2020-06-04T15:41:55+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin Mollenhour"
+                    }
+                ],
+                "description": "Cm_Diehard: Full-Page Cache",
+                "homepage": "https://github.com/colinmollenhour/Cm_Diehard",
+                "support": {
+                    "source": "https://github.com/colinmollenhour/Cm_Diehard/tree/master",
+                    "issues": "https://github.com/colinmollenhour/Cm_Diehard/issues"
+                }
+            }
+        ]
+    }
+}

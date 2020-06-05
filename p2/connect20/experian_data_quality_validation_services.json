@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/experian_data_quality_validation_services": [
+            {
+                "name": "connect20/Experian_Data_Quality_Validation_Services",
+                "version": "1.0.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Experian_Data_Quality_Validation_Services/1.0.0.0/Experian_Data_Quality_Validation_Services-1.0.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "David Morton",
+                        "email": "David.Morton@experian.com"
+                    }
+                ],
+                "description": "Address, email, and phone verification services for Magento Enterprise and Community editions."
+            },
+            {
+                "name": "connect20/Experian_Data_Quality_Validation_Services",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Experian_Data_Quality_Validation_Services/1.0.0.1/Experian_Data_Quality_Validation_Services-1.0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "ExperianDataQualityVerificationServices",
+                        "email": "internetmarketing@qas.com"
+                    }
+                ],
+                "description": "Address, email, and phone verification services for Magento Enterprise and Community editions."
+            }
+        ]
+    }
+}

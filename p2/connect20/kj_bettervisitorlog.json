@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/kj_bettervisitorlog": [
+            {
+                "name": "connect20/KJ_BetterVisitorLog",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/KJ_BetterVisitorLog/1.0.0/KJ_BetterVisitorLog-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "ASL"
+                ],
+                "authors": [
+                    {
+                        "name": "Kalen Jordan",
+                        "email": "kalen@magemail.co"
+                    }
+                ],
+                "description": "Better Visitor Log"
+            }
+        ]
+    }
+}

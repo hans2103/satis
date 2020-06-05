@@ -1,0 +1,106 @@
+{
+    "packages": {
+        "integer-net/anonymizer": [
+            {
+                "name": "integer-net/anonymizer",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/Anonymizer.git",
+                    "reference": "368557b41277b44b0316fe6c47a3213690310560"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/Anonymizer/zipball/368557b41277b44b0316fe6c47a3213690310560",
+                    "reference": "368557b41277b44b0316fe6c47a3213690310560",
+                    "shasum": ""
+                },
+                "require": {
+                    "firegento/psr0autoloader": ">=0.1.0",
+                    "fzaninotto/faker": ">=1.0"
+                },
+                "require-dev": {
+                    "aoepeople/composer-installers": "*",
+                    "ecomdev/ecomdev_phpunit": "dev-dev@dev"
+                },
+                "time": "2019-01-24T13:44:21+00:00",
+                "type": "magento-module",
+                "autoload": {
+                    "psr-4": {
+                        "IntegerNet\\Anonymizer\\": "src/lib/IntegerNet/Anonymizer"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "IntegerNet\\Anonymizer\\": "test/IntegerNet/Anonymizer"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabian Schmengler",
+                        "email": "fs@integer-net.de"
+                    }
+                ],
+                "description": "Anonymizes all Customer Data",
+                "support": {
+                    "source": "https://github.com/integer-net/Anonymizer/tree/v2.1.0",
+                    "issues": "https://github.com/integer-net/Anonymizer/issues"
+                }
+            },
+            {
+                "name": "integer-net/anonymizer",
+                "version": "dev-development",
+                "version_normalized": "dev-development",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/Anonymizer.git",
+                    "reference": "0f5c1f5c718f3d1a603e35ec0644187a96779437"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/Anonymizer/zipball/0f5c1f5c718f3d1a603e35ec0644187a96779437",
+                    "reference": "0f5c1f5c718f3d1a603e35ec0644187a96779437",
+                    "shasum": ""
+                },
+                "require": {
+                    "firegento/psr0autoloader": ">=0.1.0",
+                    "fzaninotto/faker": ">=1.0"
+                },
+                "require-dev": {
+                    "aoepeople/composer-installers": "*",
+                    "ecomdev/ecomdev_phpunit": "~0.3.7"
+                },
+                "time": "2016-09-20T11:19:27+00:00",
+                "type": "magento-module",
+                "autoload": {
+                    "psr-4": {
+                        "IntegerNet\\Anonymizer\\": "src/lib/IntegerNet/Anonymizer"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "IntegerNet\\Anonymizer\\": "test/IntegerNet/Anonymizer"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabian Schmengler",
+                        "email": "fs@integer-net.de"
+                    }
+                ],
+                "description": "Anonymizes all Customer Data",
+                "support": {
+                    "source": "https://github.com/integer-net/Anonymizer/tree/development",
+                    "issues": "https://github.com/integer-net/Anonymizer/issues"
+                }
+            }
+        ]
+    }
+}

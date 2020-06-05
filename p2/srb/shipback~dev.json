@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "srb/shipback": [
+            {
+                "name": "SRB/Shipback",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fazyrosat/srb.git",
+                    "reference": "b51de7d95b14b4991f66f98c3905ca588f293738"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/fazyrosat/srb/zipball/b51de7d95b14b4991f66f98c3905ca588f293738",
+                    "reference": "b51de7d95b14b4991f66f98c3905ca588f293738",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.0"
+                },
+                "time": "2018-04-30T09:28:32+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "SRB",
+                        "email": "fazyrosat@gmail.com"
+                    }
+                ],
+                "description": "SRB Plugin for magento 1.5 - 1.9",
+                "homepage": "https://github.com/fazyrosat/srb",
+                "support": {
+                    "source": "https://github.com/fazyrosat/srb/tree/master",
+                    "issues": "https://github.com/fazyrosat/srb/issues"
+                }
+            }
+        ]
+    }
+}

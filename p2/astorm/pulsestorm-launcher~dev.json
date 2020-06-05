@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "astorm/pulsestorm-launcher": [
+            {
+                "name": "astorm/pulsestorm-launcher",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/astorm/PulsestormLauncher.git",
+                    "reference": "4cd272c68be5709075d77584f91016b86e994bd7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/astorm/PulsestormLauncher/zipball/4cd272c68be5709075d77584f91016b86e994bd7",
+                    "reference": "4cd272c68be5709075d77584f91016b86e994bd7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-01-05T23:15:11+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Alan Storm",
+                        "email": "alanstorm@alanstorm.com",
+                        "homepage": "http://alanstorm.com/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "The Pulse storm launcher provides the Magento admin console with a Quicksilver like plugin for immediate access to Magento navigation items, system configuration sections, and the Magento global search",
+                "support": {
+                    "source": "https://github.com/astorm/PulsestormLauncher/tree/master",
+                    "issues": "https://github.com/astorm/PulsestormLauncher/issues"
+                }
+            }
+        ]
+    }
+}

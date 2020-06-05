@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/c3-environment-banner": [
+            {
+                "name": "connect20/c3-environment-banner",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/c3-environment-banner/1.1.0/c3-environment-banner-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License"
+                ],
+                "authors": [
+                    {
+                        "name": "C3 Media",
+                        "email": "hello@c3media.co.uk"
+                    }
+                ],
+                "description": "Tell at a glance if you are in a production, staging or dev environment - visual banners on frontend and admin"
+            },
+            {
+                "name": "connect20/c3-environment-banner",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/c3-environment-banner/1.1.1/c3-environment-banner-1.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License"
+                ],
+                "authors": [
+                    {
+                        "name": "C3 Media",
+                        "email": "hello@c3media.co.uk"
+                    }
+                ],
+                "description": "Tell at a glance if you are in a production, staging or dev environment - visual banners on frontend and admin"
+            }
+        ]
+    }
+}

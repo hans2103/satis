@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/cactimedia_cybersourcesa": [
+            {
+                "name": "connect20/Cactimedia_Cybersourcesa",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Cactimedia_Cybersourcesa/0.1.0/Cactimedia_Cybersourcesa-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Avdhoot Shitre",
+                        "email": "avdhoot@cactimedia.com"
+                    }
+                ],
+                "description": "Secure Acceptance Web/Mobile is one of the payment integration method available for CyberSource."
+            }
+        ]
+    }
+}

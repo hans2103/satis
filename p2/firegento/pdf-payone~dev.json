@@ -1,0 +1,39 @@
+{
+    "packages": {
+        "firegento/pdf-payone": [
+            {
+                "name": "firegento/pdf-payone",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/firegento/firegento-pdf-payone.git",
+                    "reference": "4d976afdc1d131c54bf0af3b107017629077a3a0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/firegento/firegento-pdf-payone/zipball/4d976afdc1d131c54bf0af3b107017629077a3a0",
+                    "reference": "4d976afdc1d131c54bf0af3b107017629077a3a0",
+                    "shasum": ""
+                },
+                "require": {
+                    "firegento/pdf": "1.*"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Magento composer installer (or a replacement) is needed to install this packages"
+                },
+                "time": "2016-04-20T13:32:09+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "FireGento Pdf PAYONE adds the detailed PAYONE payment information on the FireGento PDF invoices.",
+                "homepage": "https://github.com/firegento/firegento-pdf-payone",
+                "support": {
+                    "source": "https://github.com/firegento/firegento-pdf-payone/tree/master",
+                    "issues": "https://github.com/firegento/firegento-pdf-payone/issues"
+                }
+            }
+        ]
+    }
+}

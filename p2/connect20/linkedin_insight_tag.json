@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/linkedin_insight_tag": [
+            {
+                "name": "connect20/LinkedIn_Insight_Tag",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/LinkedIn_Insight_Tag/1.0.0/LinkedIn_Insight_Tag-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthew Parke",
+                        "email": "magento@engagecommerce.io"
+                    }
+                ],
+                "description": "The LinkedIn Insight Tag is for advertisers that want to retarget their users, report on conversions, or optimize for conversions using LinkedIn Ads."
+            },
+            {
+                "name": "connect20/LinkedIn_Insight_Tag",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/LinkedIn_Insight_Tag/1.0.1/LinkedIn_Insight_Tag-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthew Parke",
+                        "email": "development@engagecommerce.io"
+                    }
+                ],
+                "description": "The LinkedIn Insight Tag is for advertisers that want to retarget their users, report on conversions, or optimize for conversions using LinkedIn Ads."
+            }
+        ]
+    }
+}

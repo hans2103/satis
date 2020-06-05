@@ -1,0 +1,119 @@
+{
+    "packages": {
+        "connect20/cf-cache-purge": [
+            {
+                "name": "connect20/cf-cache-purge",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/cf-cache-purge/1.0.0/cf-cache-purge-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modukes": ">=1.6.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Agli Panci",
+                        "email": "agli.panci@gmail.com"
+                    }
+                ],
+                "description": "Integrate CloudFlare with Magento. Purge Cloudflare cache directly from Mangeto Cache Management."
+            },
+            {
+                "name": "connect20/cf-cache-purge",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/cf-cache-purge/1.0.1/cf-cache-purge-1.0.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modukes": ">=1.6.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Agli Panci",
+                        "email": "agli.panci@gmail.com"
+                    }
+                ],
+                "description": "Integrate CloudFlare with Magento. Purge Cloudflare cache directly from Mangeto Cache Management."
+            },
+            {
+                "name": "connect20/cf-cache-purge",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/cf-cache-purge/1.0.2/cf-cache-purge-1.0.2.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": "*"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Agli Panci",
+                        "email": "agli.panci@gmail.com"
+                    }
+                ],
+                "description": "Integrate CloudFlare with Magento. Purge Cloudflare cache directly from Mangeto Cache Management."
+            },
+            {
+                "name": "connect20/cf-cache-purge",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/cf-cache-purge/1.0.5/cf-cache-purge-1.0.5.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Agli Panci",
+                        "email": "agli.panci@gmail.com"
+                    }
+                ],
+                "description": "1 click Cloudflare cache purge"
+            }
+        ]
+    }
+}

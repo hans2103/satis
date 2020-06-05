@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/netmatter_bridge": [
+            {
+                "name": "connect20/Netmatter_Bridge",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Netmatter_Bridge/1.1.0/Netmatter_Bridge-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Netmatter",
+                        "email": "support@netmatter.co.uk"
+                    }
+                ],
+                "description": "The Volo extension to Magento, powered by Netmatter, allows all high performance Magento stores – from single instance up to multiple, multi-lingual stores – to carry out 2-way bulk data transfers with the Volo platform in real time, with no loss of Magento performance."
+            }
+        ]
+    }
+}

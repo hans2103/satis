@@ -1,0 +1,72 @@
+{
+    "packages": {
+        "magento/module-inventory-requisition-list": [
+            {
+                "name": "magento/module-inventory-requisition-list",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-requisition-list/magento-module-inventory-requisition-list-1.0.0.0.zip",
+                    "shasum": "cffdb779eb6140ffcb55ceee7726bd1b66f708de"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-requisition-list": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryRequisitionList\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-requisition-list",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-requisition-list/magento-module-inventory-requisition-list-1.0.1.0.zip",
+                    "shasum": "ec64f52ec9619e557f9133635d5280ec64f44bda"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-requisition-list": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryRequisitionList\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

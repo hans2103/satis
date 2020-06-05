@@ -1,0 +1,61 @@
+{
+    "packages": {
+        "connect20/product_slider_allcategory": [
+            {
+                "name": "connect20/Product_slider_allcategory",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Product_slider_allcategory/1.0.1/Product_slider_allcategory-1.0.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSLv1.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rohit Dhiman",
+                        "email": "rdhimansujji@gmail.com"
+                    }
+                ],
+                "description": "All categories product slider with it we can select the product of perticuar categories and display it anywhere in site.\r\nwe can create multiple slider with it"
+            },
+            {
+                "name": "connect20/Product_slider_allcategory",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Product_slider_allcategory/1.0.5/Product_slider_allcategory-1.0.5.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSLv1.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rohit Dhiman",
+                        "email": "rdhimansujji@gmail.com"
+                    }
+                ],
+                "description": "All categories product slider with it we can select the product of perticuar categories and display it anywhere in site.\r\nwe can create multiple slider with it"
+            }
+        ]
+    }
+}

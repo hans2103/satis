@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "throuv/better-price-rounding": [
+            {
+                "name": "throuv/better-price-rounding",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/therouv/Magento-BetterPriceRounding.git",
+                    "reference": "8d42a24031cbc8da40337ed5514990f6f1953a76"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/therouv/Magento-BetterPriceRounding/zipball/8d42a24031cbc8da40337ed5514990f6f1953a76",
+                    "reference": "8d42a24031cbc8da40337ed5514990f6f1953a76",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-03-31T15:40:28+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "rouven.rieker@itabs.de"
+                    }
+                ],
+                "description": "Better price rounding for German Magento Shops",
+                "support": {
+                    "source": "https://github.com/therouv/Magento-BetterPriceRounding/tree/master",
+                    "issues": "https://github.com/therouv/Magento-BetterPriceRounding/issues"
+                }
+            }
+        ]
+    }
+}

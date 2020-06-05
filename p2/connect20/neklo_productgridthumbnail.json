@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/neklo_productgridthumbnail": [
+            {
+                "name": "connect20/Neklo_ProductGridThumbnail",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/neklo_productgridthumbnail/1.0/neklo_productgridthumbnail-1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "License"
+                ],
+                "authors": [
+                    {
+                        "name": "NEKLO",
+                        "email": "info@neklo.com"
+                    }
+                ],
+                "description": "Summary"
+            }
+        ]
+    }
+}

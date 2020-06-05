@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/helios_videogallery": [
+            {
+                "name": "connect20/Helios_Videogallery",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Helios_Videogallery/0.1.0/Helios_Videogallery-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Helios",
+                        "email": "support@heliossolutions.in"
+                    }
+                ],
+                "description": "This extension provide you youtube  video gallery."
+            },
+            {
+                "name": "connect20/Helios_Videogallery",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Helios_Videogallery/0.1.1/Helios_Videogallery-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Helios",
+                        "email": "hsmagento.support@heliossolutions.in"
+                    }
+                ],
+                "description": "This extension provide you youtube  video gallery."
+            }
+        ]
+    }
+}

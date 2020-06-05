@@ -1,0 +1,171 @@
+{
+    "packages": {
+        "ebayenterprise/retail-order-management": [
+            {
+                "name": "ebayenterprise/retail-order-management",
+                "version": "1.0.x-dev",
+                "version_normalized": "1.0.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/eBayEnterprise/RetailOrderManagement-SDK.git",
+                    "reference": "9b5f9b003fb9f568f7573c53b00f74463c4050db"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/eBayEnterprise/RetailOrderManagement-SDK/zipball/9b5f9b003fb9f568f7573c53b00f74463c4050db",
+                    "reference": "9b5f9b003fb9f568f7573c53b00f74463c4050db",
+                    "shasum": ""
+                },
+                "require": {
+                    "rmccue/requests": "~1.6",
+                    "videlalvaro/php-amqplib": "~2.4"
+                },
+                "require-dev": {
+                    "pdepend/pdepend": "~1.1",
+                    "phpdocumentor/phpdocumentor": "~2.4",
+                    "phploc/phploc": "~2.0",
+                    "phpmd/phpmd": "~1.5",
+                    "phpunit/phpunit": "~4.3",
+                    "sebastian/phpcpd": "~2.0",
+                    "squizlabs/php_codesniffer": "~1.5"
+                },
+                "time": "2015-04-09T20:56:08+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-1.0": "1.0.2"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "eBayEnterprise\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-0": {
+                        "eBayEnterprise\\": "tests/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Scott van Brug",
+                        "email": "svanbrug@ebay.com"
+                    },
+                    {
+                        "name": "Michael Phang",
+                        "email": "mphang@ebay.com"
+                    },
+                    {
+                        "name": "Michael A. Smith",
+                        "email": "msmith3@ebay.com"
+                    },
+                    {
+                        "name": "Mike West",
+                        "email": "micwest@ebay.com"
+                    },
+                    {
+                        "name": "Reginald Gabriel",
+                        "email": "rgabriel@ebay.com"
+                    },
+                    {
+                        "name": "Chris Kemmerer",
+                        "email": "ckemmerer@ebay.com"
+                    }
+                ],
+                "description": "Software Development Kit for working with the Retail Order Management Web API",
+                "support": {
+                    "source": "https://github.com/eBayEnterprise/RetailOrderManagement-SDK/tree/1.0.2",
+                    "issues": "https://github.com/eBayEnterprise/RetailOrderManagement-SDK/issues"
+                }
+            },
+            {
+                "name": "ebayenterprise/retail-order-management",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/eBayEnterprise/RetailOrderManagement-SDK.git",
+                    "reference": "d8908d4b7a3fb2e2473a646e7164331b66431603"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/eBayEnterprise/RetailOrderManagement-SDK/zipball/d8908d4b7a3fb2e2473a646e7164331b66431603",
+                    "reference": "d8908d4b7a3fb2e2473a646e7164331b66431603",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.4",
+                    "rmccue/requests": "~1.6",
+                    "videlalvaro/php-amqplib": "~2.4"
+                },
+                "require-dev": {
+                    "pdepend/pdepend": "~1.1",
+                    "phpdocumentor/phpdocumentor": "~2.4",
+                    "phploc/phploc": "~2.0",
+                    "phpmd/phpmd": "~1.5",
+                    "phpunit/phpunit": "~4.3",
+                    "sebastian/phpcpd": "~2.0",
+                    "squizlabs/php_codesniffer": "~1.5"
+                },
+                "time": "2016-02-20T14:59:29+00:00",
+                "type": "library",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "eBayEnterprise\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-0": {
+                        "eBayEnterprise\\": "tests/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Scott van Brug",
+                        "email": "svanbrug@ebay.com"
+                    },
+                    {
+                        "name": "Michael Phang",
+                        "email": "mphang@ebay.com"
+                    },
+                    {
+                        "name": "Michael A. Smith",
+                        "email": "msmith3@ebay.com"
+                    },
+                    {
+                        "name": "Mike West",
+                        "email": "micwest@ebay.com"
+                    },
+                    {
+                        "name": "Reginald Gabriel",
+                        "email": "rgabriel@ebay.com"
+                    },
+                    {
+                        "name": "Ryan Tulino",
+                        "email": "rtulino@ebay.com"
+                    },
+                    {
+                        "name": "Chris Kemmerer",
+                        "email": "ckemmerer@ebay.com"
+                    }
+                ],
+                "description": "Software Development Kit for working with the Retail Order Management Web API",
+                "support": {
+                    "source": "https://github.com/eBayEnterprise/RetailOrderManagement-SDK/tree/1.4.8",
+                    "issues": "https://github.com/eBayEnterprise/RetailOrderManagement-SDK/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,2192 @@
+{
+    "packages": {
+        "magento/module-shipping": [
+            {
+                "name": "magento/module-shipping",
+                "version": "100.0.10",
+                "version_normalized": "100.0.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.0.10.0.zip",
+                    "shasum": "781da7022d1452d9270e284e9b192e0f7c8be762"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-contact": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "magento/module-ui": "100.0.*",
+                    "magento/module-user": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.0.*",
+                    "magento/module-ups": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.0.2",
+                "version_normalized": "100.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.0.2.0.zip",
+                    "shasum": "86b1051106d5be2a4dc7615b30afddf2620f8a6c"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-contact": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "magento/module-ui": "100.0.*",
+                    "magento/module-user": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.0.*",
+                    "magento/module-ups": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.0.3",
+                "version_normalized": "100.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.0.3.0.zip",
+                    "shasum": "ca4759d57cb1ae30f189ee18d8b89d7820a26548"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-contact": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "magento/module-ui": "100.0.*",
+                    "magento/module-user": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.0.*",
+                    "magento/module-ups": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.0.4",
+                "version_normalized": "100.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.0.4.0.zip",
+                    "shasum": "289127c94c5cd25760faaab9f7d22deaf53bd761"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-contact": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "magento/module-ui": "100.0.*",
+                    "magento/module-user": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.0.*",
+                    "magento/module-ups": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.0.5",
+                "version_normalized": "100.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.0.5.0.zip",
+                    "shasum": "f86d757b879e697b21795206f6e405f6648560a5"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-contact": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "magento/module-ui": "100.0.*",
+                    "magento/module-user": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.0.*",
+                    "magento/module-ups": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.0.6",
+                "version_normalized": "100.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.0.6.0.zip",
+                    "shasum": "f3744fb64e515a65a4056bfe19a822a70d9cf95d"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-contact": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "magento/module-ui": "100.0.*",
+                    "magento/module-user": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.0.*",
+                    "magento/module-ups": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.0.7",
+                "version_normalized": "100.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.0.7.0.zip",
+                    "shasum": "34674d064ad3d0cfb3f372b069739785f822ba2e"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-contact": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "magento/module-ui": "100.0.*",
+                    "magento/module-user": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.0.*",
+                    "magento/module-ups": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.0.8",
+                "version_normalized": "100.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.0.8.0.zip",
+                    "shasum": "4c3dbae78d6e56c22861c9087e9169461a2af043"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-contact": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "magento/module-ui": "100.0.*",
+                    "magento/module-user": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.0.*",
+                    "magento/module-ups": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.0.9",
+                "version_normalized": "100.0.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.0.9.0.zip",
+                    "shasum": "8ea3b1f7d16a4802d5caa26a2ecbf693d360ffc5"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-contact": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "magento/module-ui": "100.0.*",
+                    "magento/module-user": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.0.*",
+                    "magento/module-ups": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.1.0",
+                "version_normalized": "100.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.1.0.0.zip",
+                    "shasum": "3b0c726f3f963ad0ac5ec1479a1c86006ce7cb95"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-contact": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-user": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.1.*",
+                    "magento/module-ups": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.1.0-rc1",
+                "version_normalized": "100.1.0.0-RC1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.1.0.0-RC1.zip",
+                    "shasum": "10773e53d7c06b040b63a2305580e6ed473648d7"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-contact": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-user": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.1.*",
+                    "magento/module-ups": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.1.0-rc2",
+                "version_normalized": "100.1.0.0-RC2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.1.0.0-RC2.zip",
+                    "shasum": "dd659d6283cc626129592a6d63d31a707717fba6"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-contact": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-user": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.1.*",
+                    "magento/module-ups": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.1.0-rc3",
+                "version_normalized": "100.1.0.0-RC3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.1.0.0-RC3.zip",
+                    "shasum": "b0eae116527601dc6ac7b4b825b0447cf9c5d3a9"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-contact": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-user": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.1.*",
+                    "magento/module-ups": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.1.1",
+                "version_normalized": "100.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.1.1.0.zip",
+                    "shasum": "06936da7d0c2b7360ce9a08dd7f9d70abe0cc7cb"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-contact": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-user": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.1.*",
+                    "magento/module-ups": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.1.10",
+                "version_normalized": "100.1.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.1.10.0.zip",
+                    "shasum": "e3b1ac75ff565d65cbc69d97e0bde4af5b748c42"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-contact": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-user": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.1.*",
+                    "magento/module-ups": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.1.2",
+                "version_normalized": "100.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.1.2.0.zip",
+                    "shasum": "8157e72a9b83ce0f13cd44177dbc99d4b077ff97"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-contact": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-user": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.1.*",
+                    "magento/module-ups": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.1.3",
+                "version_normalized": "100.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.1.3.0.zip",
+                    "shasum": "95be48dc18e047d412e4eac1e660328bb6be44f8"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-contact": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-user": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.1.*",
+                    "magento/module-ups": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.1.4",
+                "version_normalized": "100.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.1.4.0.zip",
+                    "shasum": "b5e532a93588d79b962c477f6f9266a1450d2acc"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-contact": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-user": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.1.*",
+                    "magento/module-ups": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.1.5",
+                "version_normalized": "100.1.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.1.5.0.zip",
+                    "shasum": "be38afe80c02704c9e5cfee39e04f2d8fa613f64"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-contact": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-user": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.1.*",
+                    "magento/module-ups": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.1.6",
+                "version_normalized": "100.1.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.1.6.0.zip",
+                    "shasum": "d51960a3b1f65ac964ac30359a48162095b4be4b"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-contact": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-user": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.1.*",
+                    "magento/module-ups": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.1.7",
+                "version_normalized": "100.1.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.1.7.0.zip",
+                    "shasum": "26192516213a52942ba6af60e8d16e9e0559d45d"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-contact": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-user": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.1.*",
+                    "magento/module-ups": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.1.8",
+                "version_normalized": "100.1.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.1.8.0.zip",
+                    "shasum": "315b76e587153d90d8d423d982548f4fff0261ad"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-contact": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-user": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.1.*",
+                    "magento/module-ups": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.1.9",
+                "version_normalized": "100.1.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.1.9.0.zip",
+                    "shasum": "522dfde7a981b30c5611ad01ee1e5b2540e2f160"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-contact": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "magento/module-user": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-fedex": "100.1.*",
+                    "magento/module-ups": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.2.0",
+                "version_normalized": "100.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.2.0.0.zip",
+                    "shasum": "6c1c85dc040f193ebb3424dd55dcbcd9f6aeca2a"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-contact": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-user": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*",
+                    "magento/module-fedex": "100.2.*",
+                    "magento/module-ups": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.2.0-rc20",
+                "version_normalized": "100.2.0.0-RC20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.2.0.0-RC20.zip",
+                    "shasum": "1aa55b1a5067db2202418c8fe9b641358fb217d0"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "101.1.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-contact": "100.2.*",
+                    "magento/module-customer": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "100.2.*",
+                    "magento/module-sales": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "100.2.*",
+                    "magento/module-user": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "100.2.*",
+                    "magento/module-fedex": "100.2.*",
+                    "magento/module-ups": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.2.0-rc21",
+                "version_normalized": "100.2.0.0-RC21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.2.0.0-RC21.zip",
+                    "shasum": "27c7395828d33357348f79c8e1010ef736a0aea0"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-contact": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-user": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*",
+                    "magento/module-fedex": "100.2.*",
+                    "magento/module-ups": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.2.0-rc22",
+                "version_normalized": "100.2.0.0-RC22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.2.0.0-RC22.zip",
+                    "shasum": "d2152209b8da9100ba513a906dfe8ecd14e7ade8"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-contact": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-user": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*",
+                    "magento/module-fedex": "100.2.*",
+                    "magento/module-ups": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.2.0-rc23",
+                "version_normalized": "100.2.0.0-RC23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.2.0.0-RC23.zip",
+                    "shasum": "3d7255f378c3794e1bc36b9467ff3bc506daadf5"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-contact": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-user": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*",
+                    "magento/module-fedex": "100.2.*",
+                    "magento/module-ups": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.2.0-rc30",
+                "version_normalized": "100.2.0.0-RC30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.2.0.0-RC30.zip",
+                    "shasum": "5ac707a0074d3e6b9e6487a03c5e421680794c4a"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-contact": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-user": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*",
+                    "magento/module-fedex": "100.2.*",
+                    "magento/module-ups": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.2.1",
+                "version_normalized": "100.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.2.1.0.zip",
+                    "shasum": "3ab2877135e1168169b14ffa1bbb83516925a81a"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-contact": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-user": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*",
+                    "magento/module-fedex": "100.2.*",
+                    "magento/module-ups": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.2.10",
+                "version_normalized": "100.2.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.2.10.0.zip",
+                    "shasum": "e5882cc49403d95924be615654a1ccfa40902902"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-contact": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-user": "101.0.*",
+                    "php": "~7.0.13|~7.1.0|~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*",
+                    "magento/module-fedex": "100.2.*",
+                    "magento/module-ups": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.2.11",
+                "version_normalized": "100.2.11.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.2.11.0.zip",
+                    "shasum": "148f6fd4246ab31e76d760aa6e068605358fb21f"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-contact": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-user": "101.0.*",
+                    "php": "~7.0.13||~7.1.0||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*",
+                    "magento/module-fedex": "100.2.*",
+                    "magento/module-ups": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.2.2",
+                "version_normalized": "100.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.2.2.0.zip",
+                    "shasum": "a895834bbdb9e3f2b92dfdc1420dce800055a143"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-contact": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-user": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*",
+                    "magento/module-fedex": "100.2.*",
+                    "magento/module-ups": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.2.3",
+                "version_normalized": "100.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.2.3.0.zip",
+                    "shasum": "5c4ce7644d0194da12c60a54acc5e96f69659b6b"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-contact": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-user": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*",
+                    "magento/module-fedex": "100.2.*",
+                    "magento/module-ups": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.2.4",
+                "version_normalized": "100.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.2.4.0.zip",
+                    "shasum": "9fa2ac6508be68bd2da3e8bc89b5f6672a8fa1f4"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-contact": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-user": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*",
+                    "magento/module-fedex": "100.2.*",
+                    "magento/module-ups": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.2.5",
+                "version_normalized": "100.2.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.2.5.0.zip",
+                    "shasum": "0116e1ecc10ff6db7597eacdd49f2a7ca6e3815c"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-contact": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-user": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*",
+                    "magento/module-fedex": "100.2.*",
+                    "magento/module-ups": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.2.6",
+                "version_normalized": "100.2.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.2.6.0.zip",
+                    "shasum": "c2113132a8e6f3bc3f7a89bce881cf80a704006e"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-contact": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-user": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*",
+                    "magento/module-fedex": "100.2.*",
+                    "magento/module-ups": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.2.7",
+                "version_normalized": "100.2.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.2.7.0.zip",
+                    "shasum": "ef3dd80cb2b6fc39d907ccad699d4843021f0a06"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-contact": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-user": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*",
+                    "magento/module-fedex": "100.2.*",
+                    "magento/module-ups": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.2.8",
+                "version_normalized": "100.2.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.2.8.0.zip",
+                    "shasum": "af92426835f22971a75fce7a45f393f71e26bf26"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-contact": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-user": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*",
+                    "magento/module-fedex": "100.2.*",
+                    "magento/module-ups": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.2.9",
+                "version_normalized": "100.2.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.2.9.0.zip",
+                    "shasum": "4fb25fe02f7bca7d50375d78f177e87a9151890b"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-contact": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "magento/module-user": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*",
+                    "magento/module-fedex": "100.2.*",
+                    "magento/module-ups": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.3.0",
+                "version_normalized": "100.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.3.0.0.zip",
+                    "shasum": "7793eb281ac82ad1a017245904fb66f9fbcd48ca"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-contact": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "magento/module-user": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.1.*",
+                    "magento/module-fedex": "100.3.*",
+                    "magento/module-ups": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.3.1",
+                "version_normalized": "100.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.3.1.0.zip",
+                    "shasum": "dd53451df643e7d4513cb3102f182eb1f96bbc36"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-contact": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "magento/module-user": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.1.*",
+                    "magento/module-fedex": "100.3.*",
+                    "magento/module-ups": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.3.2",
+                "version_normalized": "100.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.3.2.0.zip",
+                    "shasum": "f2af8a18d0924d0a02d8eff52cf4c911e52cf682"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-contact": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "magento/module-user": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.1.*",
+                    "magento/module-fedex": "100.3.*",
+                    "magento/module-ups": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.3.3",
+                "version_normalized": "100.3.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.3.3.0.zip",
+                    "shasum": "444c1e49104c7c20de4a866360c8d9c5b57dc0db"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-contact": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "magento/module-user": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.1.*",
+                    "magento/module-fedex": "100.3.*",
+                    "magento/module-ups": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.3.4",
+                "version_normalized": "100.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.3.4.0.zip",
+                    "shasum": "6486e7dffe5d988cb9f09c5098b154697a0602da"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-contact": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "magento/module-user": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.1.*",
+                    "magento/module-fedex": "100.3.*",
+                    "magento/module-ups": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.3.4-p2",
+                "version_normalized": "100.3.4.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.3.4.0-patch2.zip",
+                    "shasum": "3ed60d7f2fb1dccd1c2432cae2947443233393e8"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-contact": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "magento/module-user": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.1.*",
+                    "magento/module-fedex": "100.3.*",
+                    "magento/module-ups": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shipping",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shipping/magento-module-shipping-100.3.5.0.zip",
+                    "shasum": "de9a53127d4efcfb40167279c3412da81dfd907d"
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-contact": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "magento/module-user": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.1.*",
+                    "magento/module-fedex": "100.3.*",
+                    "magento/module-ups": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Shipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

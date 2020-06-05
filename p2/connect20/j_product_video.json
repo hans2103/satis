@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/j_product_video": [
+            {
+                "name": "connect20/J_product_Video",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/J_product_Video/1.0.0/J_product_Video-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Dev",
+                        "email": "workdesk4u@gmail.com"
+                    }
+                ],
+                "description": "Displays Sample Video in the Product view page using jPlayer "
+            }
+        ]
+    }
+}

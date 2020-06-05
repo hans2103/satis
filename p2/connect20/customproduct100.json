@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/customproduct100": [
+            {
+                "name": "connect20/customproduct100",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/customproduct100/1.0.0/customproduct100-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Source"
+                ],
+                "authors": [
+                    {
+                        "name": "blg4mail.com",
+                        "email": "lovein.sales@gmail.com"
+                    }
+                ],
+                "description": "Product design tools for online custom product development"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sttl_notification": [
+            {
+                "name": "connect20/Sttl_Notification",
+                "version": "1.6.0.0",
+                "version_normalized": "1.6.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/sttl_notification/1.6.1/sttl_notification-1.6.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "STTL"
+                ],
+                "authors": [
+                    {
+                        "name": "Silvertouch",
+                        "email": "magento@silvertouch.com"
+                    }
+                ],
+                "description": "Display your Marketing Message at the top of your store for easily attracting customers to a Deal or Product.."
+            }
+        ]
+    }
+}

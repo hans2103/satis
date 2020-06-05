@@ -1,0 +1,227 @@
+{
+    "packages": {
+        "magento-hackathon/hackathon_magemonitoring": [
+            {
+                "name": "magento-hackathon/hackathon_magemonitoring",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_MageMonitoring.git",
+                    "reference": "935c62f33c308e2dcd565f9ee68773568d269b46"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_MageMonitoring/zipball/935c62f33c308e2dcd565f9ee68773568d269b46",
+                    "reference": "935c62f33c308e2dcd565f9ee68773568d269b46",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-02-27T12:49:35+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "diglin"
+                    },
+                    {
+                        "name": "Zifius"
+                    },
+                    {
+                        "name": "edannenberg"
+                    },
+                    {
+                        "name": "Gribnik"
+                    }
+                ],
+                "description": "Magento Monitoring Module to get information about the current installation (Server,Cache,PHP,Rewrites,Logs,...)",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_MageMonitoring",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_MageMonitoring/tree/2.1.5",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_MageMonitoring/issues"
+                }
+            },
+            {
+                "name": "magento-hackathon/hackathon_magemonitoring",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_MageMonitoring.git",
+                    "reference": "b2a00a35213bf0348e3e09d046d98f6cbf54e9b0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_MageMonitoring/zipball/b2a00a35213bf0348e3e09d046d98f6cbf54e9b0",
+                    "reference": "b2a00a35213bf0348e3e09d046d98f6cbf54e9b0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-11-07T17:37:03+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "diglin"
+                    },
+                    {
+                        "name": "Zifius"
+                    },
+                    {
+                        "name": "edannenberg"
+                    },
+                    {
+                        "name": "Gribnik"
+                    }
+                ],
+                "description": "Magento Monitoring Module to get information about the current installation (Server,Cache,PHP,Rewrites,Logs,...)",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_MageMonitoring",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_MageMonitoring/tree/develop",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_MageMonitoring/issues"
+                }
+            },
+            {
+                "name": "magento-hackathon/hackathon_magemonitoring",
+                "version": "dev-feature/cleanup-watchdog",
+                "version_normalized": "dev-feature/cleanup-watchdog",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_MageMonitoring.git",
+                    "reference": "abae8a97397b215a81e5b115468e53bd71a4075f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_MageMonitoring/zipball/abae8a97397b215a81e5b115468e53bd71a4075f",
+                    "reference": "abae8a97397b215a81e5b115468e53bd71a4075f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-09T16:55:34+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "diglin"
+                    },
+                    {
+                        "name": "Zifius"
+                    },
+                    {
+                        "name": "edannenberg"
+                    },
+                    {
+                        "name": "Gribnik"
+                    }
+                ],
+                "description": "Magento Monitoring Module to get information about the current installation (Server,Cache,PHP,Rewrites,Logs,...)",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_MageMonitoring",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_MageMonitoring/tree/feature/cleanup-watchdog",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_MageMonitoring/issues"
+                }
+            },
+            {
+                "name": "magento-hackathon/hackathon_magemonitoring",
+                "version": "dev-feature/firegento-migration",
+                "version_normalized": "dev-feature/firegento-migration",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_MageMonitoring.git",
+                    "reference": "10825d3fc05ae757d90b73bf9f6718d7fb981b20"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_MageMonitoring/zipball/10825d3fc05ae757d90b73bf9f6718d7fb981b20",
+                    "reference": "10825d3fc05ae757d90b73bf9f6718d7fb981b20",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "magento-hackathon/hackathon_monitoring": "self.version"
+                },
+                "require-dev": {
+                    "phploc/phploc": "*",
+                    "phpmd/phpmd": "@stable",
+                    "squizlabs/php_codesniffer": "2.*",
+                    "theseer/phpdox": "0.*"
+                },
+                "time": "2015-11-01T12:33:47+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT",
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "diglin"
+                    },
+                    {
+                        "name": "Zifius"
+                    },
+                    {
+                        "name": "edannenberg"
+                    },
+                    {
+                        "name": "Gribnik"
+                    }
+                ],
+                "description": "Magento Monitoring Module to get information about the current installation (Server, Cache, PHP, Rewrites, Logs,...)",
+                "homepage": "https://github.com/firegento/magemonitoring",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_MageMonitoring/tree/feature/firegento-migration",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_MageMonitoring/issues"
+                }
+            },
+            {
+                "name": "magento-hackathon/hackathon_magemonitoring",
+                "version": "dev-module/extender",
+                "version_normalized": "dev-module/extender",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_MageMonitoring.git",
+                    "reference": "fc095dea94a87c02d607fbe523c9ecbdea810939"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_MageMonitoring/zipball/fc095dea94a87c02d607fbe523c9ecbdea810939",
+                    "reference": "fc095dea94a87c02d607fbe523c9ecbdea810939",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-23T18:00:07+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "edannenberg"
+                    }
+                ],
+                "description": "Skeleton module for extending MageMonitoring",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_MageMonitoring.git",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_MageMonitoring/tree/module/extender",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_MageMonitoring/issues"
+                }
+            }
+        ]
+    }
+}

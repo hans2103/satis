@@ -1,0 +1,46 @@
+{
+    "packages": {
+        "kirchbergerknorr/seo-generator": [
+            {
+                "name": "kirchbergerknorr/seo-generator",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/kirchbergerknorr/seo-generator.git",
+                    "reference": "da903aa7494a2feb5b9cbe9a5e210ccf2d2c2b09"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/kirchbergerknorr/seo-generator/zipball/da903aa7494a2feb5b9cbe9a5e210ccf2d2c2b09",
+                    "reference": "da903aa7494a2feb5b9cbe9a5e210ccf2d2c2b09",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-06-05T12:27:29+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Aleksey Razbakov",
+                        "email": "aleksey@razbakov.com"
+                    }
+                ],
+                "description": "SEO Generator",
+                "keywords": [
+                    "generator",
+                    "magento",
+                    "seo"
+                ],
+                "support": {
+                    "source": "https://github.com/kirchbergerknorr/seo-generator/tree/master",
+                    "issues": "https://github.com/kirchbergerknorr/seo-generator/issues"
+                }
+            }
+        ]
+    }
+}

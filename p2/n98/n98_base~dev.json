@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "n98/n98_base": [
+            {
+                "name": "n98/N98_Base",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/netz98/N98_Base.git",
+                    "reference": "d76cce55971e5986ed91f787cac7c147eda111b5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/netz98/N98_Base/zipball/d76cce55971e5986ed91f787cac7c147eda111b5",
+                    "reference": "d76cce55971e5986ed91f787cac7c147eda111b5",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-01-17T06:23:23+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "netz98 new media GmbH",
+                        "email": "magento@netz98.de"
+                    }
+                ],
+                "description": "Base module for other modules of netz98",
+                "homepage": "https://github.com/netz98/N98_Base",
+                "support": {
+                    "source": "https://github.com/netz98/N98_Base/tree/master",
+                    "issues": "https://github.com/netz98/N98_Base/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/magehit_newproducts": [
+            {
+                "name": "connect20/Magehit_Newproducts",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Magehit_Newproducts/1.0.0/Magehit_Newproducts-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "MageHit",
+                        "email": "support@magehit.com"
+                    }
+                ],
+                "description": "New Products version 1.0.0"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/quickpay_payment_3": [
+            {
+                "name": "connect20/Quickpay_Payment_3",
+                "version": "3.1.0",
+                "version_normalized": "3.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Quickpay_Payment_3/3.1.0/Quickpay_Payment_3-3.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "TRIC Solutions",
+                        "email": "info@tric.dk"
+                    }
+                ],
+                "description": "A payment method that allows your customers to pay their orders with creditcards.\r\nThe extension even allows you to capture and refund amount directly from your backend as you create your invoices and creditmemo's."
+            }
+        ]
+    }
+}

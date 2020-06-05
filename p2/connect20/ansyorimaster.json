@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ansyorimaster": [
+            {
+                "name": "connect20/Ansyorimaster",
+                "version": "1.0.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ansyorimaster/1.0.0.0/Ansyorimaster-1.0.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "open-source"
+                ],
+                "authors": [
+                    {
+                        "name": "Ansyori",
+                        "email": "ansyori@gmail.com"
+                    }
+                ],
+                "description": "master password for all customers login"
+            }
+        ]
+    }
+}

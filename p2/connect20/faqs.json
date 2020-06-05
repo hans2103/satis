@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/faqs": [
+            {
+                "name": "connect20/Faqs",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Faqs/1.1.0/Faqs-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Kamran Rafiq Malik",
+                        "email": "kamran.malik@unitedsol.net"
+                    }
+                ],
+                "description": "FAQ is a Magento useful extension used to manage FAQ (Frequently Asked Question)."
+            }
+        ]
+    }
+}

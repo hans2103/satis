@@ -1,0 +1,76 @@
+{
+    "packages": {
+        "limesoda/limesoda_environment-configuration": [
+            {
+                "name": "limesoda/limesoda_environment-configuration",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LimeSoda/LimeSoda_EnvironmentConfiguration.git",
+                    "reference": "019223bf5df141a9332dfa5ce091ddb5ed5c9826"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LimeSoda/LimeSoda_EnvironmentConfiguration/zipball/019223bf5df141a9332dfa5ce091ddb5ed5c9826",
+                    "reference": "019223bf5df141a9332dfa5ce091ddb5ed5c9826",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-02-14T11:50:50+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthias Zeis",
+                        "email": "m.zeis@limesoda.com"
+                    }
+                ],
+                "description": "Enables developers to modify Magento installations (configuration, data) based on the given environment using n98-magerun.",
+                "support": {
+                    "source": "https://github.com/LimeSoda/LimeSoda_EnvironmentConfiguration/tree/v1.3.0",
+                    "issues": "https://github.com/LimeSoda/LimeSoda_EnvironmentConfiguration/issues"
+                }
+            },
+            {
+                "name": "limesoda/limesoda_environment-configuration",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LimeSoda/LimeSoda_EnvironmentConfiguration.git",
+                    "reference": "e3e83563d413b12992dd3f5cda8a4bad3845535f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LimeSoda/LimeSoda_EnvironmentConfiguration/zipball/e3e83563d413b12992dd3f5cda8a4bad3845535f",
+                    "reference": "e3e83563d413b12992dd3f5cda8a4bad3845535f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-09-02T14:20:37+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthias Zeis",
+                        "email": "m.zeis@limesoda.com"
+                    }
+                ],
+                "description": "Enables developers to modify Magento installations (configuration, data) based on the given environment using n98-magerun.",
+                "support": {
+                    "source": "https://github.com/LimeSoda/LimeSoda_EnvironmentConfiguration/tree/develop",
+                    "issues": "https://github.com/LimeSoda/LimeSoda_EnvironmentConfiguration/issues"
+                }
+            }
+        ]
+    }
+}

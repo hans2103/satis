@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "snowdog-apps/magento-translation-pl_pl": [
+            {
+                "name": "snowdog-apps/magento-translation-pl_pl",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SnowdogApps/Magento-Translation-pl_PL.git",
+                    "reference": "bce2c25176f7e470bf15aa6ffe3fa616e35c6028"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/SnowdogApps/Magento-Translation-pl_PL/zipball/bce2c25176f7e470bf15aa6ffe3fa616e35c6028",
+                    "reference": "bce2c25176f7e470bf15aa6ffe3fa616e35c6028",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-09-22T15:27:32+00:00",
+                "type": "magento-module",
+                "description": "Polish Translation package",
+                "homepage": "https://github.com/SnowdogApps/Magento-Translation-pl_PL",
+                "support": {
+                    "source": "https://github.com/SnowdogApps/Magento-Translation-pl_PL/tree/master",
+                    "issues": "https://github.com/SnowdogApps/Magento-Translation-pl_PL/issues"
+                }
+            }
+        ]
+    }
+}

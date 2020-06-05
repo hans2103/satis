@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/premius_simpleshipping": [
+            {
+                "name": "connect20/Premius_Simpleshipping",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Premius_Simpleshipping/1.2.0/Premius_Simpleshipping-1.2.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Artem Moroz",
+                        "email": "artem.moroz@gmail.com"
+                    }
+                ],
+                "description": "Add up to 10 simple fixed price shipping methods."
+            }
+        ]
+    }
+}

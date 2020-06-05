@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/pagofacil": [
+            {
+                "name": "connect20/pagofacil",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/pagofacil/2.0.0/pagofacil-2.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "isai velazquez",
+                        "email": "soporte@pagofacil.net"
+                    }
+                ],
+                "description": "Online Payment Processor"
+            },
+            {
+                "name": "connect20/pagofacil",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/pagofacil/3.0.0/pagofacil-3.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License"
+                ],
+                "authors": [
+                    {
+                        "name": "isai velazquez",
+                        "email": "isai.velazquez@gmail.com"
+                    }
+                ],
+                "description": "Online Payment Processor"
+            }
+        ]
+    }
+}

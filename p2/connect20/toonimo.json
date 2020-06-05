@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/toonimo": [
+            {
+                "name": "connect20/Toonimo",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Toonimo/1.0.0/Toonimo-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Toonimo",
+                        "email": "admin@toonimo.com"
+                    }
+                ],
+                "description": "Toonimo lets websites owners create custom-animations that guide site visitors through tricky parts of their websites (shopping carts, form fills, site navigation). "
+            }
+        ]
+    }
+}

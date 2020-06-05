@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sam_reviews": [
+            {
+                "name": "connect20/Sam_Reviews",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Sam_Reviews/0.1.0/Sam_Reviews-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Saurabh Sutariya",
+                        "email": "saurabh.sutariya664@gmail.com"
+                    }
+                ],
+                "description": "This is the extension for the Latest product reviews."
+            }
+        ]
+    }
+}

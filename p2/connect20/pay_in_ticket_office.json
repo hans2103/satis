@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/pay_in_ticket_office": [
+            {
+                "name": "connect20/pay_in_ticket_office",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/pay_in_ticket_office/0.1.1/pay_in_ticket_office-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Marcos Penhos",
+                        "email": "marcos@pengostores.com"
+                    }
+                ],
+                "description": "Allow your customers to buy a ticket and complete the payment at the Box Office or any other place"
+            }
+        ]
+    }
+}

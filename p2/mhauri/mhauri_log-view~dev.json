@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "mhauri/mhauri_log-view": [
+            {
+                "name": "mhauri/mhauri_log-view",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mhauri/Mhauri_LogView.git",
+                    "reference": "cb809d9f5ab6346eccf1a5aef020b61de29e23a7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mhauri/Mhauri_LogView/zipball/cb809d9f5ab6346eccf1a5aef020b61de29e23a7",
+                    "reference": "cb809d9f5ab6346eccf1a5aef020b61de29e23a7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-01T12:01:41+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Marcel Hauri",
+                        "email": "marcel@hauri.me"
+                    }
+                ],
+                "description": "This Magento extension allows you to read the logfiles stored in Magento's /var/log directory directly in the admin backend.",
+                "homepage": "https://github.com/mhauri/Mhauri_LogView",
+                "support": {
+                    "source": "https://github.com/mhauri/Mhauri_LogView/tree/master",
+                    "issues": "https://github.com/mhauri/Mhauri_LogView/issues"
+                }
+            }
+        ]
+    }
+}

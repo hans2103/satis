@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/theextensionlab_multiselectfilters": [
+            {
+                "name": "connect20/TheExtensionLab_MultiselectFilters",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/TheExtensionLab_MultiselectFilters/1.0.0/TheExtensionLab_MultiselectFilters-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "James Anelay",
+                        "email": "james@theextensionlab.com"
+                    }
+                ],
+                "description": "An extension that replaces the default single select dropdowns with multi-select dropdowns in Magento admin grids."
+            }
+        ]
+    }
+}

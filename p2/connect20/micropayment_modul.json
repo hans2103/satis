@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/micropayment_modul": [
+            {
+                "name": "connect20/micropayment_modul",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/micropayment_modul/2.0.0/micropayment_modul-2.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "micropayment gmbh",
+                        "email": "meliason@micropayment.de"
+                    }
+                ],
+                "description": "Micropayment GmbH payment gateway integration. Creditcard, Debit, Prepay, SOFORT "
+            },
+            {
+                "name": "connect20/micropayment_modul",
+                "version": "2.0.0.1",
+                "version_normalized": "2.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/micropayment_modul/2.0.0.1/micropayment_modul-2.0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "micropayment gmbh",
+                        "email": "meliason@micropayment.de"
+                    }
+                ],
+                "description": "Micropayment GmbH payment gateway integration. Creditcard, Debit, Prepay, SOFORT "
+            }
+        ]
+    }
+}

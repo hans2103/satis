@@ -1,0 +1,78 @@
+{
+    "packages": {
+        "semaio/magento1-singleproductcategoryredirect": [
+            {
+                "name": "semaio/magento1-singleproductcategoryredirect",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/semaio/Magento1-SingleProductCategoryRedirect.git",
+                    "reference": "178bfce27ad13a9e06bdf9d3f6d0d5159d8bcb5e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/semaio/Magento1-SingleProductCategoryRedirect/zipball/178bfce27ad13a9e06bdf9d3f6d0d5159d8bcb5e",
+                    "reference": "178bfce27ad13a9e06bdf9d3f6d0d5159d8bcb5e",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-04-02T12:58:36+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "therouv@googlemail.com"
+                    }
+                ],
+                "description": "Redirect directly to product if category contains only one product.",
+                "homepage": "https://github.com/semaio/Magento1-SingleProductCategoryRedirect",
+                "support": {
+                    "source": "https://github.com/semaio/Magento1-SingleProductCategoryRedirect/tree/1.0.0",
+                    "issues": "https://github.com/semaio/Magento1-SingleProductCategoryRedirect/issues"
+                }
+            },
+            {
+                "name": "semaio/magento1-singleproductcategoryredirect",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/semaio/Magento1-SingleProductCategoryRedirect.git",
+                    "reference": "d4304bbee6feae97e50d9eadf3c777a5044b89c6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/semaio/Magento1-SingleProductCategoryRedirect/zipball/d4304bbee6feae97e50d9eadf3c777a5044b89c6",
+                    "reference": "d4304bbee6feae97e50d9eadf3c777a5044b89c6",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-04-02T12:58:40+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "therouv@googlemail.com"
+                    }
+                ],
+                "description": "Redirect directly to product if category contains only one product.",
+                "homepage": "https://github.com/semaio/Magento1-SingleProductCategoryRedirect",
+                "support": {
+                    "source": "https://github.com/semaio/Magento1-SingleProductCategoryRedirect/tree/develop",
+                    "issues": "https://github.com/semaio/Magento1-SingleProductCategoryRedirect/issues"
+                }
+            }
+        ]
+    }
+}

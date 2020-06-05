@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ves_vadmin": [
+            {
+                "name": "connect20/VES_VAdmin",
+                "version": "1.0.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/VES_VAdmin/1.0.0.0/VES_VAdmin-1.0.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Vnecoms",
+                        "email": "hungvt@vnecoms.com"
+                    }
+                ],
+                "description": "VAdmin theme by VnEcoms"
+            }
+        ]
+    }
+}

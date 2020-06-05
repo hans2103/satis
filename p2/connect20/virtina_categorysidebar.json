@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/virtina_categorysidebar": [
+            {
+                "name": "connect20/Virtina_Categorysidebar",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Virtina_Categorysidebar/0.0.1/Virtina_Categorysidebar-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Virtina",
+                        "email": "gigijk@virtina.com"
+                    }
+                ],
+                "description": "Virtina brings you 'Category Sidebar Navigation' extension that provides you an efficient method to customize traditional category sidebar."
+            }
+        ]
+    }
+}

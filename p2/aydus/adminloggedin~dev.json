@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "aydus/adminloggedin": [
+            {
+                "name": "aydus/adminloggedin",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/AdminLoggedIn.git",
+                    "reference": "825b74a817ad45e7c93af4f7687a71e13bd27123"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/AdminLoggedIn/zipball/825b74a817ad45e7c93af4f7687a71e13bd27123",
+                    "reference": "825b74a817ad45e7c93af4f7687a71e13bd27123",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2015-05-27T02:28:30+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "davidt@aydus.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Helper module to check if you're logged in as admin on the front end. Maybe be useful for debugging purposes.",
+                "homepage": "https://github.com/aydus/AdminLoggedIn.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/AdminLoggedIn/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/AdminLoggedIn/issues"
+                }
+            }
+        ]
+    }
+}

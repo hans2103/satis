@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/cashcloud_payments": [
+            {
+                "name": "connect20/cashcloud_payments",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/cashcloud_payments/0.0.2/cashcloud_payments-0.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "\n----Creative-Commons-Attribution-4.0-International\n----License"
+                ],
+                "authors": [
+                    {
+                        "name": "cashcloud",
+                        "email": "olaf.taupitz@cashcloud.com"
+                    }
+                ],
+                "description": "CashCloud payments"
+            },
+            {
+                "name": "connect20/cashcloud_payments",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/cashcloud_payments/0.2.0/cashcloud_payments-0.2.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Creative-Commons-Attribution-4.0-International-License"
+                ],
+                "authors": [
+                    {
+                        "name": "cashcloud",
+                        "email": "olaf.taupitz@cashcloud.com"
+                    }
+                ],
+                "description": "Cashcloud Payments"
+            }
+        ]
+    }
+}

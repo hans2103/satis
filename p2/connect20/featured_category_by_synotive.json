@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/featured_category_by_synotive": [
+            {
+                "name": "connect20/Featured_Category_By_Synotive",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Featured_Category_By_Synotive/1.1.0/Featured_Category_By_Synotive-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Synotive Technologies",
+                        "email": "magento@synotive.com"
+                    }
+                ],
+                "description": "Featured Category provides the functionality to show categories in home page."
+            }
+        ]
+    }
+}

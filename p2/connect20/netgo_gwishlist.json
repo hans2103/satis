@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/netgo_gwishlist": [
+            {
+                "name": "connect20/Netgo_Gwishlist",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Netgo_Gwishlist/1.0.0/Netgo_Gwishlist-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "NetGo",
+                        "email": "netattingomails@gmail.com"
+                    }
+                ],
+                "description": "This extension is specifically for the feature of enabling wishlist for the customer even though they are log in or not."
+            },
+            {
+                "name": "connect20/Netgo_Gwishlist",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Netgo_Gwishlist/1.0.1/Netgo_Gwishlist-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "NetGo",
+                        "email": "netattingomails@gmail.com"
+                    }
+                ],
+                "description": "This extension is specifically for the feature of enabling wishlist for the customer even though they are log in or not."
+            }
+        ]
+    }
+}

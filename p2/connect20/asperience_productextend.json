@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/asperience_productextend": [
+            {
+                "name": "connect20/Asperience_Productextend",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Asperience_Productextend/0.1.1/Asperience_Productextend-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Jean-Sébastien Hederer",
+                        "email": "hedererjs@asperience.fr"
+                    }
+                ],
+                "description": "Module allowing to send product alerts in internal and to historize promotions."
+            },
+            {
+                "name": "connect20/Asperience_Productextend",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Asperience_Productextend/0.1.2/Asperience_Productextend-0.1.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Jean-Sébastien Hederer",
+                        "email": "hedererjs@asperience.fr"
+                    }
+                ],
+                "description": "Module allowing to send product alerts in internal and to historize promotions."
+            }
+        ]
+    }
+}

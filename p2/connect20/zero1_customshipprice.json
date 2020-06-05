@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/zero1_customshipprice": [
+            {
+                "name": "connect20/Zero1_Customshipprice",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Zero1_Customshipprice/1.0.0/Zero1_Customshipprice-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "authors": [
+                    {
+                        "name": "Arron Moss",
+                        "email": "arron.moss@zero1.co.uk"
+                    }
+                ],
+                "description": "Set a custom shipping price in Admin for orders"
+            },
+            {
+                "name": "connect20/Zero1_Customshipprice",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Zero1_Customshipprice/1.0.1/Zero1_Customshipprice-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "authors": [
+                    {
+                        "name": "Arron Moss",
+                        "email": "arron.moss@zero1.co.uk"
+                    }
+                ],
+                "description": "Set a custom shipping price in Admin for orders"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/svsmagentostore": [
+            {
+                "name": "connect20/SVSMagentoStore",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SVSMagentoStore/1.0.0/SVSMagentoStore-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "SVS WEBSOFT",
+                        "email": "office@svs-websoft.com"
+                    }
+                ],
+                "description": "Free Magento Themes"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ifpc_slider": [
+            {
+                "name": "connect20/IFPC_Slider",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/IFPC_Slider/1.0.0.1/IFPC_Slider-1.0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSLv3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "iMedia inc.",
+                        "email": "sachin@imediadesigns.org"
+                    }
+                ],
+                "description": "iMedia Featured Product Countdown Slider"
+            }
+        ]
+    }
+}

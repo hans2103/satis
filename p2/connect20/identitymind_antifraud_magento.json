@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/identitymind_antifraud_magento": [
+            {
+                "name": "connect20/IdentityMind_AntiFraud_Magento",
+                "version": "1.0.24",
+                "version_normalized": "1.0.24.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/IdentityMind_AntiFraud_Magento/1.0.24/IdentityMind_AntiFraud_Magento-1.0.24.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Jose Caldera",
+                        "email": "jose@identitymind.com"
+                    }
+                ],
+                "description": "IdentityMind Anti Fraud and Risk Management Platform Integration"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "integer-net/magento-localized-nl": [
+            {
+                "name": "integer-net/magento-localized-nl",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/MagentoLocalizedNL.git",
+                    "reference": "dec1e2b46ab46c9d26e423606db5a9c2b5f2568b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/MagentoLocalizedNL/zipball/dec1e2b46ab46c9d26e423606db5a9c2b5f2568b",
+                    "reference": "dec1e2b46ab46c9d26e423606db5a9c2b5f2568b",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-11-24T16:48:06+00:00",
+                "type": "magento-module",
+                "description": "Dutch Localization package for Magento Localized (aka Magento NL)",
+                "homepage": "https://github.com/integer-net/MagentoLocalizedNL",
+                "support": {
+                    "source": "https://github.com/integer-net/MagentoLocalizedNL/tree/master",
+                    "issues": "https://github.com/integer-net/MagentoLocalizedNL/issues"
+                }
+            }
+        ]
+    }
+}

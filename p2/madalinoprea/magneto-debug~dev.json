@@ -1,0 +1,94 @@
+{
+    "packages": {
+        "madalinoprea/magneto-debug": [
+            {
+                "name": "madalinoprea/magneto-debug",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/madalinoprea/magneto-debug.git",
+                    "reference": "1be899de1469faaafd79dbd17d8b45cf5f73d91d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/madalinoprea/magneto-debug/zipball/1be899de1469faaafd79dbd17d8b45cf5f73d91d",
+                    "reference": "1be899de1469faaafd79dbd17d8b45cf5f73d91d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "suggest": {
+                    "ecomdev/ecomdev_phpunit": "Allows to verify compatibility by running module's unit tests"
+                },
+                "time": "2017-10-12T15:21:46+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Madalin Oprea (Mario)"
+                    }
+                ],
+                "description": "Development Debug Toolbar for Magento 1.x",
+                "homepage": "https://github.com/madalinoprea/magneto-debug",
+                "keywords": [
+                    "Magento",
+                    "logging",
+                    "performance"
+                ],
+                "support": {
+                    "wiki": "https://github.com/madalinoprea/magneto-debug/wiki",
+                    "issues": "https://github.com/madalinoprea/magneto-debug/issues",
+                    "source": "https://github.com/madalinoprea/magneto-debug"
+                }
+            },
+            {
+                "name": "madalinoprea/magneto-debug",
+                "version": "dev-release/1.8.2",
+                "version_normalized": "dev-release/1.8.2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/madalinoprea/magneto-debug.git",
+                    "reference": "de8da3ada173c71daa6ff98bba16107867ce2d88"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/madalinoprea/magneto-debug/zipball/de8da3ada173c71daa6ff98bba16107867ce2d88",
+                    "reference": "de8da3ada173c71daa6ff98bba16107867ce2d88",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "suggest": {
+                    "ecomdev/ecomdev_phpunit": "Allows to verify compatibility by running module's unit tests"
+                },
+                "time": "2017-02-03T05:22:57+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Madalin Oprea (Mario)"
+                    }
+                ],
+                "description": "Development Debug Toolbar for Magento 1.x",
+                "homepage": "https://github.com/madalinoprea/magneto-debug",
+                "keywords": [
+                    "Magento",
+                    "logging",
+                    "performance"
+                ],
+                "support": {
+                    "wiki": "https://github.com/madalinoprea/magneto-debug/wiki",
+                    "issues": "https://github.com/madalinoprea/magneto-debug/issues",
+                    "source": "https://github.com/madalinoprea/magneto-debug"
+                }
+            }
+        ]
+    }
+}

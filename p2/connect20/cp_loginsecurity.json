@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/cp_loginsecurity": [
+            {
+                "name": "connect20/CP_LoginSecurity",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CP_LoginSecurity/0.0.1/CP_LoginSecurity-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Commerce Pundit",
+                        "email": "magento@commercepundit.com"
+                    }
+                ],
+                "description": "Customer Login Security"
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "community-engineering/module-japanese-name": [
+            {
+                "name": "community-engineering/module-japanese-name",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/community-engineering/module-japanese-name/community-engineering-module-japanese-name-1.0.0.0.zip",
+                    "shasum": "7c5257a79707302c2cf1c72e3623bde5021b590f"
+                },
+                "require": {
+                    "magento/framework": "^102.0.0",
+                    "magento/module-checkout": "^100.3.0",
+                    "magento/module-customer": "^102.0.0",
+                    "magento/module-eav": "^102.0.0",
+                    "magento/module-quote": "^101.1.0",
+                    "magento/module-sales": "^102.0.0",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "CommunityEngineering\\JapaneseName\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Hirokazu Nishi",
+                        "email": "nishi@veriteworks.co.jp",
+                        "homepage": "https://veriteworks.co.jp/",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Magento2 extension for Japanese names Kana."
+            }
+        ]
+    }
+}

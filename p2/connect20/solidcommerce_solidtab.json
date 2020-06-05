@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/solidcommerce_solidtab": [
+            {
+                "name": "connect20/SolidCommerce_SolidTab",
+                "version": "0.0.3",
+                "version_normalized": "0.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SolidCommerce_SolidTab/0.0.3/SolidCommerce_SolidTab-0.0.3.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.5.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Solid Commerce",
+                        "email": "Contact@solidcommerce.com"
+                    }
+                ],
+                "description": "This extension will install a tab in the admin page which enables Solid Commerce customers to conveniently manage their account inside Magento."
+            }
+        ]
+    }
+}

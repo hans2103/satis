@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "flagbit/magento-changeattributeset": [
+            {
+                "name": "flagbit/magento-changeattributeset",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/flagbit/Magento-ChangeAttributeSet.git",
+                    "reference": "0e118d4a91bc3894e8911c5943c1c4114142f196"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/flagbit/Magento-ChangeAttributeSet/zipball/0e118d4a91bc3894e8911c5943c1c4114142f196",
+                    "reference": "0e118d4a91bc3894e8911c5943c1c4114142f196",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-05-27T07:11:44+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "src"
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "flagbit",
+                        "email": "info@flagbit.de"
+                    }
+                ],
+                "description": "In Magento every product has a fixed attibute set. This module enables you to switch it.",
+                "support": {
+                    "source": "https://github.com/flagbit/Magento-ChangeAttributeSet/tree/master",
+                    "issues": "https://github.com/flagbit/Magento-ChangeAttributeSet/issues"
+                }
+            }
+        ]
+    }
+}

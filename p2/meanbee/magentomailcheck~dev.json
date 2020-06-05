@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "meanbee/magentomailcheck": [
+            {
+                "name": "meanbee/magentomailcheck",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/meanbee/magento-mailcheck.git",
+                    "reference": "e5ced3443242d956a1d4063c598b68b88a4e8650"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/meanbee/magento-mailcheck/zipball/e5ced3443242d956a1d4063c598b68b88a4e8650",
+                    "reference": "e5ced3443242d956a1d4063c598b68b88a4e8650",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-09-14T14:39:43+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Tom Robertshaw",
+                        "email": "{firstname}.{lastname}@meanbee.com"
+                    }
+                ],
+                "description": "Mailcheck integration with Magento for reducing user-misspelled email addresses in forms.",
+                "homepage": "https://github.com/meanbee/MagentoMailcheck",
+                "support": {
+                    "source": "https://github.com/meanbee/magento-mailcheck/tree/v1.0",
+                    "issues": "https://github.com/meanbee/magento-mailcheck/issues"
+                }
+            }
+        ]
+    }
+}

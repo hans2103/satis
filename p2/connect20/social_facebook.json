@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/social_facebook": [
+            {
+                "name": "connect20/Social_Facebook",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Social_Facebook/2.1.0/Social_Facebook-2.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Facebook Open Graph Extension for Magento"
+            }
+        ]
+    }
+}

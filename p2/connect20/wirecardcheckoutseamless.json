@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/wirecardcheckoutseamless": [
+            {
+                "name": "connect20/WirecardCheckoutSeamless",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/wirecard_checkout_seamless/4.0.0/wirecard_checkout_seamless-4.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-Version-2-(GPLv2)"
+                ],
+                "authors": [
+                    {
+                        "name": "WirecardCEE",
+                        "email": "support.at@wirecard.com"
+                    }
+                ],
+                "description": "Integration of all popular payment methods seamlessly and PCI DSS compliant into your online shop."
+            }
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "packages": {
+        "aijko/aijko_widgetimagechooser": [
+            {
+                "name": "aijko/aijko_widgetimagechooser",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aijko/aijko-widgetimagechooser.git",
+                    "reference": "f2f373ad61dc46fc7b58dcab50a9fd80a7692154"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aijko/aijko-widgetimagechooser/zipball/f2f373ad61dc46fc7b58dcab50a9fd80a7692154",
+                    "reference": "f2f373ad61dc46fc7b58dcab50a9fd80a7692154",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-11-10T09:17:35+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Gerrit Pechmann",
+                        "email": "gp@aijko.de"
+                    }
+                ],
+                "description": "Widget Image Chooser",
+                "support": {
+                    "source": "https://github.com/aijko/aijko-widgetimagechooser/tree/0.4.0",
+                    "issues": "https://github.com/aijko/aijko-widgetimagechooser/issues"
+                }
+            },
+            {
+                "name": "aijko/aijko_widgetimagechooser",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aijko/aijko-widgetimagechooser.git",
+                    "reference": "79e7ca8891d4e848ebc90ff7be3ca4bd82f74671"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aijko/aijko-widgetimagechooser/zipball/79e7ca8891d4e848ebc90ff7be3ca4bd82f74671",
+                    "reference": "79e7ca8891d4e848ebc90ff7be3ca4bd82f74671",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-01-24T09:47:06+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Gerrit Pechmann",
+                        "email": "gp@aijko.de"
+                    }
+                ],
+                "description": "Widget Image Chooser",
+                "support": {
+                    "source": "https://github.com/aijko/aijko-widgetimagechooser/tree/develop",
+                    "issues": "https://github.com/aijko/aijko-widgetimagechooser/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "packages": {
+        "netzarbeiter/groups-catalog2": [
+            {
+                "name": "netzarbeiter/groups-catalog2",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Vinai/groupscatalog2.git",
+                    "reference": "23cdaa3681c06d90dda723af0712cb796409cfb6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Vinai/groupscatalog2/zipball/23cdaa3681c06d90dda723af0712cb796409cfb6",
+                    "reference": "23cdaa3681c06d90dda723af0712cb796409cfb6",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "ivanchepurnyi/ecomdev_phpunit": "*"
+                },
+                "time": "2019-03-13T09:55:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Magento extension to hide categories and products from customers depending on their customer group.",
+                "homepage": "https://github.com/Vinai/groupscatalog2",
+                "support": {
+                    "source": "https://github.com/Vinai/groupscatalog2/tree/master",
+                    "issues": "https://github.com/Vinai/groupscatalog2/issues"
+                }
+            },
+            {
+                "name": "netzarbeiter/groups-catalog2",
+                "version": "dev-dev",
+                "version_normalized": "dev-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Vinai/groupscatalog2.git",
+                    "reference": "2b3f7f1abcc3e57c48d51d6bbf4577acdccf5a46"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Vinai/groupscatalog2/zipball/2b3f7f1abcc3e57c48d51d6bbf4577acdccf5a46",
+                    "reference": "2b3f7f1abcc3e57c48d51d6bbf4577acdccf5a46",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "ivanchepurnyi/ecomdev_phpunit": "*"
+                },
+                "time": "2013-11-25T11:00:18+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Magento extension to hide categories and products from customers depending on their customer group.",
+                "homepage": "https://github.com/Vinai/groupscatalog2",
+                "support": {
+                    "source": "https://github.com/Vinai/groupscatalog2/tree/dev",
+                    "issues": "https://github.com/Vinai/groupscatalog2/issues"
+                }
+            }
+        ]
+    }
+}

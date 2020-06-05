@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/js-css-for-sb": [
+            {
+                "name": "connect20/js-css-for-sb",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/js-css-for-sb/1.0.0/js-css-for-sb-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rajeev K Tomy",
+                        "email": "rajeevphpdeveloper@gmail.com"
+                    }
+                ],
+                "description": "A Magento Extension that will allow to add javascript and css for static blocks. "
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "packages": {
+        "ebayenterprise/php-dom": [
+            {
+                "name": "ebayenterprise/php-dom",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/eBayEnterprise/php-dom.git",
+                    "reference": "92c67f41d543588810874dc7d37b08cb12153a14"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/eBayEnterprise/php-dom/zipball/92c67f41d543588810874dc7d37b08cb12153a14",
+                    "reference": "92c67f41d543588810874dc7d37b08cb12153a14",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "pdepend/pdepend": ">=1.1",
+                    "phpdocumentor/phpdocumentor": ">=2.4",
+                    "phploc/phploc": ">=2.0",
+                    "phpmd/phpmd": ">=1.5",
+                    "phpunit/phpunit": ">=3",
+                    "sebastian/phpcpd": ">=2.0",
+                    "squizlabs/php_codesniffer": ">=1.5"
+                },
+                "time": "2015-11-17T15:56:37+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael A. Smith",
+                        "email": "msmith3@ebay.com"
+                    },
+                    {
+                        "name": "Michael Phang",
+                        "email": "mphang@ebay.com"
+                    },
+                    {
+                        "name": "Mike West",
+                        "email": "micwest@ebay.com"
+                    },
+                    {
+                        "name": "Reginald Gabriel",
+                        "email": "rgabriel@ebay.com"
+                    },
+                    {
+                        "name": "Scott van Brug",
+                        "email": "svanbrug@ebay.com"
+                    }
+                ],
+                "description": "eBay Enterprise Convenience Wrapper for PHP DOM",
+                "support": {
+                    "source": "https://github.com/eBayEnterprise/php-dom/tree/master",
+                    "issues": "https://github.com/eBayEnterprise/php-dom/issues"
+                }
+            }
+        ]
+    }
+}

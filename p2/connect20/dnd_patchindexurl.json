@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/dnd_patchindexurl": [
+            {
+                "name": "connect20/Dnd_Patchindexurl",
+                "version": "1.0.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Dnd_Patchindexurl/1.0.0.0/Dnd_Patchindexurl-1.0.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Extension-license-name-(OSL-v3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Agence Dn'D",
+                        "email": "agencednd@gmail.com"
+                    }
+                ],
+                "description": "Patch Index Url"
+            }
+        ]
+    }
+}

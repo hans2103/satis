@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/rybonscoupon": [
+            {
+                "name": "connect20/RybonsCoupon",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/RybonsCoupon/1.0.0/RybonsCoupon-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Panthelope Tech",
+                        "email": "klipsedeville@gmail.com"
+                    }
+                ],
+                "description": "Offer your shoppers discount coupons from Rybons.com.ng. Visit rybons.com.ng to register your store."
+            }
+        ]
+    }
+}

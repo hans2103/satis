@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/nfusionsolutions_productpricing": [
+            {
+                "name": "connect20/Nfusionsolutions_ProductPricing",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Nfusionsolutions_ProductPricing/1.0.0/Nfusionsolutions_ProductPricing-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "nFusion Solutions",
+                        "email": "support@nfusionsolutions.com"
+                    }
+                ],
+                "description": "This extension adds the capability in Magento to import product prices from nFusion Solutions' reliable, enterprise-class cloud platform for global financial data."
+            }
+        ]
+    }
+}

@@ -1,0 +1,3357 @@
+{
+    "packages": {
+        "magento/project-community-edition": [
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.0.0.zip",
+                    "shasum": "3350788ad4f9d656f12f85230c9686607ad7cb2b"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.0"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.0.6",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.1.0.zip",
+                    "shasum": "6a04fa326d884a785bca62de69cb65955e5dc343"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.1"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.10",
+                "version_normalized": "2.0.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.10.0.zip",
+                    "shasum": "aa449333962bc5fb4b646643ae90118cb2415943"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.10"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "2.3.*",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.11",
+                "version_normalized": "2.0.11.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.11.0.zip",
+                    "shasum": "039289f376c1a9627cea7f8f15163ceca4477e29"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.11"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "2.3.*",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.12",
+                "version_normalized": "2.0.12.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.12.0.zip",
+                    "shasum": "26e4763645617dda2baee9dfb29d85cd79e4516a"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.12"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "2.3.*",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.13",
+                "version_normalized": "2.0.13.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.13.0.zip",
+                    "shasum": "79b0c57943b50ae204f34187a762afc662667570"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.13"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "2.3.*",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.14",
+                "version_normalized": "2.0.14.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.14.0.zip",
+                    "shasum": "3a132f2b09a49ca6814cfd8656681147b51846a3"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.14"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "2.3.*",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.15",
+                "version_normalized": "2.0.15.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.15.0.zip",
+                    "shasum": "9351db726c2b49252c2eef29f63e8bf7179955b9"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.15"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "2.3.*",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.16",
+                "version_normalized": "2.0.16.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.16.0.zip",
+                    "shasum": "cf8198e7aa6699ef4da31515a2af7a9b51555bde"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.16"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "2.3.*",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.17",
+                "version_normalized": "2.0.17.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.17.0.zip",
+                    "shasum": "f9597bbf8f520021014cad32b3d851227cdfebb1"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.17"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "2.3.*",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.18",
+                "version_normalized": "2.0.18.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.18.0.zip",
+                    "shasum": "d468e0b1e817bc34cbaf089832e733a7fcb4c624"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.18"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "2.3.*",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.2.0.zip",
+                    "shasum": "1475df72f03544d2be8d1318daac1c901e21da83"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.2"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.3",
+                "version_normalized": "2.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.3.0.zip",
+                    "shasum": "e4dec744e85f4915bc4060810127898022f5ee6c"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.3"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "2.3.*",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.4",
+                "version_normalized": "2.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.4.0.zip",
+                    "shasum": "a30cffeece9dd66dfb2293ace3e5fbe5050b8f9d"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.4"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "2.3.*",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.5",
+                "version_normalized": "2.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.5.0.zip",
+                    "shasum": "84c8c88fa91dc8bddd7f94557876862bf1557e10"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.5"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "2.3.*",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.6",
+                "version_normalized": "2.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.6.0.zip",
+                    "shasum": "380be0d4d4b7bfb55f5462a1ff74fea6258c41a2"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.6"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "2.3.*",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.7",
+                "version_normalized": "2.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.7.0.zip",
+                    "shasum": "96f754a0edbe08e8c7e32b1438ff7d5601806569"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.7"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "2.3.*",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.8",
+                "version_normalized": "2.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.8.0.zip",
+                    "shasum": "96020dafb01c8d355d1a08155805ffcdcd4e451c"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.8"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "2.3.*",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.0.9",
+                "version_normalized": "2.0.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.0.9.0.zip",
+                    "shasum": "1111e913f28ab134291942f715d551f8fa4a3ec6"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.0.9"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "2.3.*",
+                    "phpunit/phpunit": "4.1.0",
+                    "sjparkinson/static-review": "~4.1",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.0.0.zip",
+                    "shasum": "e9d818fdea5c2b83032281137ded994d0a11e1b6"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.0"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.0-rc1",
+                "version_normalized": "2.1.0.0-RC1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.0.0-RC1.zip",
+                    "shasum": "9fecdbf3364a748b8c924ed873ce30a6d3800870"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.0-rc1"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.0-rc2",
+                "version_normalized": "2.1.0.0-RC2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.0.0-RC2.zip",
+                    "shasum": "b1a49a2bd42059609b2b0f507f45615e404d2a4e"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.0-rc2"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.0-rc3",
+                "version_normalized": "2.1.0.0-RC3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.0.0-RC3.zip",
+                    "shasum": "64817c1a4f881ad524fe1f0ccc88f0ef5bf3897f"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.0-rc3"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.1.0.zip",
+                    "shasum": "d568bec8039e0de9d08e7360d818ebea17d2cc9b"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.1"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.10",
+                "version_normalized": "2.1.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.10.0.zip",
+                    "shasum": "6be21f411e24ab22a1a68558db3bc367c87eb721"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.10"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.11",
+                "version_normalized": "2.1.11.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.11.0.zip",
+                    "shasum": "d4d2caaebcdb0e9c93495d6d39899457c59b404e"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.11"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.12",
+                "version_normalized": "2.1.12.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.12.0.zip",
+                    "shasum": "bf1af164e091e7b91c7d59a2b6f5c53f7a748289"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.12"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.13",
+                "version_normalized": "2.1.13.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.13.0.zip",
+                    "shasum": "d7de6645580af35bbe8a0e705b913eee6e71b21b"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.13"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.14",
+                "version_normalized": "2.1.14.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.14.0.zip",
+                    "shasum": "7f0f6df3ea2dae64a824cac8c0307fe4b5aa1707"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.14"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.15",
+                "version_normalized": "2.1.15.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.15.0.zip",
+                    "shasum": "a4d9b5221b774905ee118159dd9676ec7f24a30b"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.15"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.16",
+                "version_normalized": "2.1.16.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.16.0.zip",
+                    "shasum": "e31bd82b1981ee18682ac2dbe3a65d4775a2b0a8"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.16"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "pdepend/pdepend": "2.5.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.17",
+                "version_normalized": "2.1.17.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.17.0.zip",
+                    "shasum": "f93c16ff674a0239899fd6e00c6d5a19139b8f95"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.17"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "pdepend/pdepend": "2.5.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.18",
+                "version_normalized": "2.1.18.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.18.0.zip",
+                    "shasum": "4b65bda23dfc413a7d0dd1587adc05da78c04cad"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.18"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.8.10",
+                    "pdepend/pdepend": "2.5.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.2",
+                "version_normalized": "2.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.2.0.zip",
+                    "shasum": "a46f5f847df4166d484262eade9de9f47cb1f865"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.2"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.3",
+                "version_normalized": "2.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.3.0.zip",
+                    "shasum": "59304c35627c7c35566e6206fa2158211c63b5c0"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.3"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.4",
+                "version_normalized": "2.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.4.0.zip",
+                    "shasum": "d7d81b5f559d4b7414422abd0d8fcfb85582335d"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.4"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.5",
+                "version_normalized": "2.1.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.5.0.zip",
+                    "shasum": "f6cb1a3b6d37afa12ccb2a7b1e5f7497aac5ed43"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.5"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.6",
+                "version_normalized": "2.1.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.6.0.zip",
+                    "shasum": "4318beb32ab70c0d49f32b8e46172bd95afc143d"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.6"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.2.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.7",
+                "version_normalized": "2.1.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.7.0.zip",
+                    "shasum": "4e5d574a2574b8eacc876f1f150c53380cdbdbd5"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.7"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.8",
+                "version_normalized": "2.1.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.8.0.zip",
+                    "shasum": "b29edb3159570c0b13add12d0c44897f24fad286"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.8"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.1.9",
+                "version_normalized": "2.1.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.1.9.0.zip",
+                    "shasum": "eae1ea064418151e63d4bd474873388efea6d1e9"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.1.9"
+                },
+                "require-dev": {
+                    "fabpot/php-cs-fixer": "~1.2",
+                    "lusitanian/oauth": "~0.3 <=0.7.0",
+                    "pdepend/pdepend": "2.4.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "4.1.0",
+                    "sebastian/phpcpd": "2.0.0",
+                    "squizlabs/php_codesniffer": "1.5.3"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": "app/code/"
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.2.0.0.zip",
+                    "shasum": "ba25dc9e2fd6706ae1633219307da46fd78f8c89"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.2.0"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "lusitanian/oauth": "~0.8.10",
+                    "pdepend/pdepend": "2.5.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "3.0.1"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.2.0-rc20",
+                "version_normalized": "2.2.0.0-RC20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.2.0.0-RC20.zip",
+                    "shasum": "05f2ce12429f6075959450fea916e6f282d80ac9"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.2.0-rc20"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "lusitanian/oauth": "~0.8.10",
+                    "pdepend/pdepend": "2.5.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "3.0.1"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.2.0-rc21",
+                "version_normalized": "2.2.0.0-RC21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.2.0.0-RC21.zip",
+                    "shasum": "5e6e5aa7f89851855fb0ded90d666c33330503bc"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.2.0-rc21"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "lusitanian/oauth": "~0.8.10",
+                    "pdepend/pdepend": "2.5.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "3.0.1"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.2.0-rc22",
+                "version_normalized": "2.2.0.0-RC22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.2.0.0-RC22.zip",
+                    "shasum": "219c615df5ec44bb0730603fdcbf63c17d5fe3ed"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.2.0-rc22"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "lusitanian/oauth": "~0.8.10",
+                    "pdepend/pdepend": "2.5.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "3.0.1"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.2.0-rc23",
+                "version_normalized": "2.2.0.0-RC23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.2.0.0-RC23.zip",
+                    "shasum": "21cf461b3a07e77cd82aaef71d666fc01ebf2c13"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.2.0-rc23"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "lusitanian/oauth": "~0.8.10",
+                    "pdepend/pdepend": "2.5.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "3.0.1"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.2.0-rc30",
+                "version_normalized": "2.2.0.0-RC30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.2.0.0-RC30.zip",
+                    "shasum": "de71f1dc8d1cf05feb565cffdf094efcd0eb4c59"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.2.0-rc30"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "lusitanian/oauth": "~0.8.10",
+                    "pdepend/pdepend": "2.5.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "3.0.1"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.2.1",
+                "version_normalized": "2.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.2.1.0.zip",
+                    "shasum": "a6f6f108ace1c47ad56090664c9f1dd2393b50b3"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.2.1"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.1.1",
+                    "lusitanian/oauth": "~0.8.10",
+                    "pdepend/pdepend": "2.5.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "3.0.1"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.2.10",
+                "version_normalized": "2.2.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.2.10.0.zip",
+                    "shasum": "df037713fc71f535cb72ef15acfd6b5441d3dc19"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.2.10"
+                },
+                "require-dev": {
+                    "allure-framework/allure-phpunit": "~1.2.0",
+                    "friendsofphp/php-cs-fixer": "~2.2.1",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento2-functional-testing-framework": "2.4.5",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "3.2.2"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/",
+                            "generated/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.2.11",
+                "version_normalized": "2.2.11.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.2.11.0.zip",
+                    "shasum": "4b12359708e320c64f663c0c6b3b73c4ff3465f2"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.2.11"
+                },
+                "require-dev": {
+                    "allure-framework/allure-phpunit": "~1.2.0",
+                    "friendsofphp/php-cs-fixer": "~2.2.1",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento2-functional-testing-framework": "2.5.3",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "3.2.2"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/",
+                            "generated/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.2.2",
+                "version_normalized": "2.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.2.2.0.zip",
+                    "shasum": "6044003eb5e2373bf6948fa27378e7d11ed09567"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.2.2"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.2.0",
+                    "lusitanian/oauth": "~0.8.10",
+                    "pdepend/pdepend": "2.5.0",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "3.1.1"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.2.3",
+                "version_normalized": "2.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.2.3.0.zip",
+                    "shasum": "d3049bca496be899a15bc56a5ca59fbf314221d8"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.2.3"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.2.0",
+                    "lusitanian/oauth": "~0.8.10",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "3.2.2"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.2.4",
+                "version_normalized": "2.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.2.4.0.zip",
+                    "shasum": "73db99be42b0417f29252e11adde7c06c17c040d"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.2.4"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.2.1",
+                    "lusitanian/oauth": "~0.8.10",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "3.2.2"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.2.5",
+                "version_normalized": "2.2.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.2.5.0.zip",
+                    "shasum": "31afb33b464a23d5fc0ae634ec85ccbf507ffe52"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.2.5"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.2.1",
+                    "lusitanian/oauth": "~0.8.10",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "3.2.2"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.2.6",
+                "version_normalized": "2.2.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.2.6.0.zip",
+                    "shasum": "697375c3588ead4972ed065d5fad607510e1aa80"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.2.6"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.2.1",
+                    "lusitanian/oauth": "~0.8.10",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "3.2.2"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/",
+                            "generated/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.2.7",
+                "version_normalized": "2.2.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.2.7.0.zip",
+                    "shasum": "8b3f8887e11e0bcc1c46ec881de36ffdbf238ac2"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.2.7"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.2.1",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento2-functional-testing-framework": "2.3.8",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "3.2.2"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/",
+                            "generated/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.2.8",
+                "version_normalized": "2.2.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.2.8.0.zip",
+                    "shasum": "2961e8ddca00162d5beeaf12a4877584c5e55c8e"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.2.8"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.2.1",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento2-functional-testing-framework": "2.3.13",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "3.2.2"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/",
+                            "generated/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.2.9",
+                "version_normalized": "2.2.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.2.9.0.zip",
+                    "shasum": "cd3512ece92f0adc8f876959d12ab1ce79ae9ceb"
+                },
+                "require": {
+                    "composer/composer": "@alpha",
+                    "magento/product-community-edition": "2.2.9"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.2.1",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento2-functional-testing-framework": "2.3.13",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.2.0",
+                    "sebastian/phpcpd": "2.0.4",
+                    "squizlabs/php_codesniffer": "3.2.2"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/",
+                            "generated/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.3.0",
+                "version_normalized": "2.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.3.0.0.zip",
+                    "shasum": "8452e733a62eb3b9c104d80cc9dac2f5004b3895"
+                },
+                "require": {
+                    "magento/product-community-edition": "2.3.0"
+                },
+                "conflict": {
+                    "gene/bluefoot": "*"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2.13.0",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento2-functional-testing-framework": "2.3.9",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.5.0",
+                    "sebastian/phpcpd": "~3.0.0",
+                    "squizlabs/php_codesniffer": "3.3.1"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/",
+                        "Zend\\Mvc\\Controller\\": "setup/src/Zend/Mvc/Controller/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/",
+                            "generated/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.3.1",
+                "version_normalized": "2.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.3.1.0.zip",
+                    "shasum": "29d230a07209eb80c8cebe330c33bcaf635d68c3"
+                },
+                "require": {
+                    "magento/product-community-edition": "2.3.1"
+                },
+                "conflict": {
+                    "gene/bluefoot": "*"
+                },
+                "require-dev": {
+                    "allure-framework/allure-phpunit": "~1.2.0",
+                    "friendsofphp/php-cs-fixer": "~2.13.0",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento2-functional-testing-framework": "~2.3.13",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.5.0",
+                    "sebastian/phpcpd": "~3.0.0",
+                    "squizlabs/php_codesniffer": "3.3.1"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/",
+                        "Zend\\Mvc\\Controller\\": "setup/src/Zend/Mvc/Controller/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/",
+                            "generated/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.3.2",
+                "version_normalized": "2.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.3.2.0.zip",
+                    "shasum": "dabea232b19eb017798cec5467d6681d1e910ce1"
+                },
+                "require": {
+                    "magento/product-community-edition": "2.3.2"
+                },
+                "conflict": {
+                    "gene/bluefoot": "*"
+                },
+                "require-dev": {
+                    "allure-framework/allure-phpunit": "~1.2.0",
+                    "friendsofphp/php-cs-fixer": "~2.13.0",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento-coding-standard": "~1.0.0",
+                    "magento/magento2-functional-testing-framework": "~2.3.14",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.5.0",
+                    "sebastian/phpcpd": "~3.0.0",
+                    "squizlabs/php_codesniffer": "3.3.1"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/",
+                        "Zend\\Mvc\\Controller\\": "setup/src/Zend/Mvc/Controller/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/",
+                            "generated/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.3.2-p2",
+                "version_normalized": "2.3.2.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.3.2.0-patch2.zip",
+                    "shasum": "c9d71f4360e2c40e7ba12f9e5a9fc9da8d4f8cbd"
+                },
+                "require": {
+                    "magento/product-community-edition": "2.3.2-p2"
+                },
+                "conflict": {
+                    "gene/bluefoot": "*"
+                },
+                "require-dev": {
+                    "allure-framework/allure-phpunit": "~1.2.0",
+                    "friendsofphp/php-cs-fixer": "~2.13.0",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento-coding-standard": "~1.0.0",
+                    "magento/magento2-functional-testing-framework": "~2.3.14",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.5.0",
+                    "sebastian/phpcpd": "~3.0.0",
+                    "squizlabs/php_codesniffer": "3.3.1"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/",
+                        "Zend\\Mvc\\Controller\\": "setup/src/Zend/Mvc/Controller/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/",
+                            "generated/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.3.3",
+                "version_normalized": "2.3.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.3.3.0.zip",
+                    "shasum": "ed0669a894392358d8740284f7e6247a0698e7af"
+                },
+                "require": {
+                    "magento/product-community-edition": "2.3.3"
+                },
+                "conflict": {
+                    "gene/bluefoot": "*"
+                },
+                "require-dev": {
+                    "allure-framework/allure-phpunit": "~1.2.0",
+                    "friendsofphp/php-cs-fixer": "~2.14.0",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento-coding-standard": "~3.0.0",
+                    "magento/magento2-functional-testing-framework": "2.4.5",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.5.0",
+                    "sebastian/phpcpd": "~3.0.0",
+                    "squizlabs/php_codesniffer": "~3.4.0"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/",
+                        "Zend\\Mvc\\Controller\\": "setup/src/Zend/Mvc/Controller/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/",
+                            "generated/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.3.3-p1",
+                "version_normalized": "2.3.3.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.3.3.0-patch1.zip",
+                    "shasum": "54a43efa36a2e97d66cfb24def9eb9ee79a4411c"
+                },
+                "require": {
+                    "magento/product-community-edition": "2.3.3-p1"
+                },
+                "conflict": {
+                    "gene/bluefoot": "*"
+                },
+                "require-dev": {
+                    "allure-framework/allure-phpunit": "~1.2.0",
+                    "friendsofphp/php-cs-fixer": "~2.14.0",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento-coding-standard": "~3.0.0",
+                    "magento/magento2-functional-testing-framework": "2.4.5",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.5.0",
+                    "sebastian/phpcpd": "~3.0.0",
+                    "squizlabs/php_codesniffer": "~3.4.0"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/",
+                        "Zend\\Mvc\\Controller\\": "setup/src/Zend/Mvc/Controller/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/",
+                            "generated/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.3.4",
+                "version_normalized": "2.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.3.4.0.zip",
+                    "shasum": "e05000cf0255ac56f76199445754a34e5d0d2aac"
+                },
+                "require": {
+                    "magento/product-community-edition": "2.3.4"
+                },
+                "conflict": {
+                    "gene/bluefoot": "*"
+                },
+                "require-dev": {
+                    "allure-framework/allure-phpunit": "~1.2.0",
+                    "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0",
+                    "friendsofphp/php-cs-fixer": "~2.14.0",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento-coding-standard": "~4.0.0",
+                    "magento/magento2-functional-testing-framework": "2.5.3",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpcompatibility/php-compatibility": "^9.3",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.5.0",
+                    "sebastian/phpcpd": "~3.0.0",
+                    "squizlabs/php_codesniffer": "~3.4.0"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/",
+                        "Zend\\Mvc\\Controller\\": "setup/src/Zend/Mvc/Controller/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/",
+                            "generated/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.3.4-p2",
+                "version_normalized": "2.3.4.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.3.4.0-patch2.zip",
+                    "shasum": "a5c9e5b39d234cf5b9f084026d98ddb6905abf03"
+                },
+                "require": {
+                    "magento/product-community-edition": "2.3.4-p2"
+                },
+                "conflict": {
+                    "gene/bluefoot": "*"
+                },
+                "require-dev": {
+                    "allure-framework/allure-phpunit": "~1.2.0",
+                    "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0",
+                    "friendsofphp/php-cs-fixer": "~2.14.0",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento-coding-standard": "~4.0.0",
+                    "magento/magento2-functional-testing-framework": "2.5.3",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpcompatibility/php-compatibility": "^9.3",
+                    "phpmd/phpmd": "@stable",
+                    "phpunit/phpunit": "~6.5.0",
+                    "sebastian/phpcpd": "~3.0.0",
+                    "squizlabs/php_codesniffer": "~3.4.0"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/",
+                        "Zend\\Mvc\\Controller\\": "setup/src/Zend/Mvc/Controller/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/",
+                            "generated/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.3.5",
+                "version_normalized": "2.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.3.5.0.zip",
+                    "shasum": "70eeb6c320c0f60a41ab9c906666fc24597a1c0d"
+                },
+                "require": {
+                    "magento/product-community-edition": "2.3.5"
+                },
+                "conflict": {
+                    "gene/bluefoot": "*"
+                },
+                "require-dev": {
+                    "allure-framework/allure-phpunit": "~1.2.0",
+                    "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0",
+                    "friendsofphp/php-cs-fixer": "~2.14.0",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento-coding-standard": "*",
+                    "magento/magento2-functional-testing-framework": "~2.6.4",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpcompatibility/php-compatibility": "^9.3",
+                    "phpmd/phpmd": "@stable",
+                    "phpstan/phpstan": "^0.12.2",
+                    "phpunit/phpunit": "~6.5.0",
+                    "sebastian/phpcpd": "~3.0.0",
+                    "squizlabs/php_codesniffer": "~3.4.0"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/",
+                        "Zend\\Mvc\\Controller\\": "setup/src/Zend/Mvc/Controller/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/",
+                            "generated/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            },
+            {
+                "name": "magento/project-community-edition",
+                "version": "2.3.5-p1",
+                "version_normalized": "2.3.5.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/project-community-edition/magento-project-community-edition-2.3.5.0-patch1.zip",
+                    "shasum": "a083e1e8a1a3e1bdc67449bdd8cb7ae2695755f2"
+                },
+                "require": {
+                    "magento/product-community-edition": "2.3.5-p1"
+                },
+                "conflict": {
+                    "gene/bluefoot": "*"
+                },
+                "require-dev": {
+                    "allure-framework/allure-phpunit": "~1.2.0",
+                    "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0",
+                    "friendsofphp/php-cs-fixer": "~2.14.0",
+                    "lusitanian/oauth": "~0.8.10",
+                    "magento/magento-coding-standard": "*",
+                    "magento/magento2-functional-testing-framework": "~2.6.4",
+                    "pdepend/pdepend": "2.5.2",
+                    "phpcompatibility/php-compatibility": "^9.3",
+                    "phpmd/phpmd": "@stable",
+                    "phpstan/phpstan": "^0.12.2",
+                    "phpunit/phpunit": "~6.5.0",
+                    "sebastian/phpcpd": "~3.0.0",
+                    "squizlabs/php_codesniffer": "~3.4.0"
+                },
+                "type": "project",
+                "extra": {
+                    "magento-force": "override"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": "lib/internal/Magento/Framework/",
+                        "Magento\\Setup\\": "setup/src/Magento/Setup/",
+                        "Magento\\": "app/code/Magento/",
+                        "Zend\\Mvc\\Controller\\": "setup/src/Zend/Mvc/Controller/"
+                    },
+                    "psr-0": {
+                        "": [
+                            "app/code/",
+                            "generated/code/"
+                        ]
+                    },
+                    "files": [
+                        "app/etc/NonComposerComponentRegistration.php"
+                    ],
+                    "exclude-from-classmap": [
+                        "**/dev/**",
+                        "**/update/**",
+                        "**/Test/**"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "eCommerce Platform for Growth (Community Edition)"
+            }
+        ]
+    }
+}

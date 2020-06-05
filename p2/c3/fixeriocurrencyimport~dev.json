@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "c3/fixeriocurrencyimport": [
+            {
+                "name": "c3/fixerIOCurrencyImport",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/c3limited/FixerIOCurrencyImport.git",
+                    "reference": "57ae5ac79d808d3396cce6e38e097cd7c0bb2a7c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/c3limited/FixerIOCurrencyImport/zipball/57ae5ac79d808d3396cce6e38e097cd7c0bb2a7c",
+                    "reference": "57ae5ac79d808d3396cce6e38e097cd7c0bb2a7c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-03-13T11:27:37+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "C3 Media",
+                        "email": "development@c3media.co.uk"
+                    }
+                ],
+                "description": "Imports currency rates from 'fixer.io'. Provides an alternative to 'www.webservicex.net'.",
+                "support": {
+                    "source": "https://github.com/c3limited/FixerIOCurrencyImport/tree/1.0.1",
+                    "issues": "https://github.com/c3limited/FixerIOCurrencyImport/issues"
+                }
+            }
+        ]
+    }
+}

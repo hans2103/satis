@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "husseycoding/cookiesforcomments": [
+            {
+                "name": "husseycoding/cookiesforcomments",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/husseycoding/cookiesforcomments.git",
+                    "reference": "2b92c482c7b25cc3fff9987f576af0439d0347bf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/husseycoding/cookiesforcomments/zipball/2b92c482c7b25cc3fff9987f576af0439d0347bf",
+                    "reference": "2b92c482c7b25cc3fff9987f576af0439d0347bf",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-27T12:15:19+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jonathan Hussey",
+                        "email": "hussey@husseycoding.co.uk"
+                    }
+                ],
+                "description": "Stop spam contact form submissions with this Magento extension based on the popular WordPress plugin.",
+                "homepage": "https://github.com/husseycoding/cookiesforcomments",
+                "support": {
+                    "source": "https://github.com/husseycoding/cookiesforcomments/tree/master",
+                    "issues": "https://github.com/husseycoding/cookiesforcomments/issues"
+                }
+            }
+        ]
+    }
+}

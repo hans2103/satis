@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/migratefromprestashop": [
+            {
+                "name": "connect20/MigrateFromPrestashop",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MigrateFromPrestashop/1.0.2/MigrateFromPrestashop-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Burhan Bavkır",
+                        "email": "magento@bvkyazilim.com"
+                    }
+                ],
+                "description": "Import your Prestashop site to Magento"
+            },
+            {
+                "name": "connect20/MigrateFromPrestashop",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MigrateFromPrestashop/1.0.4/MigrateFromPrestashop-1.0.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Burhan Bavkır",
+                        "email": "magento@bvkyazilim.com"
+                    }
+                ],
+                "description": "Import your Prestashop site to Magento"
+            }
+        ]
+    }
+}

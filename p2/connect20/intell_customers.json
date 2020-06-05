@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/intell_customers": [
+            {
+                "name": "connect20/intell_customers",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/intell_customers/1.0.0.1/intell_customers-1.0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Amatya",
+                        "email": "amatya@intelligrape.com"
+                    }
+                ],
+                "description": "intell_customers"
+            },
+            {
+                "name": "connect20/intell_customers",
+                "version": "1.0.0.2",
+                "version_normalized": "1.0.0.2",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/intell_customers/1.0.0.2/intell_customers-1.0.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Amatya Trivedi",
+                        "email": "amatya@intelligrape.com"
+                    }
+                ],
+                "description": "This extension will redirect customers to your desired url."
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/automatic_sale_category": [
+            {
+                "name": "connect20/Automatic_Sale_Category",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Automatic_Sale_Category/1.0.0/Automatic_Sale_Category-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Manu Jose K",
+                        "email": "iammanujose@gmail.com"
+                    }
+                ],
+                "description": "Simple extension,  automatically add products with special price to Sale or Offer category."
+            },
+            {
+                "name": "connect20/Automatic_Sale_Category",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Automatic_Sale_Category/1.2.0/Automatic_Sale_Category-1.2.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Manu Jose",
+                        "email": "iammanujose@gmail.com"
+                    }
+                ],
+                "description": "Simple extension,  automatically add products with special price to selected category."
+            }
+        ]
+    }
+}

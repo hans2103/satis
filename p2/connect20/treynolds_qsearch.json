@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/treynolds_qsearch": [
+            {
+                "name": "connect20/Treynolds_Qsearch",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Treynolds_Qsearch/0.0.1/Treynolds_Qsearch-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Tim Reynolds",
+                        "email": "reynolds.timj@gmail.com"
+                    }
+                ],
+                "description": "Adds Quick Search functionality to the Admin -> System -> Configuration page."
+            },
+            {
+                "name": "connect20/Treynolds_Qsearch",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Treynolds_Qsearch/0.0.2/Treynolds_Qsearch-0.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Tim Reynolds",
+                        "email": "reynolds.timj@gmail.com"
+                    }
+                ],
+                "description": "Adds Quick Search functionality to the Admin -> System -> Configuration page."
+            }
+        ]
+    }
+}

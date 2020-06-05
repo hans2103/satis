@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/hz_whitepayment": [
+            {
+                "name": "connect20/HZ_Whitepayment",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/HZ_Whitepayment/1.0.0/HZ_Whitepayment-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Mohammad Harun-Or-Rashid",
+                        "email": "harun.zend@gmail.com"
+                    }
+                ],
+                "description": "White payment gateway for credit card processing."
+            }
+        ]
+    }
+}

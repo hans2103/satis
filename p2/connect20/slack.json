@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/slack": [
+            {
+                "name": "connect20/Slack",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Slack/0.1.0/Slack-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Eduard G. Dumitrescu",
+                        "email": "eddie.dumitrescu@gmail.com"
+                    }
+                ],
+                "description": "Magento activity in Slack"
+            }
+        ]
+    }
+}

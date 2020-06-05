@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/md_featuredproducts": [
+            {
+                "name": "connect20/MD_FeaturedProducts",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MD_FeaturedProducts/1.0.0/MD_FeaturedProducts-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "OSWorld",
+                        "email": "thinhct@mage-designer.com"
+                    }
+                ],
+                "description": "Featured Products Extension is the ideal solution for any online shop to get a nice shop interface as well as maximum flexibility and convenience."
+            },
+            {
+                "name": "connect20/MD_FeaturedProducts",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MD_FeaturedProducts/1.0.1/MD_FeaturedProducts-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "OSWorld",
+                        "email": "thinhct@mage-designer.com"
+                    }
+                ],
+                "description": "Featured Products Extension is the ideal solution for any online shop to get a nice shop interface as well as maximum flexibility and convenience."
+            }
+        ]
+    }
+}

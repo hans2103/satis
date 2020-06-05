@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/google_tag_manager": [
+            {
+                "name": "connect20/Google_Tag_Manager",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Google_Tag_Manager/0.1.1/Google_Tag_Manager-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "EULA"
+                ],
+                "authors": [
+                    {
+                        "name": "eGlobe IT Solutions",
+                        "email": "hello@eglobeits.com"
+                    }
+                ],
+                "description": "A simple extension that will allow you to add Google Tag Manager script."
+            }
+        ]
+    }
+}

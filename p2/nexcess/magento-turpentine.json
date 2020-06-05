@@ -1,0 +1,624 @@
+{
+    "packages": {
+        "nexcess/magento-turpentine": [
+            {
+                "name": "nexcess/magento-turpentine",
+                "version": "0.6.0",
+                "version_normalized": "0.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/nexcess/magento-turpentine.git",
+                    "reference": "65678044352a4b5de14c6d14835a325dee1c721e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/nexcess/magento-turpentine/zipball/65678044352a4b5de14c6d14835a325dee1c721e",
+                    "reference": "65678044352a4b5de14c6d14835a325dee1c721e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-03-03T18:57:11+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPLv2+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Headley",
+                        "email": "aheadley@nexcess.net"
+                    }
+                ],
+                "description": "A Varnish extension for Magento.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/2984.html",
+                "support": {
+                    "source": "https://github.com/nexcess/magento-turpentine/tree/release-0.6.0",
+                    "issues": "https://github.com/nexcess/magento-turpentine/issues"
+                }
+            },
+            {
+                "name": "nexcess/magento-turpentine",
+                "version": "0.6.1",
+                "version_normalized": "0.6.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/nexcess/magento-turpentine.git",
+                    "reference": "0a4d2675add584670af235ed2f30418a243cadde"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/nexcess/magento-turpentine/zipball/0a4d2675add584670af235ed2f30418a243cadde",
+                    "reference": "0a4d2675add584670af235ed2f30418a243cadde",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-10-01T16:50:32+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPLv2+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Headley",
+                        "email": "aheadley@nexcess.net"
+                    }
+                ],
+                "description": "A Varnish extension for Magento.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/2984.html",
+                "support": {
+                    "source": "https://github.com/nexcess/magento-turpentine/tree/release-0.6.1",
+                    "issues": "https://github.com/nexcess/magento-turpentine/issues"
+                }
+            },
+            {
+                "name": "nexcess/magento-turpentine",
+                "version": "0.6.2",
+                "version_normalized": "0.6.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/nexcess/magento-turpentine.git",
+                    "reference": "c9a003a95a49628dec502646f1f3021c304f783e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/nexcess/magento-turpentine/zipball/c9a003a95a49628dec502646f1f3021c304f783e",
+                    "reference": "c9a003a95a49628dec502646f1f3021c304f783e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/nexcessnet_turpentine": "self.version"
+                },
+                "time": "2015-06-10T17:48:49+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Headley",
+                        "email": "aheadley@nexcess.net"
+                    }
+                ],
+                "description": "A Varnish extension for Magento.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/2984.html",
+                "support": {
+                    "source": "https://github.com/nexcess/magento-turpentine/tree/release-0.6.2",
+                    "issues": "https://github.com/nexcess/magento-turpentine/issues"
+                }
+            },
+            {
+                "name": "nexcess/magento-turpentine",
+                "version": "0.6.3",
+                "version_normalized": "0.6.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/nexcess/magento-turpentine.git",
+                    "reference": "c1e0cc67769b4576ae2243ce3fb0c3145da6cc96"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/nexcess/magento-turpentine/zipball/c1e0cc67769b4576ae2243ce3fb0c3145da6cc96",
+                    "reference": "c1e0cc67769b4576ae2243ce3fb0c3145da6cc96",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/nexcessnet_turpentine": "self.version"
+                },
+                "time": "2015-06-23T14:33:20+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Headley",
+                        "email": "aheadley@nexcess.net"
+                    }
+                ],
+                "description": "A Varnish extension for Magento.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/2984.html",
+                "support": {
+                    "source": "https://github.com/nexcess/magento-turpentine/tree/release-0.6.3",
+                    "issues": "https://github.com/nexcess/magento-turpentine/issues"
+                }
+            },
+            {
+                "name": "nexcess/magento-turpentine",
+                "version": "0.6.4",
+                "version_normalized": "0.6.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/nexcess/magento-turpentine.git",
+                    "reference": "feec575367627438a6c70ce7c457d09dddcf8d4d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/nexcess/magento-turpentine/zipball/feec575367627438a6c70ce7c457d09dddcf8d4d",
+                    "reference": "feec575367627438a6c70ce7c457d09dddcf8d4d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/nexcessnet_turpentine": "self.version"
+                },
+                "time": "2015-08-04T15:45:18+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Headley",
+                        "email": "aheadley@nexcess.net"
+                    }
+                ],
+                "description": "A Varnish extension for Magento.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/2984.html",
+                "support": {
+                    "source": "https://github.com/nexcess/magento-turpentine/tree/release-0.6.4",
+                    "issues": "https://github.com/nexcess/magento-turpentine/issues"
+                }
+            },
+            {
+                "name": "nexcess/magento-turpentine",
+                "version": "0.6.5",
+                "version_normalized": "0.6.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/nexcess/magento-turpentine.git",
+                    "reference": "1e09f5bbc0af1911eba2ca5f3636b18c366d4c6d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/nexcess/magento-turpentine/zipball/1e09f5bbc0af1911eba2ca5f3636b18c366d4c6d",
+                    "reference": "1e09f5bbc0af1911eba2ca5f3636b18c366d4c6d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/nexcessnet_turpentine": "self.version"
+                },
+                "time": "2015-08-27T13:50:40+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Headley",
+                        "email": "aheadley@nexcess.net"
+                    }
+                ],
+                "description": "A Varnish extension for Magento.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/2984.html",
+                "support": {
+                    "source": "https://github.com/nexcess/magento-turpentine/tree/release-0.6.5",
+                    "issues": "https://github.com/nexcess/magento-turpentine/issues"
+                }
+            },
+            {
+                "name": "nexcess/magento-turpentine",
+                "version": "0.6.6",
+                "version_normalized": "0.6.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/nexcess/magento-turpentine.git",
+                    "reference": "f89ae64fa0d5b415d4fcfbc1c15926d1482bcf38"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/nexcess/magento-turpentine/zipball/f89ae64fa0d5b415d4fcfbc1c15926d1482bcf38",
+                    "reference": "f89ae64fa0d5b415d4fcfbc1c15926d1482bcf38",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/nexcessnet_turpentine": "self.version"
+                },
+                "time": "2015-09-14T12:51:12+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Headley",
+                        "email": "aheadley@nexcess.net"
+                    }
+                ],
+                "description": "A Varnish extension for Magento.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/2984.html",
+                "support": {
+                    "source": "https://github.com/nexcess/magento-turpentine/tree/release-0.6.6",
+                    "issues": "https://github.com/nexcess/magento-turpentine/issues"
+                }
+            },
+            {
+                "name": "nexcess/magento-turpentine",
+                "version": "0.6.7",
+                "version_normalized": "0.6.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/nexcess/magento-turpentine.git",
+                    "reference": "35d44f51e84de419c189eea2baa0ec89c7a2ba39"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/nexcess/magento-turpentine/zipball/35d44f51e84de419c189eea2baa0ec89c7a2ba39",
+                    "reference": "35d44f51e84de419c189eea2baa0ec89c7a2ba39",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/nexcessnet_turpentine": "self.version"
+                },
+                "time": "2015-10-12T14:56:06+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Headley",
+                        "email": "aheadley@nexcess.net"
+                    }
+                ],
+                "description": "A Varnish extension for Magento.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/2984.html",
+                "support": {
+                    "source": "https://github.com/nexcess/magento-turpentine/tree/release-0.6.7",
+                    "issues": "https://github.com/nexcess/magento-turpentine/issues"
+                }
+            },
+            {
+                "name": "nexcess/magento-turpentine",
+                "version": "0.6.8",
+                "version_normalized": "0.6.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/nexcess/magento-turpentine.git",
+                    "reference": "6ffc75169f63f3fda7d2f1196b341e0db498064d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/nexcess/magento-turpentine/zipball/6ffc75169f63f3fda7d2f1196b341e0db498064d",
+                    "reference": "6ffc75169f63f3fda7d2f1196b341e0db498064d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/nexcessnet_turpentine": "self.version"
+                },
+                "time": "2016-01-14T14:47:37+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Headley",
+                        "email": "aheadley@nexcess.net"
+                    }
+                ],
+                "description": "A Varnish extension for Magento.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/2984.html",
+                "support": {
+                    "source": "https://github.com/nexcess/magento-turpentine/tree/release-0.6.8",
+                    "issues": "https://github.com/nexcess/magento-turpentine/issues"
+                }
+            },
+            {
+                "name": "nexcess/magento-turpentine",
+                "version": "0.6.9",
+                "version_normalized": "0.6.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/nexcess/magento-turpentine.git",
+                    "reference": "bf2414432994dad2252f2c15dfda6cc96139d163"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/nexcess/magento-turpentine/zipball/bf2414432994dad2252f2c15dfda6cc96139d163",
+                    "reference": "bf2414432994dad2252f2c15dfda6cc96139d163",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/nexcessnet_turpentine": "self.version"
+                },
+                "time": "2016-04-21T13:16:29+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Headley",
+                        "email": "aheadley@nexcess.net"
+                    }
+                ],
+                "description": "A Varnish extension for Magento.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/2984.html",
+                "support": {
+                    "source": "https://github.com/nexcess/magento-turpentine/tree/release-0.6.9",
+                    "issues": "https://github.com/nexcess/magento-turpentine/issues"
+                }
+            },
+            {
+                "name": "nexcess/magento-turpentine",
+                "version": "0.7.0",
+                "version_normalized": "0.7.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/nexcess/magento-turpentine.git",
+                    "reference": "1236f2971511e52eea1c57e4192748b16d4986a0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/nexcess/magento-turpentine/zipball/1236f2971511e52eea1c57e4192748b16d4986a0",
+                    "reference": "1236f2971511e52eea1c57e4192748b16d4986a0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/nexcessnet_turpentine": "self.version"
+                },
+                "time": "2016-05-31T13:41:14+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Headley",
+                        "email": "aheadley@nexcess.net"
+                    }
+                ],
+                "description": "A Varnish extension for Magento.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/2984.html",
+                "support": {
+                    "source": "https://github.com/nexcess/magento-turpentine/tree/0.7.0",
+                    "issues": "https://github.com/nexcess/magento-turpentine/issues"
+                }
+            },
+            {
+                "name": "nexcess/magento-turpentine",
+                "version": "0.7.1",
+                "version_normalized": "0.7.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/nexcess/magento-turpentine.git",
+                    "reference": "4929b8a5cbd4e62f254a42dae881eda28b0a7dec"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/nexcess/magento-turpentine/zipball/4929b8a5cbd4e62f254a42dae881eda28b0a7dec",
+                    "reference": "4929b8a5cbd4e62f254a42dae881eda28b0a7dec",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/nexcessnet_turpentine": "self.version"
+                },
+                "time": "2016-11-18T11:33:41+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Headley",
+                        "email": "aheadley@nexcess.net"
+                    }
+                ],
+                "description": "A Varnish extension for Magento.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/2984.html",
+                "support": {
+                    "source": "https://github.com/nexcess/magento-turpentine/tree/0.7.1",
+                    "issues": "https://github.com/nexcess/magento-turpentine/issues"
+                }
+            },
+            {
+                "name": "nexcess/magento-turpentine",
+                "version": "0.7.2",
+                "version_normalized": "0.7.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/nexcess/magento-turpentine.git",
+                    "reference": "5e2f6d0632524612387d583bda5d7bbaafc67ab1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/nexcess/magento-turpentine/zipball/5e2f6d0632524612387d583bda5d7bbaafc67ab1",
+                    "reference": "5e2f6d0632524612387d583bda5d7bbaafc67ab1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/nexcessnet_turpentine": "self.version"
+                },
+                "time": "2017-02-21T15:00:58+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Headley",
+                        "email": "aheadley@nexcess.net"
+                    }
+                ],
+                "description": "A Varnish extension for Magento.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/2984.html",
+                "support": {
+                    "source": "https://github.com/nexcess/magento-turpentine/tree/release-0.7.2",
+                    "issues": "https://github.com/nexcess/magento-turpentine/issues"
+                }
+            },
+            {
+                "name": "nexcess/magento-turpentine",
+                "version": "0.7.3",
+                "version_normalized": "0.7.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/nexcess/magento-turpentine.git",
+                    "reference": "298c093f419e156341f86719f72f38befa6f2309"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/nexcess/magento-turpentine/zipball/298c093f419e156341f86719f72f38befa6f2309",
+                    "reference": "298c093f419e156341f86719f72f38befa6f2309",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/nexcessnet_turpentine": "self.version"
+                },
+                "time": "2017-07-24T13:14:03+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Headley",
+                        "email": "aheadley@nexcess.net"
+                    }
+                ],
+                "description": "A Varnish extension for Magento.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/2984.html",
+                "support": {
+                    "source": "https://github.com/nexcess/magento-turpentine/tree/release-0.7.3",
+                    "issues": "https://github.com/nexcess/magento-turpentine/issues"
+                }
+            },
+            {
+                "name": "nexcess/magento-turpentine",
+                "version": "0.7.4",
+                "version_normalized": "0.7.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/nexcess/magento-turpentine.git",
+                    "reference": "44d7b7627b2656ae87aa29b5a6a52e4e774fd33d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/nexcess/magento-turpentine/zipball/44d7b7627b2656ae87aa29b5a6a52e4e774fd33d",
+                    "reference": "44d7b7627b2656ae87aa29b5a6a52e4e774fd33d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/nexcessnet_turpentine": "self.version"
+                },
+                "time": "2018-08-21T12:53:41+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Headley",
+                        "email": "aheadley@nexcess.net"
+                    }
+                ],
+                "description": "A Varnish extension for Magento.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/2984.html",
+                "support": {
+                    "source": "https://github.com/nexcess/magento-turpentine/tree/release-0.7.4",
+                    "issues": "https://github.com/nexcess/magento-turpentine/issues"
+                }
+            },
+            {
+                "name": "nexcess/magento-turpentine",
+                "version": "0.7.5",
+                "version_normalized": "0.7.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/nexcess/magento-turpentine.git",
+                    "reference": "c670a492a18cf495d87699e0dbd712ad03fd84ad"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/nexcess/magento-turpentine/zipball/c670a492a18cf495d87699e0dbd712ad03fd84ad",
+                    "reference": "c670a492a18cf495d87699e0dbd712ad03fd84ad",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/nexcessnet_turpentine": "self.version"
+                },
+                "time": "2018-11-21T17:34:58+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-2.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex Headley",
+                        "email": "aheadley@nexcess.net"
+                    }
+                ],
+                "description": "A Varnish extension for Magento.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/2984.html",
+                "support": {
+                    "source": "https://github.com/nexcess/magento-turpentine/tree/release-0.7.5",
+                    "issues": "https://github.com/nexcess/magento-turpentine/issues"
+                }
+            }
+        ]
+    }
+}

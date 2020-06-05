@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/zmagento_key": [
+            {
+                "name": "connect20/ZMAGENTO_KEY",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ZMAGENTO_KEY/1.0.7/ZMAGENTO_KEY-1.0.7.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-Lesser-General-Public-License-(LGPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "David Ker",
+                        "email": "dker@zination.com"
+                    }
+                ],
+                "description": "This is the first release of the ZINation Automatic Product Catalog Builder for Magento."
+            }
+        ]
+    }
+}

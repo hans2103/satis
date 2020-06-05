@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/solidewebservices_customlayouthandles": [
+            {
+                "name": "connect20/SolideWebservices_CustomLayoutHandles",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SolideWebservices_CustomLayoutHandles/1.0.0/SolideWebservices_CustomLayoutHandles-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-v.-3.0-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Solide Webservices",
+                        "email": "contact@solidewebservices.com"
+                    }
+                ],
+                "description": "This extension has the ability to add various XML Layout handles or body classes which can then be used in the customized themes."
+            }
+        ]
+    }
+}

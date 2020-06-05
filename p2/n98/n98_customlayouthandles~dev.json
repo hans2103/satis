@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "n98/n98_customlayouthandles": [
+            {
+                "name": "n98/N98_CustomLayoutHandles",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/netz98/N98_CustomLayoutHandles.git",
+                    "reference": "002b8b276857fa7fef3390f779e26c35f3f66b07"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/netz98/N98_CustomLayoutHandles/zipball/002b8b276857fa7fef3390f779e26c35f3f66b07",
+                    "reference": "002b8b276857fa7fef3390f779e26c35f3f66b07",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-06-21T11:16:02+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "netz98 new media GmbH",
+                        "email": "magento@netz98.de"
+                    }
+                ],
+                "description": "Adds some new handles to magento shop frontend which are better usable if you don't like to work with IDs.",
+                "homepage": "https://github.com/netz98/N98_CustomLayoutHandles",
+                "support": {
+                    "source": "https://github.com/netz98/N98_CustomLayoutHandles/tree/master",
+                    "issues": "https://github.com/netz98/N98_CustomLayoutHandles/issues"
+                }
+            }
+        ]
+    }
+}

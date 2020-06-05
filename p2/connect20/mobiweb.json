@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/mobiweb": [
+            {
+                "name": "connect20/Mobiweb",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mobiweb/1.0.0/Mobiweb-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/mobiweb": ">=5.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Mobiweb",
+                        "email": "info@mobiwebtech.com"
+                    }
+                ],
+                "description": "Mobiweb Order Share Extension allows you to share your products from Magento order success page to your Social Accounts."
+            }
+        ]
+    }
+}

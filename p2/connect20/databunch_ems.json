@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/databunch_ems": [
+            {
+                "name": "connect20/Databunch_Ems",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Databunch_Ems/0.1.0/Databunch_Ems-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "DataBunchRussia",
+                        "email": "info@databunch.ru"
+                    }
+                ],
+                "description": "EMS Russian post shipping module"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "sandersander/magento-ideal-checkout": [
+            {
+                "name": "sandersander/magento-ideal-checkout",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SanderSander/magento-ideal-checkout.git",
+                    "reference": "6bdeff77f78ffcc35ee2d9f491af4df25d7a8380"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/SanderSander/magento-ideal-checkout/zipball/6bdeff77f78ffcc35ee2d9f491af4df25d7a8380",
+                    "reference": "6bdeff77f78ffcc35ee2d9f491af4df25d7a8380",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-11-17T10:20:07+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Sander Visser",
+                        "email": "themastersleader@hotmail.com"
+                    }
+                ],
+                "description": "iDeal checkout integration for magento with composer",
+                "support": {
+                    "source": "https://github.com/SanderSander/magento-ideal-checkout/tree/master",
+                    "issues": "https://github.com/SanderSander/magento-ideal-checkout/issues"
+                }
+            }
+        ]
+    }
+}

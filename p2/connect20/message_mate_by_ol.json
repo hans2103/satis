@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/message_mate_by_ol": [
+            {
+                "name": "connect20/Message_Mate_by_OL",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Message_Mate_by_OL/1.0.0/Message_Mate_by_OL-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OwnerListens-Custom-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Niv Caner",
+                        "email": "niv@ownerlistens.com"
+                    }
+                ],
+                "description": "Message Mate, by OwnerListens,  adds a secure and simple texting solution to your website"
+            }
+        ]
+    }
+}

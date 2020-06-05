@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/dynamiclogin": [
+            {
+                "name": "connect20/dynamiclogin",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/dynamiclogin/1.0.0/dynamiclogin-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "osl-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "evan wang",
+                        "email": "lanqiaowangxin@gmail.com"
+                    }
+                ],
+                "description": "dynamiclogin"
+            }
+        ]
+    }
+}

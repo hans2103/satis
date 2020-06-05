@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "spranks/auto-numeric-skus": [
+            {
+                "name": "spranks/auto-numeric-skus",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/sprankhub/Spranks_AutoNumericSkus.git",
+                    "reference": "a7389fc9bd57194ba1a3b833081215523360fe32"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/sprankhub/Spranks_AutoNumericSkus/zipball/a7389fc9bd57194ba1a3b833081215523360fe32",
+                    "reference": "a7389fc9bd57194ba1a3b833081215523360fe32",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-07-31T13:27:10+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Simon Sprankel",
+                        "email": "mail@simonsprankel.de"
+                    }
+                ],
+                "description": "This extension automatically generates numeric SKUs, such as the new SKU is the highest currently existing SKU + 1.",
+                "homepage": "https://github.com/sprankhub/Spranks_AutoNumericSkus",
+                "support": {
+                    "source": "https://github.com/sprankhub/Spranks_AutoNumericSkus/tree/master",
+                    "issues": "https://github.com/sprankhub/Spranks_AutoNumericSkus/issues"
+                }
+            }
+        ]
+    }
+}

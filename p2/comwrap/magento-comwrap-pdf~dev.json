@@ -1,0 +1,61 @@
+{
+    "packages": {
+        "comwrap/magento-comwrap-pdf": [
+            {
+                "name": "comwrap/magento-comwrap-pdf",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/comwrap/magento-comwrap-pdf.git",
+                    "reference": "b6c0aaf1b65af29cf58b12ecb678fdd98b2fa13a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/comwrap/magento-comwrap-pdf/zipball/b6c0aaf1b65af29cf58b12ecb678fdd98b2fa13a",
+                    "reference": "b6c0aaf1b65af29cf58b12ecb678fdd98b2fa13a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-01-13T17:34:35+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/etc/modules/Comwrap_Pdf.xml",
+                            "app/etc/modules/Comwrap_Pdf.xml"
+                        ],
+                        [
+                            "app/code/local/Comwrap/Pdf",
+                            "app/code/local/Comwrap/Pdf"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/comwrap/pdf",
+                            "app/design/frontend/base/default/template/comwrap/pdf"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/comwrap/pdf.xml",
+                            "app/design/frontend/base/default/layout/comwrap/pdf.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "GPL v2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas Spigel",
+                        "email": "tspigel@comwrap.com"
+                    }
+                ],
+                "description": "This module replaces the Zend_Pdf method of creating the pdf files with mPDF (html + css support)",
+                "support": {
+                    "source": "https://github.com/comwrap/magento-comwrap-pdf/tree/1.1.0",
+                    "issues": "https://github.com/comwrap/magento-comwrap-pdf/issues"
+                }
+            }
+        ]
+    }
+}

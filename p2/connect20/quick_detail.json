@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/quick_detail": [
+            {
+                "name": "connect20/Quick_Detail",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Quick_Detail/1.0.0/Quick_Detail-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Anupam Tiwari",
+                        "email": "vishwasnature30@gmail.com"
+                    }
+                ],
+                "description": "Quick Details extension allows you to see product details on mouseover based on setting which is set by you in admin."
+            }
+        ]
+    }
+}

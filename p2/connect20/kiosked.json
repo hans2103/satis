@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/kiosked": [
+            {
+                "name": "connect20/Kiosked",
+                "version": "0.1.44",
+                "version_normalized": "0.1.44.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Kiosked/0.1.44/Kiosked-0.1.44.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Jaakko Iso-Järvenpää",
+                        "email": "jaakko@kiosked.com"
+                    }
+                ],
+                "description": "Kiosked extension allows Magento merchants to upload their product feed into Kiosked. The feed is dynamically updated to reflect up-to-date product availability and price. Kiosked automatically turns your products into kiosks that allow you to reach your consumers wherever they are."
+            }
+        ]
+    }
+}

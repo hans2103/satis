@@ -1,0 +1,3682 @@
+{
+    "packages": {
+        "fooman/emailattachments": [
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.10.0",
+                "version_normalized": "0.10.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "3b199fb1d42345e0843afbd2691f40600112d846"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-3b199fb1d42345e0843afbd2691f40600112d846-zip-1f9825.tar",
+                    "reference": "3b199fb1d42345e0843afbd2691f40600112d846",
+                    "shasum": "7664ec135b972bd6ee206674e1dde983368d2274"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-09T01:48:43+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv",
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.10.0",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.10.1",
+                "version_normalized": "0.10.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "87ce48f6bdac1e1fdfac78cc81feeabfc4d34139"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-87ce48f6bdac1e1fdfac78cc81feeabfc4d34139-zip-3364bb.tar",
+                    "reference": "87ce48f6bdac1e1fdfac78cc81feeabfc4d34139",
+                    "shasum": "51621bca3bcb42393085ed2fd4c7b61cf7d03f69"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-04-11T01:24:13+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv",
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.10.1",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.10.2",
+                "version_normalized": "0.10.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "05092a9490514b851c831fc09a65ca93b4bcb89f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-05092a9490514b851c831fc09a65ca93b4bcb89f-zip-c7f598.tar",
+                    "reference": "05092a9490514b851c831fc09a65ca93b4bcb89f",
+                    "shasum": "9e529d79a017198dd2766d59bd76cc0875c02497"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-04-11T01:29:03+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv",
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.10.2",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.10.3",
+                "version_normalized": "0.10.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "c174d11b0e4da5c791919760c1a164e5cf2a5140"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-c174d11b0e4da5c791919760c1a164e5cf2a5140-zip-22a887.tar",
+                    "reference": "c174d11b0e4da5c791919760c1a164e5cf2a5140",
+                    "shasum": "5f87a91302d46cffcfac7c71a42131668a461780"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-04-26T22:21:24+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv",
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.10.3",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.10.4",
+                "version_normalized": "0.10.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "a12dc16c4a84065cbeec6b849016d8e0daa1b39e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-a12dc16c4a84065cbeec6b849016d8e0daa1b39e-zip-0918cf.tar",
+                    "reference": "a12dc16c4a84065cbeec6b849016d8e0daa1b39e",
+                    "shasum": "a1cae13b3e5430e4995afaaad566ddb32d5608ad"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-20T04:33:38+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv",
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.10.4",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.10.5",
+                "version_normalized": "0.10.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "ba6981d3da224bf9ba5fd681f913b0f9f267c58a"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-ba6981d3da224bf9ba5fd681f913b0f9f267c58a-zip-8cbb19.tar",
+                    "reference": "ba6981d3da224bf9ba5fd681f913b0f9f267c58a",
+                    "shasum": "04d2f82b4a9fdb3997af9cd73cc2bb7ade30d75f"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-06-15T01:10:28+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv",
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.10.5",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.11.0",
+                "version_normalized": "0.11.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "6ce37189741142daadde0d3a189030c3bf9d76e8"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-6ce37189741142daadde0d3a189030c3bf9d76e8-zip-dc6a30.tar",
+                    "reference": "6ce37189741142daadde0d3a189030c3bf9d76e8",
+                    "shasum": "7e760c4396ad6bf561b47ac5759835e6d8d296e1"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-10-21T01:13:02+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv",
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.11.0",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.11.1",
+                "version_normalized": "0.11.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "994c7d736cb62ef70f3f82420e61251e9d9d654b"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-994c7d736cb62ef70f3f82420e61251e9d9d654b-zip-5010c8.tar",
+                    "reference": "994c7d736cb62ef70f3f82420e61251e9d9d654b",
+                    "shasum": "f447a02183688c09314a22eeecc093d9cc2b6fcc"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-10-21T01:50:18+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv",
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.11.1",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.11.2",
+                "version_normalized": "0.11.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "f8eabafc6d239fb037aa3d472977a31f8b34054f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-f8eabafc6d239fb037aa3d472977a31f8b34054f-zip-ce02ae.tar",
+                    "reference": "f8eabafc6d239fb037aa3d472977a31f8b34054f",
+                    "shasum": "67b8147a55cd6ff75ccb6b3abd50a295dcc9cafa"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-10-21T02:01:14+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv",
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.11.2",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.11.3",
+                "version_normalized": "0.11.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "8cbb03328dc3d426aaee4bc8250c52a84f8a2bc7"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-8cbb03328dc3d426aaee4bc8250c52a84f8a2bc7-zip-5fc828.tar",
+                    "reference": "8cbb03328dc3d426aaee4bc8250c52a84f8a2bc7",
+                    "shasum": "cf077fe7a658129b73727bde38d2a857605ef623"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-04-27T08:32:29+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv",
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.11.3",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.11.4",
+                "version_normalized": "0.11.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "25cbeeee9f7703e85f0535c03b20fe07bf35adf4"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-25cbeeee9f7703e85f0535c03b20fe07bf35adf4-zip-38ba38.tar",
+                    "reference": "25cbeeee9f7703e85f0535c03b20fe07bf35adf4",
+                    "shasum": "9953cea23f225d73f83481e301bf24bfb8c793eb"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-04-27T09:09:16+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv",
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.11.4",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.11.5",
+                "version_normalized": "0.11.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "f721999bcc3b6c8b530a40fb4803e1a56f5e9821"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-f721999bcc3b6c8b530a40fb4803e1a56f5e9821-zip-966d60.tar",
+                    "reference": "f721999bcc3b6c8b530a40fb4803e1a56f5e9821",
+                    "shasum": "9e10964f175afc53eed0fe88c46a0dea053ac667"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-08-12T04:07:30+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv",
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.11.5",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.11.6",
+                "version_normalized": "0.11.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "04042fabba585f8b94f551cfc6ae9785431ed167"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-04042fabba585f8b94f551cfc6ae9785431ed167-zip-e15e81.tar",
+                    "reference": "04042fabba585f8b94f551cfc6ae9785431ed167",
+                    "shasum": "b982ee8b87944b9f9fa56b4a5976edbbc2b15bcb"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-11-16T07:34:54+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv",
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.11.6",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.11.7",
+                "version_normalized": "0.11.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "cadf383f07a0657752b919aa7086978c2e9a7c05"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-cadf383f07a0657752b919aa7086978c2e9a7c05-zip-eadadc.tar",
+                    "reference": "cadf383f07a0657752b919aa7086978c2e9a7c05",
+                    "shasum": "b81494085dd0fee6bccf813aca671b514bba9aee"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-11-16T07:54:54+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv",
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.11.7",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.11.8",
+                "version_normalized": "0.11.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "ad76a58a174d89cb687aec16004385394562fe52"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-ad76a58a174d89cb687aec16004385394562fe52-zip-dd1a20.tar",
+                    "reference": "ad76a58a174d89cb687aec16004385394562fe52",
+                    "shasum": "f44e1a5334ddbac5b2fba3ae780b8a23f520fc93"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-08-19T00:05:32+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv",
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.11.8",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.9.11",
+                "version_normalized": "0.9.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "548f715617fdddb4be8f27772b01069c8ab7d061"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-548f715617fdddb4be8f27772b01069c8ab7d061-zip-987182.tar",
+                    "reference": "548f715617fdddb4be8f27772b01069c8ab7d061",
+                    "shasum": "debdf582168e86a099d5e3ac3e422074a0401559"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-06-16T10:38:51+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "/app/code/community/Fooman/EmailAttachments/",
+                            "/app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "/app/etc/modules/Fooman_EmailAttachments.xml",
+                            "/app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "/app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "/app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "/app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "/app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "/app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "/app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "/app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "/app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "/app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "/app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "/app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "/app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "/app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "/app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "/app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "/app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "/app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "/app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "/app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "/app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "/app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "/app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "/app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "/app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "/app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "/app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "/app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "/app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "/app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "/app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "/app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "/app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "/app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.9.11",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.9.12",
+                "version_normalized": "0.9.12.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "f3330c34875744bc4ecfb3044bd4826bb42122eb"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-f3330c34875744bc4ecfb3044bd4826bb42122eb-zip-0f91b6.tar",
+                    "reference": "f3330c34875744bc4ecfb3044bd4826bb42122eb",
+                    "shasum": "dee0b3704e5348e2ed6cf4c3904048cf4f26e6c2"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-09-08T06:40:34+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.9.12",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.9.13",
+                "version_normalized": "0.9.13.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "f89b5d18a7cde2fdbeb07b7d3f2b08ee61b8629f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-f89b5d18a7cde2fdbeb07b7d3f2b08ee61b8629f-zip-9fc8f0.tar",
+                    "reference": "f89b5d18a7cde2fdbeb07b7d3f2b08ee61b8629f",
+                    "shasum": "6bd32b09d9b8d3ad2b937bee67af60197a2a5ffd"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-09-08T09:41:49+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.9.13",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.9.14",
+                "version_normalized": "0.9.14.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "e0e0ab8a8da65e95fe3caf10870c4f597aec840e"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-e0e0ab8a8da65e95fe3caf10870c4f597aec840e-zip-d1ff13.tar",
+                    "reference": "e0e0ab8a8da65e95fe3caf10870c4f597aec840e",
+                    "shasum": "c23c0f869b948ab998a186ab2a5481c7156126cc"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-11-29T09:21:17+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.9.14",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            },
+            {
+                "name": "fooman/emailattachments",
+                "version": "v0.9.15",
+                "version_normalized": "0.9.15.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/emailattachments.git",
+                    "reference": "5dbc0e6d10bbdff853135d8c704821bc2f257757"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://packages.fooman.co.nz/dist/fooman/emailattachments/fooman-emailattachments-5dbc0e6d10bbdff853135d8c704821bc2f257757-zip-20cc93.tar",
+                    "reference": "5dbc0e6d10bbdff853135d8c704821bc2f257757",
+                    "shasum": "a0c9baac657459ca9e5254177e742900b5be2aef"
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-01-05T01:17:02+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/EmailAttachments/",
+                            "app/code/community/Fooman/EmailAttachments/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_EmailAttachments.xml",
+                            "app/etc/modules/Fooman_EmailAttachments.xml"
+                        ],
+                        [
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv",
+                            "app/locale/ar_SA/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/ca_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv",
+                            "app/locale/cs_CZ/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv",
+                            "app/locale/da_DK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv",
+                            "app/locale/de_DE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_EmailAttachments.csv",
+                            "app/locale/en_US/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html",
+                            "app/locale/en_US/template/email/sales/order_new_packingslip.html"
+                        ],
+                        [
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv",
+                            "app/locale/es_ES/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv",
+                            "app/locale/et_EE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv",
+                            "app/locale/fa_IR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv",
+                            "app/locale/fi_FI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv",
+                            "app/locale/fr_FR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv",
+                            "app/locale/gr_GR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv",
+                            "app/locale/he_IL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv",
+                            "app/locale/hr_HR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv",
+                            "app/locale/hu_HU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv",
+                            "app/locale/it_IT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv",
+                            "app/locale/ja_JP/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv",
+                            "app/locale/ko_KR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv",
+                            "app/locale/lt_LT/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv",
+                            "app/locale/lv_LV/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/nb_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv",
+                            "app/locale/nl_NL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv",
+                            "app/locale/no_NO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv",
+                            "app/locale/pl_PL/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv",
+                            "app/locale/pt_BR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv",
+                            "app/locale/ro_RO/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv",
+                            "app/locale/ru_RU/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv",
+                            "app/locale/sk_SK/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv",
+                            "app/locale/sl_SI/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv",
+                            "app/locale/sv_SE/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv",
+                            "app/locale/th_TH/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv",
+                            "app/locale/tr_TR/Fooman_EmailAttachments.csv"
+                        ],
+                        [
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv",
+                            "app/locale/zh_CN/Fooman_EmailAttachments.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Automatically attach pdf documents to outgoing sales emails. Print Order Confirmation documents.",
+                "homepage": "https://github.com/fooman/emailattachments",
+                "support": {
+                    "source": "https://github.com/fooman/emailattachments/tree/v0.9.15",
+                    "issues": "https://github.com/fooman/emailattachments/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "packages": {
+        "frosit/fontawesomeness": [
+            {
+                "name": "frosit/fontawesomeness",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/frosit/Frosit_Fontawesomeness.git",
+                    "reference": "9c0736d861f01b9e7b0cfeb3c84d8b35335a1bb4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/frosit/Frosit_Fontawesomeness/zipball/9c0736d861f01b9e7b0cfeb3c84d8b35335a1bb4",
+                    "reference": "9c0736d861f01b9e7b0cfeb3c84d8b35335a1bb4",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7.0"
+                },
+                "require-dev": {
+                    "magento-ecg/coding-standard": "2.*",
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "n98/magerun": "1.97.*",
+                    "phpunit/phpunit": ">=4.8 <5.0.0",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2017-08-20T23:18:31+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "../../"
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabio Ros",
+                        "email": "f.ros@frosit.nl",
+                        "homepage": "http://www.frosit.nl",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Font Awesomeness adds icon fonts to Magento.",
+                "homepage": "https://github.com/frosit/Frosit_Fontawesomeness",
+                "support": {
+                    "source": "https://github.com/frosit/Frosit_Fontawesomeness/tree/v1.2.1",
+                    "issues": "https://github.com/frosit/Frosit_Fontawesomeness/issues"
+                }
+            },
+            {
+                "name": "frosit/fontawesomeness",
+                "version": "dev-staging",
+                "version_normalized": "dev-staging",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/frosit/Frosit_Fontawesomeness.git",
+                    "reference": "ef96298f5fa0026252b8c99b967ac0a967b55741"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/frosit/Frosit_Fontawesomeness/zipball/ef96298f5fa0026252b8c99b967ac0a967b55741",
+                    "reference": "ef96298f5fa0026252b8c99b967ac0a967b55741",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7.0"
+                },
+                "require-dev": {
+                    "magento-ecg/coding-standard": "2.*",
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "n98/magerun": "1.97.*",
+                    "phpunit/phpunit": ">=4.8 <5.0.0",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2017-07-30T21:01:25+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "../../"
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabio Ros",
+                        "email": "f.ros@frosit.nl",
+                        "homepage": "http://www.frosit.nl",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Font Awesomeness adds icon fonts to Magento.",
+                "homepage": "https://github.com/frosit/Frosit_Fontawesomeness",
+                "support": {
+                    "source": "https://github.com/frosit/Frosit_Fontawesomeness/tree/staging",
+                    "issues": "https://github.com/frosit/Frosit_Fontawesomeness/issues"
+                }
+            },
+            {
+                "name": "frosit/fontawesomeness",
+                "version": "dev-travis-cs",
+                "version_normalized": "dev-travis-cs",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/frosit/Frosit_Fontawesomeness.git",
+                    "reference": "b817f8173645598a95e6910d9e59b49b2579bb6f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/frosit/Frosit_Fontawesomeness/zipball/b817f8173645598a95e6910d9e59b49b2579bb6f",
+                    "reference": "b817f8173645598a95e6910d9e59b49b2579bb6f",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/composer": "^1.3.0",
+                    "php": "^5.3 || ^7.0"
+                },
+                "require-dev": {
+                    "magento-ecg/coding-standard": "2.*",
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "n98/magerun": "1.97.*",
+                    "phpunit/phpunit": ">=4.8 <5.0.0",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2017-02-27T02:27:26+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "../../",
+                    "magento_connect": {
+                        "name": "Frosit_Fontawesomeness",
+                        "summary": "Fontawesomeness enables various iconic fonts and a font widget within your Magento store.",
+                        "channel": "community",
+                        "php_min": "5.2.0",
+                        "php_max": "7.1.0",
+                        "stability": "stable",
+                        "license_uri": "http://www.gnu.org/licenses/gpl-3.0.html",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "Frosit/Fontawesomeness"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/Frosit_Fontawesomeness.xml"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "dir",
+                                "path": "nl_NL/Frosit_Fontawesomeness.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "en_US/Frosit_Fontawesomeness.csv"
+                            },
+                            {
+                                "type": "mageskin",
+                                "structure": "dir",
+                                "path": "frontend/base/default/frosit/fontawesomeness"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabio Ros",
+                        "email": "f.ros@frosit.nl",
+                        "homepage": "http://www.frosit.nl",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Font Awesomeness adds icon fonts to Magento.",
+                "homepage": "https://github.com/frosit/Frosit_Fontawesomeness",
+                "support": {
+                    "issues": "https://github.com/frosit/frosit_fontawesomeness/issues",
+                    "source": "https://github.com/frosit/Frosit_Fontawesomeness/tree/travis-cs"
+                }
+            },
+            {
+                "name": "frosit/fontawesomeness",
+                "version": "dev-travis-file",
+                "version_normalized": "dev-travis-file",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/frosit/Frosit_Fontawesomeness.git",
+                    "reference": "0263f0fea9b428a10a719eec1a70ce884733c7a3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/frosit/Frosit_Fontawesomeness/zipball/0263f0fea9b428a10a719eec1a70ce884733c7a3",
+                    "reference": "0263f0fea9b428a10a719eec1a70ce884733c7a3",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.3 || ^7.0"
+                },
+                "require-dev": {
+                    "magento-ecg/coding-standard": "2.*",
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "n98/magerun": "1.97.*",
+                    "phpunit/phpunit": ">=4.8 <5.0.0",
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2017-03-02T19:00:26+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "../../"
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabio Ros",
+                        "email": "f.ros@frosit.nl",
+                        "homepage": "http://www.frosit.nl",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Font Awesomeness adds icon fonts to Magento.",
+                "homepage": "https://github.com/frosit/Frosit_Fontawesomeness",
+                "support": {
+                    "source": "https://github.com/frosit/Frosit_Fontawesomeness/tree/travis-file",
+                    "issues": "https://github.com/frosit/Frosit_Fontawesomeness/issues"
+                }
+            }
+        ]
+    }
+}

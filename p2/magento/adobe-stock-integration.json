@@ -1,0 +1,78 @@
+{
+    "packages": {
+        "magento/adobe-stock-integration": [
+            {
+                "name": "magento/adobe-stock-integration",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/adobe-stock-integration/magento-adobe-stock-integration-1.0.0.0.zip",
+                    "shasum": "91141d7a7ca31805136d9d52febc3e4d8efdf08a"
+                },
+                "require": {
+                    "magento/module-adobe-ims": "1.0.0",
+                    "magento/module-adobe-ims-api": "1.0.0",
+                    "magento/module-adobe-stock-admin-ui": "1.0.0",
+                    "magento/module-adobe-stock-asset": "1.0.0",
+                    "magento/module-adobe-stock-asset-api": "1.0.0",
+                    "magento/module-adobe-stock-client": "1.0.0",
+                    "magento/module-adobe-stock-client-api": "1.0.0",
+                    "magento/module-adobe-stock-image": "1.0.0",
+                    "magento/module-adobe-stock-image-admin-ui": "1.0.0",
+                    "magento/module-adobe-stock-image-api": "1.0.0"
+                },
+                "type": "metapackage",
+                "description": "Adobe Stock integration"
+            },
+            {
+                "name": "magento/adobe-stock-integration",
+                "version": "1.0.0-beta1",
+                "version_normalized": "1.0.0.0-beta1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/adobe-stock-integration/magento-adobe-stock-integration-1.0.0.0-beta1.zip",
+                    "shasum": "ae8348e0690d176b5bee0d986042d8fc69ca568b"
+                },
+                "require": {
+                    "magento/module-adobe-ims": "1.0.0-beta1",
+                    "magento/module-adobe-ims-api": "1.0.0-beta1",
+                    "magento/module-adobe-stock-admin-ui": "1.0.0-beta1",
+                    "magento/module-adobe-stock-asset": "1.0.0-beta1",
+                    "magento/module-adobe-stock-asset-api": "1.0.0-beta1",
+                    "magento/module-adobe-stock-client": "1.0.0-beta1",
+                    "magento/module-adobe-stock-client-api": "1.0.0-beta1",
+                    "magento/module-adobe-stock-image": "1.0.0-beta1",
+                    "magento/module-adobe-stock-image-admin-ui": "1.0.0-beta1",
+                    "magento/module-adobe-stock-image-api": "1.0.0-beta1"
+                },
+                "type": "metapackage",
+                "description": "Adobe Stock integration"
+            },
+            {
+                "name": "magento/adobe-stock-integration",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/adobe-stock-integration/magento-adobe-stock-integration-1.0.1.0.zip",
+                    "shasum": "207f0141051c92fb777509ee7deb894471a6dbd7"
+                },
+                "require": {
+                    "magento/module-adobe-ims": "1.0.0",
+                    "magento/module-adobe-ims-api": "1.0.0",
+                    "magento/module-adobe-stock-admin-ui": "1.0.0",
+                    "magento/module-adobe-stock-asset": "1.0.0",
+                    "magento/module-adobe-stock-asset-api": "1.0.0",
+                    "magento/module-adobe-stock-client": "1.0.0",
+                    "magento/module-adobe-stock-client-api": "1.0.0",
+                    "magento/module-adobe-stock-image": "1.0.0",
+                    "magento/module-adobe-stock-image-admin-ui": "1.0.1",
+                    "magento/module-adobe-stock-image-api": "1.0.0"
+                },
+                "type": "metapackage",
+                "description": "Adobe Stock integration"
+            }
+        ]
+    }
+}

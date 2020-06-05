@@ -1,0 +1,84 @@
+{
+    "packages": {
+        "connect20/order_comment_checkout": [
+            {
+                "name": "connect20/Order_Comment_Checkout",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Order_Comment_Checkout/1.0.0/Order_Comment_Checkout-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Chandan Kumar Singh",
+                        "email": "chandankumar8050@gmail.com"
+                    }
+                ],
+                "description": "This extension lets customer to add their comments during placing order. "
+            },
+            {
+                "name": "connect20/Order_Comment_Checkout",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Order_Comment_Checkout/1.0.1/Order_Comment_Checkout-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Chandan Kumar Singh",
+                        "email": "chandankumar8050@gmail.com"
+                    }
+                ],
+                "description": "This extension allows customers to add their comments while placing an order.  Requires no manual configuration."
+            },
+            {
+                "name": "connect20/Order_Comment_Checkout",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Order_Comment_Checkout/1.0.2/Order_Comment_Checkout-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Chandan Kumar Singh",
+                        "email": "chandankumar8050@gmail.com"
+                    }
+                ],
+                "description": "This extension allows customers to add their comments while placing an order.  Requires no manual configuration."
+            }
+        ]
+    }
+}

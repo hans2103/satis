@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/macpain_leetchi": [
+            {
+                "name": "connect20/Macpain_Leetchi",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Macpain_Leetchi/0.1.0/Macpain_Leetchi-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Marceli Podstawski",
+                        "email": "m.podstawski@centerkom.pl"
+                    }
+                ],
+                "description": "This extension provides new payment method with external paygate to leetchi.com"
+            },
+            {
+                "name": "connect20/Macpain_Leetchi",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Macpain_Leetchi/0.1.1/Macpain_Leetchi-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Marceli Podstawski",
+                        "email": "m.podstawski@centerkom.pl"
+                    }
+                ],
+                "description": "This extension provides new payment method with external paygate to leetchi.com"
+            }
+        ]
+    }
+}

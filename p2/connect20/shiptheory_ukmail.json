@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/shiptheory_ukmail": [
+            {
+                "name": "connect20/Shiptheory_Ukmail",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Shiptheory_Ukmail/0.0.1/Shiptheory_Ukmail-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "authors": [
+                    {
+                        "name": "Shiptheory",
+                        "email": "jm@shiptheory.com"
+                    }
+                ],
+                "description": "UK Mail iConsign Label API Integration from Shiptheory"
+            }
+        ]
+    }
+}

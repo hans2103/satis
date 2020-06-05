@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/wolterskluwer_cchsuretax": [
+            {
+                "name": "connect20/WoltersKluwer_CchSureTax",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/WoltersKluwer_CchSureTax/1.0.3/WoltersKluwer_CchSureTax-1.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "NA"
+                ],
+                "authors": [
+                    {
+                        "name": "Wolters Kluwer",
+                        "email": "Nicole.Tilton@wolterskluwer.com"
+                    }
+                ],
+                "description": "The CCH SureTax connector for Magento allows users to accurately calculate real-time sales tax."
+            }
+        ]
+    }
+}

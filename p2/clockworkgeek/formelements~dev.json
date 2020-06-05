@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "clockworkgeek/formelements": [
+            {
+                "name": "clockworkgeek/formelements",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/clockworkgeek/formelements.git",
+                    "reference": "0a1ec08457fdd38fedf85f93ad4f1db3fa236c62"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/clockworkgeek/formelements/zipball/0a1ec08457fdd38fedf85f93ad4f1db3fa236c62",
+                    "reference": "0a1ec08457fdd38fedf85f93ad4f1db3fa236c62",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-06-18T18:05:47+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Deady",
+                        "email": "daniel@clockworkgeek.com"
+                    }
+                ],
+                "description": "Adds HTML5 input types and some WYSIWYG features to admin forms and product attributes.",
+                "homepage": "https://github.com/clockworkgeek/formelements",
+                "support": {
+                    "source": "https://github.com/clockworkgeek/formelements/tree/master",
+                    "issues": "https://github.com/clockworkgeek/formelements/issues"
+                }
+            }
+        ]
+    }
+}

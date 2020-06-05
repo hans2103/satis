@@ -1,0 +1,74 @@
+{
+    "packages": {
+        "magento/composer-root-update-plugin": [
+            {
+                "name": "magento/composer-root-update-plugin",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/composer-root-update-plugin/magento-composer-root-update-plugin-0.1.0.0.zip",
+                    "shasum": "8819177760d73dbc391392b059157bd982ca1e3f"
+                },
+                "require": {
+                    "composer-plugin-api": "^1.0",
+                    "composer/composer": "<=1.8.0"
+                },
+                "suggest": {
+                    "magento/framework": "Enables the Magento Composer Root Update Plugin's functionality for the Web Setup Wizard"
+                },
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "Magento\\ComposerRootUpdatePlugin\\Plugin\\PluginDefinition"
+                },
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ComposerRootUpdatePlugin\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Plugin to look ahead for Magento project root changes when running composer update for new Magento versions"
+            },
+            {
+                "name": "magento/composer-root-update-plugin",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/composer-root-update-plugin/magento-composer-root-update-plugin-0.1.1.0.zip",
+                    "shasum": "edde6f8490a5c978fa648c8c823f78d4da98949d"
+                },
+                "require": {
+                    "composer-plugin-api": "^1.0",
+                    "composer/composer": "<=1.9.3"
+                },
+                "suggest": {
+                    "magento/framework": "Enables the Magento Composer Root Update Plugin's functionality for the Web Setup Wizard"
+                },
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "Magento\\ComposerRootUpdatePlugin\\Plugin\\PluginDefinition"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\ComposerRootUpdatePlugin\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Plugin to look ahead for Magento project root changes when running composer update for new Magento versions"
+            }
+        ]
+    }
+}

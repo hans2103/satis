@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/intelligrape_productlable": [
+            {
+                "name": "connect20/intelligrape_productlable",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/intelligrape_productlable/1.0.0.1/intelligrape_productlable-1.0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Amatya",
+                        "email": "shahid@intelligrape.com"
+                    }
+                ],
+                "description": "intelligrape_productlable"
+            }
+        ]
+    }
+}

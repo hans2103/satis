@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/itdelight_callback": [
+            {
+                "name": "connect20/Itdelight_Callback",
+                "version": "0.0.3",
+                "version_normalized": "0.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Itdelight_Callback/0.0.3/Itdelight_Callback-0.0.3.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "ItDelight Team",
+                        "email": "igor@itdelight.com"
+                    }
+                ],
+                "description": "Magento widget shows a form with phone number, name and message fields on the front-end of your site."
+            }
+        ]
+    }
+}

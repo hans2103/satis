@@ -1,0 +1,130 @@
+{
+    "packages": {
+        "magento/module-msrp-configurable-product": [
+            {
+                "name": "magento/module-msrp-configurable-product",
+                "version": "100.3.0",
+                "version_normalized": "100.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-msrp-configurable-product/magento-module-msrp-configurable-product-100.3.0.0.zip",
+                    "shasum": "cf76e419dad2243cd680b38e4d85aa48a1ea9ac9"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-configurable-product": "100.3.*",
+                    "magento/module-msrp": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MsrpConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-msrp-configurable-product",
+                "version": "100.3.1",
+                "version_normalized": "100.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-msrp-configurable-product/magento-module-msrp-configurable-product-100.3.1.0.zip",
+                    "shasum": "f7dc4eb52ddf97bc122350a0c5f2c06192d3e457"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-configurable-product": "100.3.*",
+                    "magento/module-msrp": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MsrpConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-msrp-configurable-product",
+                "version": "100.3.2",
+                "version_normalized": "100.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-msrp-configurable-product/magento-module-msrp-configurable-product-100.3.2.0.zip",
+                    "shasum": "46d3ad9b9a9e4b458727c6a7fadba8dbc609616e"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-configurable-product": "100.3.*",
+                    "magento/module-msrp": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MsrpConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-msrp-configurable-product",
+                "version": "100.3.3",
+                "version_normalized": "100.3.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-msrp-configurable-product/magento-module-msrp-configurable-product-100.3.3.0.zip",
+                    "shasum": "6a08b108dabbb4549adab33428cea67e0f2935b3"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-configurable-product": "100.3.*",
+                    "magento/module-msrp": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MsrpConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

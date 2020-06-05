@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/jaljale_pixel_setting": [
+            {
+                "name": "connect20/Jaljale_Pixel_Setting",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Jaljale_Pixel_Setting/1.0.0/Jaljale_Pixel_Setting-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Krish",
+                        "email": "jaljaletech@gmail.com"
+                    }
+                ],
+                "description": "Magento module for Facebook Conversion Tracking and Custom Audience Re-targeting for Facebook "
+            }
+        ]
+    }
+}

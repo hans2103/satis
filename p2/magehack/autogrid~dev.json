@@ -1,0 +1,63 @@
+{
+    "packages": {
+        "magehack/autogrid": [
+            {
+                "name": "magehack/autogrid",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/MagentoHackathonUK2014/Magehack_Autogrid.git",
+                    "reference": "d72b2d981bb9930c136ace76a6ea49ba38d06418"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/MagentoHackathonUK2014/Magehack_Autogrid/zipball/d72b2d981bb9930c136ace76a6ea49ba38d06418",
+                    "reference": "d72b2d981bb9930c136ace76a6ea49ba38d06418",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "time": "2017-02-13T12:50:12+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sam Ban",
+                        "homepage": "https://github.com/ShoobyBan",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Vinai Kopp",
+                        "homepage": "https://github.com/vinai",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Nils Preuss",
+                        "homepage": "https://github.com/nhp",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Jacques Bodin-Hullin",
+                        "homepage": "https://github.com/jacquesbh",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Malachy McConnell",
+                        "homepage": "https://malachy.mcconnnell/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "The Magehack_Autogrid can do most of the work for your simple or more complex grids.",
+                "homepage": "https://github.com/MagentoHackathonUK2014/Magehack_Autogrid",
+                "support": {
+                    "source": "https://github.com/MagentoHackathonUK2014/Magehack_Autogrid/tree/1.0.0",
+                    "issues": "https://github.com/MagentoHackathonUK2014/Magehack_Autogrid/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,1281 @@
+{
+    "packages": {
+        "magento/module-elasticsearch": [
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.1.0",
+                "version_normalized": "100.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.1.0.0.zip",
+                    "shasum": "c132003dda29210f68ab70508f26b4d7eb9abf7c"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "100.1.*",
+                    "magento/module-advanced-search": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-search": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-search": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.1.0-rc1",
+                "version_normalized": "100.1.0.0-RC1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.1.0.0-RC1.zip",
+                    "shasum": "3557b7f9a0fd9c7ebc4bb4f69103ff4d16c96da8"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "100.1.*",
+                    "magento/module-advanced-search": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-search": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-search": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.1.0-rc2",
+                "version_normalized": "100.1.0.0-RC2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.1.0.0-RC2.zip",
+                    "shasum": "cc30dde39ab826827b97119479f111def51bf63d"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "100.1.*",
+                    "magento/module-advanced-search": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-search": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-search": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.1.0-rc3",
+                "version_normalized": "100.1.0.0-RC3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.1.0.0-RC3.zip",
+                    "shasum": "de180b4c01cc1ef56fa4ea10fb3542595e415955"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "100.1.*",
+                    "magento/module-advanced-search": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-search": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-search": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.1.1",
+                "version_normalized": "100.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.1.1.0.zip",
+                    "shasum": "bd5ad9c9fcb59e2073f0992c71aeef283f6056d4"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "100.1.*",
+                    "magento/module-advanced-search": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-search": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-search": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.1.2",
+                "version_normalized": "100.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.1.2.0.zip",
+                    "shasum": "8d7c39756aac566a2128760e6fc741a14663513e"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "100.1.*",
+                    "magento/module-advanced-search": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-search": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-search": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.1.3",
+                "version_normalized": "100.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.1.3.0.zip",
+                    "shasum": "4390a80e86d3ebe8229ea07010c9c23ff2037f06"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "100.1.*",
+                    "magento/module-advanced-search": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-search": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-search": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.1.4",
+                "version_normalized": "100.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.1.4.0.zip",
+                    "shasum": "42f5eb330272e95e391acf326f009818e8615c33"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "100.1.*",
+                    "magento/module-advanced-search": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-search": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-search": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.1.5",
+                "version_normalized": "100.1.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.1.5.0.zip",
+                    "shasum": "74da54ea1e301fcde514f25cef277bfb29c0e18c"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "100.1.*",
+                    "magento/module-advanced-search": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-search": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-search": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.1.6",
+                "version_normalized": "100.1.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.1.6.0.zip",
+                    "shasum": "babb0fc306af13a09975f7fc710b500134a31593"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "100.1.*",
+                    "magento/module-advanced-search": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-search": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-search": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.1.7",
+                "version_normalized": "100.1.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.1.7.0.zip",
+                    "shasum": "aca4045a75a752648fcb8705763e3d32e6ca37f5"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "100.1.*",
+                    "magento/module-advanced-search": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-search": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-search": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.1.8",
+                "version_normalized": "100.1.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.1.8.0.zip",
+                    "shasum": "039b85e57097fbd9805dd0721e30de9d8cacc361"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "100.1.*",
+                    "magento/module-advanced-search": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-search": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-search": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.2.0",
+                "version_normalized": "100.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.2.0.0.zip",
+                    "shasum": "ad947841fcf3326a09546b1d709580f957ff3a16"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-search": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-search": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.2.0-rc20",
+                "version_normalized": "100.2.0.0-RC20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.2.0.0-RC20.zip",
+                    "shasum": "bdfcc72aa3d7de2f470c42971918c80211774159"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "100.2.*",
+                    "magento/module-advanced-search": "100.2.*",
+                    "magento/module-catalog": "101.1.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer": "100.2.*",
+                    "magento/module-eav": "100.2.*",
+                    "magento/module-search": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.2.0-rc21",
+                "version_normalized": "100.2.0.0-RC21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.2.0.0-RC21.zip",
+                    "shasum": "3859114c72d69e9876166d1c9f90e848b77344cf"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-search": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-search": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.2.0-rc22",
+                "version_normalized": "100.2.0.0-RC22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.2.0.0-RC22.zip",
+                    "shasum": "0aa2f5e849956e3d179a8fce9c87621142e1b064"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-search": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-search": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.2.0-rc23",
+                "version_normalized": "100.2.0.0-RC23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.2.0.0-RC23.zip",
+                    "shasum": "8b79525f9e34917f51f2df7f551136d135b4a078"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-search": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-search": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.2.0-rc30",
+                "version_normalized": "100.2.0.0-RC30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.2.0.0-RC30.zip",
+                    "shasum": "fd8f08040ca50879df8986aa7c3c69c34a100546"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-search": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-search": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.2.1",
+                "version_normalized": "100.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.2.1.0.zip",
+                    "shasum": "eb6152e3d0c588e70cd52a5e34af57e45f5c9934"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0",
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-search": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-search": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.2.10",
+                "version_normalized": "100.2.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.2.10.0.zip",
+                    "shasum": "b2c8289cf751071561e0fde48ad3f31bf25b1f10"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0||~5.1||~6.1",
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-search": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-search": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13||~7.1.0||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.2.2",
+                "version_normalized": "100.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.2.2.0.zip",
+                    "shasum": "e9b44393d5b738deaaaa52a05c7cf3c67775ca28"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0|~5.1",
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-search": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-search": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.2.3",
+                "version_normalized": "100.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.2.3.0.zip",
+                    "shasum": "b841ee14deb3ca27d121331de0a357964f4c7f73"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0|~5.1",
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-search": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-search": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.2.4",
+                "version_normalized": "100.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.2.4.0.zip",
+                    "shasum": "6bef85361861d71703c73977aa15f1f6fb812c3a"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0|~5.1",
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-search": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-search": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.2.5",
+                "version_normalized": "100.2.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.2.5.0.zip",
+                    "shasum": "92d40151313b47b534139c99549ec122b35b13ff"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0|~5.1",
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-search": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-search": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.2.6",
+                "version_normalized": "100.2.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.2.6.0.zip",
+                    "shasum": "6e8164528e903570bcb30e0996a1984db7609284"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0|~5.1",
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-search": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-search": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.2.7",
+                "version_normalized": "100.2.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.2.7.0.zip",
+                    "shasum": "5eaf8d67fb637c2e743b5c497e191b2ea47d0e55"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0|~5.1|~6.1",
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-search": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-search": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.2.8",
+                "version_normalized": "100.2.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.2.8.0.zip",
+                    "shasum": "0fb1d2c57c7c7fefc6307e9a8a71b519d466b718"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0|~5.1|~6.1",
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-search": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-search": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.2.9",
+                "version_normalized": "100.2.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.2.9.0.zip",
+                    "shasum": "2ebc0d7674c0f67753b2958f1ce8dda22d9399c2"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0|~5.1|~6.1",
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-search": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-search": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0|~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.3.0",
+                "version_normalized": "100.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.3.0.0.zip",
+                    "shasum": "7d953216070bc2f8ba41bbdd5b449be0fc56371e"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0|~5.1",
+                    "magento/framework": "102.0.*",
+                    "magento/module-advanced-search": "100.3.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-search": "101.0.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-search": "101.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.3.1",
+                "version_normalized": "100.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.3.1.0.zip",
+                    "shasum": "ed1da1137848560dde1a85f0f54dc2fac262359e"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0|~5.1|~6.1",
+                    "magento/framework": "102.0.*",
+                    "magento/module-advanced-search": "100.3.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-search": "101.0.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-search": "101.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.3.2",
+                "version_normalized": "100.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.3.2.0.zip",
+                    "shasum": "ce42b13f309bf92094d9e32797ca4ffead88625f"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0|~5.1|~6.1",
+                    "magento/framework": "102.0.*",
+                    "magento/module-advanced-search": "100.3.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-search": "101.0.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-search": "101.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.3.3",
+                "version_normalized": "100.3.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.3.3.0.zip",
+                    "shasum": "ab04fd59c483c15b61854b5894ad5345cfc0c4ce"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0|~5.1|~6.1",
+                    "magento/framework": "102.0.*",
+                    "magento/module-advanced-search": "100.3.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-search": "101.0.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-search": "101.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.3.4",
+                "version_normalized": "100.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.3.4.0.zip",
+                    "shasum": "43f6b180755ada599be571c7dfe20eafd0c0f519"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0|~5.1|~6.1",
+                    "magento/framework": "102.0.*",
+                    "magento/module-advanced-search": "100.3.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-search": "101.0.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-search": "101.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-elasticsearch",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-elasticsearch/magento-module-elasticsearch-100.3.5.0.zip",
+                    "shasum": "096420d703b89ef9f3dd7ef86cbbcf85773d9bb8"
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~2.0||~5.1||~6.1||~7.6",
+                    "magento/framework": "102.0.*",
+                    "magento/module-advanced-search": "100.3.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-search": "101.0.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-search": "101.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Elasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

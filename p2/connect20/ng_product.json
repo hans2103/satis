@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ng_product": [
+            {
+                "name": "connect20/ng_product",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ng_product/1.0.1/ng_product-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "NG",
+                        "email": "extensionsng@gmail.com"
+                    }
+                ],
+                "description": "This extension is related to add simple product from frontend."
+            }
+        ]
+    }
+}

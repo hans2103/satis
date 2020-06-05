@@ -1,0 +1,36 @@
+{
+    "packages": {
+        "aligent/addtocart": [
+            {
+                "name": "aligent/addtocart",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Aligent_AddToCart.git",
+                    "reference": "8c4220a1e4561c027c6edc2c4ca2200e2d3c52f1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Aligent_AddToCart/zipball/8c4220a1e4561c027c6edc2c4ca2200e2d3c52f1",
+                    "reference": "8c4220a1e4561c027c6edc2c4ca2200e2d3c52f1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-10-12T01:46:11+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Prototype based, Ajax Add to Cart functionality for all product types.",
+                "homepage": "https://github.com/aligent/Aligent_AddToCart",
+                "support": {
+                    "source": "https://github.com/aligent/Aligent_AddToCart/tree/master",
+                    "issues": "https://github.com/aligent/Aligent_AddToCart/issues"
+                }
+            }
+        ]
+    }
+}

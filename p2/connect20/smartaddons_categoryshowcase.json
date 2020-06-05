@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/smartaddons_categoryshowcase": [
+            {
+                "name": "connect20/smartaddons_categoryshowcase",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/smartaddons_categoryshowcase/1.0.0/smartaddons_categoryshowcase-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)-"
+                ],
+                "authors": [
+                    {
+                        "name": "magentech.com",
+                        "email": "contact@ytcvn.com"
+                    }
+                ],
+                "description": "smartaddons_categoryshowcase"
+            }
+        ]
+    }
+}

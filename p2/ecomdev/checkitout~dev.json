@@ -1,0 +1,156 @@
+{
+    "packages": {
+        "ecomdev/checkitout": [
+            {
+                "name": "ecomdev/checkitout",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/EcomDev/checkitout.git",
+                    "reference": "cd0168defbee2d99aa4e93ba2e48b1725f909d8a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/EcomDev/checkitout/zipball/cd0168defbee2d99aa4e93ba2e48b1725f909d8a",
+                    "reference": "cd0168defbee2d99aa4e93ba2e48b1725f909d8a",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.4.0"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "dev-dev",
+                    "ecomdev/mage-ci": "*",
+                    "magento/core": "1.9.1.0",
+                    "mikey179/vfsstream": "*",
+                    "phpunit/phpcov": "*",
+                    "satooshi/php-coveralls": "dev-master"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "time": "2017-08-04T13:49:41+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "build",
+                    "magento-force": true
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ivan Chepurnyi",
+                        "email": "ivan@ecomdev.org"
+                    }
+                ],
+                "description": "CheckItOut Magento extension",
+                "support": {
+                    "source": "https://github.com/EcomDev/checkitout/tree/v1.5.16",
+                    "issues": "https://github.com/EcomDev/checkitout/issues"
+                }
+            },
+            {
+                "name": "ecomdev/checkitout",
+                "version": "dev-backup/dev",
+                "version_normalized": "dev-backup/dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/EcomDev/checkitout.git",
+                    "reference": "39ac2fd42af453773467c4d15817cdd649495853"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/EcomDev/checkitout/zipball/39ac2fd42af453773467c4d15817cdd649495853",
+                    "reference": "39ac2fd42af453773467c4d15817cdd649495853",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.4.0"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "dev-dev",
+                    "ecomdev/mage-ci": "*",
+                    "magento/core": "1.9.1.0",
+                    "mikey179/vfsstream": "*",
+                    "phpunit/phpcov": "*",
+                    "satooshi/php-coveralls": "dev-master"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "time": "2016-07-13T07:05:38+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "build",
+                    "magento-force": true
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ivan Chepurnyi",
+                        "email": "ivan@ecomdev.org"
+                    }
+                ],
+                "description": "CheckItOut Magento extension",
+                "support": {
+                    "source": "https://github.com/EcomDev/checkitout/tree/backup/dev",
+                    "issues": "https://github.com/EcomDev/checkitout/issues"
+                }
+            },
+            {
+                "name": "ecomdev/checkitout",
+                "version": "dev-dev",
+                "version_normalized": "dev-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/EcomDev/checkitout.git",
+                    "reference": "131c79aa1b77a63f63121451b2ee5f9f6782177b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/EcomDev/checkitout/zipball/131c79aa1b77a63f63121451b2ee5f9f6782177b",
+                    "reference": "131c79aa1b77a63f63121451b2ee5f9f6782177b",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.4.0"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "dev-dev",
+                    "ecomdev/mage-ci": "*",
+                    "magento/core": "1.9.1.0",
+                    "mikey179/vfsstream": "*",
+                    "phpunit/phpcov": "*",
+                    "satooshi/php-coveralls": "dev-master"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "time": "2017-08-04T13:46:57+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "build",
+                    "magento-force": true
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ivan Chepurnyi",
+                        "email": "ivan@ecomdev.org"
+                    }
+                ],
+                "description": "CheckItOut Magento extension",
+                "support": {
+                    "source": "https://github.com/EcomDev/checkitout/tree/dev",
+                    "issues": "https://github.com/EcomDev/checkitout/issues"
+                }
+            }
+        ]
+    }
+}

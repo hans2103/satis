@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/phxsolution_manufactures": [
+            {
+                "name": "connect20/Phxsolution_Manufactures",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Phxsolution_Manufactures/0.1.0/Phxsolution_Manufactures-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSLv3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Prakash Vaniya",
+                        "email": "contact@phxsolution.com"
+                    }
+                ],
+                "description": "Manufacturers Commission Manager as name suggests admin can add commission to price, can set logos and notes."
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/system_configuration_search": [
+            {
+                "name": "connect20/System_Configuration_Search",
+                "version": "0.7.0",
+                "version_normalized": "0.7.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/System_Configuration_Search/0.7.0/System_Configuration_Search-0.7.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Alan Storm",
+                        "email": "astorm@alanstorm.com"
+                    }
+                ],
+                "description": "This extension installs a search form that allows you to quickly find System Configuration fields."
+            }
+        ]
+    }
+}

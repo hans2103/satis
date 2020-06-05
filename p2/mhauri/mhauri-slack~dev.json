@@ -1,0 +1,80 @@
+{
+    "packages": {
+        "mhauri/mhauri-slack": [
+            {
+                "name": "mhauri/mhauri-slack",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mhauri/magento-slack.git",
+                    "reference": "5ea242e6d63d8fc8d67eade54caaec475f4262c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mhauri/magento-slack/zipball/5ea242e6d63d8fc8d67eade54caaec475f4262c9",
+                    "reference": "5ea242e6d63d8fc8d67eade54caaec475f4262c9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-12-15T10:09:04+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Marcel Hauri",
+                        "email": "marcel@hauri.me"
+                    },
+                    {
+                        "name": "Sander Mangel",
+                        "email": "sander@sandermangel.nl"
+                    }
+                ],
+                "description": "Magento Slack allows you to send specific and/or custom events to a definable room.",
+                "support": {
+                    "source": "https://github.com/mhauri/magento-slack/tree/0.5.0",
+                    "issues": "https://github.com/mhauri/magento-slack/issues"
+                }
+            },
+            {
+                "name": "mhauri/mhauri-slack",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mhauri/magento-slack.git",
+                    "reference": "cf9c725c6f1574a733535e646e81b62c832db841"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mhauri/magento-slack/zipball/cf9c725c6f1574a733535e646e81b62c832db841",
+                    "reference": "cf9c725c6f1574a733535e646e81b62c832db841",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "2.*"
+                },
+                "time": "2015-05-01T10:28:51+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Marcel Hauri",
+                        "email": "marcel@hauri.me"
+                    }
+                ],
+                "description": "Magento Slack allows you to send specific and/or custom events to a definable room.",
+                "support": {
+                    "source": "https://github.com/mhauri/magento-slack/tree/0.4.0",
+                    "issues": "https://github.com/mhauri/magento-slack/issues"
+                }
+            }
+        ]
+    }
+}

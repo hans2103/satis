@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "jacquesbh/jbh_homepage": [
+            {
+                "name": "jacquesbh/jbh_homepage",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jacquesbh/jbh_homepage.git",
+                    "reference": "b09ab9347a8e42b5a4577cd79c62ec6f8095a7c4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jacquesbh/jbh_homepage/zipball/b09ab9347a8e42b5a4577cd79c62ec6f8095a7c4",
+                    "reference": "b09ab9347a8e42b5a4577cd79c62ec6f8095a7c4",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-06-11T17:14:09+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT Public License"
+                ],
+                "authors": [
+                    {
+                        "name": "Jacques Bodin-Hullin",
+                        "email": "j.bodinhullin@monsieurbiz.com",
+                        "homepage": "http://monsieurbiz.com/"
+                    }
+                ],
+                "description": "Magento extension to change the layout of the homepage.",
+                "homepage": "https://github.com/jacquesbh/jbh_homepage",
+                "support": {
+                    "source": "https://github.com/jacquesbh/jbh_homepage/tree/0.1.0",
+                    "issues": "https://github.com/jacquesbh/jbh_homepage/issues"
+                }
+            }
+        ]
+    }
+}

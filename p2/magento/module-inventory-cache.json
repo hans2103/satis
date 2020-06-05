@@ -1,0 +1,336 @@
+{
+    "packages": {
+        "magento/module-inventory-cache": [
+            {
+                "name": "magento/module-inventory-cache",
+                "version": "1.0.0-rc",
+                "version_normalized": "1.0.0.0-RC",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-cache/magento-module-inventory-cache-1.0.0.0-RC.zip",
+                    "shasum": "e3d2383278944c5ab6474f466a011f74a349fe6c"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": "103.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCache\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-cache",
+                "version": "1.0.0-beta",
+                "version_normalized": "1.0.0.0-beta",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-cache/magento-module-inventory-cache-1.0.0.0-beta.zip",
+                    "shasum": "19a7253ae7061ba359b3e3d1f3a4a41863e7143b"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": "103.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCache\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-cache",
+                "version": "1.0.0-beta2",
+                "version_normalized": "1.0.0.0-beta2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-cache/magento-module-inventory-cache-1.0.0.0-beta2.zip",
+                    "shasum": "78d51d734663c348d94b31bee9f792679e8f446d"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": "103.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCache\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-cache",
+                "version": "1.0.0-beta3",
+                "version_normalized": "1.0.0.0-beta3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-cache/magento-module-inventory-cache-1.0.0.0-beta3.zip",
+                    "shasum": "24b1272607e6a6e2a298a6828389c85f5f37b969"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": "103.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCache\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-cache",
+                "version": "1.0.0-beta4",
+                "version_normalized": "1.0.0.0-beta4",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-cache/magento-module-inventory-cache-1.0.0.0-beta4.zip",
+                    "shasum": "16a9956386f760d25e404602c5b3a8da5089c810"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": "103.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCache\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-cache",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-cache/magento-module-inventory-cache-1.0.3.0.zip",
+                    "shasum": "024f1d29d27adab967ae77e8b90ee208a06872e7"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": "103.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCache\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-cache",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-cache/magento-module-inventory-cache-1.0.4.0.zip",
+                    "shasum": "2a6356d4e8c2dc70132a9b437c4a9bcc13340125"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": ".*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCache\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-cache",
+                "version": "1.0.4-beta2",
+                "version_normalized": "1.0.4.0-beta2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-cache/magento-module-inventory-cache-1.0.4.0-beta2.zip",
+                    "shasum": "e3c7754824b6a623d4e74b1729d1adbdbc0f86ad"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": ".*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCache\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-cache",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-cache/magento-module-inventory-cache-1.0.5.0.zip",
+                    "shasum": "5c82d447e0ccff2a3a2b3c4a253489ae338f1b1f"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCache\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-cache",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-cache/magento-module-inventory-cache-1.0.6.0.zip",
+                    "shasum": "27dcf978f8950047fb387be19e7d4a6d03ecd19f"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCache\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

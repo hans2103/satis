@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/levementum_groupedproduct": [
+            {
+                "name": "connect20/Levementum_Groupedproduct",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Levementum_Groupedproduct/1.0.0/Levementum_Groupedproduct-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Levementum, LLC",
+                        "email": "gmobisson@levementum.com"
+                    }
+                ],
+                "description": "Levementum’s Grouped Product Grid extension allows the addition of any attribute in any order with sorting functionality to the grouped product table."
+            }
+        ]
+    }
+}

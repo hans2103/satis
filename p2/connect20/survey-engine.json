@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/survey-engine": [
+            {
+                "name": "connect20/survey-engine",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/survey-engine/0.0.1/survey-engine-0.0.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Extension-license-name-(OSL-v3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Jason Koshy",
+                        "email": "jason@rainconcert.in"
+                    }
+                ],
+                "description": "Rainconcert  Customer Feedback Kit"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/zookal_mock": [
+            {
+                "name": "connect20/Zookal_Mock",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Zookal_Mock/1.0.2/Zookal_Mock-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher",
+                        "email": "cyrill@schumacher.fm"
+                    }
+                ],
+                "description": "Transparent auto detecting of disabled core modules & exten. Providing mock objects for not breaking Magento."
+            },
+            {
+                "name": "connect20/Zookal_Mock",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Zookal_Mock/1.0.3/Zookal_Mock-1.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher",
+                        "email": "cyrill@schumacher.fm"
+                    }
+                ],
+                "description": "Transparent auto detecting of disabled core modules & exten. Providing mock objects for not breaking Magento."
+            }
+        ]
+    }
+}

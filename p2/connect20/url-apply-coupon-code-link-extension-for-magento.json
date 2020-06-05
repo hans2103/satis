@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/url-apply-coupon-code-link-extension-for-magento": [
+            {
+                "name": "connect20/url-apply-coupon-code-link-extension-for-magento",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/url-apply-coupon-code-link-extension-for-magento/1.0.0/url-apply-coupon-code-link-extension-for-magento-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MagePhobia-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "MagePhobia",
+                        "email": "support@magephobia.com"
+                    }
+                ],
+                "description": "Allows merchants to use links to any Magento® page and apply coupon code on the fly to existing or future cart\r\n"
+            }
+        ]
+    }
+}

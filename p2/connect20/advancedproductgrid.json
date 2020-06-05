@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/advancedproductgrid": [
+            {
+                "name": "connect20/AdvancedProductGrid",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/AdvancedProductGrid/1.0.0/AdvancedProductGrid-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Cartin24",
+                        "email": "developer@cartin24.com"
+                    }
+                ],
+                "description": "Extension which allow to add Category drop down and Thumbnail image in Admin Product grid"
+            }
+        ]
+    }
+}

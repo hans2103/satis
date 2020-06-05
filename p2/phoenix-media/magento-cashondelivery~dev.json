@@ -1,0 +1,38 @@
+{
+    "packages": {
+        "phoenix-media/magento-cashondelivery": [
+            {
+                "name": "phoenix-media/magento-cashondelivery",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/PHOENIX-MEDIA/Magento-CashOnDelivery.git",
+                    "reference": "0cf58ed14715439746f26fcfc72d6939be9d8568"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/PHOENIX-MEDIA/Magento-CashOnDelivery/zipball/0cf58ed14715439746f26fcfc72d6939be9d8568",
+                    "reference": "0cf58ed14715439746f26fcfc72d6939be9d8568",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-04-12T09:35:21+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Phoenix Media",
+                        "email": "info@phoenixmedia.com"
+                    }
+                ],
+                "description": "Phoenix media cash on delivery",
+                "support": {
+                    "source": "https://github.com/PHOENIX-MEDIA/Magento-CashOnDelivery/tree/master",
+                    "issues": "https://github.com/PHOENIX-MEDIA/Magento-CashOnDelivery/issues"
+                }
+            }
+        ]
+    }
+}

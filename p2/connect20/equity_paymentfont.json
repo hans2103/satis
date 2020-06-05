@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/equity_paymentfont": [
+            {
+                "name": "connect20/Equity_PaymentFont",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Equity_PaymentFont/1.0.0/Equity_PaymentFont-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Equity-EULA"
+                ],
+                "authors": [
+                    {
+                        "name": "i6 Media",
+                        "email": "info@i6media.com"
+                    }
+                ],
+                "description": "Use paymentfont.io in your own Magento Environment"
+            },
+            {
+                "name": "connect20/Equity_PaymentFont",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Equity_PaymentFont/1.0.1/Equity_PaymentFont-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Equity-EULA"
+                ],
+                "authors": [
+                    {
+                        "name": "i6 Media",
+                        "email": "info@i6media.com"
+                    }
+                ],
+                "description": "Use paymentfont.io in your own Magento Environment"
+            }
+        ]
+    }
+}

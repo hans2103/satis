@@ -1,0 +1,53 @@
+{
+    "packages": {
+        "yireo/magento1-disablelog": [
+            {
+                "name": "yireo/magento1-disablelog",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/yireo/Yireo_DisableLog.git",
+                    "reference": "8c941d519b9c980b547efce771dca896350fbb2e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/yireo/Yireo_DisableLog/zipball/8c941d519b9c980b547efce771dca896350fbb2e",
+                    "reference": "8c941d519b9c980b547efce771dca896350fbb2e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2017-08-17T13:46:21+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "source/"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Disable all Magento logging to the database",
+                "homepage": "https://www.yireo.com/software/magento-extensions/disablelog",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/yireo/Yireo_DisableLog/tree/master",
+                    "issues": "https://github.com/yireo/Yireo_DisableLog/issues"
+                }
+            }
+        ]
+    }
+}

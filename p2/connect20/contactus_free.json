@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/contactus_free": [
+            {
+                "name": "connect20/ContactUs_Free",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ContactUs_Free/1.0.0.1/ContactUs_Free-1.0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Softechworld"
+                ],
+                "authors": [
+                    {
+                        "name": "Softechworld",
+                        "email": "info@softechworld.com"
+                    }
+                ],
+                "description": "contact us extension"
+            }
+        ]
+    }
+}

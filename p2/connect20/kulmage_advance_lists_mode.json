@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/kulmage_advance_lists_mode": [
+            {
+                "name": "connect20/Kulmage_Advance_Lists_Mode",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Kulmage_Advance_Lists_Mode/1.0.0/Kulmage_Advance_Lists_Mode-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kuldipsinh",
+                        "email": "er.kuldipsinh@gmail.com"
+                    }
+                ],
+                "description": "This extension allow user to set one more list mode , and which contain only text data."
+            }
+        ]
+    }
+}

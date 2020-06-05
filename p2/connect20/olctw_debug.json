@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/olctw_debug": [
+            {
+                "name": "connect20/Olctw_Debug",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Olctw_Debug/1.1.0/Olctw_Debug-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Just This Computer Studio ( http://olc.tw )",
+                        "email": "service@olc.tw"
+                    }
+                ],
+                "description": "A debug tool bar for developers of magento commerce community 1.7 or higher."
+            },
+            {
+                "name": "connect20/Olctw_Debug",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Olctw_Debug/1.1.1/Olctw_Debug-1.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Just This Computer Studio ( http://olc.tw )",
+                        "email": "service@olc.tw"
+                    }
+                ],
+                "description": "A debug tool bar for developers of magento commerce community 1.7 or higher."
+            }
+        ]
+    }
+}

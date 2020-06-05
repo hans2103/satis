@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/bagproductbydraganddrop": [
+            {
+                "name": "connect20/bagproductbydraganddrop",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/bagproductbydraganddrop/1.0/bagproductbydraganddrop-1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Extension-license-name-(OSL-v3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Amit Shah",
+                        "email": "amitshah2007@gmail.com"
+                    }
+                ],
+                "description": "This facilitates you to bag your products, simply by drag & drop of the product image into your bag."
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/magento-full-catalog-translate": [
+            {
+                "name": "connect20/magento-full-catalog-translate",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/magento-full-catalog-translate/0.2.0/magento-full-catalog-translate-0.2.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Balliano",
+                        "email": "fabrizio@fabrizioballiano.it"
+                    }
+                ],
+                "description": "A module to translate all your products automatically using Google Translate API."
+            },
+            {
+                "name": "connect20/magento-full-catalog-translate",
+                "version": "0.4.0",
+                "version_normalized": "0.4.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/magento-full-catalog-translate/0.4.0/magento-full-catalog-translate-0.4.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Balliano",
+                        "email": "fabrizio@fabrizioballiano.it"
+                    }
+                ],
+                "description": "A module to translate all your products automatically using Google Translate API."
+            }
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "connect20/reviewo_automaticfeedback": [
+            {
+                "name": "connect20/Reviewo_AutomaticFeedback",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Reviewo_AutomaticFeedback/1.1.0/Reviewo_AutomaticFeedback-1.1.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Leon Smith",
+                        "email": "leon@reviewo.com"
+                    }
+                ],
+                "description": "Reviewo Automatic Feedback"
+            },
+            {
+                "name": "connect20/Reviewo_AutomaticFeedback",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Reviewo_AutomaticFeedback/1.2.0/Reviewo_AutomaticFeedback-1.2.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.7.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Leon Smith",
+                        "email": "leon@reviewo.com"
+                    }
+                ],
+                "description": "Reviewo Automatic Feedback"
+            }
+        ]
+    }
+}

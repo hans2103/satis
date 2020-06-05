@@ -1,0 +1,70 @@
+{
+    "packages": {
+        "demac/multilocationinventory": [
+            {
+                "name": "demac/multilocationinventory",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bounteous-Inc/Magento-Multi-Location-Inventory.git",
+                    "reference": "56f46958e14733b406c745e435e75de8592d1624"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bounteous-Inc/Magento-Multi-Location-Inventory/zipball/56f46958e14733b406c745e435e75de8592d1624",
+                    "reference": "56f46958e14733b406c745e435e75de8592d1624",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-10-12T09:41:38+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Demac Media",
+                        "email": "support@demacmedia.com"
+                    }
+                ],
+                "description": "Support for multiple inventory locations in Magento.",
+                "support": {
+                    "source": "https://github.com/DemacMedia/Magento-Multi-Location-Inventory/tree/master",
+                    "issues": "https://github.com/DemacMedia/Magento-Multi-Location-Inventory/issues"
+                }
+            },
+            {
+                "name": "demac/multilocationinventory",
+                "version": "dev-bundled-indexer",
+                "version_normalized": "dev-bundled-indexer",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Bounteous-Inc/Magento-Multi-Location-Inventory.git",
+                    "reference": "10653a045974726ff76731f62329df0c0bca1c41"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Bounteous-Inc/Magento-Multi-Location-Inventory/zipball/10653a045974726ff76731f62329df0c0bca1c41",
+                    "reference": "10653a045974726ff76731f62329df0c0bca1c41",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-09-15T19:57:35+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Demac Media",
+                        "email": "support@demacmedia.com"
+                    }
+                ],
+                "description": "Support for multiple inventory locations in Magento.",
+                "support": {
+                    "source": "https://github.com/DemacMedia/Magento-Multi-Location-Inventory/tree/bundled-indexer",
+                    "issues": "https://github.com/DemacMedia/Magento-Multi-Location-Inventory/issues"
+                }
+            }
+        ]
+    }
+}

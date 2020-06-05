@@ -1,0 +1,78 @@
+{
+    "packages": {
+        "ffm/adminsortitems": [
+            {
+                "name": "Ffm/AdminSortItems",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ffmengineering/magento1-adminsortitems.git",
+                    "reference": "bc77c113ae4bf42e70c65dbd43c511e890ef8eba"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ffmengineering/magento1-adminsortitems/zipball/bc77c113ae4bf42e70c65dbd43c511e890ef8eba",
+                    "reference": "bc77c113ae4bf42e70c65dbd43c511e890ef8eba",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "aoepeople/composer-installers": "*"
+                },
+                "time": "2016-09-07T12:53:49+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sander Mangel",
+                        "email": "s.mangel@fitforme.nl"
+                    }
+                ],
+                "description": "Makes tab items in admin sortable",
+                "homepage": "http://www.fitforme.nl",
+                "support": {
+                    "source": "https://github.com/ffmengineering/magento1-adminsortitems/tree/0.2.0",
+                    "issues": "https://github.com/ffmengineering/magento1-adminsortitems/issues"
+                }
+            },
+            {
+                "name": "Ffm/AdminSortItems",
+                "version": "dev-bugfix/missing-cssfile",
+                "version_normalized": "dev-bugfix/missing-cssfile",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ffmengineering/magento1-adminsortitems.git",
+                    "reference": "f51f619cb47fcca18da041d5e236c311c1bede79"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ffmengineering/magento1-adminsortitems/zipball/f51f619cb47fcca18da041d5e236c311c1bede79",
+                    "reference": "f51f619cb47fcca18da041d5e236c311c1bede79",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "aoepeople/composer-installers": "*"
+                },
+                "time": "2018-01-17T10:47:39+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sander Mangel",
+                        "email": "s.mangel@fitforme.nl"
+                    }
+                ],
+                "description": "Makes tab items in admin sortable",
+                "homepage": "http://www.fitforme.nl",
+                "support": {
+                    "source": "https://github.com/ffmengineering/magento1-adminsortitems/tree/bugfix/missing-cssfile",
+                    "issues": "https://github.com/ffmengineering/magento1-adminsortitems/issues"
+                }
+            }
+        ]
+    }
+}

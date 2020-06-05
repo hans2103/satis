@@ -1,0 +1,84 @@
+{
+    "packages": {
+        "connect20/sendabox_sendabox": [
+            {
+                "name": "connect20/Sendabox_Sendabox",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Sendabox_Sendabox/1.0.0/Sendabox_Sendabox-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Italmondo S.p.a.",
+                        "email": "magentosupport@sendabox.it"
+                    }
+                ],
+                "description": "The extension provides two services: one as carrier and one as shipping management. Each service has its own configuration page reachable from the specific item added in the menu of the magento admin panel. There is also a page, still reachable from the menu,  with the list of the orders that can be processed, each one with its own management page."
+            },
+            {
+                "name": "connect20/Sendabox_Sendabox",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Sendabox_Sendabox/2.0.0/Sendabox_Sendabox-2.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-"
+                ],
+                "authors": [
+                    {
+                        "name": "Stathis Kapaniaris",
+                        "email": "stathis.kapaniaris@gmail.com"
+                    }
+                ],
+                "description": "Shipping extension for Sendabox.it"
+            },
+            {
+                "name": "connect20/Sendabox_Sendabox",
+                "version": "2.0.0.1",
+                "version_normalized": "2.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Sendabox_Sendabox/2.0.0.1/Sendabox_Sendabox-2.0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-"
+                ],
+                "authors": [
+                    {
+                        "name": "Stathis Kapaniaris",
+                        "email": "stathis.kapaniaris@gmail.com"
+                    }
+                ],
+                "description": "Shipping extension for Sendabox.it"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/es_similarprod": [
+            {
+                "name": "connect20/ES_Similarprod",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ES_Similarprod/1.1.0/ES_Similarprod-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Edvinas Stulpinas",
+                        "email": "st.edvinas@gmail.com"
+                    }
+                ],
+                "description": "This extension shows similar products in block which is in product view page sidebar.  This extension is great way to suggest customer view more products. Similar products are from the same category as current viewed product."
+            }
+        ]
+    }
+}

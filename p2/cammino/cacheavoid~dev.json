@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "cammino/cacheavoid": [
+            {
+                "name": "cammino/cacheavoid",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/andreregino/magento-cacheavoid.git",
+                    "reference": "d64f8fe2a0b4687154b0b1c16b05c301d9cde2c7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/andreregino/magento-cacheavoid/zipball/d64f8fe2a0b4687154b0b1c16b05c301d9cde2c7",
+                    "reference": "d64f8fe2a0b4687154b0b1c16b05c301d9cde2c7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-10-18T16:07:52+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Module that appends a query string in the end of the assets file calling in order to avoid browser cache.",
+                "homepage": "https://github.com/cammino/magento-cacheavoid",
+                "support": {
+                    "source": "https://github.com/andreregino/magento-cacheavoid/tree/master"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "packages": {
+        "itabs/customsku": [
+            {
+                "name": "itabs/customsku",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/itabs/Itabs_CustomSku.git",
+                    "reference": "d19c03c1eb1c89195a4ce79830b68a6a4245561a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/itabs/Itabs_CustomSku/zipball/d19c03c1eb1c89195a4ce79830b68a6a4245561a",
+                    "reference": "d19c03c1eb1c89195a4ce79830b68a6a4245561a",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-07T20:25:55+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "ITABS GmbH",
+                        "email": "info@itabs.de"
+                    }
+                ],
+                "description": "Allow customers to specify their own SKU for the shop owner products",
+                "support": {
+                    "source": "https://github.com/itabs/Itabs_CustomSku/tree/1.0.0",
+                    "issues": "https://github.com/itabs/Itabs_CustomSku/issues"
+                }
+            },
+            {
+                "name": "itabs/customsku",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/itabs/Itabs_CustomSku.git",
+                    "reference": "4b2be6608d7ffe65f8433657e548c9611ac97745"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/itabs/Itabs_CustomSku/zipball/4b2be6608d7ffe65f8433657e548c9611ac97745",
+                    "reference": "4b2be6608d7ffe65f8433657e548c9611ac97745",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-07T20:25:59+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "ITABS GmbH",
+                        "email": "info@itabs.de"
+                    }
+                ],
+                "description": "Allow customers to specify their own SKU for the shop owner products",
+                "support": {
+                    "source": "https://github.com/itabs/Itabs_CustomSku/tree/develop",
+                    "issues": "https://github.com/itabs/Itabs_CustomSku/issues"
+                }
+            }
+        ]
+    }
+}

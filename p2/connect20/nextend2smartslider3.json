@@ -1,0 +1,31 @@
+{
+    "packages": {
+        "connect20/nextend2smartslider3": [
+            {
+                "name": "connect20/Nextend2SmartSlider3",
+                "version": "3.0.15",
+                "version_normalized": "3.0.15.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/smartslider3/3.0.15/smartslider3-3.0.15.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-GENERAL-PUBLIC-LICENSE-V3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nextendweb.com",
+                        "email": "support@nextendweb.com"
+                    }
+                ]
+            }
+        ]
+    }
+}

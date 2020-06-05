@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "kutybait/magento-sales-report-include-pending": [
+            {
+                "name": "kutybait/magento-sales-report-include-pending",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mkutyba/magento-sales-report-include-pending.git",
+                    "reference": "b08dc887b9767a64cf1389a72701ceed107338a0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mkutyba/magento-sales-report-include-pending/zipball/b08dc887b9767a64cf1389a72701ceed107338a0",
+                    "reference": "b08dc887b9767a64cf1389a72701ceed107338a0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-02-19T20:24:02+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Mateusz Kutyba",
+                        "email": "mateusz@kutyba.it"
+                    }
+                ],
+                "description": "Include all orders in Sales Reports in Magento. Doesn't exclude new and pending orders.",
+                "homepage": "https://github.com/mkutyba/magento-sales-report-include-pending",
+                "support": {
+                    "source": "https://github.com/mkutyba/magento-sales-report-include-pending/tree/0.1.0",
+                    "issues": "https://github.com/mkutyba/magento-sales-report-include-pending/issues"
+                }
+            }
+        ]
+    }
+}

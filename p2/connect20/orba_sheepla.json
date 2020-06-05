@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/orba_sheepla": [
+            {
+                "name": "connect20/Orba_Sheepla",
+                "version": "0.9.29",
+                "version_normalized": "0.9.29.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Orba_Sheepla/0.9.29/Orba_Sheepla-0.9.29.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "ORBA",
+                        "email": "magento@orba.pl"
+                    }
+                ],
+                "description": "Sheepla integration module for logistics automation."
+            },
+            {
+                "name": "connect20/Orba_Sheepla",
+                "version": "0.9.30",
+                "version_normalized": "0.9.30.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Orba_Sheepla/0.9.30/Orba_Sheepla-0.9.30.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "ORBA",
+                        "email": "magento@orba.pl"
+                    }
+                ],
+                "description": "Sheepla integration module for logistics automation."
+            }
+        ]
+    }
+}

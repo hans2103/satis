@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/simplerelevance_integration": [
+            {
+                "name": "connect20/SimpleRelevance_Integration",
+                "version": "1.5.1",
+                "version_normalized": "1.5.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SimpleRelevance_Integration/1.5.1/SimpleRelevance_Integration-1.5.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "SimpleRelevance DEV team",
+                        "email": "info@simplerelevance.com"
+                    }
+                ],
+                "description": "SimpleRelevance integration module"
+            },
+            {
+                "name": "connect20/SimpleRelevance_Integration",
+                "version": "1.6.0",
+                "version_normalized": "1.6.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SimpleRelevance_Integration/1.6.0/SimpleRelevance_Integration-1.6.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "SimpleRelevance",
+                        "email": "info@simplerelevance.com"
+                    }
+                ],
+                "description": "SimpleRelevance integration module"
+            }
+        ]
+    }
+}

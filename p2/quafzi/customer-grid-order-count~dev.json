@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "quafzi/customer-grid-order-count": [
+            {
+                "name": "quafzi/customer-grid-order-count",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/quafzi/magento-CustomerGridOrderCount.git",
+                    "reference": "1f16e94fea7cfccf6ab8b14d69a7bc6cd36352d9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/quafzi/magento-CustomerGridOrderCount/zipball/1f16e94fea7cfccf6ab8b14d69a7bc6cd36352d9",
+                    "reference": "1f16e94fea7cfccf6ab8b14d69a7bc6cd36352d9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-01-28T14:36:48+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas Birke",
+                        "email": "tbirke@netextreme.de"
+                    }
+                ],
+                "description": "This extension adds a column \"order count\" to your Magento customer grid.",
+                "support": {
+                    "source": "https://github.com/quafzi/magento-CustomerGridOrderCount/tree/0.2.7",
+                    "issues": "https://github.com/quafzi/magento-CustomerGridOrderCount/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "packages": {
+        "zookal/harris-street": [
+            {
+                "name": "zookal/harris-street",
+                "version": "v1.0.0-beta.1",
+                "version_normalized": "1.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Zookal/HarrisStreet.git",
+                    "reference": "2289d071f08ba64c7751ddf6542beab5dd56f2bd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Zookal/HarrisStreet/zipball/2289d071f08ba64c7751ddf6542beab5dd56f2bd",
+                    "reference": "2289d071f08ba64c7751ddf6542beab5dd56f2bd",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/composer-command-integrator": "*",
+                    "symfony/yaml": "*",
+                    "zookal/harris-street-impex": "*"
+                },
+                "require-dev": {
+                    "composer/composer": "*",
+                    "mikey179/vfsstream": "@stable",
+                    "mockery/mockery": "@stable"
+                },
+                "time": "2014-06-24T23:32:47+00:00",
+                "bin": [
+                    "bin/ReplaceSymLink.sh",
+                    "bin/composer.prebase.php"
+                ],
+                "type": "library",
+                "extra": {
+                    "composer-command-registry": [
+                        "Zookal\\HarrisStreet\\Commands\\CreateReleaseCommand"
+                    ]
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Zookal\\HarrisStreet": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher",
+                        "email": "cyrill+magento@schumacher.fm"
+                    }
+                ],
+                "description": "Composer's plugin handler to install or update Magento after a 'composer install/update'",
+                "support": {
+                    "source": "https://github.com/Zookal/HarrisStreet/tree/v1.0.0-beta.1",
+                    "issues": "https://github.com/Zookal/HarrisStreet/issues"
+                }
+            }
+        ]
+    }
+}

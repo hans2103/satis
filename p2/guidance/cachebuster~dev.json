@@ -1,0 +1,181 @@
+{
+    "packages": {
+        "guidance/cachebuster": [
+            {
+                "name": "guidance/cachebuster",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gordonknoppe/magento-cachebuster.git",
+                    "reference": "cf931533e86f2e917320dcde9417c07c54b30671"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gordonknoppe/magento-cachebuster/zipball/cf931533e86f2e917320dcde9417c07c54b30671",
+                    "reference": "cf931533e86f2e917320dcde9417c07c54b30671",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-05-13T07:54:59+00:00",
+                "type": "magento-module",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Gordon Knoppe",
+                        "email": "gordon@knoppe.net"
+                    }
+                ],
+                "description": "A Magento module which facilitates automatic purging of static assets from HTTP caches such as browser cache, CDN, Varnish, etc using best practices outlined within the HTML5 boilerplate community.",
+                "support": {
+                    "source": "https://github.com/gordonknoppe/magento-cachebuster/tree/master",
+                    "issues": "https://github.com/gordonknoppe/magento-cachebuster/issues"
+                }
+            },
+            {
+                "name": "guidance/cachebuster",
+                "version": "dev-refactor-out-observer",
+                "version_normalized": "dev-refactor-out-observer",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gordonknoppe/magento-cachebuster.git",
+                    "reference": "529417b596dfd98c8f923280fd767e454679fdfb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gordonknoppe/magento-cachebuster/zipball/529417b596dfd98c8f923280fd767e454679fdfb",
+                    "reference": "529417b596dfd98c8f923280fd767e454679fdfb",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-05-07T17:03:37+00:00",
+                "type": "magento-module",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Gordon Knoppe",
+                        "email": "gordon@knoppe.net"
+                    }
+                ],
+                "description": "A Magento module which facilitates automatic purging of static assets from HTTP caches such as browser cache, CDN, Varnish, etc using best practices outlined within the HTML5 boilerplate community.",
+                "support": {
+                    "source": "https://github.com/gordonknoppe/magento-cachebuster/tree/refactor-out-observer",
+                    "issues": "https://github.com/gordonknoppe/magento-cachebuster/issues"
+                }
+            },
+            {
+                "name": "guidance/cachebuster",
+                "version": "dev-refactor-single-pass",
+                "version_normalized": "dev-refactor-single-pass",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gordonknoppe/magento-cachebuster.git",
+                    "reference": "3a5b5b7b45032ac8eb23de0de61cac0fb889caa8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gordonknoppe/magento-cachebuster/zipball/3a5b5b7b45032ac8eb23de0de61cac0fb889caa8",
+                    "reference": "3a5b5b7b45032ac8eb23de0de61cac0fb889caa8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-04-06T06:25:54+00:00",
+                "type": "magento-module",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Gordon Knoppe",
+                        "email": "gordon@knoppe.net"
+                    }
+                ],
+                "description": "A Magento module which facilitates automatic purging of static assets from HTTP caches such as browser cache, CDN, Varnish, etc using best practices outlined within the HTML5 boilerplate community.",
+                "support": {
+                    "source": "https://github.com/gordonknoppe/magento-cachebuster/tree/v0.3",
+                    "issues": "https://github.com/gordonknoppe/magento-cachebuster/issues"
+                }
+            },
+            {
+                "name": "guidance/cachebuster",
+                "version": "dev-release-1.0",
+                "version_normalized": "dev-release-1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gordonknoppe/magento-cachebuster.git",
+                    "reference": "387e5476dd4ba8bc635f0b24611648d1d82fe015"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gordonknoppe/magento-cachebuster/zipball/387e5476dd4ba8bc635f0b24611648d1d82fe015",
+                    "reference": "387e5476dd4ba8bc635f0b24611648d1d82fe015",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-11-03T22:44:13+00:00",
+                "type": "magento-module",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Gordon Knoppe",
+                        "email": "gordon@knoppe.net"
+                    }
+                ],
+                "description": "A Magento module which facilitates automatic purging of static assets from HTTP caches such as browser cache, CDN, Varnish, etc using best practices outlined within the HTML5 boilerplate community.",
+                "support": {
+                    "source": "https://github.com/gordonknoppe/magento-cachebuster/tree/v1.0.0",
+                    "issues": "https://github.com/gordonknoppe/magento-cachebuster/issues"
+                }
+            },
+            {
+                "name": "guidance/cachebuster",
+                "version": "dev-signature",
+                "version_normalized": "dev-signature",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gordonknoppe/magento-cachebuster.git",
+                    "reference": "3dbe8af7c7cbbf9b07d7014740db3200f8773f23"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gordonknoppe/magento-cachebuster/zipball/3dbe8af7c7cbbf9b07d7014740db3200f8773f23",
+                    "reference": "3dbe8af7c7cbbf9b07d7014740db3200f8773f23",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-08-22T04:41:02+00:00",
+                "type": "magento-module",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Gordon Knoppe",
+                        "email": "gordon@knoppe.net"
+                    }
+                ],
+                "description": "A Magento module which facilitates automatic purging of static assets from HTTP caches such as browser cache, CDN, Varnish, etc using best practices outlined within the HTML5 boilerplate community.",
+                "support": {
+                    "source": "https://github.com/gordonknoppe/magento-cachebuster/tree/signature",
+                    "issues": "https://github.com/gordonknoppe/magento-cachebuster/issues"
+                }
+            }
+        ]
+    }
+}

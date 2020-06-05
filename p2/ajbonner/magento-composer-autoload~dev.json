@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "ajbonner/magento-composer-autoload": [
+            {
+                "name": "ajbonner/magento-composer-autoload",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ajbonner/magento-composer-autoload.git",
+                    "reference": "945509c66952b6afe8efb3f39dc97e1a15221bff"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ajbonner/magento-composer-autoload/zipball/945509c66952b6afe8efb3f39dc97e1a15221bff",
+                    "reference": "945509c66952b6afe8efb3f39dc97e1a15221bff",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.2.0"
+                },
+                "time": "2019-01-31T20:50:22+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Aaron Bonner",
+                        "email": "aaron@aaronbonner.io"
+                    }
+                ],
+                "description": "Extension of Magento's class autoloader making it composer vendor library aware",
+                "homepage": "https://github.com/ajbonner/magento-composer-autoload",
+                "support": {
+                    "source": "https://github.com/ajbonner/magento-composer-autoload/tree/0.3.0",
+                    "issues": "https://github.com/ajbonner/magento-composer-autoload/issues"
+                }
+            }
+        ]
+    }
+}

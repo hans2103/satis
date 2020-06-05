@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/usersnap_bugtracker": [
+            {
+                "name": "connect20/Usersnap_Bugtracker",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Usersnap_Bugtracker/1.0.0/Usersnap_Bugtracker-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Andreas Pointner",
+                        "email": "andreaspointner@gmail.com"
+                    }
+                ],
+                "description": "Usersnap integration with additional debug information"
+            }
+        ]
+    }
+}

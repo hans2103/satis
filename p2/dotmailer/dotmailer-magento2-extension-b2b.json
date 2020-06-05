@@ -1,0 +1,36 @@
+{
+    "packages": {
+        "dotmailer/dotmailer-magento2-extension-b2b": [
+            {
+                "name": "dotmailer/dotmailer-magento2-extension-b2b",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/dotmailer/dotmailer-magento2-extension-b2b/dotmailer-dotmailer-magento2-extension-b2b-1.0.0.0.zip",
+                    "shasum": "0e0c96f4541f068a4f76c06b067ba0777e06db33"
+                },
+                "require": {
+                    "dotmailer/dotmailer-magento2-extension": "^4.3.5",
+                    "magento/module-b2b": "*",
+                    "magento/module-customer": ">=100 <103",
+                    "magento/module-shared-catalog": "*",
+                    "magento/module-store": ">=100 <102"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Dotdigitalgroup\\B2b\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "description": "Engagement Cloud for Magento 2: B2B module"
+            }
+        ]
+    }
+}

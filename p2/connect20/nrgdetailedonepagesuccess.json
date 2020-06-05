@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/nrgdetailedonepagesuccess": [
+            {
+                "name": "connect20/nrgdetailedonepagesuccess",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/nrgdetailedonepagesuccess/1.0.0/nrgdetailedonepagesuccess-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v1.1"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikita Nautiyal",
+                        "email": "nautiyal.nikita@gmail.com"
+                    }
+                ],
+                "description": "A better Success page"
+            }
+        ]
+    }
+}

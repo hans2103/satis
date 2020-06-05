@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/apt_testimonial": [
+            {
+                "name": "connect20/Apt_Testimonial",
+                "version": "1.0.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Apt_Testimonial/1.0.0.0/Apt_Testimonial-1.0.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "prax Ahir",
+                        "email": "info@aptwebdesign.com"
+                    }
+                ],
+                "description": "Testimonial module"
+            }
+        ]
+    }
+}

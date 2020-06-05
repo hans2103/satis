@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/flexshopper_payment": [
+            {
+                "name": "connect20/FlexShopper_Payment",
+                "version": "0.2.2",
+                "version_normalized": "0.2.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/FlexShopper_Payment/0.2.2/FlexShopper_Payment-0.2.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "FlexShopper",
+                        "email": "support@flexshopper.com"
+                    }
+                ],
+                "description": "The FlexShopper Payment extension allows integrating FlexShopper Lease-to-Own Payment method into Magento Store."
+            },
+            {
+                "name": "connect20/FlexShopper_Payment",
+                "version": "0.2.3",
+                "version_normalized": "0.2.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/FlexShopper_Payment/0.2.3/FlexShopper_Payment-0.2.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "FlexShopper",
+                        "email": "support@flexshopper.com"
+                    }
+                ],
+                "description": "The FlexShopper Payment extension allows integrating FlexShopper Lease-to-Own Payment method into Magento Store."
+            }
+        ]
+    }
+}

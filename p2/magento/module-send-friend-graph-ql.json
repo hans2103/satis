@@ -1,0 +1,134 @@
+{
+    "packages": {
+        "magento/module-send-friend-graph-ql": [
+            {
+                "name": "magento/module-send-friend-graph-ql",
+                "version": "100.3.0",
+                "version_normalized": "100.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-send-friend-graph-ql/magento-module-send-friend-graph-ql-100.3.0.0.zip",
+                    "shasum": "ef5fbfcd51beb3ad8225fa03320cc45012b0bd70"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-send-friend": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SendFriendGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-send-friend-graph-ql",
+                "version": "100.3.1",
+                "version_normalized": "100.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-send-friend-graph-ql/magento-module-send-friend-graph-ql-100.3.1.0.zip",
+                    "shasum": "fdd059e62befc87f28dcebc14cf4400771e439f0"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-send-friend": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SendFriendGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-send-friend-graph-ql",
+                "version": "100.3.2",
+                "version_normalized": "100.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-send-friend-graph-ql/magento-module-send-friend-graph-ql-100.3.2.0.zip",
+                    "shasum": "55b724de9b5ca28ca9f2b9a8ad398872fc0d3de1"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-graph-ql": "100.3.*",
+                    "magento/module-send-friend": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SendFriendGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-send-friend-graph-ql",
+                "version": "100.3.3",
+                "version_normalized": "100.3.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-send-friend-graph-ql/magento-module-send-friend-graph-ql-100.3.3.0.zip",
+                    "shasum": "30b25fa6a22185449b0605980e7b3cdd19cc408e"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-graph-ql": "100.3.*",
+                    "magento/module-send-friend": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SendFriendGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

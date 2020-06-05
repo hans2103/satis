@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "netzarbeiter/customer-registration-ip": [
+            {
+                "name": "netzarbeiter/customer-registration-ip",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Vinai/customer-registration-ip.git",
+                    "reference": "9279d559e4368561328204fe6d947e3f92779575"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Vinai/customer-registration-ip/zipball/9279d559e4368561328204fe6d947e3f92779575",
+                    "reference": "9279d559e4368561328204fe6d947e3f92779575",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-03-13T10:05:12+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Magento module to display a customer's IP used during registration.",
+                "homepage": "https://github.com/Vinai/customer-registration-ip",
+                "support": {
+                    "source": "https://github.com/Vinai/customer-registration-ip/tree/master",
+                    "issues": "https://github.com/Vinai/customer-registration-ip/issues"
+                }
+            }
+        ]
+    }
+}

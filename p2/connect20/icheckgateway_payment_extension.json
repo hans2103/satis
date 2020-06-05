@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/icheckgateway_payment_extension": [
+            {
+                "name": "connect20/iCheckgateway_Payment_Extension",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/iCheckgateway_Payment_Extension/1.0.0/iCheckgateway_Payment_Extension-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "LuminousTec LLC",
+                        "email": "baljinder@nimbe-solution.com"
+                    }
+                ],
+                "description": "Extension provides the payment gateway processing on credit cards and checks, to b used in the magento CE"
+            },
+            {
+                "name": "connect20/iCheckgateway_Payment_Extension",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/iCheckgateway_Payment_Extension/1.0.1/iCheckgateway_Payment_Extension-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "LuminousTec LLC",
+                        "email": "baljinder@nimble-solution.com"
+                    }
+                ],
+                "description": "Extension provides the payment gateway processing on credit cards and checks, to b used in the magento CE"
+            }
+        ]
+    }
+}

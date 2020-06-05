@@ -1,0 +1,76 @@
+{
+    "packages": {
+        "danslo/api-import": [
+            {
+                "name": "danslo/api-import",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/danslo/ApiImport.git",
+                    "reference": "7c96dbefa8acb14cdc950fa68ba0b64a09db7c07"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/danslo/ApiImport/zipball/7c96dbefa8acb14cdc950fa68ba0b64a09db7c07",
+                    "reference": "7c96dbefa8acb14cdc950fa68ba0b64a09db7c07",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-11-16T15:12:45+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Sloof",
+                        "email": "goapsychadelic@gmail.com"
+                    }
+                ],
+                "description": "Boilerplate code between the Magento API and ImportExport, so that you can do fast XMLRPC/SOAP based product imports.",
+                "support": {
+                    "source": "https://github.com/danslo/ApiImport/tree/master",
+                    "issues": "https://github.com/danslo/ApiImport/issues"
+                }
+            },
+            {
+                "name": "danslo/api-import",
+                "version": "dev-stock-import",
+                "version_normalized": "dev-stock-import",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/danslo/ApiImport.git",
+                    "reference": "18869612ce9a465eeba6ed5d0dad095d513f17d3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/danslo/ApiImport/zipball/18869612ce9a465eeba6ed5d0dad095d513f17d3",
+                    "reference": "18869612ce9a465eeba6ed5d0dad095d513f17d3",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-06-24T09:59:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Sloof",
+                        "email": "goapsychadelic@gmail.com"
+                    }
+                ],
+                "description": "Boilerplate code between the Magento API and ImportExport, so that you can do fast XMLRPC/SOAP based product imports.",
+                "support": {
+                    "source": "https://github.com/danslo/ApiImport/tree/stock-import",
+                    "issues": "https://github.com/danslo/ApiImport/issues"
+                }
+            }
+        ]
+    }
+}

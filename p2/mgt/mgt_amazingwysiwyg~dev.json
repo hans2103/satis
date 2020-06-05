@@ -1,0 +1,37 @@
+{
+    "packages": {
+        "mgt/mgt_amazingwysiwyg": [
+            {
+                "name": "mgt/Mgt_AmazingWysiwyg",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mageconsult/Mgt_AmazingWysiwyg.git",
+                    "reference": "647f9034b3927ecb9283a65bffae85ce1f889857"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mageconsult/Mgt_AmazingWysiwyg/zipball/647f9034b3927ecb9283a65bffae85ce1f889857",
+                    "reference": "647f9034b3927ecb9283a65bffae85ce1f889857",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-19T19:56:02+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "mgt-commerce",
+                        "email": "support@mgt-commerce.com"
+                    }
+                ],
+                "description": "With the Redactor WYSIWYG you can work 8 x times faster like the standard TinyMCE editor for Magento. Drag and drop for images, and full retina support only some of the highlights!",
+                "support": {
+                    "source": "https://github.com/mageconsult/Mgt_AmazingWysiwyg/tree/master"
+                }
+            }
+        ]
+    }
+}

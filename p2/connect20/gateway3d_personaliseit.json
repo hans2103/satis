@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/gateway3d_personaliseit": [
+            {
+                "name": "connect20/Gateway3D_PersonaliseIt",
+                "version": "1.6.11.0",
+                "version_normalized": "1.6.11.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Gateway3D_PersonaliseIt/1.6.11.0/Gateway3D_PersonaliseIt-1.6.11.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "James Ball",
+                        "email": "andrew@gateway3d.com"
+                    }
+                ],
+                "description": "PERSONALISE-IT ECOMMERCE EXTENSION FOR MAGENTO enables you to add personalised products to your magento website and back office system."
+            }
+        ]
+    }
+}

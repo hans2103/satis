@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/springtimesoft_raygun": [
+            {
+                "name": "connect20/Springtimesoft_Raygun",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Springtimesoft_Raygun/1.0.0/Springtimesoft_Raygun-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.7.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Developer Springtimesoft",
+                        "email": "sysadmins@springtimesoft.co.nz"
+                    }
+                ],
+                "description": "This is the official provider for the Raygun.io error reporting and tracking service."
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/meanbee_shipwire": [
+            {
+                "name": "connect20/Meanbee_Shipwire",
+                "version": "0.3.3",
+                "version_normalized": "0.3.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Meanbee_Shipwire/0.3.3/Meanbee_Shipwire-0.3.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(\"OSL\")-v.-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Nick",
+                        "email": "nick.jones@meanbee.com"
+                    }
+                ],
+                "description": "Order submission and Inventory tracking with Shipwire"
+            },
+            {
+                "name": "connect20/Meanbee_Shipwire",
+                "version": "0.3.4",
+                "version_normalized": "0.3.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Meanbee_Shipwire/0.3.4/Meanbee_Shipwire-0.3.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(\"OSL\")-v.-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Nick",
+                        "email": "nick.jones@meanbee.com"
+                    }
+                ],
+                "description": "Order submission and Inventory tracking with Shipwire"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/magetechs_magentomobilealerts": [
+            {
+                "name": "connect20/MageTechs_MagentoMobileAlerts",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MageTechs_MagentoMobileAlerts/1.0.1/MageTechs_MagentoMobileAlerts-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "James Jacob",
+                        "email": "magetechs@gmail.com"
+                    }
+                ],
+                "description": "Get real time alerts on your mobile phone."
+            }
+        ]
+    }
+}

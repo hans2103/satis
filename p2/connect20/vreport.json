@@ -1,0 +1,84 @@
+{
+    "packages": {
+        "connect20/vreport": [
+            {
+                "name": "connect20/VReport",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Vtrio/1.0.0/Vtrio-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MITL"
+                ],
+                "authors": [
+                    {
+                        "name": "Developer",
+                        "email": "dev@vtrio.com"
+                    }
+                ],
+                "description": "VReport module helps users to generate reports in more user friendly and business prospective way."
+            },
+            {
+                "name": "connect20/VReport",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Vtrio/1.0.1/Vtrio-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MITL"
+                ],
+                "authors": [
+                    {
+                        "name": "Developer",
+                        "email": "dev@vtrio.com"
+                    }
+                ],
+                "description": "VReport module helps users to generate reports in more user friendly and business prospective way. "
+            },
+            {
+                "name": "connect20/VReport",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Vtrio/2.0.0/Vtrio-2.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MITL"
+                ],
+                "authors": [
+                    {
+                        "name": "Developer",
+                        "email": "dev@vtrio.com"
+                    }
+                ],
+                "description": "VReport 2.0 is version that is an enhanced version of Vreport 1. "
+            }
+        ]
+    }
+}

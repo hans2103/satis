@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "integer-net/magento-localized-ru": [
+            {
+                "name": "integer-net/magento-localized-ru",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/MagentoLocalizedRU.git",
+                    "reference": "d2b13be765ef696f43a47fb7b18fab0ee86feb2d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/MagentoLocalizedRU/zipball/d2b13be765ef696f43a47fb7b18fab0ee86feb2d",
+                    "reference": "d2b13be765ef696f43a47fb7b18fab0ee86feb2d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-11-24T11:33:51+00:00",
+                "type": "magento-module",
+                "description": "Russian Localization package for Magento Localized (aka Magento RU)",
+                "homepage": "https://github.com/integer-net/MagentoLocalizedRU",
+                "support": {
+                    "source": "https://github.com/integer-net/MagentoLocalizedRU/tree/master",
+                    "issues": "https://github.com/integer-net/MagentoLocalizedRU/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "packages": {
+        "webcomm/magento-boilerplate": [
+            {
+                "name": "webcomm/magento-boilerplate",
+                "version": "2.0.x-dev",
+                "version_normalized": "2.0.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/webcomm/magento-boilerplate.git",
+                    "reference": "02e09af4520e6dc44bb74928dc79ac20c8fe801e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/webcomm/magento-boilerplate/zipball/02e09af4520e6dc44bb74928dc79ac20c8fe801e",
+                    "reference": "02e09af4520e6dc44bb74928dc79ac20c8fe801e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-02-28T23:55:35+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.0-dev"
+                    },
+                    "magento-root-dir": "./",
+                    "magento-deploystrategy": "copy",
+                    "map": [
+                        [
+                            "app/code/community/Webcomm/BootstrapNavigation",
+                            "app/code/community/Webcomm/BootstrapNavigation"
+                        ],
+                        [
+                            "app/code/community/Webcomm/MagentoBoilerplate",
+                            "app/code/community/Webcomm/MagentoBoilerplate"
+                        ],
+                        [
+                            "app/design/frontend/boilerplate/default",
+                            "app/design/frontend/boilerplate/default"
+                        ],
+                        [
+                            "app/etc/modules/Webcomm_BootstrapNavigation.xml",
+                            "app/etc/modules/Webcomm_BootstrapNavigation.xml"
+                        ],
+                        [
+                            "app/etc/modules/Webcomm_MagentoBoilerplate.xml",
+                            "app/etc/modules/Webcomm_MagentoBoilerplate.xml"
+                        ],
+                        [
+                            "skin/frontend/boilerplate/default",
+                            "skin/frontend/boilerplate/default"
+                        ]
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Ben Corlett",
+                        "email": "bencorlett@me.com"
+                    },
+                    {
+                        "name": "Webcomm Pty Ltd",
+                        "email": "contact@webcomm.com.au"
+                    }
+                ],
+                "description": "HTML5 Twitter Bootstrap 3.1 Magento Boilerplate Template",
+                "support": {
+                    "source": "https://github.com/webcomm/magento-boilerplate/tree/2.0",
+                    "issues": "https://github.com/webcomm/magento-boilerplate/issues"
+                }
+            },
+            {
+                "name": "webcomm/magento-boilerplate",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/webcomm/magento-boilerplate.git",
+                    "reference": "d6ed786f1ae5a2966f9953d89a530355ad035f86"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/webcomm/magento-boilerplate/zipball/d6ed786f1ae5a2966f9953d89a530355ad035f86",
+                    "reference": "d6ed786f1ae5a2966f9953d89a530355ad035f86",
+                    "shasum": ""
+                },
+                "time": "2018-07-05T04:26:46+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "src/app/code/community/Webcomm/MagentoBoilerplate",
+                            "app/code/community/Webcomm/MagentoBoilerplate"
+                        ],
+                        [
+                            "src/app/design/frontend/base/default/layout/magentoboilerplate.xml",
+                            "app/design/frontend/base/default/layout/magentoboilerplate.xml"
+                        ],
+                        [
+                            "src/app/design/frontend/base/default/template/magentoboilerplate",
+                            "app/design/frontend/base/default/template/magentoboilerplate"
+                        ],
+                        [
+                            "src/app/etc/modules/Webcomm_MagentoBoilerplate.xml",
+                            "app/etc/modules/Webcomm_MagentoBoilerplate.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Webcomm",
+                        "email": "hello@webcomm.io"
+                    }
+                ],
+                "description": "A boilerplate project for creating beautiful sites using Magento, powered by Foundation 5.",
+                "support": {
+                    "source": "https://github.com/webcomm/magento-boilerplate/tree/3.0.31",
+                    "issues": "https://github.com/webcomm/magento-boilerplate/issues"
+                }
+            }
+        ]
+    }
+}

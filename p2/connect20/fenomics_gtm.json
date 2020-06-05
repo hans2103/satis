@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/fenomics_gtm": [
+            {
+                "name": "connect20/Fenomics_GTM",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Fenomics_GTM/1.0.0/Fenomics_GTM-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "FENOMICS GmbH",
+                        "email": "w.embach@fenomics.de"
+                    }
+                ],
+                "description": "Simple Google Tag Manager (GTM) Integration"
+            }
+        ]
+    }
+}

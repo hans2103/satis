@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/clipvilla_video_producer": [
+            {
+                "name": "connect20/ClipVilla_Video_Producer",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ClipVilla_Video_Producer/1.0.0/ClipVilla_Video_Producer-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPLv3)"
+                ],
+                "authors": [
+                    {
+                        "name": "Jens Neumann",
+                        "email": "sales@clipvilla.de"
+                    }
+                ],
+                "description": "This extension is built to create and publish product videos from the images stored inside the product catalog."
+            },
+            {
+                "name": "connect20/ClipVilla_Video_Producer",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ClipVilla_Video_Producer/1.0.1/ClipVilla_Video_Producer-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPLv3)"
+                ],
+                "authors": [
+                    {
+                        "name": "Jens Neumann",
+                        "email": "sales@clipvilla.de"
+                    }
+                ],
+                "description": "This extension is built to create and publish product videos from the images stored inside the product catalog."
+            }
+        ]
+    }
+}

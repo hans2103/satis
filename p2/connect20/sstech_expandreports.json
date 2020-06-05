@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sstech_expandreports": [
+            {
+                "name": "connect20/SSTech_ExpandReports",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SSTech_ExpandReports/0.1.0/SSTech_ExpandReports-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Source-License"
+                ],
+                "authors": [
+                    {
+                        "name": "STek",
+                        "email": "sandynareshg@gmail.com"
+                    }
+                ],
+                "description": "Small Extension which will show New and Recurring Customer in Reports Section "
+            }
+        ]
+    }
+}

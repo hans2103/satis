@@ -1,0 +1,76 @@
+{
+    "packages": {
+        "whuber/magefinder": [
+            {
+                "name": "whuber/magefinder",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/whuber/magefinder.git",
+                    "reference": "31921fdb9251b522243a835b4e14b822f8424ac2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/whuber/magefinder/zipball/31921fdb9251b522243a835b4e14b822f8424ac2",
+                    "reference": "31921fdb9251b522243a835b4e14b822f8424ac2",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-04-23T10:38:39+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Walter Huber",
+                        "email": "walter@flimmit.com"
+                    }
+                ],
+                "description": "Magefinder - the better search for Magento on Amazon Cloudsearch",
+                "support": {
+                    "source": "https://github.com/whuber/magefinder/tree/master",
+                    "issues": "https://github.com/whuber/magefinder/issues"
+                }
+            },
+            {
+                "name": "whuber/magefinder",
+                "version": "dev-development",
+                "version_normalized": "dev-development",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/whuber/magefinder.git",
+                    "reference": "87946985cf087796cdfb25fc560229d7afad51d0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/whuber/magefinder/zipball/87946985cf087796cdfb25fc560229d7afad51d0",
+                    "reference": "87946985cf087796cdfb25fc560229d7afad51d0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-09-16T15:18:33+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Walter Huber",
+                        "email": "walter@flimmit.com"
+                    }
+                ],
+                "description": "Magefinder - the better search for Magento on Amazon Cloudsearch",
+                "support": {
+                    "source": "https://github.com/whuber/magefinder/tree/development",
+                    "issues": "https://github.com/whuber/magefinder/issues"
+                }
+            }
+        ]
+    }
+}

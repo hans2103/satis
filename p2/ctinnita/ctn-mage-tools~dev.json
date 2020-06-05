@@ -1,0 +1,48 @@
+{
+    "packages": {
+        "ctinnita/ctn-mage-tools": [
+            {
+                "name": "ctinnita/ctn-mage-tools",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ctinnita/ctn-mage-tools.git",
+                    "reference": "8fd3b0c1b4fa96c7ae94f1844896586693a234dc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ctinnita/ctn-mage-tools/zipball/8fd3b0c1b4fa96c7ae94f1844896586693a234dc",
+                    "reference": "8fd3b0c1b4fa96c7ae94f1844896586693a234dc",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.5"
+                },
+                "time": "2016-12-05T17:25:40+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Constantin Nita",
+                        "email": "ctinnita@gmail.com"
+                    }
+                ],
+                "description": "CTN Magento Development Tools",
+                "homepage": "https://github.com/ctinnita/ctn-mage-tools",
+                "keywords": [
+                    "development",
+                    "magento",
+                    "tools"
+                ],
+                "support": {
+                    "source": "https://github.com/ctinnita/ctn-mage-tools/tree/master",
+                    "issues": "https://github.com/ctinnita/ctn-mage-tools/issues"
+                }
+            }
+        ]
+    }
+}

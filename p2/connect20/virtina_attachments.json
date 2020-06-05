@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/virtina_attachments": [
+            {
+                "name": "connect20/Virtina_Attachments",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Virtina_Attachments/0.0.1/Virtina_Attachments-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Virtina",
+                        "email": "gigijk@virtina.com"
+                    }
+                ],
+                "description": "The Catalog Attachments extension is a simple tool to upload product related files through admin panel and display the files in the product view page. There is a configuration section in the admin side to configure the module."
+            }
+        ]
+    }
+}

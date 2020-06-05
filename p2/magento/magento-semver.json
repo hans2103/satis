@@ -1,0 +1,229 @@
+{
+    "packages": {
+        "magento/magento-semver": [
+            {
+                "name": "magento/magento-semver",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento-semver/magento-magento-semver-1.0.0.0.zip",
+                    "shasum": "ae0ddaa201f2776422ad0de94f10e5f491b6084a"
+                },
+                "require": {
+                    "php": "~7.1.3||~7.2.0||~7.3.0",
+                    "phpstan/phpdoc-parser": "^0.3.5",
+                    "symfony/console": "~4.1.0",
+                    "tomzx/php-semver-checker": "^0.13.0",
+                    "wikimedia/less.php": "~1.8.0"
+                },
+                "require-dev": {
+                    "allure-framework/allure-phpunit": "^1.2.0",
+                    "phpunit/phpunit": "^6.5.0",
+                    "zendframework/zend-stdlib": "^3.2.1"
+                },
+                "bin": [
+                    "bin/svc"
+                ],
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\SemanticVersionChecker\\": "src/",
+                        "Magento\\SemanticVersionChecker\\Test\\": "tests/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento semantic version checker"
+            },
+            {
+                "name": "magento/magento-semver",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento-semver/magento-magento-semver-1.0.2.0.zip",
+                    "shasum": "6df039017b8522844c51f219065d4079d1fc1696"
+                },
+                "require": {
+                    "php": "~7.1.3||~7.2.0||~7.3.0",
+                    "phpstan/phpdoc-parser": "^0.3.5",
+                    "symfony/console": "~4.1.0",
+                    "tomzx/php-semver-checker": "^0.13.0",
+                    "wikimedia/less.php": "~1.8.0"
+                },
+                "require-dev": {
+                    "allure-framework/allure-phpunit": "^1.2.0",
+                    "phpunit/phpunit": "^6.5.0",
+                    "zendframework/zend-stdlib": "^3.2.1"
+                },
+                "bin": [
+                    "bin/svc"
+                ],
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\SemanticVersionChecker\\": "src/",
+                        "Magento\\SemanticVersionChecker\\Test\\": "tests/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento semantic version checker"
+            },
+            {
+                "name": "magento/magento-semver",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento-semver/magento-magento-semver-2.0.0.0.zip",
+                    "shasum": "e11e82032a8cdb63b4754fd0771c508ade6127df"
+                },
+                "require": {
+                    "php": "~7.1.3||~7.2.0||~7.3.0",
+                    "phpstan/phpdoc-parser": "^0.3.5",
+                    "symfony/console": "~4.1.0",
+                    "tomzx/php-semver-checker": "^0.13.0",
+                    "wikimedia/less.php": "~1.8.0"
+                },
+                "require-dev": {
+                    "allure-framework/allure-phpunit": "^1.2.0",
+                    "phpunit/phpunit": "^6.5.0",
+                    "zendframework/zend-stdlib": "^3.2.1"
+                },
+                "bin": [
+                    "bin/svc"
+                ],
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\SemanticVersionChecker\\": "src/",
+                        "Magento\\SemanticVersionChecker\\Test\\": "tests/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento semantic version checker"
+            },
+            {
+                "name": "magento/magento-semver",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento-semver/magento-magento-semver-3.0.0.0.zip",
+                    "shasum": "b0d8a7f5ee0488c79544d994230339811f77643a"
+                },
+                "require": {
+                    "php": "~7.1.3||~7.2.0||~7.3.0",
+                    "phpstan/phpdoc-parser": "^0.3.5",
+                    "symfony/console": "~4.4.0",
+                    "tomzx/php-semver-checker": "^0.13.0",
+                    "wikimedia/less.php": "~1.8.0",
+                    "zendframework/zend-stdlib": "^3.2.1"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^6.5.0",
+                    "squizlabs/php_codesniffer": "^3.5"
+                },
+                "bin": [
+                    "bin/svc"
+                ],
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\SemanticVersionChecker\\": "src/",
+                        "Magento\\SemanticVersionChecker\\Test\\": "tests/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento semantic version checker"
+            },
+            {
+                "name": "magento/magento-semver",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento-semver/magento-magento-semver-4.0.0.0.zip",
+                    "shasum": "38ea01f0bd07aa44ba0a828216b5ae0e44fd207c"
+                },
+                "require": {
+                    "php": "~7.1.3||~7.2.0||~7.3.0",
+                    "phpstan/phpdoc-parser": "^0.3.5",
+                    "symfony/console": "~4.1.0||~4.4.0",
+                    "tomzx/php-semver-checker": "^0.13.0",
+                    "wikimedia/less.php": "~1.8.0",
+                    "zendframework/zend-stdlib": "^3.2.1"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^6.5.0",
+                    "squizlabs/php_codesniffer": "^3.5"
+                },
+                "bin": [
+                    "bin/svc"
+                ],
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\SemanticVersionChecker\\": "src/",
+                        "Magento\\SemanticVersionChecker\\Test\\": "tests/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento semantic version checker"
+            },
+            {
+                "name": "magento/magento-semver",
+                "version": "5.0.0",
+                "version_normalized": "5.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento-semver/magento-magento-semver-5.0.0.0.zip",
+                    "shasum": "eca73b07520f54cda2ddce47fa23ffd0cf5aa221"
+                },
+                "require": {
+                    "nikic/php-parser": "^3.1",
+                    "php": "~7.1.3||~7.2.0||~7.3.0",
+                    "phpstan/phpdoc-parser": "^0.3.5",
+                    "symfony/console": "~4.1.0||~4.4.0",
+                    "tomzx/php-semver-checker": "^0.13.0",
+                    "wikimedia/less.php": "~1.8.0",
+                    "zendframework/zend-stdlib": "^3.2.1"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^6.5.0",
+                    "squizlabs/php_codesniffer": "^3.5"
+                },
+                "bin": [
+                    "bin/svc"
+                ],
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\SemanticVersionChecker\\": "src/",
+                        "Magento\\SemanticVersionChecker\\Test\\": "tests/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento semantic version checker"
+            }
+        ]
+    }
+}

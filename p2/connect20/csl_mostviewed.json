@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/csl_mostviewed": [
+            {
+                "name": "connect20/CSL_MostViewed",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CSL_MostViewed/1.0.0/CSL_MostViewed-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Cristian Sanclemente",
+                        "email": "cristian@clickelectrodomesticos.com"
+                    }
+                ],
+                "description": "List the top 10 of your store products online"
+            }
+        ]
+    }
+}

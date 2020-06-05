@@ -1,0 +1,114 @@
+{
+    "packages": {
+        "firegento/flexcms": [
+            {
+                "name": "firegento/flexcms",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/FireGento_FlexCms.git",
+                    "reference": "e79dd64aac530fd2a4cd3aba5135419ed20e1ef4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/FireGento_FlexCms/zipball/e79dd64aac530fd2a4cd3aba5135419ed20e1ef4",
+                    "reference": "e79dd64aac530fd2a4cd3aba5135419ed20e1ef4",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-05-23T13:23:04+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Team FireGento",
+                        "email": "team@firegento.com"
+                    }
+                ],
+                "description": "This extension makes adding content much easier and enhances the category navigation",
+                "homepage": "https://github.com/magento-hackathon/FireGento_FlexCms/",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/FireGento_FlexCms/tree/master",
+                    "issues": "https://github.com/magento-hackathon/FireGento_FlexCms/issues"
+                }
+            },
+            {
+                "name": "firegento/flexcms",
+                "version": "dev-feature/no-workflow",
+                "version_normalized": "dev-feature/no-workflow",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/FireGento_FlexCms.git",
+                    "reference": "546f3b4d7f123dd2d32d389c1741ea54d3d67740"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/FireGento_FlexCms/zipball/546f3b4d7f123dd2d32d389c1741ea54d3d67740",
+                    "reference": "546f3b4d7f123dd2d32d389c1741ea54d3d67740",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-12-10T15:34:53+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Team FireGento",
+                        "email": "team@firegento.com"
+                    }
+                ],
+                "description": "This extension makes adding content much easier and enhances the category navigation",
+                "homepage": "https://github.com/magento-hackathon/FireGento_FlexCms/",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/FireGento_FlexCms/tree/feature/no-workflow",
+                    "issues": "https://github.com/magento-hackathon/FireGento_FlexCms/issues"
+                }
+            },
+            {
+                "name": "firegento/flexcms",
+                "version": "dev-feature/workflow",
+                "version_normalized": "dev-feature/workflow",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/FireGento_FlexCms.git",
+                    "reference": "e6f7317aba93b8b2ff10da1908239e3cb5c96107"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/FireGento_FlexCms/zipball/e6f7317aba93b8b2ff10da1908239e3cb5c96107",
+                    "reference": "e6f7317aba93b8b2ff10da1908239e3cb5c96107",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-06-17T13:51:03+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Team FireGento",
+                        "email": "team@firegento.com"
+                    }
+                ],
+                "description": "This extension makes adding content much easier and enhances the category navigation",
+                "homepage": "https://github.com/magento-hackathon/FireGento_FlexCms/",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/FireGento_FlexCms/tree/feature/workflow",
+                    "issues": "https://github.com/magento-hackathon/FireGento_FlexCms/issues"
+                }
+            }
+        ]
+    }
+}

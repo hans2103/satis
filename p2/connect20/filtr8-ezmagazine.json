@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/filtr8-ezmagazine": [
+            {
+                "name": "connect20/Filtr8-EzMagazine",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Filtr8-EzMagazine/1.0.0/Filtr8-EzMagazine-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Filtr8",
+                        "email": "contact@filtr8.com"
+                    }
+                ],
+                "description": "Add a beautiful business magazine to engage and convert your visitors with smart content recommendations"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/vtrio": [
+            {
+                "name": "connect20/Vtrio",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Vtrio/0.1.0/Vtrio-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MITL"
+                ],
+                "authors": [
+                    {
+                        "name": "Developer",
+                        "email": "dev@vtrio.com"
+                    }
+                ],
+                "description": "VReport is a module which will help users to generate sales report in a more user friendly way. User could run reports based on  Category ,Sub-Category  and Time."
+            }
+        ]
+    }
+}

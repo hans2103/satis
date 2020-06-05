@@ -1,0 +1,70 @@
+{
+    "packages": {
+        "connect20/advertisesuggestedproducts": [
+            {
+                "name": "connect20/AdvertiseSuggestedProducts",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/AdvertiseSuggestedProducts/1.0.0/AdvertiseSuggestedProducts-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/advertisecommunity": ">=1.2.0",
+                    "connect20/advertisecrosssellproducts": ">=1.0.0",
+                    "connect20/advertiserelatedproducts": ">=1.1.0",
+                    "connect20/advertiseupsellproducts": ">=1.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael",
+                        "email": "mike@adverti.se"
+                    }
+                ],
+                "description": "Advertise Suggested Products will automatically populate your Cross-Sells, Upsells and Related Products helping customers find their perfect purchase."
+            },
+            {
+                "name": "connect20/AdvertiseSuggestedProducts",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/AdvertiseSuggestedProducts/1.0.1/AdvertiseSuggestedProducts-1.0.1.tgz"
+                },
+                "require": {
+                    "connect20/advertisecommunity": ">=1.3.0",
+                    "connect20/advertisecrosssellproducts": ">=1.2.0",
+                    "connect20/advertiserelatedproducts": ">=1.2.0",
+                    "connect20/advertiseupsellproducts": ">=1.2.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael",
+                        "email": "mike@adverti.se"
+                    }
+                ],
+                "description": "Advertise Suggested Products brings together three of our modules to automatically populate your Cross-Sells, Upsells and Related Products helping customers find their perfect purchase."
+            }
+        ]
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "packages": {
+        "vertex/module-address-validation": [
+            {
+                "name": "vertex/module-address-validation",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-address-validation/vertex-module-address-validation-1.0.0.0.zip",
+                    "shasum": "6fbe7a3662fe93fa1731492b4a19e5eadd42f2ea"
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100|^101|^102",
+                    "magento/module-checkout": "^100",
+                    "magento/module-config": "^101",
+                    "magento/module-quote": "^100|^101",
+                    "magento/module-store": "^100|^101",
+                    "magento/module-tax": "^100",
+                    "php": "^7.0",
+                    "vertex/module-tax": "^3.3.0"
+                },
+                "require-dev": {
+                    "ext-dom": "*",
+                    "ext-simplexml": "*",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\AddressValidation\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Address Validation module for Magento 2"
+            },
+            {
+                "name": "vertex/module-address-validation",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-address-validation/vertex-module-address-validation-1.0.1.0.zip",
+                    "shasum": "3185ad39cdb3c56a5fab5d9c10bb74a5a51eca2a"
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100|^101|^102",
+                    "magento/module-checkout": "^100",
+                    "magento/module-config": "^101",
+                    "magento/module-quote": "^100|^101",
+                    "magento/module-store": "^100|^101",
+                    "magento/module-tax": "^100",
+                    "php": "^7.0",
+                    "vertex/module-tax": "^3.3.1"
+                },
+                "require-dev": {
+                    "ext-dom": "*",
+                    "ext-simplexml": "*",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\AddressValidation\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Address Validation module for Magento 2"
+            },
+            {
+                "name": "vertex/module-address-validation",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/vertex/module-address-validation/vertex-module-address-validation-1.1.0.0.zip",
+                    "shasum": "5ea30b8c087a9631f6dd6a3e83996f41e314d8d5"
+                },
+                "require": {
+                    "ext-json": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "magento/framework": "^100|^101|^102",
+                    "magento/module-checkout": "^100",
+                    "magento/module-config": "^101",
+                    "magento/module-quote": "^100|^101",
+                    "magento/module-store": "^100|^101",
+                    "magento/module-tax": "^100",
+                    "php": "^7.0",
+                    "vertex/module-tax": "^3.4.0"
+                },
+                "require-dev": {
+                    "ext-dom": "*",
+                    "ext-simplexml": "*",
+                    "magento/marketplace-eqp": "^1.0",
+                    "magento/module-offline-shipping": "^100.2",
+                    "magento/module-usps": "^100.2"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\AddressValidation\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Address Validation module for Magento 2"
+            }
+        ]
+    }
+}

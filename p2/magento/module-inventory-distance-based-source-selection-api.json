@@ -1,0 +1,151 @@
+{
+    "packages": {
+        "magento/module-inventory-distance-based-source-selection-api": [
+            {
+                "name": "magento/module-inventory-distance-based-source-selection-api",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-distance-based-source-selection-api/magento-module-inventory-distance-based-source-selection-api-1.0.0.0.zip",
+                    "shasum": "79d9c3f965d14612e95a4723000b1200d5a55b6c"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-source-selection-api": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryDistanceBasedSourceSelectionApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-distance-based-source-selection-api",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-distance-based-source-selection-api/magento-module-inventory-distance-based-source-selection-api-1.0.1.0.zip",
+                    "shasum": "870f111ede127ba7323f716e1d303bd11567e21e"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-source-selection-api": "1.2.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryDistanceBasedSourceSelectionApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-distance-based-source-selection-api",
+                "version": "1.0.1-beta2",
+                "version_normalized": "1.0.1.0-beta2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-distance-based-source-selection-api/magento-module-inventory-distance-based-source-selection-api-1.0.1.0-beta2.zip",
+                    "shasum": "3ff3cf484256f6dfd698a952980608fefb8f5567"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-inventory-source-selection-api": "1.2.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryDistanceBasedSourceSelectionApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-distance-based-source-selection-api",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-distance-based-source-selection-api/magento-module-inventory-distance-based-source-selection-api-1.0.2.0.zip",
+                    "shasum": "84d662fbf9fa45af686755185942c5af6fb794d0"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-source-selection-api": "1.2.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryDistanceBasedSourceSelectionApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-distance-based-source-selection-api",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-distance-based-source-selection-api/magento-module-inventory-distance-based-source-selection-api-1.0.3.0.zip",
+                    "shasum": "6d0f95f01430fced9a884e00b566c43e5f0b5700"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-source-selection-api": "1.2.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryDistanceBasedSourceSelectionApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

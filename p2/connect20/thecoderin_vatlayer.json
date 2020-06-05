@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/thecoderin_vatlayer": [
+            {
+                "name": "connect20/Thecoderin_VatLayer",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Thecoderin_VatLayer/0.1.0/Thecoderin_VatLayer-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Anish Karim",
+                        "email": "thecoderin@gmail.com"
+                    }
+                ],
+                "description": "Thecoderin VatLayer is a real-time VAT Number Validation package using the APIs provided by https://vatlayer.com/"
+            },
+            {
+                "name": "connect20/Thecoderin_VatLayer",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Thecoderin_VatLayer/1.0.0/Thecoderin_VatLayer-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Anish Karim",
+                        "email": "thecoderin@gmail.com"
+                    }
+                ],
+                "description": "Thecoderin VatLayer is a real-time VAT Number Validation package using the APIs provided by https://vatlayer.com/"
+            }
+        ]
+    }
+}

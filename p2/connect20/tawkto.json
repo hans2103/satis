@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/tawkto": [
+            {
+                "name": "connect20/TawkTo",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/TawkTo/1.0.2/TawkTo-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "tawk to",
+                        "email": "accounts@tawk.to"
+                    }
+                ],
+                "description": "Instantly chat with visitors on your website with the free tawk.to chat widget."
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/cps_payments_module": [
+            {
+                "name": "connect20/cps_payments_module",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/cps_payments_module/0.0.1/cps_payments_module-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex",
+                        "email": "aleksanderm@inbox.lv"
+                    }
+                ],
+                "description": "Payment extension for Magento"
+            }
+        ]
+    }
+}

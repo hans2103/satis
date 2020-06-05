@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/promotion_catalog": [
+            {
+                "name": "connect20/promotion_catalog",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/promotion_catalog/0.1.0/promotion_catalog-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-v.-3.0-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Jefferson Batista Porto",
+                        "email": "jefferson.b.porto@gmail.com"
+                    }
+                ],
+                "description": "This module aims to enable the user to put featured products at the top of categories"
+            },
+            {
+                "name": "connect20/promotion_catalog",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/promotion_catalog/0.1.1/promotion_catalog-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-v.-3.0-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Jefferson Batista Porto",
+                        "email": "jefferson.b.porto@gmail.com"
+                    }
+                ],
+                "description": "This module aims to enable the user to put featured products at the top of categories"
+            }
+        ]
+    }
+}

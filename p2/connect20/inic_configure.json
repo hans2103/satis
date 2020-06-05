@@ -1,0 +1,61 @@
+{
+    "packages": {
+        "connect20/inic_configure": [
+            {
+                "name": "connect20/Inic_Configure",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Inic_Configure/0.1.0/Inic_Configure-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "ps_patel",
+                        "email": "pspatel5101987@gmail.com"
+                    }
+                ],
+                "description": "This extension working for only configurable products"
+            },
+            {
+                "name": "connect20/Inic_Configure",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Inic_Configure/0.1.1/Inic_Configure-0.1.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "ps",
+                        "email": "pspatel5101987@gmail.com"
+                    }
+                ],
+                "description": "Display simple products images and other info on configurable product's detail page "
+            }
+        ]
+    }
+}

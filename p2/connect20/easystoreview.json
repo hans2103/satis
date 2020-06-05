@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/easystoreview": [
+            {
+                "name": "connect20/EasyStoreview",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/EasyStoreview/1.0.0/EasyStoreview-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "madhumala krishnan",
+                        "email": "madhujerlin@gmail.com"
+                    }
+                ],
+                "description": "Easystoreview creation module is used to create storeview in a single step, and assigns locale to the created storeview.It also assigns all products,cms pages and blocks to all created storeview"
+            }
+        ]
+    }
+}

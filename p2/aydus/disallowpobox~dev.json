@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "aydus/disallowpobox": [
+            {
+                "name": "aydus/disallowpobox",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/DisallowPOBox.git",
+                    "reference": "c4831c466b5b0fae1b10a729213ed69eefb9af66"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/DisallowPOBox/zipball/c4831c466b5b0fae1b10a729213ed69eefb9af66",
+                    "reference": "c4831c466b5b0fae1b10a729213ed69eefb9af66",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2015-05-28T02:10:30+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "davidt@aydus.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Disallow PO Boxes in billing and/or shipping addresses.",
+                "homepage": "https://github.com/aydus/DisallowPOBox.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/DisallowPOBox/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/DisallowPOBox/issues"
+                }
+            }
+        ]
+    }
+}

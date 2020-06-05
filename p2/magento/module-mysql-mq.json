@@ -1,0 +1,911 @@
+{
+    "packages": {
+        "magento/module-mysql-mq": [
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.0.2",
+                "version_normalized": "100.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.0.2.0.zip",
+                    "shasum": "78c8575c765bd47fbd5958fc284d6be472e5f8a1"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.0.3",
+                "version_normalized": "100.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.0.3.0.zip",
+                    "shasum": "1ef7e4cb71e8f6d2f5afe7e78c7337d578608492"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.0.4",
+                "version_normalized": "100.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.0.4.0.zip",
+                    "shasum": "b32f6a1f63870abbd6cd368de609b2d380270101"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.0.5",
+                "version_normalized": "100.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.0.5.0.zip",
+                    "shasum": "3256cadf9f244bbeca66be5c14d9f9443673281f"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.0.6",
+                "version_normalized": "100.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.0.6.0.zip",
+                    "shasum": "363e3391a2e3d7610c2a61d82c954c02480a317c"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.1.0",
+                "version_normalized": "100.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.1.0.0.zip",
+                    "shasum": "fe0e234dee1b36b3a055d5bff3676f0029dd9d2e"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.1.0-rc1",
+                "version_normalized": "100.1.0.0-RC1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.1.0.0-RC1.zip",
+                    "shasum": "1e0ab9cf7eabd2b2326b8627659c5e4ecab4955d"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.1.0-rc2",
+                "version_normalized": "100.1.0.0-RC2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.1.0.0-RC2.zip",
+                    "shasum": "029c909388c78312e379c2b515bebab5a5694442"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.1.0-rc3",
+                "version_normalized": "100.1.0.0-RC3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.1.0.0-RC3.zip",
+                    "shasum": "f197d621c6bd4901124d4ec12a13420db97ae473"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.1.1",
+                "version_normalized": "100.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.1.1.0.zip",
+                    "shasum": "5998a467b2a9a67766968af9cb96594718c34090"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.1.2",
+                "version_normalized": "100.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.1.2.0.zip",
+                    "shasum": "5501d244ee7e0dffe5f6de8126805b1a1071ce88"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.1.3",
+                "version_normalized": "100.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.1.3.0.zip",
+                    "shasum": "99e6b6381f6b20d41e1465605eb47372ab3934ef"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.1.4",
+                "version_normalized": "100.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.1.4.0.zip",
+                    "shasum": "704ee450f217b9abaddb2432fb992211430715cd"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.1.5",
+                "version_normalized": "100.1.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.1.5.0.zip",
+                    "shasum": "b89b9815f1fd077fe66915fcb86c2fc8b73ca641"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.2.0",
+                "version_normalized": "100.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.2.0.0.zip",
+                    "shasum": "36495a83476e9d3fdbf542274784b255aca15f79"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.2.0-rc20",
+                "version_normalized": "100.2.0.0-RC20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.2.0.0-RC20.zip",
+                    "shasum": "508c65408bad21f90b97c3e591128f8d4b7ee398"
+                },
+                "require": {
+                    "magento/framework": "100.2.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.2.0-rc21",
+                "version_normalized": "100.2.0.0-RC21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.2.0.0-RC21.zip",
+                    "shasum": "d770c304144eb1c9ced03f7448c28a5359ce7f0f"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.2.0-rc22",
+                "version_normalized": "100.2.0.0-RC22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.2.0.0-RC22.zip",
+                    "shasum": "eb486c2d11529002565bdecfa50027a0275acfc8"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.2.0-rc23",
+                "version_normalized": "100.2.0.0-RC23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.2.0.0-RC23.zip",
+                    "shasum": "db3b426ab0256ec60d11e12aa83a639b5c97a84e"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.2.0-rc30",
+                "version_normalized": "100.2.0.0-RC30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.2.0.0-RC30.zip",
+                    "shasum": "23f2f3a5547f3ba6d462297e95ac15f268cc016c"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.2.1",
+                "version_normalized": "100.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.2.1.0.zip",
+                    "shasum": "74320f46be36106b6c252598fb30dfac48a0b0d6"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.2.2",
+                "version_normalized": "100.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.2.2.0.zip",
+                    "shasum": "9f1773ff49fd4b0c615ee3a72fc5adc2cbdbf036"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.2.3",
+                "version_normalized": "100.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.2.3.0.zip",
+                    "shasum": "b1694ce54943cfd90d1d746846d9f3e8540fa24f"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.2.4",
+                "version_normalized": "100.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.2.4.0.zip",
+                    "shasum": "413edf5e39d7ad06b388609b35d3bb3897b2b266"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0|~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.2.5",
+                "version_normalized": "100.2.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.2.5.0.zip",
+                    "shasum": "7d276fe5bf2422b62fa30ab5d5581f7d9a52066e"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13||~7.1.0||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.3.0",
+                "version_normalized": "100.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.3.0.0.zip",
+                    "shasum": "d39eaed539eb5a55a2297836d257e3f6f2fe72c6"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.3.1",
+                "version_normalized": "100.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.3.1.0.zip",
+                    "shasum": "dda5a554028c56847a1ce717f92927b453708cfd"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.3.2",
+                "version_normalized": "100.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.3.2.0.zip",
+                    "shasum": "6d639828ab23d08bac34c2b5abb56255dd34de55"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.3.3",
+                "version_normalized": "100.3.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.3.3.0.zip",
+                    "shasum": "8ac9de5ba89349329a4c1e77b27cf7164e51bdb5"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.3.4",
+                "version_normalized": "100.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.3.4.0.zip",
+                    "shasum": "69f00505649bb1fea879adc65bc03646a9c5d0a8"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-mysql-mq",
+                "version": "100.3.4-p2",
+                "version_normalized": "100.3.4.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-mysql-mq/magento-module-mysql-mq-100.3.4.0-patch2.zip",
+                    "shasum": "ed878794ef7235a06d752f10d3d043d19666fafe"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MysqlMq\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

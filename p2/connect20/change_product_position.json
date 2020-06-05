@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/change_product_position": [
+            {
+                "name": "connect20/change_product_position",
+                "version": "1.0.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/change_product_position/1.0.0.0/change_product_position-1.0.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "StrApp",
+                        "email": "strappvivek@gmail.com"
+                    }
+                ],
+                "description": "This extension helps change the product ordering in the listings page."
+            }
+        ]
+    }
+}

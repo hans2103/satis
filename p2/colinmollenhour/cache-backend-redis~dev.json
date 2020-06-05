@@ -1,0 +1,126 @@
+{
+    "packages": {
+        "colinmollenhour/cache-backend-redis": [
+            {
+                "name": "colinmollenhour/cache-backend-redis",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis.git",
+                    "reference": "1132d905f08e33f24d1d80b775d2c7720b00c239"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/colinmollenhour/Cm_Cache_Backend_Redis/zipball/1132d905f08e33f24d1d80b775d2c7720b00c239",
+                    "reference": "1132d905f08e33f24d1d80b775d2c7720b00c239",
+                    "shasum": ""
+                },
+                "require": {
+                    "colinmollenhour/credis": "*"
+                },
+                "time": "2020-06-04T12:37:26+00:00",
+                "type": "magento-module",
+                "autoload": {
+                    "classmap": [
+                        "Cm/Cache/Backend/Redis.php"
+                    ]
+                },
+                "license": [
+                    "BSD-3-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin Mollenhour"
+                    }
+                ],
+                "description": "Zend_Cache backend using Redis with full support for tags.",
+                "homepage": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis",
+                "support": {
+                    "source": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis/tree/master",
+                    "issues": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis/issues"
+                }
+            },
+            {
+                "name": "colinmollenhour/cache-backend-redis",
+                "version": "dev-multiple-read-slaves",
+                "version_normalized": "dev-multiple-read-slaves",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis.git",
+                    "reference": "541d817d88e0a712dfc5842320235fc52de37d09"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/colinmollenhour/Cm_Cache_Backend_Redis/zipball/541d817d88e0a712dfc5842320235fc52de37d09",
+                    "reference": "541d817d88e0a712dfc5842320235fc52de37d09",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-02-19T18:03:59+00:00",
+                "type": "magento-module",
+                "autoload": {
+                    "classmap": [
+                        "Cm/Cache/Backend/Redis.php"
+                    ]
+                },
+                "license": [
+                    "BSD-3-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin Mollenhour"
+                    }
+                ],
+                "description": "Zend_Cache backend using Redis with full support for tags.",
+                "homepage": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis",
+                "support": {
+                    "source": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis/tree/multiple-read-slaves",
+                    "issues": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis/issues"
+                }
+            },
+            {
+                "name": "colinmollenhour/cache-backend-redis",
+                "version": "dev-sentinel-and-slaves",
+                "version_normalized": "dev-sentinel-and-slaves",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis.git",
+                    "reference": "f721d0b10d7fbd9127f200bcd8b32adcfa04f31d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/colinmollenhour/Cm_Cache_Backend_Redis/zipball/f721d0b10d7fbd9127f200bcd8b32adcfa04f31d",
+                    "reference": "f721d0b10d7fbd9127f200bcd8b32adcfa04f31d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-03-11T19:00:36+00:00",
+                "type": "magento-module",
+                "autoload": {
+                    "classmap": [
+                        "Cm/Cache/Backend/Redis.php"
+                    ]
+                },
+                "license": [
+                    "BSD-3-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin Mollenhour"
+                    }
+                ],
+                "description": "Zend_Cache backend using Redis with full support for tags.",
+                "homepage": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis",
+                "support": {
+                    "source": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis/tree/sentinel-and-slaves",
+                    "issues": "https://github.com/colinmollenhour/Cm_Cache_Backend_Redis/issues"
+                }
+            }
+        ]
+    }
+}

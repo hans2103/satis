@@ -1,0 +1,219 @@
+{
+    "packages": {
+        "luka/mage-google-adwords": [
+            {
+                "name": "luka/mage-google-adwords",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/lukanetconsult/mage-google-adwords.git",
+                    "reference": "c273dbf6d2d67b678a7e39eaa312119c014f3c60"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/lukanetconsult/mage-google-adwords/zipball/c273dbf6d2d67b678a7e39eaa312119c014f3c60",
+                    "reference": "c273dbf6d2d67b678a7e39eaa312119c014f3c60",
+                    "shasum": ""
+                },
+                "archive": {
+                    "exclude": [
+                        "/.*",
+                        "/*.md",
+                        "/*.xml"
+                    ]
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-04-22T09:03:02+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "branch-alias": {
+                        "dev-develop": "1.1.x-dev",
+                        "dev-master": "1.0.x-dev"
+                    }
+                },
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Axel Helmert",
+                        "email": "ah@luka.de"
+                    }
+                ],
+                "description": "Google AdWords Tracking for Magento",
+                "homepage": "http://www.luka.de/",
+                "keywords": [
+                    "adwords",
+                    "google",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/lukanetconsult/mage-google-adwords/tree/master",
+                    "issues": "https://github.com/lukanetconsult/mage-google-adwords/issues"
+                }
+            },
+            {
+                "name": "luka/mage-google-adwords",
+                "version": "dev-1.3-support",
+                "version_normalized": "dev-1.3-support",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/lukanetconsult/mage-google-adwords.git",
+                    "reference": "d78a8b651d629dbe3430bd157f6c2a47d3be4785"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/lukanetconsult/mage-google-adwords/zipball/d78a8b651d629dbe3430bd157f6c2a47d3be4785",
+                    "reference": "d78a8b651d629dbe3430bd157f6c2a47d3be4785",
+                    "shasum": ""
+                },
+                "archive": {
+                    "exclude": [
+                        "/.*",
+                        "/*.md",
+                        "/*.xml"
+                    ]
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "1.*"
+                },
+                "time": "2014-07-21T13:46:41+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "branch-alias": {
+                        "dev-develop": "1.1.x-dev",
+                        "dev-master": "1.0.x-dev"
+                    },
+                    "map": [
+                        [
+                            "app/code/community/LUKA/GoogleAdWords",
+                            "app/code/community/LUKA/GoogleAdWords"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/luka/google/adwords",
+                            "app/design/adminhtml/default/default/template/luka/google/adwords"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/luka/google/adwords",
+                            "app/design/frontend/base/default/template/luka/google/adwords"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/luka_googleadwords.xml",
+                            "app/design/frontend/base/default/layout/luka_googleadwords.xml"
+                        ],
+                        [
+                            "app/etc/modules/LUKA_GoogleAdWords.xml",
+                            "app/etc/modules/LUKA_GoogleAdWords.xml"
+                        ],
+                        [
+                            "app/locale/de_DE/LUKA_GoogleAdWords.csv",
+                            "app/locale/de_DE/LUKA_GoogleAdWords.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Axel Helmert",
+                        "email": "ah@luka.de"
+                    }
+                ],
+                "description": "Google AdWords Tracking for Magento",
+                "homepage": "http://www.luka.de/",
+                "keywords": [
+                    "adwords",
+                    "google",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/lukanetconsult/mage-google-adwords/tree/1.3-support",
+                    "issues": "https://github.com/lukanetconsult/mage-google-adwords/issues"
+                }
+            },
+            {
+                "name": "luka/mage-google-adwords",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/lukanetconsult/mage-google-adwords.git",
+                    "reference": "f79e305106f04b3ba320dd13443afee5248af3dc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/lukanetconsult/mage-google-adwords/zipball/f79e305106f04b3ba320dd13443afee5248af3dc",
+                    "reference": "f79e305106f04b3ba320dd13443afee5248af3dc",
+                    "shasum": ""
+                },
+                "archive": {
+                    "exclude": [
+                        "/.*",
+                        "/*.md",
+                        "/*.xml"
+                    ]
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "1.*"
+                },
+                "time": "2015-02-18T08:56:32+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "branch-alias": {
+                        "dev-develop": "1.1.x-dev"
+                    },
+                    "map": [
+                        [
+                            "app/code/community/LUKA/GoogleAdWords",
+                            "app/code/community/LUKA/GoogleAdWords"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/luka/google/adwords",
+                            "app/design/adminhtml/default/default/template/luka/google/adwords"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/luka/google/adwords",
+                            "app/design/frontend/base/default/template/luka/google/adwords"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/luka_googleadwords.xml",
+                            "app/design/frontend/base/default/layout/luka_googleadwords.xml"
+                        ],
+                        [
+                            "app/etc/modules/LUKA_GoogleAdWords.xml",
+                            "app/etc/modules/LUKA_GoogleAdWords.xml"
+                        ],
+                        [
+                            "app/locale/de_DE/LUKA_GoogleAdWords.csv",
+                            "app/locale/de_DE/LUKA_GoogleAdWords.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Axel Helmert",
+                        "email": "ah@luka.de"
+                    }
+                ],
+                "description": "Google AdWords Tracking for Magento",
+                "homepage": "http://www.luka.de/",
+                "keywords": [
+                    "adwords",
+                    "google",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/lukanetconsult/mage-google-adwords/tree/develop",
+                    "issues": "https://github.com/lukanetconsult/mage-google-adwords/issues"
+                }
+            }
+        ]
+    }
+}

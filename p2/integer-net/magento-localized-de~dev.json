@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "integer-net/magento-localized-de": [
+            {
+                "name": "integer-net/magento-localized-de",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/MagentoLocalizedDE.git",
+                    "reference": "38c7683913e7d41321820a52e02e75df2234fd39"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/MagentoLocalizedDE/zipball/38c7683913e7d41321820a52e02e75df2234fd39",
+                    "reference": "38c7683913e7d41321820a52e02e75df2234fd39",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-11-24T11:31:39+00:00",
+                "type": "magento-module",
+                "description": "German Localization package for Magento Localized (aka Magento DE)",
+                "homepage": "https://github.com/integer-net/MagentoLocalizedDE",
+                "support": {
+                    "source": "https://github.com/integer-net/MagentoLocalizedDE/tree/master",
+                    "issues": "https://github.com/integer-net/MagentoLocalizedDE/issues"
+                }
+            }
+        ]
+    }
+}

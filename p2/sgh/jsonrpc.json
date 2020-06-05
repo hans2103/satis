@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "sgh/jsonrpc": [
+            {
+                "name": "sgh/jsonrpc",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/sgh-it/jsonrpc.git",
+                    "reference": "334f99fedb1ac616ea3f20a2bb8797d0c19c1094"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/sgh-it/jsonrpc/zipball/334f99fedb1ac616ea3f20a2bb8797d0c19c1094",
+                    "reference": "334f99fedb1ac616ea3f20a2bb8797d0c19c1094",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-15T01:08:42+00:00",
+                "type": "magento-module",
+                "license": [
+                    "osl-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabian Schmengler",
+                        "email": "fschmengler@sgh-it.eu"
+                    }
+                ],
+                "description": "API adapter for JSON-RPC format (works as XML-RPC from Magento core)",
+                "homepage": "http://www.sgh-it.eu/",
+                "support": {
+                    "source": "https://github.com/sgh-it/jsonrpc/tree/1.0.0",
+                    "issues": "https://github.com/sgh-it/jsonrpc/issues"
+                }
+            }
+        ]
+    }
+}

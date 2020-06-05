@@ -1,0 +1,696 @@
+{
+    "packages": {
+        "zendesk/zendesk": [
+            {
+                "name": "zendesk/zendesk",
+                "version": "v1.1.3.x-dev",
+                "version_normalized": "1.1.3.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "334551303718c1d31d510be88d3c1267614775bf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/334551303718c1d31d510be88d3c1267614775bf",
+                    "reference": "334551303718c1d31d510be88d3c1267614775bf",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-06-14T01:59:22+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/master",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "7fa32450c418c0775d9f880b9cd564bb5c22da0a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/7fa32450c418c0775d9f880b9cd564bb5c22da0a",
+                    "reference": "7fa32450c418c0775d9f880b9cd564bb5c22da0a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2020-04-29T05:44:12+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/v2.3.1",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-daniel/respond_with_403_if_no_headers",
+                "version_normalized": "dev-daniel/respond_with_403_if_no_headers",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "427a03dbf6ee5d64b9be352d276007c014013bc3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/427a03dbf6ee5d64b9be352d276007c014013bc3",
+                    "reference": "427a03dbf6ee5d64b9be352d276007c014013bc3",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-06-30T12:15:58+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/daniel/respond_with_403_if_no_headers",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-feature/magento",
+                "version_normalized": "dev-feature/magento",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "6d63f0b7c2dc3498afdea55913f8bc152a072fcb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/6d63f0b7c2dc3498afdea55913f8bc152a072fcb",
+                    "reference": "6d63f0b7c2dc3498afdea55913f8bc152a072fcb",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-06T23:58:19+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/feature/magento",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-feature/web-widget",
+                "version_normalized": "dev-feature/web-widget",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "645fc6ebcb477713802683c6a4f2f28fbde48498"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/645fc6ebcb477713802683c6a4f2f28fbde48498",
+                    "reference": "645fc6ebcb477713802683c6a4f2f28fbde48498",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-20T02:42:43+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/feature/web-widget",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-fix-sso",
+                "version_normalized": "dev-fix-sso",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "c0657e1d1202b95dab26fe233047dce87d56c15c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/c0657e1d1202b95dab26fe233047dce87d56c15c",
+                    "reference": "c0657e1d1202b95dab26fe233047dce87d56c15c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-23T13:48:49+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/fix-sso",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-jose/MI-100-auth-check-fix",
+                "version_normalized": "dev-jose/MI-100-auth-check-fix",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "2544395ef8b291b686316f5056a043c1d6b3b723"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/2544395ef8b291b686316f5056a043c1d6b3b723",
+                    "reference": "2544395ef8b291b686316f5056a043c1d6b3b723",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-06-23T05:18:15+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/jose/MI-100-auth-check-fix",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-jose/MI-241",
+                "version_normalized": "dev-jose/MI-241",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "5dc74c0377e2120bfb19c00aa093faa619fcb4a1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/5dc74c0377e2120bfb19c00aa093faa619fcb4a1",
+                    "reference": "5dc74c0377e2120bfb19c00aa093faa619fcb4a1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-09-17T02:35:34+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/jose/MI-241",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-jose/MI-98-bulk-actions",
+                "version_normalized": "dev-jose/MI-98-bulk-actions",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "bd0de180177d7e79f6ecadbc5d4bd6255676a016"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/bd0de180177d7e79f6ecadbc5d4bd6255676a016",
+                    "reference": "bd0de180177d7e79f6ecadbc5d4bd6255676a016",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-06-18T08:05:09+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/jose/MI-98-bulk-actions",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-jose/bump-version",
+                "version_normalized": "dev-jose/bump-version",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "7d1e4de0eda73dbed5c967ac8ff1c7f302c38276"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/7d1e4de0eda73dbed5c967ac8ff1c7f302c38276",
+                    "reference": "7d1e4de0eda73dbed5c967ac8ff1c7f302c38276",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-21T03:43:42+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/jose/bump-version",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-jose/fix_strict_notice",
+                "version_normalized": "dev-jose/fix_strict_notice",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "7c39337dd1777061f9267a89a6a70173a9fd7278"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/7c39337dd1777061f9267a89a6a70173a9fd7278",
+                    "reference": "7c39337dd1777061f9267a89a6a70173a9fd7278",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-04-27T08:52:46+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/jose/fix_strict_notice",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-joseconsador-patch-1",
+                "version_normalized": "dev-joseconsador-patch-1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "b6bbbbffbece65f5737334908789bd36afc9ffee"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/b6bbbbffbece65f5737334908789bd36afc9ffee",
+                    "reference": "b6bbbbffbece65f5737334908789bd36afc9ffee",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-04-25T05:06:47+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/joseconsador-patch-1",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-josemio/fix-404-digitalocean",
+                "version_normalized": "dev-josemio/fix-404-digitalocean",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "565eae75a45d9aa0700d3ae4fe70ea21a8da0c45"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/565eae75a45d9aa0700d3ae4fe70ea21a8da0c45",
+                    "reference": "565eae75a45d9aa0700d3ae4fe70ea21a8da0c45",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-28T09:22:39+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/josemio/fix-404-digitalocean",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-josemiomiguel/fix_sso_payload",
+                "version_normalized": "dev-josemiomiguel/fix_sso_payload",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "be20c967cd4bc708adb21082bb1f2d607cbb6c9f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/be20c967cd4bc708adb21082bb1f2d607cbb6c9f",
+                    "reference": "be20c967cd4bc708adb21082bb1f2d607cbb6c9f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-22T03:44:55+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/josemiomiguel/fix_sso_payload",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-mmolina/add-widget-form",
+                "version_normalized": "dev-mmolina/add-widget-form",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "f077dac06452cd952116b30f26b43b6177cb7ab6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/f077dac06452cd952116b30f26b43b6177cb7ab6",
+                    "reference": "f077dac06452cd952116b30f26b43b6177cb7ab6",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-26T21:50:58+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/mmolina/add-widget-form",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-pdeuter/HD-612_reverse_sweep",
+                "version_normalized": "dev-pdeuter/HD-612_reverse_sweep",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "742cc34cdfbb4884cc1f3062ea4693af35935575"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/742cc34cdfbb4884cc1f3062ea4693af35935575",
+                    "reference": "742cc34cdfbb4884cc1f3062ea4693af35935575",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-10-29T01:49:46+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/pdeuter/HD-612_reverse_sweep",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-pdeuter/LOC-27_string_fixes",
+                "version_normalized": "dev-pdeuter/LOC-27_string_fixes",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "c4b858f9f2c2a255a4fe18059d1d68c0949e2baa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/c4b858f9f2c2a255a4fe18059d1d68c0949e2baa",
+                    "reference": "c4b858f9f2c2a255a4fe18059d1d68c0949e2baa",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-01-18T00:45:19+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/pdeuter/LOC-27_string_fixes",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-samgavinio/readme-i18n-confluence",
+                "version_normalized": "dev-samgavinio/readme-i18n-confluence",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "ddc551d97087d97623c6d91ef6446baf672835d0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/ddc551d97087d97623c6d91ef6446baf672835d0",
+                    "reference": "ddc551d97087d97623c6d91ef6446baf672835d0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-11-16T04:07:28+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/samgavinio/readme-i18n-confluence",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-samgavinio/worldcoppersmith-debugging",
+                "version_normalized": "dev-samgavinio/worldcoppersmith-debugging",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "02a17c18d9f11043dc802cc5b0114b2a46c7597d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/02a17c18d9f11043dc802cc5b0114b2a46c7597d",
+                    "reference": "02a17c18d9f11043dc802cc5b0114b2a46c7597d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-10-10T09:09:57+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/samgavinio/worldcoppersmith-debugging",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-string-sweep/I18N-44_reverse_sweep",
+                "version_normalized": "dev-string-sweep/I18N-44_reverse_sweep",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "7fa32450c418c0775d9f880b9cd564bb5c22da0a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/7fa32450c418c0775d9f880b9cd564bb5c22da0a",
+                    "reference": "7fa32450c418c0775d9f880b9cd564bb5c22da0a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2020-04-29T05:44:12+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/v2.3.1",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-string-sweep/LOCAL-44_auto_weekly_sweep",
+                "version_normalized": "dev-string-sweep/LOCAL-44_auto_weekly_sweep",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "9af94924a74a4c5ca3f24a820f9d18e7d2152df8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/9af94924a74a4c5ca3f24a820f9d18e7d2152df8",
+                    "reference": "9af94924a74a4c5ca3f24a820f9d18e7d2152df8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-10-29T06:18:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/string-sweep/LOCAL-44_auto_weekly_sweep",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-string-sweep/LOCAL-44_reverse_sweep",
+                "version_normalized": "dev-string-sweep/LOCAL-44_reverse_sweep",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "564e2382354e6b9f9e98c17707eead649703814d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/564e2382354e6b9f9e98c17707eead649703814d",
+                    "reference": "564e2382354e6b9f9e98c17707eead649703814d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2020-02-27T23:29:28+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/v2.2.0",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            },
+            {
+                "name": "zendesk/zendesk",
+                "version": "dev-zendesk-staging",
+                "version_normalized": "dev-zendesk-staging",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zendesk/magento_extension.git",
+                    "reference": "2cc73009aab728310d5a5d3ca4c4179504fd2df8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zendesk/magento_extension/zipball/2cc73009aab728310d5a5d3ca4c4179504fd2df8",
+                    "reference": "2cc73009aab728310d5a5d3ca4c4179504fd2df8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-10-16T14:56:30+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Zendesk Extension for Magento",
+                "homepage": "https://github.com/zendesk/magento_extension",
+                "support": {
+                    "source": "https://github.com/zendesk/magento_extension/tree/zendesk-staging",
+                    "issues": "https://github.com/zendesk/magento_extension/issues"
+                }
+            }
+        ]
+    }
+}

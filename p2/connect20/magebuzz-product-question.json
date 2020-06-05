@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/magebuzz-product-question": [
+            {
+                "name": "connect20/magebuzz-product-question",
+                "version": "0.1.6",
+                "version_normalized": "0.1.6.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/magebuzz-product-question/0.1.6/magebuzz-product-question-0.1.6.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Magebuzz",
+                        "email": "magebuzz@gmail.com"
+                    }
+                ],
+                "description": "Magento Product Questions"
+            }
+        ]
+    }
+}

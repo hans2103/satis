@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "connect20/eventcalendar": [
+            {
+                "name": "connect20/EventCalendar",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/EventCalendar/1.1.0/EventCalendar-1.1.0.tgz"
+                },
+                "require": {
+                    "connect20/mega_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "iquall infoway",
+                        "email": "support@i-quall.com"
+                    }
+                ],
+                "description": "This extension can be use to manage the events with full calendar and its show you upcoming events list."
+            },
+            {
+                "name": "connect20/EventCalendar",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/EventCalendar/1.1.1/EventCalendar-1.1.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "iquallinfo",
+                        "email": "support@i-quall.com"
+                    }
+                ],
+                "description": "This extension can be use to manage the events with full calendar and its show you upcoming events list. "
+            }
+        ]
+    }
+}

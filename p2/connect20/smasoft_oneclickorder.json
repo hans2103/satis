@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/smasoft_oneclickorder": [
+            {
+                "name": "connect20/Smasoft_Oneclickorder",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Smasoft_Oneclickorder/0.1.0/Smasoft_Oneclickorder-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Slabko Michail",
+                        "email": "michail.slabko@magento.com"
+                    }
+                ],
+                "description": "Magento One Click Order"
+            },
+            {
+                "name": "connect20/Smasoft_Oneclickorder",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Smasoft_Oneclickorder/0.1.1/Smasoft_Oneclickorder-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Slabko Michail",
+                        "email": "l.nagash@gmail.com"
+                    }
+                ],
+                "description": "One Click Order"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/clicksend": [
+            {
+                "name": "connect20/ClickSend",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/clicksend/1.0.0/clicksend-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "ClickSend",
+                        "email": "ClickSend@gmail.com"
+                    }
+                ],
+                "description": "ClickSend for Magento"
+            }
+        ]
+    }
+}

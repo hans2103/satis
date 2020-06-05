@@ -1,0 +1,1086 @@
+{
+    "packages": {
+        "magento/module-vault": [
+            {
+                "name": "magento/module-vault",
+                "version": "100.1.0",
+                "version_normalized": "100.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-100.1.0.0.zip",
+                    "shasum": "b1457df001ff41347abfc28afe1340f655bcb06e"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "100.1.0-rc1",
+                "version_normalized": "100.1.0.0-RC1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-100.1.0.0-RC1.zip",
+                    "shasum": "c71a9477f591c0e7cecf0c07e1ac46c8da1dc046"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "100.1.0-rc2",
+                "version_normalized": "100.1.0.0-RC2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-100.1.0.0-RC2.zip",
+                    "shasum": "ea0a5bd69c40904effad325caa2c780fa13d6bcb"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "100.1.0-rc3",
+                "version_normalized": "100.1.0.0-RC3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-100.1.0.0-RC3.zip",
+                    "shasum": "e3d3e24f98081cfa7d01a78ab3fb36e664fa2625"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "100.1.1",
+                "version_normalized": "100.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-100.1.1.0.zip",
+                    "shasum": "7e56c67fde94486f00b04ebc85cc251a100ae950"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "100.2.0",
+                "version_normalized": "100.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-100.2.0.0.zip",
+                    "shasum": "91aaa663a6e877e28d6a3d1234463240064fb5e5"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "100.2.1",
+                "version_normalized": "100.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-100.2.1.0.zip",
+                    "shasum": "f208bdd66bed1a4ffb80bd78b13ba51000ba44e3"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "100.2.2",
+                "version_normalized": "100.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-100.2.2.0.zip",
+                    "shasum": "c52dfb3ac250af3cd408da16fa6e9bcfd47c9dbf"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "100.2.3",
+                "version_normalized": "100.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-100.2.3.0.zip",
+                    "shasum": "f0b236fa03295deb6536d7043d4946a6adf719c0"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "100.2.4",
+                "version_normalized": "100.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-100.2.4.0.zip",
+                    "shasum": "02cd4c643cd77cf7b15fe67ec73f5cc379812b38"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "100.2.5",
+                "version_normalized": "100.2.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-100.2.5.0.zip",
+                    "shasum": "fc19f2a99a84fab6754e7e222a0759fe36a8c9c5"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "100.2.6",
+                "version_normalized": "100.2.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-100.2.6.0.zip",
+                    "shasum": "1714d577d037924779f737ee2a2c8816daefcd86"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "100.3.0-rc20",
+                "version_normalized": "100.3.0.0-RC20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-100.3.0.0-RC20.zip",
+                    "shasum": "fb9384a272bacfb6a52177e56b623482d22aac96"
+                },
+                "require": {
+                    "magento/framework": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "100.2.*",
+                    "magento/module-sales": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.0.0",
+                "version_normalized": "101.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.0.0.0.zip",
+                    "shasum": "db5ad12efa6194833b3c458208159ee13098babe"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.0.0-rc21",
+                "version_normalized": "101.0.0.0-RC21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.0.0.0-RC21.zip",
+                    "shasum": "ab41283735117c5419ae0f44ad32fbc68f913fbf"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.0.0-rc22",
+                "version_normalized": "101.0.0.0-RC22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.0.0.0-RC22.zip",
+                    "shasum": "6727e00cc11433ce62ca53878e982f8fd84b511b"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.0.0-rc23",
+                "version_normalized": "101.0.0.0-RC23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.0.0.0-RC23.zip",
+                    "shasum": "eea391e5de43402ec0d7fe2db94a6e587bffdf2c"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.0.0-rc30",
+                "version_normalized": "101.0.0.0-RC30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.0.0.0-RC30.zip",
+                    "shasum": "725fe38ee5fe5ce47dbacf8ad665f740a7758a23"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.0.1",
+                "version_normalized": "101.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.0.1.0.zip",
+                    "shasum": "47bb4c7381156bdb9852f0ce6744c5188790d874"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.0.2",
+                "version_normalized": "101.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.0.2.0.zip",
+                    "shasum": "a87262c2de85b52036628271dfc68a31f6e3dc55"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.0.3",
+                "version_normalized": "101.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.0.3.0.zip",
+                    "shasum": "7eff2a03371a5eac3b492f47555673e885043dcf"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.0.4",
+                "version_normalized": "101.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.0.4.0.zip",
+                    "shasum": "659521eb5e9828cd8da1e99f0f821f6b7aff0b57"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.0.5",
+                "version_normalized": "101.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.0.5.0.zip",
+                    "shasum": "88ccecb0dc75e595077a94af25e807bacf5d8bbb"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.0.6",
+                "version_normalized": "101.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.0.6.0.zip",
+                    "shasum": "ad7a19541467684923e9c7520c40dd93d4c821a6"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.0.7",
+                "version_normalized": "101.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.0.7.0.zip",
+                    "shasum": "1afa9845a879f913b8155e88707e827e88b4bd1c"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13|~7.1.0|~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.0.8",
+                "version_normalized": "101.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.0.8.0.zip",
+                    "shasum": "49a819cc252d513bae4d5e96bfc672205e6ea291"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "php": "~7.0.13||~7.1.0||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.1.0",
+                "version_normalized": "101.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.1.0.0.zip",
+                    "shasum": "e17ee649f9420f22599f61c60cd1d35c4fecc61c"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.1.1",
+                "version_normalized": "101.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.1.1.0.zip",
+                    "shasum": "c8702e4f0ec7fa9538194203be7e5bbf0bc8077b"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.1.2",
+                "version_normalized": "101.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.1.2.0.zip",
+                    "shasum": "6fce926412a7efc16b0a55474a82ab55647e763a"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.1.3",
+                "version_normalized": "101.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.1.3.0.zip",
+                    "shasum": "ea54d96009dec36c0dc848cddd77dfe217bbede7"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.1.4",
+                "version_normalized": "101.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.1.4.0.zip",
+                    "shasum": "e519d4ae942c636c127ad34957dc510d89a9b8c8"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-theme": "101.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.1.4-p2",
+                "version_normalized": "101.1.4.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.1.4.0-patch2.zip",
+                    "shasum": "040a4e409452d9e8baacfc397445af82a64359f6"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-theme": "101.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-vault",
+                "version": "101.1.5",
+                "version_normalized": "101.1.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-vault/magento-module-vault-101.1.5.0.zip",
+                    "shasum": "00e602a862274666f4770e12eb9b128c7e64d420"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-theme": "101.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Vault\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            }
+        ]
+    }
+}

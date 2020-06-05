@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "sse/formfiller": [
+            {
+                "name": "sse/formfiller",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/schmengler/FormFiller.git",
+                    "reference": "9f6d4ae6667d9acba046e9553817d07d33258edf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/schmengler/FormFiller/zipball/9f6d4ae6667d9acba046e9553817d07d33258edf",
+                    "reference": "9f6d4ae6667d9acba046e9553817d07d33258edf",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.4"
+                },
+                "time": "2015-01-21T15:28:45+00:00",
+                "type": "magento-module",
+                "license": [
+                    "osl-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabian Schmengler",
+                        "email": "fabian@schmengler-se.de"
+                    }
+                ],
+                "description": "Development tool: Pre-fill forms with random data",
+                "homepage": "http://www.schmengler-se.de/2014/08/magento-testing-formulare-mit-einem-klick-ausfuellen/",
+                "support": {
+                    "source": "https://github.com/schmengler/FormFiller/tree/0.2.1",
+                    "issues": "https://github.com/schmengler/FormFiller/issues"
+                }
+            }
+        ]
+    }
+}

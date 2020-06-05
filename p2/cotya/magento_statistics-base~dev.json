@@ -1,0 +1,38 @@
+{
+    "packages": {
+        "cotya/magento_statistics-base": [
+            {
+                "name": "cotya/magento_statistics-base",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Cotya/Magento_StatisticsBase.git",
+                    "reference": "fc992dbf79fa463f01516a6ac3f3c669296cbeee"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Cotya/Magento_StatisticsBase/zipball/fc992dbf79fa463f01516a6ac3f3c669296cbeee",
+                    "reference": "fc992dbf79fa463f01516a6ac3f3c669296cbeee",
+                    "shasum": ""
+                },
+                "time": "2014-11-04T23:06:02+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Flyingmana",
+                        "email": "flyingmana@googlemail.com"
+                    }
+                ],
+                "description": "a base module targeted at devs to implement tracking of various statistics over time",
+                "support": {
+                    "source": "https://github.com/Cotya/Magento_StatisticsBase/tree/0.1.0",
+                    "issues": "https://github.com/Cotya/Magento_StatisticsBase/issues"
+                }
+            }
+        ]
+    }
+}

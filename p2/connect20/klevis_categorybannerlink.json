@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/klevis_categorybannerlink": [
+            {
+                "name": "connect20/Klevis_CategoryBannerLink",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Klevis_CategoryBannerLink/0.0.1/Klevis_CategoryBannerLink-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Klevis Miho",
+                        "email": "klevisi@gmail.com"
+                    }
+                ],
+                "description": "Add a link to your category banner."
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/posixtech_ncp": [
+            {
+                "name": "connect20/Posixtech_Ncp",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Posixtech_Ncp/1.0.0.1/Posixtech_Ncp-1.0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "POSIXTECH_LTD_LICENSE"
+                ],
+                "authors": [
+                    {
+                        "name": "Posixtech Ltd.",
+                        "email": "info@posixtech.com"
+                    }
+                ],
+                "description": "If you want to take care your new customer, this module is for you. It will allow you to add a free product."
+            }
+        ]
+    }
+}

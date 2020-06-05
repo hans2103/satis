@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/vp_alphasearch": [
+            {
+                "name": "connect20/Vp_Alphasearch",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Vp_Alphasearch/0.0.1/Vp_Alphasearch-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "vpinfo",
+                        "email": "vpinfo39@gmail.com"
+                    }
+                ],
+                "description": "This extension helps to search products alphabetically."
+            },
+            {
+                "name": "connect20/Vp_Alphasearch",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Vp_Alphasearch/1.0.0/Vp_Alphasearch-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "vpinfo",
+                        "email": "vpinfo39@gmail.com"
+                    }
+                ],
+                "description": "This extension can help you to find products alphabetically."
+            }
+        ]
+    }
+}

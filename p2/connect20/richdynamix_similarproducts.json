@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/richdynamix_similarproducts": [
+            {
+                "name": "connect20/Richdynamix_SimilarProducts",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Richdynamix_SimilarProducts/1.0.0/Richdynamix_SimilarProducts-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Steven Richardson",
+                        "email": "steven@richdynamix.com"
+                    }
+                ],
+                "description": "Better Magento Up-Sell Products with PredictionIO Integration"
+            }
+        ]
+    }
+}

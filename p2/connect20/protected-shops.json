@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/protected-shops": [
+            {
+                "name": "connect20/protected-shops",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/protected-shops/1.0.0/protected-shops-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Viktor Franz",
+                        "email": "vf@integer-net.de"
+                    }
+                ],
+                "description": "The extension from Protected Shops helps to transfer the legal texts i.e. terms and conditions, notice of revocation, imprint and privacy policy automatically in the own online shop. If the law changes, these texts update automatically and the extension synchronizes the new one to the right position. At that point, online traders are protected against legal proceedings."
+            }
+        ]
+    }
+}

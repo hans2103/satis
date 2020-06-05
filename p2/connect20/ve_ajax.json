@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/ve_ajax": [
+            {
+                "name": "connect20/VE_Ajax",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/VE_Ajax/1.0.0.1/VE_Ajax-1.0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Virtual Employee",
+                        "email": "ve.ppm2@gmail.com"
+                    }
+                ],
+                "description": "Ajax Filter and Cart"
+            },
+            {
+                "name": "connect20/VE_Ajax",
+                "version": "1.0.0.2",
+                "version_normalized": "1.0.0.2",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/VE_Ajax/1.0.0.2/VE_Ajax-1.0.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Virtual Employee",
+                        "email": "ve.ppm2@gmail.com"
+                    }
+                ],
+                "description": "Ajax Filter and Cart"
+            }
+        ]
+    }
+}

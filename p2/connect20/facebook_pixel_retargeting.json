@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/facebook_pixel_retargeting": [
+            {
+                "name": "connect20/Facebook_Pixel_Retargeting",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Facebook_Pixel_Retargeting/1.0.0/Facebook_Pixel_Retargeting-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthew Parke",
+                        "email": "magento@engagecommerce.io"
+                    }
+                ],
+                "description": "The Facebook Pixel for Retargeting extension allows Facebook advertisers to build an audience from the users that visit their ecommerce store and retarget them using Facebook Ads."
+            },
+            {
+                "name": "connect20/Facebook_Pixel_Retargeting",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Facebook_Pixel_Retargeting/1.0.1/Facebook_Pixel_Retargeting-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthew Parke",
+                        "email": "development@engagecommerce.io"
+                    }
+                ],
+                "description": "The Facebook Pixel for Retargeting extension allows Facebook advertisers to build an audience from the users that visit their ecommerce store and retarget them using Facebook Ads."
+            }
+        ]
+    }
+}

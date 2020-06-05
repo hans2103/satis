@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/dotcom_productgridthumbnail": [
+            {
+                "name": "connect20/Dotcom_ProductGridThumbnail",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/HK982TZ/1.0/HK982TZ-1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Doc",
+                        "email": "info@dotcom.ts.it"
+                    }
+                ],
+                "description": "Add product thumbnails to admin grid"
+            }
+        ]
+    }
+}

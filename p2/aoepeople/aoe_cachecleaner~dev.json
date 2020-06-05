@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "aoepeople/aoe_cachecleaner": [
+            {
+                "name": "aoepeople/aoe_cachecleaner",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_CacheCleaner.git",
+                    "reference": "751b43d9991611ec24c4e7278ae7865593a37f62"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_CacheCleaner/zipball/751b43d9991611ec24c4e7278ae7865593a37f62",
+                    "reference": "751b43d9991611ec24c4e7278ae7865593a37f62",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-08-19T01:55:08+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "fabrizio.branca@aoe.com"
+                    }
+                ],
+                "description": "Removes old cache entries in your Magento instance",
+                "homepage": "https://github.com/AOEpeople/Aoe_Scheduler",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_CacheCleaner/tree/v0.1.2"
+                }
+            }
+        ]
+    }
+}

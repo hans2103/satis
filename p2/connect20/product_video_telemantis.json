@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/product_video_telemantis": [
+            {
+                "name": "connect20/Product_Video_Telemantis",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Product_Video_Telemantis/1.0.0/Product_Video_Telemantis-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "saurabh chandela",
+                        "email": "saurabh.chandela82@gmail.com"
+                    }
+                ],
+                "description": "Product Video Display"
+            }
+        ]
+    }
+}

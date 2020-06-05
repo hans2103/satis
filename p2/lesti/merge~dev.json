@@ -1,0 +1,38 @@
+{
+    "packages": {
+        "lesti/merge": [
+            {
+                "name": "lesti/merge",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/GordonLesti/Lesti_Merge.git",
+                    "reference": "916fc02413446cebc08e1827a32ac07af9185fca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/GordonLesti/Lesti_Merge/zipball/916fc02413446cebc08e1827a32ac07af9185fca",
+                    "reference": "916fc02413446cebc08e1827a32ac07af9185fca",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-19T08:48:25+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Gordon Lesti",
+                        "email": "info@gordonlesti.com"
+                    }
+                ],
+                "description": "Smart Merging of Js and Css in Magento",
+                "support": {
+                    "source": "https://github.com/GordonLesti/Lesti_Merge/tree/master",
+                    "issues": "https://github.com/GordonLesti/Lesti_Merge/issues"
+                }
+            }
+        ]
+    }
+}

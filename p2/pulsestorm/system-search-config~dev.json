@@ -1,0 +1,50 @@
+{
+    "packages": {
+        "pulsestorm/system-search-config": [
+            {
+                "name": "pulsestorm/system-search-config",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/astorm/SystemConfigurationSearch.git",
+                    "reference": "700c82777d68d9fe0e8c80b833541363eacbd254"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/astorm/SystemConfigurationSearch/zipball/700c82777d68d9fe0e8c80b833541363eacbd254",
+                    "reference": "700c82777d68d9fe0e8c80b833541363eacbd254",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.2.0"
+                },
+                "time": "2014-05-28T01:19:05+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Alan Storm",
+                        "email": "astorm@pulsestorm.net",
+                        "homepage": "http://alanstorm.com",
+                        "role": "developer"
+                    }
+                ],
+                "description": "System Search Config.",
+                "homepage": "https://github.com/astorm/SystemConfigurationSearch.git",
+                "keywords": [
+                    "config",
+                    "magento",
+                    "search"
+                ],
+                "support": {
+                    "source": "https://github.com/astorm/SystemConfigurationSearch/tree/master",
+                    "issues": "https://github.com/astorm/SystemConfigurationSearch/issues"
+                }
+            }
+        ]
+    }
+}

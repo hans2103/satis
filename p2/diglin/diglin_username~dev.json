@@ -1,0 +1,80 @@
+{
+    "packages": {
+        "diglin/diglin_username": [
+            {
+                "name": "diglin/diglin_username",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Username.git",
+                    "reference": "667baef60f786c7711a36d8e058566f32ad14b19"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Username/zipball/667baef60f786c7711a36d8e058566f32ad14b19",
+                    "reference": "667baef60f786c7711a36d8e058566f32ad14b19",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/hackathon_magetrashapp": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-03-22T09:34:24+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sylvain Rayé",
+                        "email": "{firstname}.{lastname}@diglin.com"
+                    }
+                ],
+                "description": "Support username login and account register in Magento instead of only email address.",
+                "homepage": "https://github.com/diglin/Diglin_Username",
+                "support": {
+                    "source": "https://github.com/diglin/Diglin_Username/tree/master",
+                    "issues": "https://github.com/diglin/Diglin_Username/issues"
+                }
+            },
+            {
+                "name": "diglin/diglin_username",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Username.git",
+                    "reference": "1cab6b4e83201f841507a06ae1add11faff1bb61"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Username/zipball/1cab6b4e83201f841507a06ae1add11faff1bb61",
+                    "reference": "1cab6b4e83201f841507a06ae1add11faff1bb61",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/hackathon_magetrashapp": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-07-26T21:44:10+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sylvain Rayé",
+                        "email": "{firstname}.{lastname}@diglin.com"
+                    }
+                ],
+                "description": "Support username login and account register in Magento instead of only email address.",
+                "homepage": "https://github.com/diglin/Diglin_Username",
+                "support": {
+                    "source": "https://github.com/diglin/Diglin_Username/tree/develop",
+                    "issues": "https://github.com/diglin/Diglin_Username/issues"
+                }
+            }
+        ]
+    }
+}

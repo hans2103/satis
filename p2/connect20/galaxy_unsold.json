@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/galaxy_unsold": [
+            {
+                "name": "connect20/Galaxy_Unsold",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Galaxy_Unsold/1.0.0/Galaxy_Unsold-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Vivek",
+                        "email": "vivek.jha@galaxysofttech.co.in"
+                    }
+                ],
+                "description": "Provide unsold product information of your store between selected dates."
+            },
+            {
+                "name": "connect20/Galaxy_Unsold",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Galaxy_Unsold/1.0.1/Galaxy_Unsold-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Vivek",
+                        "email": "vivek.jha@galaxysofttech.co.in"
+                    }
+                ],
+                "description": "Business intelligent information about the products in an online store that have been unsold for some time "
+            }
+        ]
+    }
+}

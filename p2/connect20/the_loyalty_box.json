@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/the_loyalty_box": [
+            {
+                "name": "connect20/The_Loyalty_Box",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/The_Loyalty_Box/1.0.0/The_Loyalty_Box-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Double-eye",
+                        "email": "loyaltybox.support@double-eye.com"
+                    }
+                ],
+                "description": "Providing customer loyalty programs, ensuring that your existing customers keep coming back. Programs are flexible and can be set up to suit your needs"
+            },
+            {
+                "name": "connect20/The_Loyalty_Box",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/The_Loyalty_Box/1.0.1/The_Loyalty_Box-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MITL"
+                ],
+                "authors": [
+                    {
+                        "name": "Double-eye",
+                        "email": "loyaltybox.support@double-eye.com"
+                    }
+                ],
+                "description": "Providing customer loyalty programs, ensuring that your existing customers keep coming back. Programs are flexible and can be set up to suit your needs"
+            }
+        ]
+    }
+}

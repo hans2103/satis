@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/pi_oopsprofile": [
+            {
+                "name": "connect20/PI_Oopsprofile",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/PI_Oopsprofile/0.2.0/PI_Oopsprofile-0.2.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "pureimagination",
+                        "email": "johncarter15oct@gmail.com"
+                    }
+                ],
+                "description": "This extension is used for import/export products and customers."
+            }
+        ]
+    }
+}

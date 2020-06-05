@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/heartbeat-extension-for-magento": [
+            {
+                "name": "connect20/heartbeat-extension-for-magento",
+                "version": "0.0.4",
+                "version_normalized": "0.0.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/heartbeat-extension-for-magento/0.0.4/heartbeat-extension-for-magento-0.0.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Gorilla-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Gorilla Team",
+                        "email": "briangrady@gorillagroup.com"
+                    }
+                ],
+                "description": "The HeartBeat module designed to provide in-depth monitoring for your Magento website. "
+            }
+        ]
+    }
+}

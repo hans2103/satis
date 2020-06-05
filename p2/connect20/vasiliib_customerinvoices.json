@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/vasiliib_customerinvoices": [
+            {
+                "name": "connect20/VasiliiB_CustomerInvoices",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/VasiliiB_CustomerInvoices/1.0.0/VasiliiB_CustomerInvoices-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Vasilii",
+                        "email": "burlacu.vasilii@yandex.ru"
+                    }
+                ],
+                "description": "Allow customers to view list of invoices and download Invoice PDF files."
+            },
+            {
+                "name": "connect20/VasiliiB_CustomerInvoices",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/VasiliiB_CustomerInvoices/1.0.1/VasiliiB_CustomerInvoices-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Vasilii",
+                        "email": "burlacu.vasilii@yandex.ru"
+                    }
+                ],
+                "description": "Allow customers to view list of invoices and download Invoice PDF files."
+            }
+        ]
+    }
+}

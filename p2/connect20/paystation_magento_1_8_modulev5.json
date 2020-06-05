@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/paystation_magento_1_8_modulev5": [
+            {
+                "name": "connect20/Paystation_Magento_1_8_ModuleV5",
+                "version": "0.0.10",
+                "version_normalized": "0.0.10.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Paystation_Magento_1_8_ModuleV5/0.0.10/Paystation_Magento_1_8_ModuleV5-0.0.10.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Paystation",
+                        "email": "info@paystation.co.nz"
+                    }
+                ],
+                "description": "Paystation three-party payment module with Postback"
+            },
+            {
+                "name": "connect20/Paystation_Magento_1_8_ModuleV5",
+                "version": "0.0.13",
+                "version_normalized": "0.0.13.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Paystation_Magento_1_8_ModuleV5/0.0.13/Paystation_Magento_1_8_ModuleV5-0.0.13.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Paystation",
+                        "email": "info@paystation.co.nz"
+                    }
+                ],
+                "description": "Paystation One-page Checkout with Post Back"
+            }
+        ]
+    }
+}

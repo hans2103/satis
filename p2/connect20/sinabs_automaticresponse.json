@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sinabs_automaticresponse": [
+            {
+                "name": "connect20/Sinabs_AutomaticResponse",
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Sinabs_AutomaticResponse/0.2.1/Sinabs_AutomaticResponse-0.2.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Sinabs",
+                        "email": "tech@sinabs.fr"
+                    }
+                ],
+                "description": "Automatic response to requests for contact and archiving."
+            }
+        ]
+    }
+}

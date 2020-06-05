@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "extensions-store/geostores": [
+            {
+                "name": "extensions-store/geostores",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/GeoStores.git",
+                    "reference": "8830ecb1d87ed704fc3463601c882f97f9da1e5f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/GeoStores/zipball/8830ecb1d87ed704fc3463601c882f97f9da1e5f",
+                    "reference": "8830ecb1d87ed704fc3463601c882f97f9da1e5f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2016-03-01T14:22:57+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "davidt@extensions_store.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Reroute users to stores based on their geography: country, region/state, city.",
+                "homepage": "https://github.com/ExtensionsStore/GeoStores.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/GeoStores/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/GeoStores/issues"
+                }
+            }
+        ]
+    }
+}

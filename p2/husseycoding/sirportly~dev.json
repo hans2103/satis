@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "husseycoding/sirportly": [
+            {
+                "name": "husseycoding/sirportly",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/husseycoding/sirportly.git",
+                    "reference": "def94f707459247d38280c54fbe632cae2c0b3b8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/husseycoding/sirportly/zipball/def94f707459247d38280c54fbe632cae2c0b3b8",
+                    "reference": "def94f707459247d38280c54fbe632cae2c0b3b8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-18T17:57:54+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jonathan Hussey",
+                        "email": "hussey@husseycoding.co.uk"
+                    }
+                ],
+                "description": "Adds Sirportly ticketing to Magento.",
+                "homepage": "https://github.com/husseycoding/sirportly",
+                "support": {
+                    "source": "https://github.com/husseycoding/sirportly/tree/1.2.5",
+                    "issues": "https://github.com/husseycoding/sirportly/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/sku_auto_generator": [
+            {
+                "name": "connect20/SKU_Auto_Generator",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SKU_Auto_Generator/1.0.5/SKU_Auto_Generator-1.0.5.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Shilpa",
+                        "email": "magentoaccount@neevtech.com"
+                    }
+                ],
+                "description": "Automatically create SKUs for products that are manually added via admin or imported via CSV of XML files for admin. This is ideal for stores that do not have a fixed SKU coming in from external ERP systems or their suppliers. The extension works on both Enterprise and Community Editions."
+            },
+            {
+                "name": "connect20/SKU_Auto_Generator",
+                "version": "1.0.5.1",
+                "version_normalized": "1.0.5.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SKU_Auto_Generator/1.0.5.1/SKU_Auto_Generator-1.0.5.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Shilpa",
+                        "email": "magentoaccount@neevtech.com"
+                    }
+                ],
+                "description": "Automatically create SKUs for products that are manually added via admin or imported via CSV of XML files for admin. This is ideal for stores that do not have a fixed SKU coming in from external ERP systems or their suppliers. The extension works on both Enterprise and Community Editions."
+            }
+        ]
+    }
+}

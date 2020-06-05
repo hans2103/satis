@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/ewall_cartsummary": [
+            {
+                "name": "connect20/Ewall_Cartsummary",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ewall_Cartsummary/1.0.0/Ewall_Cartsummary-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Ewallsolutions",
+                        "email": "support@ewallsolutions.com"
+                    }
+                ],
+                "description": "Provide your customers with a quick and convenient way view the cart summary in checkout page."
+            },
+            {
+                "name": "connect20/Ewall_Cartsummary",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ewall_Cartsummary/1.0.1/Ewall_Cartsummary-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Ewallsolutions",
+                        "email": "support@ewallsolutions.com"
+                    }
+                ],
+                "description": "Provide your customers with a quick and convenient way to view the cart summary in checkout page."
+            }
+        ]
+    }
+}

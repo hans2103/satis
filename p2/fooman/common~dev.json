@@ -1,0 +1,74 @@
+{
+    "packages": {
+        "fooman/common": [
+            {
+                "name": "fooman/common",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/common.git",
+                    "reference": "c34fd7810d05de56f888c59939bbf1e869d3c8ff"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/fooman/common/zipball/c34fd7810d05de56f888c59939bbf1e869d3c8ff",
+                    "reference": "c34fd7810d05de56f888c59939bbf1e869d3c8ff",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-10-11T02:39:34+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/Common/",
+                            "app/code/community/Fooman/Common/"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/fooman_common.xml",
+                            "app/design/adminhtml/default/default/layout/fooman_common.xml"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/fooman/common/",
+                            "app/design/adminhtml/default/default/template/fooman/common/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_Common.xml",
+                            "app/etc/modules/Fooman_Common.xml"
+                        ],
+                        [
+                            "app/locale/de_DE/Fooman_Common.csv",
+                            "app/locale/de_DE/Fooman_Common.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Fooman_Common.csv",
+                            "app/locale/en_US/Fooman_Common.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Fooman_Common.csv",
+                            "app/locale/it_IT/Fooman_Common.csv"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Extension for Fooman common code.",
+                "homepage": "https://github.com/fooman/common",
+                "support": {
+                    "source": "https://github.com/fooman/common/tree/v1.2.13",
+                    "issues": "https://github.com/fooman/common/issues"
+                }
+            }
+        ]
+    }
+}

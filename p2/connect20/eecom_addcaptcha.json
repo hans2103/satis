@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/eecom_addcaptcha": [
+            {
+                "name": "connect20/Eecom_Addcaptcha",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Eecom_Addcaptcha/1.0.0/Eecom_Addcaptcha-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.5.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSLv3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Envision Ecommerce",
+                        "email": "magento@envisionecommerce.com"
+                    }
+                ],
+                "description": "Allow admin to add CAPTCHA on contact us page. "
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sendwithus_mail": [
+            {
+                "name": "connect20/Sendwithus_Mail",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Sendwithus_Mail/1.0.6/Sendwithus_Mail-1.0.6.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Matt Harris",
+                        "email": "matt@sendwithus.com"
+                    }
+                ],
+                "description": "Sendwithus for Magento"
+            }
+        ]
+    }
+}

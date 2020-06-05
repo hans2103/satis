@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/referboard_retailer": [
+            {
+                "name": "connect20/Referboard_Retailer",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Referboard_Retailer/1.0.3/Referboard_Retailer-1.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPLv2"
+                ],
+                "authors": [
+                    {
+                        "name": "Smion Li",
+                        "email": "it@referboard.com"
+                    }
+                ],
+                "description": "Referboard easily enables your audience to refer your products to their friends and followers."
+            }
+        ]
+    }
+}

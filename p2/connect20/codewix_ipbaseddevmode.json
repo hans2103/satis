@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/codewix_ipbaseddevmode": [
+            {
+                "name": "connect20/Codewix_IpBasedDevMode",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Codewix_IpBasedDevMode/0.1.0/Codewix_IpBasedDevMode-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Codewix",
+                        "email": "codewix@gmail.com"
+                    }
+                ],
+                "description": "This extension will allow to enable printing of exception errors for specific IP address."
+            },
+            {
+                "name": "connect20/Codewix_IpBasedDevMode",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Codewix_IpBasedDevMode/0.1.1/Codewix_IpBasedDevMode-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Codewix",
+                        "email": "codewix@gmail.com"
+                    }
+                ],
+                "description": "This extension will allow to enable printing of exception errors for specific IP address."
+            }
+        ]
+    }
+}

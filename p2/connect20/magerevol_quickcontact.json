@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "connect20/magerevol_quickcontact": [
+            {
+                "name": "connect20/Magerevol_Quickcontact",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Magerevol_Quickcontact/1.0.0/Magerevol_Quickcontact-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.5.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Magerevol Magento Extensions",
+                        "email": "support@magerevol.com"
+                    }
+                ],
+                "description": "Quickcontact is a CAPTCHA enabled contact form that you can embed anywhere in page."
+            },
+            {
+                "name": "connect20/Magerevol_Quickcontact",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Magerevol_Quickcontact/1.0.1/Magerevol_Quickcontact-1.0.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.5.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Magerevol Magento Extensions",
+                        "email": "support@magerevol.com"
+                    }
+                ],
+                "description": "Quickcontact is a CAPTCHA enabled contact form that you can embed anywhere in page."
+            }
+        ]
+    }
+}

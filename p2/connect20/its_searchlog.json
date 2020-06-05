@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/its_searchlog": [
+            {
+                "name": "connect20/Its_SearchLog",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Its_SearchLog/1.4.0/Its_SearchLog-1.4.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Dominic Wetherall",
+                        "email": "dominic_wetherall@itspecialists.uk.com"
+                    }
+                ],
+                "description": "The Search Log extension records the search query, quantity of items found  and customer ID for logged in customers."
+            }
+        ]
+    }
+}

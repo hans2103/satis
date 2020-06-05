@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "clockworkgeek/rememberme": [
+            {
+                "name": "clockworkgeek/rememberme",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/clockworkgeek/Magento-Remember-Me.git",
+                    "reference": "dac29c6717d84179e6f74a4f929155ddf3d45304"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/clockworkgeek/Magento-Remember-Me/zipball/dac29c6717d84179e6f74a4f929155ddf3d45304",
+                    "reference": "dac29c6717d84179e6f74a4f929155ddf3d45304",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-27T12:19:48+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Deady",
+                        "email": "daniel@clockworkgeek.com"
+                    }
+                ],
+                "description": "Adds a 'remember me' option to Magento login forms.",
+                "homepage": "https://github.com/clockworkgeek/Magento-Remember-Me",
+                "support": {
+                    "source": "https://github.com/clockworkgeek/Magento-Remember-Me/tree/0.5.2",
+                    "issues": "https://github.com/clockworkgeek/Magento-Remember-Me/issues"
+                }
+            }
+        ]
+    }
+}

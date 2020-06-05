@@ -1,0 +1,108 @@
+{
+    "packages": {
+        "smile/elasticsearch": [
+            {
+                "name": "smile/elasticsearch",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Smile-SA/smile-magento-elasticsearch.git",
+                    "reference": "9becbda82ad5674d458b3ca47b925de2692fbef7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Smile-SA/smile-magento-elasticsearch/zipball/9becbda82ad5674d458b3ca47b925de2692fbef7",
+                    "reference": "9becbda82ad5674d458b3ca47b925de2692fbef7",
+                    "shasum": ""
+                },
+                "time": "2016-07-12T05:40:18+00:00",
+                "type": "magento-module",
+                "license": [
+                    "tobedefined"
+                ],
+                "authors": [
+                    {
+                        "name": "Aurélien FOUCRET",
+                        "email": "aurelien.foucret@smile.fr"
+                    }
+                ],
+                "description": "Magento ElasticSearch Implementation",
+                "homepage": "https://github.com/Smile-SA/smile-magento-elasticsearch",
+                "support": {
+                    "source": "https://github.com/Smile-SA/smile-magento-elasticsearch/tree/master",
+                    "issues": "https://github.com/Smile-SA/smile-magento-elasticsearch/issues"
+                }
+            },
+            {
+                "name": "smile/elasticsearch",
+                "version": "dev-release_1.3",
+                "version_normalized": "dev-release_1.3",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Smile-SA/smile-magento-elasticsearch.git",
+                    "reference": "9becbda82ad5674d458b3ca47b925de2692fbef7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Smile-SA/smile-magento-elasticsearch/zipball/9becbda82ad5674d458b3ca47b925de2692fbef7",
+                    "reference": "9becbda82ad5674d458b3ca47b925de2692fbef7",
+                    "shasum": ""
+                },
+                "time": "2016-07-12T05:40:18+00:00",
+                "type": "magento-module",
+                "license": [
+                    "tobedefined"
+                ],
+                "authors": [
+                    {
+                        "name": "Aurélien FOUCRET",
+                        "email": "aurelien.foucret@smile.fr"
+                    }
+                ],
+                "description": "Magento ElasticSearch Implementation",
+                "homepage": "https://github.com/Smile-SA/smile-magento-elasticsearch",
+                "support": {
+                    "source": "https://github.com/Smile-SA/smile-magento-elasticsearch/tree/master",
+                    "issues": "https://github.com/Smile-SA/smile-magento-elasticsearch/issues"
+                }
+            },
+            {
+                "name": "smile/elasticsearch",
+                "version": "dev-release_1.4",
+                "version_normalized": "dev-release_1.4",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Smile-SA/smile-magento-elasticsearch.git",
+                    "reference": "a729d5d6423e23bedd1854b41b5b323042eae5af"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Smile-SA/smile-magento-elasticsearch/zipball/a729d5d6423e23bedd1854b41b5b323042eae5af",
+                    "reference": "a729d5d6423e23bedd1854b41b5b323042eae5af",
+                    "shasum": ""
+                },
+                "require": {
+                    "elasticsearch/elasticsearch": "~1.2.2"
+                },
+                "time": "2017-09-22T16:07:32+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Aurélien FOUCRET",
+                        "email": "aurelien.foucret@smile.fr"
+                    }
+                ],
+                "description": "Magento ElasticSearch Implementation",
+                "homepage": "https://github.com/Smile-SA/smile-magento-elasticsearch",
+                "support": {
+                    "source": "https://github.com/Smile-SA/smile-magento-elasticsearch/tree/release_1.4",
+                    "issues": "https://github.com/Smile-SA/smile-magento-elasticsearch/issues"
+                }
+            }
+        ]
+    }
+}

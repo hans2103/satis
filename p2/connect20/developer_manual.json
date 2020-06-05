@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/developer_manual": [
+            {
+                "name": "connect20/Developer_Manual",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Developer_Manual/1.1.1/Developer_Manual-1.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Alan Storm",
+                        "email": "astorm@alanstorm.com"
+                    }
+                ],
+                "description": "Provides navigation shortcuts for the admin console's navigation and gloal search"
+            },
+            {
+                "name": "connect20/Developer_Manual",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Developer_Manual/1.1.2/Developer_Manual-1.1.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Alan Storm",
+                        "email": "astorm@alanstorm.com"
+                    }
+                ],
+                "description": "Provides navigation shortcuts for the admin console's navigation and gloal search"
+            }
+        ]
+    }
+}

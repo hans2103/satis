@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "husseycoding/spamfilter": [
+            {
+                "name": "husseycoding/spamfilter",
+                "version": "v1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/husseycoding/spamfilter.git",
+                    "reference": "2d10246748a1361ce17e993fc535df6f727b5679"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/husseycoding/spamfilter/zipball/2d10246748a1361ce17e993fc535df6f727b5679",
+                    "reference": "2d10246748a1361ce17e993fc535df6f727b5679",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-08-26T07:44:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jonathan Hussey",
+                        "email": "hussey@husseycoding.co.uk"
+                    }
+                ],
+                "description": "Disable third party spam admin notifications but still be notified by Magento.",
+                "homepage": "https://github.com/husseycoding/spamfilter",
+                "support": {
+                    "source": "https://github.com/husseycoding/spamfilter/tree/v1.0.3",
+                    "issues": "https://github.com/husseycoding/spamfilter/issues"
+                }
+            }
+        ]
+    }
+}

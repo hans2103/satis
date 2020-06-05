@@ -1,0 +1,84 @@
+{
+    "packages": {
+        "connect20/ogone": [
+            {
+                "name": "connect20/Ogone",
+                "version": "15.06.08",
+                "version_normalized": "15.06.08.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ogone_ePayments/15.06.08/Ogone_ePayments-15.06.08.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Lühr",
+                        "email": "michael.luehr@netresearch.de"
+                    }
+                ],
+                "description": "Ingenico Payment services"
+            },
+            {
+                "name": "connect20/Ogone",
+                "version": "15.11.09",
+                "version_normalized": "15.11.09.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ogone_ePayments/15.11.09/Ogone_ePayments-15.11.09.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Lühr",
+                        "email": "michael.luehr@netresearch.de"
+                    }
+                ],
+                "description": "Ingenico Payment services"
+            },
+            {
+                "name": "connect20/Ogone",
+                "version": "16.04.13",
+                "version_normalized": "16.04.13.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ogone_ePayments/16.04.13/Ogone_ePayments-16.04.13.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Lühr",
+                        "email": "michael.luehr@netresearch.de"
+                    }
+                ],
+                "description": "Ingenico ePayments"
+            }
+        ]
+    }
+}

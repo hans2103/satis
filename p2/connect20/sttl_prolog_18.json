@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sttl_prolog_18": [
+            {
+                "name": "connect20/Sttl_Prolog_18",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Sttl_Prolog/0.1.1/Sttl_Prolog-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "STTL"
+                ],
+                "authors": [
+                    {
+                        "name": "Silvertouch",
+                        "email": "magento@silvertouch.com"
+                    }
+                ],
+                "description": "Synchronize your inventory and order data with Prolog logistic software"
+            }
+        ]
+    }
+}

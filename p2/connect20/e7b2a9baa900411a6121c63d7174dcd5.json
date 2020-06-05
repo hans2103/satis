@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/e7b2a9baa900411a6121c63d7174dcd5": [
+            {
+                "name": "connect20/e7b2a9baa900411a6121c63d7174dcd5",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/e7b2a9baa900411a6121c63d7174dcd5/0.1.0/e7b2a9baa900411a6121c63d7174dcd5-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Mediotype",
+                        "email": "joel@mediotype.com"
+                    }
+                ],
+                "description": "The Agile Grid Extension by Mediotype allows Magento admins to save custom made filters for all filterable Magento grids turning the Magento admin system in to an Agile and powerful reporting tool."
+            }
+        ]
+    }
+}

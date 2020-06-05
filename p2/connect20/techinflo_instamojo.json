@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/techinflo_instamojo": [
+            {
+                "name": "connect20/Techinflo_Instamojo",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Techinflo_Instamojo/1.0.0/Techinflo_Instamojo-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Techinflo",
+                        "email": "sampath@techinflo.com"
+                    }
+                ],
+                "description": "Techinflo Instamojo Payment gateway helps the magento customer to utilize the feature of making payments online using Debit/Credit Cards and also through Net banking as well."
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/vp_ordersku": [
+            {
+                "name": "connect20/Vp_Ordersku",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Vp_Ordersku/1.0.0/Vp_Ordersku-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "vpinfo",
+                        "email": "vpinfo39@gmail.com"
+                    }
+                ],
+                "description": "Extends order grid - add skus n products"
+            }
+        ]
+    }
+}

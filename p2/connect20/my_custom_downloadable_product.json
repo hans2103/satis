@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/my_custom_downloadable_product": [
+            {
+                "name": "connect20/My_Custom_Downloadable_Product",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/My_Custom_Downloadable_Product/1.0.0/My_Custom_Downloadable_Product-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "arabgento community",
+                        "email": "contact@arabgento.com"
+                    }
+                ],
+                "description": "manage and create custom downloadable product for your client (from info of client create the product)"
+            }
+        ]
+    }
+}

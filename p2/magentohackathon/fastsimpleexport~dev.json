@@ -1,0 +1,70 @@
+{
+    "packages": {
+        "magentohackathon/fastsimpleexport": [
+            {
+                "name": "MagentoHackathon/FastSimpleExport",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/FastSimpleExport.git",
+                    "reference": "96ed2419e7b532ed75e0a2677a9154f34f0c8252"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/FastSimpleExport/zipball/96ed2419e7b532ed75e0a2677a9154f34f0c8252",
+                    "reference": "96ed2419e7b532ed75e0a2677a9154f34f0c8252",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "time": "2014-10-25T19:37:17+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "nhp",
+                        "email": "nils.preuss@gmx.net"
+                    }
+                ],
+                "description": "Module for export to array structure",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/FastSimpleExport/tree/master",
+                    "issues": "https://github.com/magento-hackathon/FastSimpleExport/issues"
+                }
+            },
+            {
+                "name": "MagentoHackathon/FastSimpleExport",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/FastSimpleExport.git",
+                    "reference": "dd8ee8580327fd2aeee47d68a681b7b3956c5569"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/FastSimpleExport/zipball/dd8ee8580327fd2aeee47d68a681b7b3956c5569",
+                    "reference": "dd8ee8580327fd2aeee47d68a681b7b3956c5569",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "time": "2014-10-25T19:13:39+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "nhp",
+                        "email": "nils.preuss@gmx.net"
+                    }
+                ],
+                "description": "Module for export to array structure",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/FastSimpleExport/tree/develop",
+                    "issues": "https://github.com/magento-hackathon/FastSimpleExport/issues"
+                }
+            }
+        ]
+    }
+}

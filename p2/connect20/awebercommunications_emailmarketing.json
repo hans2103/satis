@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/awebercommunications_emailmarketing": [
+            {
+                "name": "connect20/AWeberCommunications_EmailMarketing",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/AWeberCommunications_EmailMarketing/1.0.3/AWeberCommunications_EmailMarketing-1.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Massachusetts-Institute-of-Technology-License-(MITL)"
+                ],
+                "authors": [
+                    {
+                        "name": "AWeber Communications, Inc",
+                        "email": "api@aweber.com"
+                    }
+                ],
+                "description": "Subscribe customers to your AWeber list when they purchase items from your store"
+            },
+            {
+                "name": "connect20/AWeberCommunications_EmailMarketing",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/AWeberCommunications_EmailMarketing/1.0.4/AWeberCommunications_EmailMarketing-1.0.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "BSD-3-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "AWeber Communications, Inc.",
+                        "email": "api@aweber.com"
+                    }
+                ],
+                "description": "Subscribe customers to your AWeber list when they purchase items from your store"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/samdoit_magetestimonials": [
+            {
+                "name": "connect20/Samdoit_Magetestimonials",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Samdoit_Magetestimonials/1.0.0/Samdoit_Magetestimonials-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Samdoit",
+                        "email": "arulmanickams@samdoit.com"
+                    }
+                ],
+                "description": "Ultimate Testimonials easy to create your testimonials  content and easy to access by admin user"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/mageboy_outofstocknotification": [
+            {
+                "name": "connect20/Mageboy_Outofstocknotification",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mageboy_Outofstocknotification/0.1.2/Mageboy_Outofstocknotification-0.1.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "krishna ijjada",
+                        "email": "krishnaijjada@outlook.com"
+                    }
+                ],
+                "description": "Extension allow customers to enter their Email Id and notifies them once the stock is back to “In Stock” ."
+            }
+        ]
+    }
+}

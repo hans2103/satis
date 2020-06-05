@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/mostviewed_products": [
+            {
+                "name": "connect20/Mostviewed_Products",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mostviewed_Products/1.0.0/Mostviewed_Products-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Capacity Web Solutions",
+                        "email": "magento@capacitywebsolutions.com"
+                    }
+                ],
+                "description": "This extension is for list most viewed products."
+            },
+            {
+                "name": "connect20/Mostviewed_Products",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mostviewed_Products/1.0.1/Mostviewed_Products-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Capacity Web Solutions",
+                        "email": "magento@capacitywebsolutions.com"
+                    }
+                ],
+                "description": "This extension is for list most viewed products."
+            }
+        ]
+    }
+}

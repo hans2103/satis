@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/faqaskquestions": [
+            {
+                "name": "connect20/faqaskquestions",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/faqaskquestions/1.0.0/faqaskquestions-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "DCKAP",
+                        "email": "extensions@dckap.com"
+                    }
+                ],
+                "description": "FAQ - Ask Questions used to manage the Frequently Asked Questions from magento back end and also user can ask their own questions from front end."
+            }
+        ]
+    }
+}

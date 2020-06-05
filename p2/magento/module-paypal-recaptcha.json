@@ -1,0 +1,62 @@
+{
+    "packages": {
+        "magento/module-paypal-recaptcha": [
+            {
+                "name": "magento/module-paypal-recaptcha",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-paypal-recaptcha/magento-module-paypal-recaptcha-1.0.0.0.zip",
+                    "shasum": "4afcb67941753a1ba2477982512c1178e286cd97"
+                },
+                "require": {
+                    "magento/module-paypal-captcha": "^100.0.0",
+                    "msp/recaptcha": "^2.0.2",
+                    "php": "^5.6|^7.0|^7.1|^7.2"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\PaypalReCaptcha\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Google reCaptcha integration for Magento2 PayPal PayflowPro payment form"
+            },
+            {
+                "name": "magento/module-paypal-recaptcha",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-paypal-recaptcha/magento-module-paypal-recaptcha-1.0.1.0.zip",
+                    "shasum": "810823235fa54cbe7be8d778ce61600cea402fa9"
+                },
+                "require": {
+                    "magento/module-paypal-captcha": "^100.0.0",
+                    "msp/recaptcha": "^2.0.2",
+                    "php": "^5.6|^7.0|^7.1|^7.2|^7.3"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\PaypalReCaptcha\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Google reCaptcha integration for Magento2 PayPal PayflowPro payment form"
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "packages": {
+        "sse/translationhints": [
+            {
+                "name": "sse/translationhints",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/schmengler/TranslationHints.git",
+                    "reference": "f2f1545dc7f4834d2a6f272ae509c3f4b07f62f3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/schmengler/TranslationHints/zipball/f2f1545dc7f4834d2a6f272ae509c3f4b07f62f3",
+                    "reference": "f2f1545dc7f4834d2a6f272ae509c3f4b07f62f3",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.4"
+                },
+                "time": "2016-07-11T11:16:20+00:00",
+                "type": "magento-module",
+                "license": [
+                    "osl-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabian Schmengler",
+                        "email": "fabian@schmengler-se.de"
+                    }
+                ],
+                "description": "Development tool: Add information to translated strings where they come from",
+                "homepage": "https://github.com/schmengler/TranslationHints",
+                "support": {
+                    "source": "https://github.com/schmengler/TranslationHints/tree/0.2.4",
+                    "issues": "https://github.com/schmengler/TranslationHints/issues"
+                }
+            },
+            {
+                "name": "sse/translationhints",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/schmengler/TranslationHints.git",
+                    "reference": "f2f1545dc7f4834d2a6f272ae509c3f4b07f62f3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/schmengler/TranslationHints/zipball/f2f1545dc7f4834d2a6f272ae509c3f4b07f62f3",
+                    "reference": "f2f1545dc7f4834d2a6f272ae509c3f4b07f62f3",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.4"
+                },
+                "time": "2016-07-11T11:16:20+00:00",
+                "type": "magento-module",
+                "license": [
+                    "osl-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabian Schmengler",
+                        "email": "fabian@schmengler-se.de"
+                    }
+                ],
+                "description": "Development tool: Add information to translated strings where they come from",
+                "homepage": "https://github.com/schmengler/TranslationHints",
+                "support": {
+                    "source": "https://github.com/schmengler/TranslationHints/tree/0.2.4",
+                    "issues": "https://github.com/schmengler/TranslationHints/issues"
+                }
+            }
+        ]
+    }
+}

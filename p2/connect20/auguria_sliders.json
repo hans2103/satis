@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/auguria_sliders": [
+            {
+                "name": "connect20/Auguria_Sliders",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Auguria_Sliders/1.0.0/Auguria_Sliders-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Auguria",
+                        "email": "magento@auguria.net"
+                    }
+                ],
+                "description": "Auguria_Sliders"
+            },
+            {
+                "name": "connect20/Auguria_Sliders",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Auguria_Sliders/1.1.1/Auguria_Sliders-1.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Auguria",
+                        "email": "magento@auguria.net"
+                    }
+                ],
+                "description": "Auguria_Slider"
+            }
+        ]
+    }
+}

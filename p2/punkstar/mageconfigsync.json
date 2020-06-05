@@ -1,0 +1,225 @@
+{
+    "packages": {
+        "punkstar/mageconfigsync": [
+            {
+                "name": "punkstar/mageconfigsync",
+                "version": "0.3.0-beta",
+                "version_normalized": "0.3.0.0-beta",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/punkstar/mageconfigsync.git",
+                    "reference": "3563b4b438864d18def5532d2e98e671b40561f8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/punkstar/mageconfigsync/zipball/3563b4b438864d18def5532d2e98e671b40561f8",
+                    "reference": "3563b4b438864d18def5532d2e98e671b40561f8",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.0",
+                    "symfony/console": "v2.3.4",
+                    "symfony/yaml": "v2.3.4"
+                },
+                "require-dev": {
+                    "ecomdev/mage-ci": "master@dev",
+                    "phpunit/phpunit": "3.7.*"
+                },
+                "time": "2013-09-12T08:14:53+00:00",
+                "bin": [
+                    "bin/mageconfigsync"
+                ],
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "MageConfigSync\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Nick Jones",
+                        "email": "nick@nicksays.co.uk",
+                        "homepage": "http://www.nicksays.co.uk",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "A utility to aid the storing of Magento configuration in version control.",
+                "keywords": [
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/punkstar/mageconfigsync/tree/0.3.0-beta",
+                    "issues": "https://github.com/punkstar/mageconfigsync/issues"
+                }
+            },
+            {
+                "name": "punkstar/mageconfigsync",
+                "version": "0.3.1",
+                "version_normalized": "0.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/punkstar/mageconfigsync.git",
+                    "reference": "e01d797b7d157575c6e631af95b79c7587399c7f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/punkstar/mageconfigsync/zipball/e01d797b7d157575c6e631af95b79c7587399c7f",
+                    "reference": "e01d797b7d157575c6e631af95b79c7587399c7f",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.0",
+                    "symfony/console": "*",
+                    "symfony/yaml": "*"
+                },
+                "require-dev": {
+                    "clue/phar-composer": "dev-master",
+                    "ecomdev/mage-ci": "master@dev",
+                    "phpunit/phpunit": "3.7.*"
+                },
+                "time": "2015-02-12T13:37:54+00:00",
+                "bin": [
+                    "bin/mageconfigsync"
+                ],
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "MageConfigSync\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Nick Jones",
+                        "email": "nick@nicksays.co.uk",
+                        "homepage": "http://www.nicksays.co.uk",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "A utility to aid the storing of Magento configuration in version control.",
+                "keywords": [
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/punkstar/mageconfigsync/tree/0.3.1",
+                    "issues": "https://github.com/punkstar/mageconfigsync/issues"
+                }
+            },
+            {
+                "name": "punkstar/mageconfigsync",
+                "version": "0.4.0",
+                "version_normalized": "0.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/punkstar/mageconfigsync.git",
+                    "reference": "f1ef312c3c68d5bd4b4d8a30b895e9373a4138d2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/punkstar/mageconfigsync/zipball/f1ef312c3c68d5bd4b4d8a30b895e9373a4138d2",
+                    "reference": "f1ef312c3c68d5bd4b4d8a30b895e9373a4138d2",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.0",
+                    "symfony/console": "*",
+                    "symfony/yaml": "*"
+                },
+                "require-dev": {
+                    "clue/phar-composer": "dev-master",
+                    "ecomdev/mage-ci": "master@dev",
+                    "phpunit/phpunit": "3.7.*"
+                },
+                "time": "2015-09-22T11:05:46+00:00",
+                "bin": [
+                    "bin/mageconfigsync"
+                ],
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "MageConfigSync\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Nick Jones",
+                        "email": "nick@nicksays.co.uk",
+                        "homepage": "http://www.nicksays.co.uk",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "A utility to aid the storing of Magento configuration in version control.",
+                "keywords": [
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/punkstar/mageconfigsync/tree/0.4.0",
+                    "issues": "https://github.com/punkstar/mageconfigsync/issues"
+                }
+            },
+            {
+                "name": "punkstar/mageconfigsync",
+                "version": "0.5.0-beta.1",
+                "version_normalized": "0.5.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/punkstar/mageconfigsync.git",
+                    "reference": "97ce78787537f3c5cbeafbc39b533da71f0ff50e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/punkstar/mageconfigsync/zipball/97ce78787537f3c5cbeafbc39b533da71f0ff50e",
+                    "reference": "97ce78787537f3c5cbeafbc39b533da71f0ff50e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.0",
+                    "symfony/console": "^2.6.4",
+                    "symfony/yaml": "^2.6.4"
+                },
+                "require-dev": {
+                    "clue/phar-composer": "dev-master",
+                    "firegento/mage-ci": "dev-master",
+                    "phpunit/phpunit": "3.7.*"
+                },
+                "time": "2016-09-15T15:51:51+00:00",
+                "bin": [
+                    "bin/mageconfigsync"
+                ],
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "MageConfigSync\\": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Nick Jones",
+                        "email": "nick@nicksays.co.uk",
+                        "homepage": "http://www.nicksays.co.uk",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "A utility to aid the storing of Magento configuration in version control.",
+                "keywords": [
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/punkstar/mageconfigsync/tree/0.5.0-beta.1",
+                    "issues": "https://github.com/punkstar/mageconfigsync/issues"
+                }
+            }
+        ]
+    }
+}

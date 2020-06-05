@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/vbulletin_integration_lite": [
+            {
+                "name": "connect20/vBulletin_Integration_Lite",
+                "version": "0.3.11",
+                "version_normalized": "0.3.11.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/vBulletin_Integration_Lite/0.3.11/vBulletin_Integration_Lite-0.3.11.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "AITOC Inc.",
+                        "email": "magsupport@aitoc.com"
+                    }
+                ],
+                "description": "vBulletin Integration Lite"
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "vinaikopp/api2sessionauthadapter": [
+            {
+                "name": "vinaikopp/api2sessionauthadapter",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Vinai/VinaiKopp_Api2SessionAuthAdapter.git",
+                    "reference": "619afc61c14a581a113cff4a833775cca2d53bed"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Vinai/VinaiKopp_Api2SessionAuthAdapter/zipball/619afc61c14a581a113cff4a833775cca2d53bed",
+                    "reference": "619afc61c14a581a113cff4a833775cca2d53bed",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-03-13T09:56:30+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Session Auth Adapter for Magento REST Interaction from the same host.",
+                "homepage": "https://github.com/Vinai/VinaiKopp_Api2SessionAuthAdapter",
+                "support": {
+                    "source": "https://github.com/Vinai/VinaiKopp_Api2SessionAuthAdapter/tree/master",
+                    "issues": "https://github.com/Vinai/VinaiKopp_Api2SessionAuthAdapter/issues"
+                }
+            }
+        ]
+    }
+}

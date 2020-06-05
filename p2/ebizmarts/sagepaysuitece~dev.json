@@ -1,0 +1,111 @@
+{
+    "packages": {
+        "ebizmarts/sagepaysuitece": [
+            {
+                "name": "ebizmarts/sagepaysuitece",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ebizmarts/sage-pay-suite-ce.git",
+                    "reference": "3ac475da3a8595558ee76db79e822cc135111338"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ebizmarts/sage-pay-suite-ce/zipball/3ac475da3a8595558ee76db79e822cc135111338",
+                    "reference": "3ac475da3a8595558ee76db79e822cc135111338",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-02-08T18:26:43+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "ebizmarts",
+                        "email": "info@ebizmarts.com"
+                    }
+                ],
+                "description": "SagePay OFFICIAL extension by ebizmarts. Integrates Protocol v3 Direct, Server inFrame, Form & Token",
+                "homepage": "http://www.magentocommerce.com/magento-connect/ebizmarts-sage-pay-suite-ce-europe-free-sagepay-official-extension.html",
+                "support": {
+                    "source": "https://github.com/ebizmarts/sage-pay-suite-ce/tree/3.6.6"
+                }
+            },
+            {
+                "name": "ebizmarts/sagepaysuitece",
+                "version": "dev-development",
+                "version_normalized": "dev-development",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ebizmarts/sage-pay-suite-ce.git",
+                    "reference": "d2e806a836f7bf84a6e99e4f74966f753a472478"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ebizmarts/sage-pay-suite-ce/zipball/d2e806a836f7bf84a6e99e4f74966f753a472478",
+                    "reference": "d2e806a836f7bf84a6e99e4f74966f753a472478",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-02-08T18:25:29+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "ebizmarts",
+                        "email": "info@ebizmarts.com"
+                    }
+                ],
+                "description": "SagePay OFFICIAL extension by ebizmarts. Integrates Protocol v3 Direct, Server inFrame, Form & Token",
+                "homepage": "http://www.magentocommerce.com/magento-connect/ebizmarts-sage-pay-suite-ce-europe-free-sagepay-official-extension.html",
+                "support": {
+                    "source": "https://github.com/ebizmarts/sage-pay-suite-ce/tree/development"
+                }
+            },
+            {
+                "name": "ebizmarts/sagepaysuitece",
+                "version": "dev-issue27",
+                "version_normalized": "dev-issue27",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ebizmarts/sage-pay-suite-ce.git",
+                    "reference": "c4eedd8fd721651762afe4f627b3ce42c4e28bdf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ebizmarts/sage-pay-suite-ce/zipball/c4eedd8fd721651762afe4f627b3ce42c4e28bdf",
+                    "reference": "c4eedd8fd721651762afe4f627b3ce42c4e28bdf",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-01-05T18:39:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "ebizmarts",
+                        "email": "info@ebizmarts.com"
+                    }
+                ],
+                "description": "SagePay OFFICIAL extension by ebizmarts. Integrates Protocol v3 Direct, Server inFrame, Form & Token",
+                "homepage": "http://www.magentocommerce.com/magento-connect/ebizmarts-sage-pay-suite-ce-europe-free-sagepay-official-extension.html",
+                "support": {
+                    "source": "https://github.com/ebizmarts/sage-pay-suite-ce/tree/issue27"
+                }
+            }
+        ]
+    }
+}

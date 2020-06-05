@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/brainacts_restrictcheckout": [
+            {
+                "name": "connect20/BrainActs_RestrictCheckout",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/BrainActs_RestrictCheckout/1.0.0/BrainActs_RestrictCheckout-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "osm"
+                ],
+                "authors": [
+                    {
+                        "name": "Aleksandr Tykhnov",
+                        "email": "tihonov.sania@gmail.com"
+                    }
+                ],
+                "description": "Hides add to cart and checkout button using simple rules."
+            }
+        ]
+    }
+}

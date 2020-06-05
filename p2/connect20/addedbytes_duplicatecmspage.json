@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/addedbytes_duplicatecmspage": [
+            {
+                "name": "connect20/Addedbytes_Duplicatecmspage",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Addedbytes_Duplicatecmspage/0.1.0/Addedbytes_Duplicatecmspage-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "AddedBytes",
+                        "email": "dave@addedbytes.com"
+                    }
+                ],
+                "description": "Adds a button to your CMS to enable quick duplication of CMS pages. Ideal for copying pages between websites!"
+            },
+            {
+                "name": "connect20/Addedbytes_Duplicatecmspage",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Addedbytes_Duplicatecmspage/0.1.1/Addedbytes_Duplicatecmspage-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "AddedBytes",
+                        "email": "dave@addedbytes.com"
+                    }
+                ],
+                "description": "Adds buttons to your CMS to enable quick duplication of CMS pages and static blocks. Ideal for copying pages or blocks between websites!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/meanbee_statistics": [
+            {
+                "name": "connect20/Meanbee_Statistics",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Meanbee_Statistics/1.0/Meanbee_Statistics-1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(\"OSL\")-v.-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Nick Jones",
+                        "email": "nick.jones@meanbee.com"
+                    }
+                ],
+                "description": "Collect arbitrary, module developer defined, usage statistics from Magento installations worldwide."
+            }
+        ]
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "packages": {
+        "magento/updater": [
+            {
+                "name": "magento/updater",
+                "version": "10.0.0",
+                "version_normalized": "10.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/updater/magento-updater-10.0.0.0.zip",
+                    "shasum": "a0883b8e5e7e2d8e44ebe33318acdf60b9c5c703"
+                },
+                "require": {
+                    "composer/composer": "1.0.0-beta1",
+                    "magento/composer": "~1.0.0",
+                    "php": "~5.5.0|~5.6.0|~7.0.0",
+                    "symfony/console": "~2.3 <2.7"
+                },
+                "type": "project",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\": "app/code/Magento/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento Updater"
+            },
+            {
+                "name": "magento/updater",
+                "version": "10.0.1",
+                "version_normalized": "10.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/updater/magento-updater-10.0.1.0.zip",
+                    "shasum": "bf9ec740fbd1774ecf5a083f4ff219954660d36a"
+                },
+                "require": {
+                    "composer/composer": "1.0.0-beta1",
+                    "magento/composer": "~1.0.0",
+                    "monolog/monolog": "1.16.0",
+                    "php": "~5.5.0|~5.6.0|~7.0.0",
+                    "psr/log": "~1.0",
+                    "symfony/console": "~2.3 <2.7"
+                },
+                "type": "project",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\": "app/code/Magento/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento Updater"
+            },
+            {
+                "name": "magento/updater",
+                "version": "10.0.2",
+                "version_normalized": "10.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/updater/magento-updater-10.0.2.0.zip",
+                    "shasum": "bea25a11e14c0439f262f38277dfa83dbb6e4052"
+                },
+                "require": {
+                    "composer/composer": "1.0.0-beta1",
+                    "magento/composer": "~1.0.0",
+                    "monolog/monolog": "1.16.0",
+                    "php": "~5.5.0|~5.6.0|~7.0.0",
+                    "psr/log": "~1.0",
+                    "symfony/console": "~2.3 <2.7"
+                },
+                "type": "project",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\": "app/code/Magento/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento Updater"
+            },
+            {
+                "name": "magento/updater",
+                "version": "10.0.3",
+                "version_normalized": "10.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/updater/magento-updater-10.0.3.0.zip",
+                    "shasum": "ed2d2e14aca915aac4838339902b607d5893c939"
+                },
+                "require": {
+                    "composer/composer": "1.0.0-beta1",
+                    "magento/composer": "~1.0.0",
+                    "monolog/monolog": "1.16.0",
+                    "php": "~5.5.0|~5.6.0|~7.0.0",
+                    "psr/log": "~1.0",
+                    "symfony/console": "~2.3 <2.7"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.0"
+                },
+                "type": "project",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\": "app/code/Magento/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento Updater"
+            },
+            {
+                "name": "magento/updater",
+                "version": "10.0.4",
+                "version_normalized": "10.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/updater/magento-updater-10.0.4.0.zip",
+                    "shasum": "c896257c42b506c4ddd4451961de2318e08a325e"
+                },
+                "require": {
+                    "composer/composer": "1.0.0-beta1",
+                    "magento/composer": "~1.0.0",
+                    "monolog/monolog": "1.16.0",
+                    "php": "~5.5.0|~5.6.0|~7.0.0",
+                    "psr/log": "~1.0",
+                    "symfony/console": "~2.3 <2.7"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.0"
+                },
+                "type": "project",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\": "app/code/Magento/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento Updater"
+            },
+            {
+                "name": "magento/updater",
+                "version": "10.0.5",
+                "version_normalized": "10.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/updater/magento-updater-10.0.5.0.zip",
+                    "shasum": "6e3c3dc86f07832399dac16ab71e58280a249553"
+                },
+                "require": {
+                    "composer/composer": "1.4.1",
+                    "magento/composer": "~1.2.0",
+                    "monolog/monolog": "1.16.0",
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0",
+                    "psr/log": "~1.0",
+                    "symfony/console": "~2.3 !=2.7.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.0"
+                },
+                "type": "project",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\": "app/code/Magento/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento Updater"
+            },
+            {
+                "name": "magento/updater",
+                "version": "10.0.6",
+                "version_normalized": "10.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/updater/magento-updater-10.0.6.0.zip",
+                    "shasum": "2b4c2a351e508c5e45586f0e0efa244fc0f3a0f5"
+                },
+                "require": {
+                    "composer/composer": "1.4.1",
+                    "magento/composer": "~1.2.0",
+                    "monolog/monolog": "1.16.0",
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0",
+                    "psr/log": "~1.0",
+                    "symfony/console": "~2.3 !=2.7.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.1.0"
+                },
+                "type": "project",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\": "app/code/Magento/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento Updater"
+            },
+            {
+                "name": "magento/updater",
+                "version": "10.1.0",
+                "version_normalized": "10.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/updater/magento-updater-10.1.0.0.zip",
+                    "shasum": "e067cef5719a22cc9e9b52f67e45ebdd45d02096"
+                },
+                "require": {
+                    "composer/composer": "^1.6",
+                    "magento/composer": "~1.3.0",
+                    "monolog/monolog": "^1.17",
+                    "php": "~7.1.3||~7.2.0",
+                    "psr/log": "~1.0",
+                    "symfony/console": "~4.0.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~7.0.0"
+                },
+                "type": "project",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\": "app/code/Magento/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento Updater"
+            }
+        ]
+    }
+}

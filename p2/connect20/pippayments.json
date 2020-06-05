@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/pippayments": [
+            {
+                "name": "connect20/PiPPayments",
+                "version": "0.1.0.3",
+                "version_normalized": "0.1.0.3",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/PiPPayments/0.1.0.3/PiPPayments-0.1.0.3.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.9.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "PiPPayments",
+                        "email": "julian.callaghan@pippayments.com"
+                    }
+                ],
+                "description": "Now you can accept cash payments for sales on your website. No cards or accounts required. Customers simply order online and pay offline."
+            }
+        ]
+    }
+}

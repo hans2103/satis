@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/catalogfilters": [
+            {
+                "name": "connect20/catalogfilters",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/catalogfilters/0.1.0/catalogfilters-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "ab",
+                        "email": "sahi.abubakar@gmail.com"
+                    }
+                ],
+                "description": "catalogfilters"
+            }
+        ]
+    }
+}

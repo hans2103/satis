@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/tavishinfo_customer": [
+            {
+                "name": "connect20/TavishInfo_Customer",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/TavishInfo_Customer/0.1.0/TavishInfo_Customer-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "MagentoModules",
+                        "email": "magentomodules.in@gmail.com"
+                    }
+                ],
+                "description": "Customer login Redirect"
+            }
+        ]
+    }
+}

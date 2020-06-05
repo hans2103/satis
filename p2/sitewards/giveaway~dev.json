@@ -1,0 +1,36 @@
+{
+    "packages": {
+        "sitewards/giveaway": [
+            {
+                "name": "sitewards/giveaway",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/sitewards/Giveaway.git",
+                    "reference": "b40c39a4e64473e38446127d7aa5bc0136f00516"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/sitewards/Giveaway/zipball/b40c39a4e64473e38446127d7aa5bc0136f00516",
+                    "reference": "b40c39a4e64473e38446127d7aa5bc0136f00516",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-10-29T17:16:08+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "This extension provides functionality for handling giveaway products in the shop",
+                "homepage": "http://www.sitewards.com",
+                "support": {
+                    "source": "https://github.com/sitewards/Giveaway/tree/master",
+                    "issues": "https://github.com/sitewards/Giveaway/issues"
+                }
+            }
+        ]
+    }
+}

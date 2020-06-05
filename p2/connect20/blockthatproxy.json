@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/blockthatproxy": [
+            {
+                "name": "connect20/BlockThatProxy",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/BlockThatProxy/2.1.0/BlockThatProxy-2.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Martin Wickings",
+                        "email": "martin@wickings.dk"
+                    }
+                ],
+                "description": "This extension integrates the fraud- and proxy detection service from BlockThatProxy.com"
+            }
+        ]
+    }
+}

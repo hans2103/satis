@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/dropfin_faq": [
+            {
+                "name": "connect20/Dropfin_Faq",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Dropfin_Faq/1.0.0/Dropfin_Faq-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Dropfin",
+                        "email": "t.balamani88@gmail.com"
+                    }
+                ],
+                "description": "FAQ Extension"
+            },
+            {
+                "name": "connect20/Dropfin_Faq",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Dropfin_Faq/1.0.1/Dropfin_Faq-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Dropfin",
+                        "email": "t.balamani88@gmail.com"
+                    }
+                ],
+                "description": "FAQ Extension"
+            }
+        ]
+    }
+}

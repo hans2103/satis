@@ -1,0 +1,38 @@
+{
+    "packages": {
+        "bitbull/google_analytics_checkout_funnel": [
+            {
+                "name": "bitbull/google_analytics_checkout_funnel",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bitbull-team/google-analytics-checkout-funnel.git",
+                    "reference": "5910613cbb4334de6cefd6bfed7c209259b81adb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bitbull-team/google-analytics-checkout-funnel/zipball/5910613cbb4334de6cefd6bfed7c209259b81adb",
+                    "reference": "5910613cbb4334de6cefd6bfed7c209259b81adb",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-10T12:13:08+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Gennaro Vietri",
+                        "email": "gennaro.vietri@bitbull.it"
+                    }
+                ],
+                "description": "Add your description here",
+                "support": {
+                    "source": "https://github.com/bitbull-team/google-analytics-checkout-funnel/tree/master",
+                    "issues": "https://github.com/bitbull-team/google-analytics-checkout-funnel/issues"
+                }
+            }
+        ]
+    }
+}

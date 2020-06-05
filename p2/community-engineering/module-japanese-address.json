@@ -1,0 +1,52 @@
+{
+    "packages": {
+        "community-engineering/module-japanese-address": [
+            {
+                "name": "community-engineering/module-japanese-address",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/community-engineering/module-japanese-address/community-engineering-module-japanese-address-1.0.0.0.zip",
+                    "shasum": "37568e9239f8e31c7b3d71b5dcb53ceab15811c8"
+                },
+                "require": {
+                    "magento/framework": "^102.0.0",
+                    "magento/module-checkout": "^100.3.0",
+                    "magento/module-customer": "^102.0.0",
+                    "magento/module-eav": "^102.0.0",
+                    "magento/module-reports": "^100.3.0",
+                    "magento/module-sales": "^102.0.0",
+                    "magento/module-ui": "^101.1.0",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "community-engineering/module-japanese-name": "1.0.*",
+                    "community-engineering/module-japanese-region": "1.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "CommunityEngineering\\JapaneseAddress\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Hirokazu Nishi",
+                        "email": "nishi@veriteworks.co.jp",
+                        "homepage": "https://veriteworks.co.jp/",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Magento2 extension for proper Japanese Addresses format."
+            }
+        ]
+    }
+}

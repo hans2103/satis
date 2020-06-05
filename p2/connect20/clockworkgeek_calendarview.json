@@ -1,0 +1,77 @@
+{
+    "packages": {
+        "connect20/clockworkgeek_calendarview": [
+            {
+                "name": "connect20/Clockworkgeek_CalendarView",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Clockworkgeek_CalendarView/1.4.0/Clockworkgeek_CalendarView-1.4.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Clockworkgeek",
+                        "email": "nonproffessional@clockworkgeek.com"
+                    }
+                ],
+                "description": "Replace date picker with CalendarView"
+            },
+            {
+                "name": "connect20/Clockworkgeek_CalendarView",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Clockworkgeek_CalendarView/1.4.1/Clockworkgeek_CalendarView-1.4.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "authors": [
+                    {
+                        "name": "",
+                        "email": ""
+                    }
+                ]
+            },
+            {
+                "name": "connect20/Clockworkgeek_CalendarView",
+                "version": "1.4.3",
+                "version_normalized": "1.4.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Clockworkgeek_CalendarView/1.4.3/Clockworkgeek_CalendarView-1.4.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "authors": [
+                    {
+                        "name": "Daniel Deady",
+                        "email": "daniel@clockworkgeek.com"
+                    }
+                ],
+                "description": "Replace the default date picker with a modern, lightweight alternative."
+            }
+        ]
+    }
+}

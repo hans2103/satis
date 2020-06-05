@@ -1,0 +1,79 @@
+{
+    "packages": {
+        "logicspot/imageload": [
+            {
+                "name": "logicspot/imageload",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LogicSpot/Magento_ImageLoad.git",
+                    "reference": "2573af740c9c41c3d97b47a9c0b6c6d4d8fe4290"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LogicSpot/Magento_ImageLoad/zipball/2573af740c9c41c3d97b47a9c0b6c6d4d8fe4290",
+                    "reference": "2573af740c9c41c3d97b47a9c0b6c6d4d8fe4290",
+                    "shasum": ""
+                },
+                "require": {
+                    "logicspot/core": "*"
+                },
+                "time": "2016-05-20T08:43:06+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "LogicSpot",
+                        "email": "support@logicspot.com"
+                    }
+                ],
+                "description": "Simple module for lazy loading different image after hover on product lists",
+                "homepage": "http://logicspot.com",
+                "support": {
+                    "source": "https://github.com/LogicSpot/Magento_ImageLoad/tree/2.2.0",
+                    "issues": "https://github.com/LogicSpot/Magento_ImageLoad/issues"
+                }
+            },
+            {
+                "name": "logicspot/imageload",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LogicSpot/Magento_ImageLoad.git",
+                    "reference": "549d1f3d188e30fccfd445881051685beeb319aa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LogicSpot/Magento_ImageLoad/zipball/549d1f3d188e30fccfd445881051685beeb319aa",
+                    "reference": "549d1f3d188e30fccfd445881051685beeb319aa",
+                    "shasum": ""
+                },
+                "require": {
+                    "logicspot/core": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-11-10T17:05:37+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "LogicSpot",
+                        "email": "support@logicspot.com"
+                    }
+                ],
+                "description": "Simple module for lazy loading different image after hover on product lists",
+                "homepage": "http://logicspot.com",
+                "support": {
+                    "source": "https://github.com/LogicSpot/Magento_ImageLoad/tree/3.0.0",
+                    "issues": "https://github.com/LogicSpot/Magento_ImageLoad/issues"
+                }
+            }
+        ]
+    }
+}

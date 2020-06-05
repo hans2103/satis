@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "kutybait/magento-paczkawruchu": [
+            {
+                "name": "kutybait/magento-paczkawruchu",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mkutyba/magento-paczka-w-ruchu.git",
+                    "reference": "3be4b9583b0762f37b3d9299d1d25d50b0bf546e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mkutyba/magento-paczka-w-ruchu/zipball/3be4b9583b0762f37b3d9299d1d25d50b0bf546e",
+                    "reference": "3be4b9583b0762f37b3d9299d1d25d50b0bf546e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-08-21T11:09:58+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Mateusz Kutyba",
+                        "email": "mateusz@kutyba.it"
+                    }
+                ],
+                "description": "Paczka w RUCHu - shipping method",
+                "homepage": "https://github.com/mkutyba/magento-paczka-w-ruchu",
+                "support": {
+                    "source": "https://github.com/mkutyba/magento-paczka-w-ruchu/tree/0.2.1",
+                    "issues": "https://github.com/mkutyba/magento-paczka-w-ruchu/issues"
+                }
+            }
+        ]
+    }
+}

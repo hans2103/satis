@@ -1,0 +1,31 @@
+{
+    "packages": {
+        "connect20/proxiblue-newrelic": [
+            {
+                "name": "connect20/proxiblue-newrelic",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/proxiblue-newrelic/1.0.0/proxiblue-newrelic-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Custom-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Lucas van Staden",
+                        "email": "sales@proxiblue.com.au"
+                    }
+                ]
+            }
+        ]
+    }
+}

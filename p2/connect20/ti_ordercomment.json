@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/ti_ordercomment": [
+            {
+                "name": "connect20/Ti_OrderComment",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ti_OrderComment/1.1.0/Ti_OrderComment-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Ti",
+                        "email": "info@titechnologies.in"
+                    }
+                ],
+                "description": "Order comment module for magento"
+            },
+            {
+                "name": "connect20/Ti_OrderComment",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ti_OrderComment/1.1.2/Ti_OrderComment-1.1.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Ti",
+                        "email": "magento@titechnologies.in"
+                    }
+                ],
+                "description": "Order comment module for magento"
+            }
+        ]
+    }
+}

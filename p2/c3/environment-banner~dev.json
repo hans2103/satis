@@ -1,0 +1,76 @@
+{
+    "packages": {
+        "c3/environment-banner": [
+            {
+                "name": "c3/environment-banner",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/c3limited/magento-environment-banner.git",
+                    "reference": "02cce43cf6e7d3915c3bc1be3fabbbf3b195bfd6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/c3limited/magento-environment-banner/zipball/02cce43cf6e7d3915c3bc1be3fabbbf3b195bfd6",
+                    "reference": "02cce43cf6e7d3915c3bc1be3fabbbf3b195bfd6",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-04-18T11:48:19+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "test/deploy/"
+                },
+                "authors": [
+                    {
+                        "name": "C3 development",
+                        "email": "dev@c3media.co.uk"
+                    }
+                ],
+                "description": "Banners for front-end and admin to make it immediately clear which environment we are in",
+                "support": {
+                    "source": "https://github.com/c3limited/magento-environment-banner/tree/master",
+                    "issues": "https://github.com/c3limited/magento-environment-banner/issues"
+                }
+            },
+            {
+                "name": "c3/environment-banner",
+                "version": "dev-feature/CMB-frontend_border",
+                "version_normalized": "dev-feature/CMB-frontend_border",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/c3limited/magento-environment-banner.git",
+                    "reference": "569a790a382fc518bd10ef4b01acb80d80408787"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/c3limited/magento-environment-banner/zipball/569a790a382fc518bd10ef4b01acb80d80408787",
+                    "reference": "569a790a382fc518bd10ef4b01acb80d80408787",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-06-02T15:13:29+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "test/deploy/"
+                },
+                "authors": [
+                    {
+                        "name": "C3 development",
+                        "email": "dev@c3media.co.uk"
+                    }
+                ],
+                "description": "Banners for front-end and admin to make it immediately clear which environment we are in",
+                "support": {
+                    "source": "https://github.com/c3limited/magento-environment-banner/tree/feature/CMB-frontend_border",
+                    "issues": "https://github.com/c3limited/magento-environment-banner/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "saferpay/ecommerce": [
+            {
+                "name": "saferpay/ecommerce",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/openstream/SaferpayEcommerce.git",
+                    "reference": "eeb18b7ee42eb359e5f7e5da91794a82d55c676c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/openstream/SaferpayEcommerce/zipball/eeb18b7ee42eb359e5f7e5da91794a82d55c676c",
+                    "reference": "eeb18b7ee42eb359e5f7e5da91794a82d55c676c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-04-04T21:36:09+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Tim Bezhashvyly",
+                        "email": "tim@openstream.ch"
+                    }
+                ],
+                "description": "Saferpay E-Commerce payment extension for Magento",
+                "homepage": "https://github.com/openstream/SaferpayEcommerce",
+                "support": {
+                    "source": "https://github.com/openstream/SaferpayEcommerce/tree/master",
+                    "issues": "https://github.com/openstream/SaferpayEcommerce/issues"
+                }
+            }
+        ]
+    }
+}

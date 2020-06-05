@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/magebees_featured_products": [
+            {
+                "name": "connect20/MageBees_Featured_Products",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MageBees_Featured_Products/1.0.0/MageBees_Featured_Products-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Capacity Web Solutions",
+                        "email": "magento@capacitywebsolutions.com"
+                    }
+                ],
+                "description": "This extension is display featured products."
+            }
+        ]
+    }
+}

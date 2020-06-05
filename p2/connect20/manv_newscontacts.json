@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/manv_newscontacts": [
+            {
+                "name": "connect20/Manv_Newscontacts",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Manv_Newscontacts/1.0.0.1/Manv_Newscontacts-1.0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Manvendra Sharma",
+                        "email": "sharmamanvendra6@gmail.com"
+                    }
+                ],
+                "description": "Newsleter with contact us added a check box on contact us page .\r\n"
+            }
+        ]
+    }
+}

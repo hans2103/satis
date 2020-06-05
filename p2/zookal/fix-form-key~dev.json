@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "zookal/fix-form-key": [
+            {
+                "name": "zookal/fix-form-key",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Zookal/Magento-FixFormKey.git",
+                    "reference": "3adbecc8e9ccc4a11ac962e94e84d0c4f0c1033c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Zookal/Magento-FixFormKey/zipball/3adbecc8e9ccc4a11ac962e94e84d0c4f0c1033c",
+                    "reference": "3adbecc8e9ccc4a11ac962e94e84d0c4f0c1033c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-08-15T06:17:05+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher",
+                        "email": "cyrill@schumacher.fm"
+                    }
+                ],
+                "description": "Magento 1.8 module to fix the form key",
+                "homepage": "https://github.com/Zookal/Magento-FixFormKey",
+                "support": {
+                    "source": "https://github.com/Zookal/Magento-FixFormKey/tree/v1.0.2",
+                    "issues": "https://github.com/Zookal/Magento-FixFormKey/issues"
+                }
+            }
+        ]
+    }
+}

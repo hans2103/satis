@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/yireo_googleplusone": [
+            {
+                "name": "connect20/Yireo_GooglePlusOne",
+                "version": "1.0.11",
+                "version_normalized": "1.0.11.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Yireo_GooglePlusOne/1.0.11/Yireo_GooglePlusOne-1.0.11.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Source-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Yireo",
+                        "email": "info@yireo.com"
+                    }
+                ],
+                "description": "No summary"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/discount_coupon_code_at_checkout_steps": [
+            {
+                "name": "connect20/Discount_Coupon_Code_at_Checkout_Steps",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Discount_Coupon_Code_at_Checkout_Steps/0.1.0/Discount_Coupon_Code_at_Checkout_Steps-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Deepak mnakotia",
+                        "email": "deepakmankotiacse@gmail.com"
+                    }
+                ],
+                "description": "This extension allows user to enter discount coupon code at any step of Onepage checkout page. "
+            }
+        ]
+    }
+}

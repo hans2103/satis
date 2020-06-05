@@ -1,0 +1,115 @@
+{
+    "packages": {
+        "phoenix-media/magento-bankpayment": [
+            {
+                "name": "phoenix-media/magento-bankpayment",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/PHOENIX-MEDIA/Magento-BankPayment.git",
+                    "reference": "211e9934774062d9dff32e3177298354b4b45e33"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/PHOENIX-MEDIA/Magento-BankPayment/zipball/211e9934774062d9dff32e3177298354b4b45e33",
+                    "reference": "211e9934774062d9dff32e3177298354b4b45e33",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-01-19T14:07:02+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Phoenix/BankPayment/*",
+                            "app/code/community/Phoenix/BankPayment/"
+                        ],
+                        [
+                            "app/etc/modules/Phoenix_BankPayment.xml",
+                            "app/etc/modules/Phoenix_BankPayment.xml"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/phoenix/bankpayment/*",
+                            "app/design/adminhtml/default/default/template/phoenix/bankpayment/"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/phoenix/bankpayment/*",
+                            "app/design/frontend/base/default/template/phoenix/bankpayment/"
+                        ],
+                        [
+                            "app/locale/da_DK/Phoenix_BankPayment.csv",
+                            "app/locale/da_DK/Phoenix_BankPayment.csv"
+                        ],
+                        [
+                            "app/locale/de_DE/Phoenix_BankPayment.csv",
+                            "app/locale/de_DE/Phoenix_BankPayment.csv"
+                        ],
+                        [
+                            "app/locale/el_GR/Phoenix_BankPayment.csv",
+                            "app/locale/el_GR/Phoenix_BankPayment.csv"
+                        ],
+                        [
+                            "app/locale/en_US/Phoenix_BankPayment.csv",
+                            "app/locale/en_US/Phoenix_BankPayment.csv"
+                        ],
+                        [
+                            "app/locale/es_ES/Phoenix_BankPayment.csv",
+                            "app/locale/es_ES/Phoenix_BankPayment.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/Phoenix_BankPayment.csv",
+                            "app/locale/fr_FR/Phoenix_BankPayment.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/Phoenix_BankPayment.csv",
+                            "app/locale/it_IT/Phoenix_BankPayment.csv"
+                        ],
+                        [
+                            "app/locale/ja_JP/Phoenix_BankPayment.csv",
+                            "app/locale/ja_JP/Phoenix_BankPayment.csv"
+                        ],
+                        [
+                            "app/locale/nb_NO/Phoenix_BankPayment.csv",
+                            "app/locale/nb_NO/Phoenix_BankPayment.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/Phoenix_BankPayment.csv",
+                            "app/locale/nl_NL/Phoenix_BankPayment.csv"
+                        ],
+                        [
+                            "app/locale/pl_PL/Phoenix_BankPayment.csv",
+                            "app/locale/pl_PL/Phoenix_BankPayment.csv"
+                        ],
+                        [
+                            "app/locale/pt_BR/Phoenix_BankPayment.csv",
+                            "app/locale/pt_BR/Phoenix_BankPayment.csv"
+                        ],
+                        [
+                            "app/locale/pt_PT/Phoenix_BankPayment.csv",
+                            "app/locale/pt_PT/Phoenix_BankPayment.csv"
+                        ],
+                        [
+                            "app/locale/tr_TR/Phoenix_BankPayment.csv",
+                            "app/locale/tr_TR/Phoenix_BankPayment.csv"
+                        ]
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "PHOENIX MEDIA",
+                        "email": "support@phoenix-media.eu"
+                    }
+                ],
+                "description": "PHOENIX MEDIA - Bank Payment",
+                "homepage": "https://github.com/PHOENIX-MEDIA/Magento-BankPayment",
+                "support": {
+                    "source": "https://github.com/PHOENIX-MEDIA/Magento-BankPayment/tree/v.1.3.1",
+                    "issues": "https://github.com/PHOENIX-MEDIA/Magento-BankPayment/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/productiveminds_contactus": [
+            {
+                "name": "connect20/Productiveminds_Contactus",
+                "version": "0.1.6",
+                "version_normalized": "0.1.6.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Productiveminds_Contactus/0.1.6/Productiveminds_Contactus-0.1.6.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Productiveminds",
+                        "email": "info@productiveminds.com"
+                    }
+                ],
+                "description": "The extension opens up the standard Magento contact us page as an overlay, which gives your customers the ability to leave a message without browsing away from their current page."
+            }
+        ]
+    }
+}

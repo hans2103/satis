@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "firegento/performance-tweaks": [
+            {
+                "name": "firegento/performance-tweaks",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/firegento/magento-performance-tweaks.git",
+                    "reference": "468f81feaa0259723f563ca59141d4ca01e2dd2b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/firegento/magento-performance-tweaks/zipball/468f81feaa0259723f563ca59141d4ca01e2dd2b",
+                    "reference": "468f81feaa0259723f563ca59141d4ca01e2dd2b",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "firegento/phpcs": "1.1.0"
+                },
+                "time": "2017-09-11T21:27:38+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas Birke",
+                        "email": "tbirke@netextreme.de"
+                    }
+                ],
+                "description": "This extension is based on the slides of Ivan Chepurnyi, available at http://de.slideshare.net/ivanchepurnyi/magento-performance.",
+                "support": {
+                    "source": "https://github.com/firegento/magento-performance-tweaks/tree/master",
+                    "issues": "https://github.com/firegento/magento-performance-tweaks/issues"
+                }
+            }
+        ]
+    }
+}

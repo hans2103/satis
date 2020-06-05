@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/delivrawebhook": [
+            {
+                "name": "connect20/DelivraWebhook",
+                "version": "0.0.9",
+                "version_normalized": "0.0.9.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/DelivraWebhook/0.0.9/DelivraWebhook-0.0.9.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Delivra",
+                        "email": "dev@delivra.com"
+                    }
+                ],
+                "description": "Increase email marketing ROI. Send personal, just-in-time emails, reward customers, and track purchases."
+            }
+        ]
+    }
+}

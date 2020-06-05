@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/kubitoo_webrtc": [
+            {
+                "name": "connect20/Kubitoo_Webrtc",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/25b501e69796565a07fa4a3baf71ec43/1.0.0/25b501e69796565a07fa4a3baf71ec43-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "YourVoice",
+                        "email": "vincenzo.labraca@yourvoice.com"
+                    }
+                ],
+                "description": "Trasforma i tuoi utenti web in chiamate voce. Kubitoo ti consente di ricevere le telefonate da chi visita il tuo sito web, attraverso un semplice pulsante"
+            },
+            {
+                "name": "connect20/Kubitoo_Webrtc",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/25b501e69796565a07fa4a3baf71ec43/1.1.0/25b501e69796565a07fa4a3baf71ec43-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "YourVoice",
+                        "email": "vincenzo.labraca@yourvoice.com"
+                    }
+                ],
+                "description": "Trasforma i tuoi utenti web in chiamate voce. Kubitoo ti consente di ricevere le telefonate da chi visita il tuo sito web, attraverso un semplice pulsante"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/dzinehub_best_sellers_v1": [
+            {
+                "name": "connect20/dzinehub_best_sellers_v1",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/dzinehub_best_sellers_v1/1.0.0.1/dzinehub_best_sellers_v1-1.0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Arun",
+                        "email": "arun@dzine-hub.com"
+                    }
+                ],
+                "description": "To display the list of best selling products in your Magento store homepage, product page or any other page on the website."
+            }
+        ]
+    }
+}

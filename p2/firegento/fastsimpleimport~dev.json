@@ -1,0 +1,135 @@
+{
+    "packages": {
+        "firegento/fastsimpleimport": [
+            {
+                "name": "firegento/fastsimpleimport",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/firegento/FireGento_FastSimpleImport2.git",
+                    "reference": "137731f8eba576dbd8a619088e79db763ab26c47"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/firegento/FireGento_FastSimpleImport2/zipball/137731f8eba576dbd8a619088e79db763ab26c47",
+                    "reference": "137731f8eba576dbd8a619088e79db763ab26c47",
+                    "shasum": ""
+                },
+                "time": "2019-04-01T11:49:46+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "FireGento\\FastSimpleImport\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Team FireGento",
+                        "email": "team@firegento.com"
+                    }
+                ],
+                "description": "Wrapper for Magento2 ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/firegento/FireGento_FastSimpleImport2",
+                "support": {
+                    "source": "https://github.com/firegento/FireGento_FastSimpleImport2/tree/1.3.1",
+                    "issues": "https://github.com/firegento/FireGento_FastSimpleImport2/issues"
+                }
+            },
+            {
+                "name": "firegento/fastsimpleimport",
+                "version": "dev-feature/category",
+                "version_normalized": "dev-feature/category",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/firegento/FireGento_FastSimpleImport2.git",
+                    "reference": "f1012dec5c29eb4ac840a0b79b8d80f83be55eec"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/firegento/FireGento_FastSimpleImport2/zipball/f1012dec5c29eb4ac840a0b79b8d80f83be55eec",
+                    "reference": "f1012dec5c29eb4ac840a0b79b8d80f83be55eec",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2016-07-02T17:48:12+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "FireGento\\FastSimpleImport2\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Team FireGento",
+                        "email": "team@firegento.com"
+                    }
+                ],
+                "description": "Wrapper for Magento2 ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/magento-hackathon/FireGento_FastSimpleImport2",
+                "support": {
+                    "source": "https://github.com/firegento/FireGento_FastSimpleImport2/tree/feature/category",
+                    "issues": "https://github.com/firegento/FireGento_FastSimpleImport2/issues"
+                }
+            },
+            {
+                "name": "firegento/fastsimpleimport",
+                "version": "dev-revert",
+                "version_normalized": "dev-revert",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/firegento/FireGento_FastSimpleImport2.git",
+                    "reference": "7bcf2cae073a1bad1e727c3fed717325d2b30293"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/firegento/FireGento_FastSimpleImport2/zipball/7bcf2cae073a1bad1e727c3fed717325d2b30293",
+                    "reference": "7bcf2cae073a1bad1e727c3fed717325d2b30293",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2016-07-03T11:56:45+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "FireGento\\FastSimpleImport2\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Team FireGento",
+                        "email": "team@firegento.com"
+                    }
+                ],
+                "description": "Wrapper for Magento2 ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/magento-hackathon/FireGento_FastSimpleImport2",
+                "support": {
+                    "source": "https://github.com/firegento/FireGento_FastSimpleImport2/tree/revert",
+                    "issues": "https://github.com/firegento/FireGento_FastSimpleImport2/issues"
+                }
+            }
+        ]
+    }
+}

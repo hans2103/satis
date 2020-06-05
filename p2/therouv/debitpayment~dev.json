@@ -1,0 +1,293 @@
+{
+    "packages": {
+        "therouv/debitpayment": [
+            {
+                "name": "therouv/debitpayment",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/therouv/Magento-DebitPayment.git",
+                    "reference": "6016f4ba6b1af6844d49e3edbd3c85d7b6569a6a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/therouv/Magento-DebitPayment/zipball/6016f4ba6b1af6844d49e3edbd3c85d7b6569a6a",
+                    "reference": "6016f4ba6b1af6844d49e3edbd3c85d7b6569a6a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "firegento/mage-ci": "master-dev",
+                    "phpunit/phpunit": "4.1.*@dev"
+                },
+                "time": "2015-10-22T07:14:30+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "test/",
+                    "magento_connect": {
+                        "name": "DebitPayment",
+                        "real_module_name": "Itabs_Debit",
+                        "license_uri": "http://opensource.org/licenses/osl-3.0.php",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "6.0.0",
+                        "stability": "stable",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "/Itabs/Debit"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "/modules/Itabs_Debit.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "file",
+                                "path": "/adminhtml/default/default/layout/debit.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "/adminhtml/default/default/template/debit/"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "file",
+                                "path": "/frontend/base/default/layout/debit.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "/frontend/base/default/template/debit/"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "/de_DE/Itabs_Debit.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "/en_US/Itabs_Debit.csv"
+                            },
+                            {
+                                "type": "mage",
+                                "structure": "file",
+                                "path": "/js/itabs/debit/blzcheck.js"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "/DTA"
+                            },
+                            {
+                                "type": "mageskin",
+                                "structure": "file",
+                                "path": "/frontend/base/default/css/debit.css"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "therouv@googlemail.com"
+                    }
+                ],
+                "description": "Provides the payment method DebitPayment",
+                "homepage": "https://github.com/therouv/Magento-DebitPayment",
+                "support": {
+                    "source": "https://github.com/therouv/Magento-DebitPayment/tree/1.1.6",
+                    "issues": "https://github.com/therouv/Magento-DebitPayment/issues"
+                }
+            },
+            {
+                "name": "therouv/debitpayment",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/therouv/Magento-DebitPayment.git",
+                    "reference": "0da7b38f3b8b7718cda417caf8285b4ada897eed"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/therouv/Magento-DebitPayment/zipball/0da7b38f3b8b7718cda417caf8285b4ada897eed",
+                    "reference": "0da7b38f3b8b7718cda417caf8285b4ada897eed",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "firegento/mage-ci": "master-dev",
+                    "phpunit/phpunit": "4.1.*@dev"
+                },
+                "time": "2015-10-22T07:23:19+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "test/",
+                    "magento_connect": {
+                        "name": "DebitPayment",
+                        "real_module_name": "Itabs_Debit",
+                        "license_uri": "http://opensource.org/licenses/osl-3.0.php",
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "6.0.0",
+                        "stability": "stable",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "/Itabs/Debit"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "/modules/Itabs_Debit.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "file",
+                                "path": "/adminhtml/default/default/layout/debit.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "/adminhtml/default/default/template/debit/"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "file",
+                                "path": "/frontend/base/default/layout/debit.xml"
+                            },
+                            {
+                                "type": "magedesign",
+                                "structure": "dir",
+                                "path": "/frontend/base/default/template/debit/"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "/de_DE/Itabs_Debit.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "/en_US/Itabs_Debit.csv"
+                            },
+                            {
+                                "type": "mage",
+                                "structure": "file",
+                                "path": "/js/itabs/debit/blzcheck.js"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "/DTA"
+                            },
+                            {
+                                "type": "mageskin",
+                                "structure": "file",
+                                "path": "/frontend/base/default/css/debit.css"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "therouv@googlemail.com"
+                    }
+                ],
+                "description": "Provides the payment method DebitPayment",
+                "homepage": "https://github.com/therouv/Magento-DebitPayment",
+                "support": {
+                    "source": "https://github.com/therouv/Magento-DebitPayment/tree/develop",
+                    "issues": "https://github.com/therouv/Magento-DebitPayment/issues"
+                }
+            },
+            {
+                "name": "therouv/debitpayment",
+                "version": "dev-feature/sepa",
+                "version_normalized": "dev-feature/sepa",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/therouv/Magento-DebitPayment.git",
+                    "reference": "c6e2191b4ff98ec32610efceb873fe6eda0ef87c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/therouv/Magento-DebitPayment/zipball/c6e2191b4ff98ec32610efceb873fe6eda0ef87c",
+                    "reference": "c6e2191b4ff98ec32610efceb873fe6eda0ef87c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-04-09T10:49:41+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "therouv@googlemail.com"
+                    }
+                ],
+                "description": "Provides the payment method DebitPayment",
+                "homepage": "https://github.com/therouv/Magento-DebitPayment",
+                "support": {
+                    "source": "https://github.com/therouv/Magento-DebitPayment/tree/feature/sepa",
+                    "issues": "https://github.com/therouv/Magento-DebitPayment/issues"
+                }
+            },
+            {
+                "name": "therouv/debitpayment",
+                "version": "dev-magento2",
+                "version_normalized": "dev-magento2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/therouv/Magento-DebitPayment.git",
+                    "reference": "c25622f7ef29f67f3868f1dba150bc543a1d2646"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/therouv/Magento-DebitPayment/zipball/c25622f7ef29f67f3868f1dba150bc543a1d2646",
+                    "reference": "c25622f7ef29f67f3868f1dba150bc543a1d2646",
+                    "shasum": ""
+                },
+                "time": "2012-10-31T15:55:11+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "therouv@googlemail.com"
+                    }
+                ],
+                "description": "Provides the payment method DebitPayment",
+                "homepage": "https://github.com/therouv/Magento-DebitPayment",
+                "support": {
+                    "source": "https://github.com/therouv/Magento-DebitPayment/tree/magento2",
+                    "issues": "https://github.com/therouv/Magento-DebitPayment/issues"
+                }
+            }
+        ]
+    }
+}

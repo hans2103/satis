@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/et_currencymanager": [
+            {
+                "name": "connect20/ET_CurrencyManager",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ET_CurrencyManager/1.0.3/ET_CurrencyManager-1.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "ETWS-Free-License-(EFL1)"
+                ],
+                "authors": [
+                    {
+                        "name": "Jurij",
+                        "email": "support@etwebsolutions.com"
+                    }
+                ],
+                "description": "Currency Manager lets shop owner manage price display in an easy and convenient way: show custom currency symbol, change its position, change number of decimals and etc."
+            },
+            {
+                "name": "connect20/ET_CurrencyManager",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ET_CurrencyManager/1.3.1/ET_CurrencyManager-1.3.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "ETWS-Free-License-(EFL1)"
+                ],
+                "authors": [
+                    {
+                        "name": "Jurij",
+                        "email": "support@etwebsolutions.com"
+                    }
+                ],
+                "description": "Currency Manager lets shop owner manage price display in an easy and convenient way: show custom currency symbol, change its position, change number of decimals and etc."
+            }
+        ]
+    }
+}

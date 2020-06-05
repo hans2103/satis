@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/nightlydev_emailsimulator": [
+            {
+                "name": "connect20/NightlyDev_EmailSimulator",
+                "version": "1.0.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/NightlyDev_EmailSimulator/1.0.0.0/NightlyDev_EmailSimulator-1.0.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPLv3)"
+                ],
+                "authors": [
+                    {
+                        "name": "Carles Tubio",
+                        "email": "input@nightlydev.org"
+                    }
+                ],
+                "description": "Test easy the Transactional Emails with sample data."
+            },
+            {
+                "name": "connect20/NightlyDev_EmailSimulator",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/NightlyDev_EmailSimulator/1.0.0.1/NightlyDev_EmailSimulator-1.0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPLv3)"
+                ],
+                "authors": [
+                    {
+                        "name": "Carles Tubio",
+                        "email": "input@nightlydev.org"
+                    }
+                ],
+                "description": "Test easy the Transactional Emails with sample data."
+            }
+        ]
+    }
+}

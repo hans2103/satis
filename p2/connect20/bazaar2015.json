@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/bazaar2015": [
+            {
+                "name": "connect20/BazaAR2015",
+                "version": "1.0.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/BazaAR2015/1.0.0.0/BazaAR2015-1.0.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "End-User-License-Agreement"
+                ],
+                "authors": [
+                    {
+                        "name": "Cognizant",
+                        "email": "BazaARSupport2@cognizant.com"
+                    }
+                ],
+                "description": "An Augmented Reality Platform for Apparel and Eyewear Trial"
+            }
+        ]
+    }
+}

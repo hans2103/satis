@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "connect20/custum_newslatter": [
+            {
+                "name": "connect20/Custum_Newslatter",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Custum_Newslatter/1.0.3/Custum_Newslatter-1.0.3.tgz"
+                },
+                "require": {
+                    "connect20/custum_newslatter": ">=1.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "kushagra daharwal",
+                        "email": "kushagra.daharwal@hotmail.com"
+                    }
+                ],
+                "description": "Custom Newsletter Extension - Add new custom field in magento default newsletter form."
+            },
+            {
+                "name": "connect20/Custum_Newslatter",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Custum_Newslatter/1.0.4/Custum_Newslatter-1.0.4.tgz"
+                },
+                "require": {
+                    "connect20/custum_newslatter": ">=1.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "kushagra daharwal",
+                        "email": "kushagra.daharwal@hotmail.com"
+                    }
+                ],
+                "description": "Custom Newsletter Extension - Add new custom field in magento default newsletter form."
+            }
+        ]
+    }
+}

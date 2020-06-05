@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ydral_correos": [
+            {
+                "name": "connect20/Ydral_Correos",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ydral_Correos/4.0.0/Ydral_Correos-4.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ydral",
+                        "email": "webmaster@ydral.com"
+                    }
+                ],
+                "description": "Modulo para Magento para integrar Correos."
+            }
+        ]
+    }
+}

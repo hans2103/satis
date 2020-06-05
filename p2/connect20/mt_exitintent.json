@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/mt_exitintent": [
+            {
+                "name": "connect20/MT_Exitintent",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MT_Exitintent/1.0.1/MT_Exitintent-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Pay-Licensed-Viewable-Source"
+                ],
+                "authors": [
+                    {
+                        "name": "Edvinas Stulpinas",
+                        "email": "edvinas.stulpinas@gmail.com"
+                    }
+                ],
+                "description": "Exit Popup FREE"
+            },
+            {
+                "name": "connect20/MT_Exitintent",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MT_Exitintent/1.0.2/MT_Exitintent-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Pay-Licensed-Viewable-Source"
+                ],
+                "authors": [
+                    {
+                        "name": "Edvinas Stulpinas",
+                        "email": "edvinas.stulpinas@gmail.com"
+                    }
+                ],
+                "description": "Free exit intent popup pro extension version"
+            }
+        ]
+    }
+}

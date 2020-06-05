@@ -1,0 +1,66 @@
+{
+    "packages": {
+        "vmbl/ajaxcart": [
+            {
+                "name": "vmbl/ajaxcart",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/vmbl/ajaxcart.git",
+                    "reference": "4cfdec30a711ed61b648a0cb50b2990ec3a62f13"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/vmbl/ajaxcart/zipball/4cfdec30a711ed61b648a0cb50b2990ec3a62f13",
+                    "reference": "4cfdec30a711ed61b648a0cb50b2990ec3a62f13",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "2.*"
+                },
+                "time": "2015-03-18T10:33:24+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/etc/modules/Hardik_Ajaxcart.xml",
+                            "app/etc/modules/Hardik_Ajaxcart.xml"
+                        ],
+                        [
+                            "app/code/local/Hardik/Ajaxcart",
+                            "app/code/local/Hardik/Ajaxcart"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/ajaxcart.xml",
+                            "app/design/frontend/base/default/layout/ajaxcart.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/ajaxcart",
+                            "app/design/frontend/base/default/template/ajaxcart"
+                        ],
+                        [
+                            "skin/frontend/base/default/ajaxcart",
+                            "skin/frontend/base/default/ajaxcart"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Born",
+                        "email": "support@born.com"
+                    }
+                ],
+                "description": "Official Magento Plugin for ajaxcart'.",
+                "homepage": "https://github.com/vmbl/ajaxcart",
+                "support": {
+                    "source": "https://github.com/vmbl/ajaxcart/tree/master",
+                    "issues": "https://github.com/vmbl/ajaxcart/issues"
+                }
+            }
+        ]
+    }
+}

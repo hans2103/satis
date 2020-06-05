@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/gene_doddle": [
+            {
+                "name": "connect20/Gene_Doddle",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Gene_Doddle/1.0.0/Gene_Doddle-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Dave Macaulay",
+                        "email": "magento@gene.co.uk"
+                    }
+                ],
+                "description": "Love shopping online but hate missing the delivery? Fix this for your customers with Doddle, the solution for collecting and returning your online purchases."
+            },
+            {
+                "name": "connect20/Gene_Doddle",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Gene_Doddle/1.0.1/Gene_Doddle-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Dave Macaulay",
+                        "email": "magento@gene.co.uk"
+                    }
+                ],
+                "description": "Love shopping online but hate missing the delivery? Fix this for your customers with Doddle, the solution for collecting and returning your online purchases."
+            }
+        ]
+    }
+}

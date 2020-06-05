@@ -1,0 +1,76 @@
+{
+    "packages": {
+        "e-conomix/customergroup-paymentmethod": [
+            {
+                "name": "e-conomix/customergroup-paymentmethod",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/e-conomix/customergroup-paymentmethods.git",
+                    "reference": "393155fd7203f2db00f7e55dab01db78ac09d15d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/e-conomix/customergroup-paymentmethods/zipball/393155fd7203f2db00f7e55dab01db78ac09d15d",
+                    "reference": "393155fd7203f2db00f7e55dab01db78ac09d15d",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-10-31T08:51:28+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Dipl.-Ing. Andreas Schrammel",
+                        "email": "schrammel@e-conomix.at"
+                    }
+                ],
+                "description": "Adds possibility to de-/activate payment methods by customer group",
+                "support": {
+                    "source": "https://github.com/e-conomix/customergroup-paymentmethods/tree/master",
+                    "issues": "https://github.com/e-conomix/customergroup-paymentmethods/issues"
+                }
+            },
+            {
+                "name": "e-conomix/customergroup-paymentmethod",
+                "version": "dev-dev",
+                "version_normalized": "dev-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/e-conomix/customergroup-paymentmethods.git",
+                    "reference": "055ca69370abe485ce8992c527401aacb379874f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/e-conomix/customergroup-paymentmethods/zipball/055ca69370abe485ce8992c527401aacb379874f",
+                    "reference": "055ca69370abe485ce8992c527401aacb379874f",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-11-16T12:14:28+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Dipl.-Ing. Andreas Schrammel",
+                        "email": "schrammel@e-conomix.at"
+                    }
+                ],
+                "description": "Adds possibility to de-/activate payment methods by customer group",
+                "support": {
+                    "source": "https://github.com/e-conomix/customergroup-paymentmethods/tree/dev",
+                    "issues": "https://github.com/e-conomix/customergroup-paymentmethods/issues"
+                }
+            }
+        ]
+    }
+}

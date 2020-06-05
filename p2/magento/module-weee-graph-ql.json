@@ -1,0 +1,168 @@
+{
+    "packages": {
+        "magento/module-weee-graph-ql": [
+            {
+                "name": "magento/module-weee-graph-ql",
+                "version": "100.3.0",
+                "version_normalized": "100.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-weee-graph-ql/magento-module-weee-graph-ql-100.3.0.0.zip",
+                    "shasum": "1b19eaf6fee15de67a194f0ab8351c66529534f6"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-graph-ql": "100.3.*",
+                    "magento/module-weee": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WeeeGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-weee-graph-ql",
+                "version": "100.3.1",
+                "version_normalized": "100.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-weee-graph-ql/magento-module-weee-graph-ql-100.3.1.0.zip",
+                    "shasum": "8cd539c61f3f52683cdf1d081d03ba1ab198da43"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-graph-ql": "100.3.*",
+                    "magento/module-weee": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WeeeGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-weee-graph-ql",
+                "version": "100.3.2",
+                "version_normalized": "100.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-weee-graph-ql/magento-module-weee-graph-ql-100.3.2.0.zip",
+                    "shasum": "6145632291d47936eab18a4cf8886cd2e9215697"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-graph-ql": "100.3.*",
+                    "magento/module-weee": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WeeeGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-weee-graph-ql",
+                "version": "100.3.3",
+                "version_normalized": "100.3.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-weee-graph-ql/magento-module-weee-graph-ql-100.3.3.0.zip",
+                    "shasum": "bf7afe06289af6eea6e826cce2f2ca587c5d4c6d"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-graph-ql": "100.3.*",
+                    "magento/module-weee": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WeeeGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-weee-graph-ql",
+                "version": "100.3.4",
+                "version_normalized": "100.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-weee-graph-ql/magento-module-weee-graph-ql-100.3.4.0.zip",
+                    "shasum": "a0549d3653720ebaed8823f93234b3a486e230c8"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "magento/module-weee": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-graph-ql": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WeeeGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

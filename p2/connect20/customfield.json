@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/customfield": [
+            {
+                "name": "connect20/CustomField",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CustomField/0.1.0/CustomField-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magestore",
+                        "email": "magestore@gmail.com"
+                    }
+                ],
+                "description": "In some case you want to add some additional text for downloadable link file into product page such as user manual for your product."
+            }
+        ]
+    }
+}

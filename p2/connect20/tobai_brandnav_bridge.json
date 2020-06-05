@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/tobai_brandnav_bridge": [
+            {
+                "name": "connect20/tobai_brandnav_bridge",
+                "version": "1.0.1.0",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/tobai_brandnav_bridge/1.0.1.0/tobai_brandnav_bridge-1.0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Single-domain-license"
+                ],
+                "authors": [
+                    {
+                        "name": "ToBai_Brandnav",
+                        "email": "team.tobai@gmail.com"
+                    }
+                ],
+                "description": "ToBai BrandNav Bridge makes your ToBai Extended Brand and ToBai Extended Navigation fully compatable."
+            }
+        ]
+    }
+}

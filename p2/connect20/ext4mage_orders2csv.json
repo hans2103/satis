@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ext4mage_orders2csv": [
+            {
+                "name": "connect20/ext4mage_orders2csv",
+                "version": "0.9.2",
+                "version_normalized": "0.9.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ext4mage_orders2csv/0.9.2/ext4mage_orders2csv-0.9.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "ext4mage",
+                        "email": "info@ext4mage.com"
+                    }
+                ],
+                "description": "Export your orders to CSV with easy. Setup the file as you like with more than 125 variables available. "
+            }
+        ]
+    }
+}

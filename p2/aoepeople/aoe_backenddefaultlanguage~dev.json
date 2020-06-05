@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "aoepeople/aoe_backenddefaultlanguage": [
+            {
+                "name": "aoepeople/aoe_backenddefaultlanguage",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zohmi/Aoe_BackendDefaultLanguage.git",
+                    "reference": "bcf7851070fd5611473341c5f9a6bea3caaf0924"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zohmi/Aoe_BackendDefaultLanguage/zipball/bcf7851070fd5611473341c5f9a6bea3caaf0924",
+                    "reference": "bcf7851070fd5611473341c5f9a6bea3caaf0924",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-14T10:30:29+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Zohm",
+                        "email": "daniel.zohm@aoe.com"
+                    }
+                ],
+                "description": "Set user specific backend language for Magento",
+                "homepage": "https://github.com/AOEpeople/Aoe_BackendDefaultLanguage",
+                "support": {
+                    "source": "https://github.com/zohmi/Aoe_BackendDefaultLanguage/tree/master",
+                    "issues": "https://github.com/zohmi/Aoe_BackendDefaultLanguage/issues"
+                }
+            }
+        ]
+    }
+}

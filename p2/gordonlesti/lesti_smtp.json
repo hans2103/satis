@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "gordonlesti/lesti_smtp": [
+            {
+                "name": "gordonlesti/lesti_smtp",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/GordonLesti/Lesti_Smtp.git",
+                    "reference": "d1604b5371e9a5e3267430846d56e837ac488595"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/GordonLesti/Lesti_Smtp/zipball/d1604b5371e9a5e3267430846d56e837ac488595",
+                    "reference": "d1604b5371e9a5e3267430846d56e837ac488595",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-08T13:52:43+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Gordon Lesti",
+                        "email": "info@gordonlesti.com",
+                        "homepage": "http://gordonlesti.com/",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Simple Smtp Transport for Magento",
+                "homepage": "https://gordonlesti.com/projects/lestismtp/",
+                "keywords": [
+                    "smtp"
+                ],
+                "support": {
+                    "source": "https://github.com/GordonLesti/Lesti_Smtp/tree/1.0.0",
+                    "issues": "https://github.com/GordonLesti/Lesti_Smtp/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/vebug_path_hints": [
+            {
+                "name": "connect20/Vebug_Path_Hints",
+                "version": "1.0.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Vebug_Path_Hints/1.0.0.0/Vebug_Path_Hints-1.0.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "(\"AFL\")-v.-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Leandro Villagran",
+                        "email": "veandro@outlook.com"
+                    }
+                ],
+                "description": "Easily turn on template path hints for both front and back end."
+            }
+        ]
+    }
+}

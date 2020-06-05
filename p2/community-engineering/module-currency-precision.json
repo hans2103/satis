@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "community-engineering/module-currency-precision": [
+            {
+                "name": "community-engineering/module-currency-precision",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/community-engineering/module-currency-precision/community-engineering-module-currency-precision-1.0.0.0.zip",
+                    "shasum": "a50a59b2e830a88a7671c483a26665cbd0297c17"
+                },
+                "require": {
+                    "magento/framework": "^102.0.0",
+                    "magento/module-directory": "^100.3.0",
+                    "magento/module-store": "^101.0.0",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "CommunityEngineering\\CurrencyPrecision\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Hirokazu Nishi",
+                        "email": "nishi@veriteworks.co.jp",
+                        "homepage": "https://veriteworks.co.jp/",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Magento2 extension for Price."
+            }
+        ]
+    }
+}

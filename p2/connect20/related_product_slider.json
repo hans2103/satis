@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "connect20/related_product_slider": [
+            {
+                "name": "connect20/related_product_slider",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/related_product_slider/1.0.0/related_product_slider-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "iquallinfo",
+                        "email": "support@i-quall.com"
+                    }
+                ],
+                "description": "This is magento extension for related product slider."
+            },
+            {
+                "name": "connect20/related_product_slider",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/related_product_slider/1.1.0/related_product_slider-1.1.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "iquallinfo",
+                        "email": "support@i-quall.com"
+                    }
+                ],
+                "description": "This is related product slider extension for magento latest version 1.9"
+            }
+        ]
+    }
+}

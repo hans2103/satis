@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/husseycoding_cmsmenucontent": [
+            {
+                "name": "connect20/HusseyCoding_CmsMenuContent",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/HusseyCoding_CmsMenuContent/1.0.5/HusseyCoding_CmsMenuContent-1.0.5.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Hussey Coding",
+                        "email": "info@husseycoding.co.uk"
+                    }
+                ],
+                "description": "Adds tab style content switching to Magento CMS pages."
+            },
+            {
+                "name": "connect20/HusseyCoding_CmsMenuContent",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/HusseyCoding_CmsMenuContent/1.1.0/HusseyCoding_CmsMenuContent-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Hussey Coding",
+                        "email": "info@husseycoding.co.uk"
+                    }
+                ],
+                "description": "Adds expanding blocks of content to CMS pages."
+            }
+        ]
+    }
+}

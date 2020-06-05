@@ -1,0 +1,78 @@
+{
+    "packages": {
+        "jh/removeredundantconfig": [
+            {
+                "name": "jh/removeredundantconfig",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jhoelzl/JH_RemoveRedundantConfig.git",
+                    "reference": "89bc6b8354f8aee234263cc5235f534c063838b9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jhoelzl/JH_RemoveRedundantConfig/zipball/89bc6b8354f8aee234263cc5235f534c063838b9",
+                    "reference": "89bc6b8354f8aee234263cc5235f534c063838b9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-08-05T14:38:02+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Josef Hoelzl",
+                        "email": "hoelzl.josef@gmail.com"
+                    }
+                ],
+                "description": "Finds redundant entries in mysql table core_config_data",
+                "homepage": "https://github.com/jhoelzl/JH_RemoveRedundantConfig",
+                "support": {
+                    "source": "https://github.com/jhoelzl/JH_RemoveRedundantConfig/tree/0.1.1",
+                    "issues": "https://github.com/jhoelzl/JH_RemoveRedundantConfig/issues"
+                }
+            },
+            {
+                "name": "jh/removeredundantconfig",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jhoelzl/JH_RemoveRedundantConfig.git",
+                    "reference": "1f0d05ec57358671463e0ecc6ca7601841329a9b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jhoelzl/JH_RemoveRedundantConfig/zipball/1f0d05ec57358671463e0ecc6ca7601841329a9b",
+                    "reference": "1f0d05ec57358671463e0ecc6ca7601841329a9b",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-11T13:18:44+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Josef Hoelzl",
+                        "email": "hoelzl.josef@gmail.com"
+                    }
+                ],
+                "description": "Finds redundant entries in mysql table core_config_data",
+                "homepage": "https://github.com/jhoelzl/JH_RemoveRedundantConfig",
+                "support": {
+                    "source": "https://github.com/jhoelzl/JH_RemoveRedundantConfig/tree/develop",
+                    "issues": "https://github.com/jhoelzl/JH_RemoveRedundantConfig/issues"
+                }
+            }
+        ]
+    }
+}

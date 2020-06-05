@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "firegento/cookie-notice-translation-fix": [
+            {
+                "name": "firegento/cookie-notice-translation-fix",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/firegento/firegento-cookie-notice-translation-fix.git",
+                    "reference": "965478bedd254969275f7927b052394bbf8d55af"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/firegento/firegento-cookie-notice-translation-fix/zipball/965478bedd254969275f7927b052394bbf8d55af",
+                    "reference": "965478bedd254969275f7927b052394bbf8d55af",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-07-09T17:50:17+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "email": "github@fabian-blechschmidt.de",
+                        "name": "Fabian Blechschmidt"
+                    }
+                ],
+                "description": "Fixes a core bug to allow cookie notice translation",
+                "support": {
+                    "source": "https://github.com/firegento/firegento-cookie-notice-translation-fix/tree/master",
+                    "issues": "https://github.com/firegento/firegento-cookie-notice-translation-fix/issues"
+                }
+            }
+        ]
+    }
+}

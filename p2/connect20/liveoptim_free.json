@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/liveoptim_free": [
+            {
+                "name": "connect20/LiveOptim_free",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/LiveOptim_free/1.0.0/LiveOptim_free-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL-v3"
+                ],
+                "authors": [
+                    {
+                        "name": "Erwan Milbéo",
+                        "email": "smo@adequat-mkt.com"
+                    }
+                ],
+                "description": "Improve your SEO without manual intervention at your site : save precious time ! LiveOptim instantly processes 100% of your content and adds links & HTML tags around your keywords to go : 100% Google Friendly."
+            },
+            {
+                "name": "connect20/LiveOptim_free",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/LiveOptim_free/1.0.1/LiveOptim_free-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL-v3"
+                ],
+                "authors": [
+                    {
+                        "name": "Erwan Milbéo",
+                        "email": "contact@liveoptim.com"
+                    }
+                ],
+                "description": "Liveoptim est une extension qui vous simplifiera la vie."
+            }
+        ]
+    }
+}

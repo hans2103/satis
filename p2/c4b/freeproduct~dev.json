@@ -1,0 +1,39 @@
+{
+    "packages": {
+        "c4b/freeproduct": [
+            {
+                "name": "c4b/freeproduct",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/code4business/freeproduct.git",
+                    "reference": "d8f0a78567794d1b7dc62ce08c3e16f933c0853e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/code4business/freeproduct/zipball/d8f0a78567794d1b7dc62ce08c3e16f933c0853e",
+                    "reference": "d8f0a78567794d1b7dc62ce08c3e16f933c0853e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-11-06T07:56:27+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Nikolai Krambrock",
+                        "email": "freeproduct@code4business.de"
+                    }
+                ],
+                "description": "This extensions allows you to add gifts to your cart.",
+                "homepage": "https://github.com/code4business/freeproduct",
+                "support": {
+                    "source": "https://github.com/code4business/freeproduct/tree/master",
+                    "issues": "https://github.com/code4business/freeproduct/issues"
+                }
+            }
+        ]
+    }
+}

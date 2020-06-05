@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/markor_changeprice": [
+            {
+                "name": "connect20/MarKor_Changeprice",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MarKor_Changeprice/1.0.0/MarKor_Changeprice-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "MarKor NET",
+                        "email": "biuro@markornet.com"
+                    }
+                ],
+                "description": "Module to change price on frontend."
+            }
+        ]
+    }
+}

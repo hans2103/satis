@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "aydus/adminorderanalytics": [
+            {
+                "name": "aydus/adminorderanalytics",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/AdminOrderAnalytics.git",
+                    "reference": "b09f54f11b0da1984bda0e159f9df6a83478a234"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/AdminOrderAnalytics/zipball/b09f54f11b0da1984bda0e159f9df6a83478a234",
+                    "reference": "b09f54f11b0da1984bda0e159f9df6a83478a234",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2015-06-09T13:17:23+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "davidt@aydus.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Send ecommerce tracking information to Google Analytics for orders created in the Magento admin.",
+                "homepage": "https://github.com/aydus/AdminOrderAnalytics.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/AdminOrderAnalytics/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/AdminOrderAnalytics/issues"
+                }
+            }
+        ]
+    }
+}

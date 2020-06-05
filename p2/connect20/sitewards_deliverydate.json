@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sitewards_deliverydate": [
+            {
+                "name": "connect20/Sitewards_DeliveryDate",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Sitewards_DeliveryDate/0.1.0/Sitewards_DeliveryDate-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Sitewards Magento Team",
+                        "email": "magento@sitewards.com"
+                    }
+                ],
+                "description": "The Sitewards Delivery Date Extension extends your webshop to allow users to specify a desired delivery date with orders."
+            }
+        ]
+    }
+}

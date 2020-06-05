@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/smtp_magento": [
+            {
+                "name": "connect20/SMTP_Magento",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SMTP_Magento/0.1.0/SMTP_Magento-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "ksvcorporation",
+                        "email": "ksvcorporation@gmail.com"
+                    }
+                ],
+                "description": "SMTP Magento Extension support all SMTP servers and also support SSL Authentication."
+            }
+        ]
+    }
+}

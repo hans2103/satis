@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "connect20/thumbnailslider": [
+            {
+                "name": "connect20/Thumbnailslider",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Thumbnailslider/0.1.0/Thumbnailslider-0.1.0.tgz"
+                },
+                "require": {
+                    "connect20/magento_core_module": ">=1.6"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "osl"
+                ],
+                "authors": [
+                    {
+                        "name": "dataman",
+                        "email": "webadmin@dataman.in"
+                    }
+                ],
+                "description": "this is awesome responsive thumbnail slider."
+            },
+            {
+                "name": "connect20/Thumbnailslider",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Thumbnailslider/0.1.1/Thumbnailslider-0.1.1.tgz"
+                },
+                "require": {
+                    "connect20/magento_core_module": ">=1.6"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "osl"
+                ],
+                "authors": [
+                    {
+                        "name": "dataman",
+                        "email": "webadmin@dataman.in"
+                    }
+                ],
+                "description": "this is awesome responsive thumbnail slider."
+            }
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "connect20/bliss_crosssellcategory": [
+            {
+                "name": "connect20/Bliss_Crosssellcategory",
+                "version": "1.0.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Bliss_Crosssellcategory/1.0.0.0/Bliss_Crosssellcategory-1.0.0.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_checkout": "*"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "James Harrison",
+                        "email": "jharrison.au@gmail.com"
+                    }
+                ],
+                "description": "A simple extension that lets users display products from a particular category on the cart page in place of the usual crosssell products.\r\n"
+            },
+            {
+                "name": "connect20/Bliss_Crosssellcategory",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Bliss_Crosssellcategory/1.0.0.1/Bliss_Crosssellcategory-1.0.0.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_checkout": "*"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "James Harrison",
+                        "email": "jharrison.au@gmail.com"
+                    }
+                ],
+                "description": "A simple extension that lets users display products from a particular category on the cart page in place of the usual crosssell products.\r\n"
+            }
+        ]
+    }
+}

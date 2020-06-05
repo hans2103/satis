@@ -1,0 +1,61 @@
+{
+    "packages": {
+        "connect20/dextrous_extendcatalog": [
+            {
+                "name": "connect20/Dextrous_Extendcatalog",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Dextrous_Extendcatalog/1.2.0/Dextrous_Extendcatalog-1.2.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Hemant kumar sharma",
+                        "email": "hemant7677@gmail.com"
+                    }
+                ],
+                "description": "Add Best Seller, Feature, New, Recently ordered & All products to store."
+            },
+            {
+                "name": "connect20/Dextrous_Extendcatalog",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Dextrous_Extendcatalog/1.2.1/Dextrous_Extendcatalog-1.2.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Hemant kumar sharma",
+                        "email": "hemant7677@gmail.com"
+                    }
+                ],
+                "description": "Add Top Seller Product, Featured Product, New Product , Recently ordered Product and All products to store."
+            }
+        ]
+    }
+}

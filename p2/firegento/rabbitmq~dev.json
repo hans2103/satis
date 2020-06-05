@@ -1,0 +1,37 @@
+{
+    "packages": {
+        "firegento/rabbitmq": [
+            {
+                "name": "firegento/rabbitmq",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/firegento/FireGento_RabbitMQ.git",
+                    "reference": "55d0d39dc5f294477abfb1ebcf8354c98dbdb14b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/firegento/FireGento_RabbitMQ/zipball/55d0d39dc5f294477abfb1ebcf8354c98dbdb14b",
+                    "reference": "55d0d39dc5f294477abfb1ebcf8354c98dbdb14b",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php-amqplib/php-amqplib": "~2.6.0"
+                },
+                "time": "2017-07-19T10:07:11+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "RabbitMQ implementation for Magento 1 with producer and consumer",
+                "homepage": "https://github.com/firegento/firegento-rabbitmq",
+                "support": {
+                    "source": "https://github.com/firegento/FireGento_RabbitMQ/tree/v1.0.0",
+                    "issues": "https://github.com/firegento/FireGento_RabbitMQ/issues"
+                }
+            }
+        ]
+    }
+}

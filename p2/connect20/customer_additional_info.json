@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/customer_additional_info": [
+            {
+                "name": "connect20/Customer_Additional_Info",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Customer_Additional_Info/1.0.0/Customer_Additional_Info-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "-Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Bikash Kaushik",
+                        "email": "bikashkaushik10@gmail.com"
+                    }
+                ],
+                "description": "This extension is very useful to save customer education details."
+            }
+        ]
+    }
+}

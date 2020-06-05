@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/nucleus_support": [
+            {
+                "name": "connect20/Nucleus_Support",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Nucleus_Support/1.0.3/Nucleus_Support-1.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-v3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nucleus Commerce",
+                        "email": "hello@nucleuscommerce.com"
+                    }
+                ],
+                "description": "In the Magento Admin merchants get access to Nucleus Support via support ticket or live chat with a developer."
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "packages": {
+        "fooman/speedster": [
+            {
+                "name": "fooman/speedster",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fooman/speedster.git",
+                    "reference": "011a1416cc00e5384e0a8c44ff7e0195fdde201b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/fooman/speedster/zipball/011a1416cc00e5384e0a8c44ff7e0195fdde201b",
+                    "reference": "011a1416cc00e5384e0a8c44ff7e0195fdde201b",
+                    "shasum": ""
+                },
+                "require": {
+                    "fooman/common": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-10-16T22:47:06+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Fooman/Speedster/",
+                            "app/code/community/Fooman/Speedster/"
+                        ],
+                        [
+                            "app/etc/modules/Fooman_Speedster.xml",
+                            "app/etc/modules/Fooman_Speedster.xml"
+                        ],
+                        [
+                            "lib/minify/",
+                            "lib/minify/"
+                        ],
+                        [
+                            "skin/m/.htaccess",
+                            "skin/m/.htaccess"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kristof Ringleff",
+                        "email": "kristof@fooman.co.nz"
+                    }
+                ],
+                "description": "Speed up your Magento store by combining, compressing and caching Javascript and CSS files.",
+                "homepage": "https://github.com/fooman/speedster",
+                "support": {
+                    "source": "https://github.com/fooman/speedster/tree/master",
+                    "issues": "https://github.com/fooman/speedster/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/vishwasnature_productlink": [
+            {
+                "name": "connect20/Vishwasnature_Productlink",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Vishwasnature_Productlink/0.1.1/Vishwasnature_Productlink-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Vishwas Nature",
+                        "email": "vishwasnature30@gmail.com"
+                    }
+                ],
+                "description": "To Edit Product when add product to category in 'Category Products' tab."
+            }
+        ]
+    }
+}

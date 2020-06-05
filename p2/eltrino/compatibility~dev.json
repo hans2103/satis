@@ -1,0 +1,59 @@
+{
+    "packages": {
+        "eltrino/compatibility": [
+            {
+                "name": "eltrino/compatibility",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/eltrino/Compatibility.git",
+                    "reference": "107b6cbebc445deb7896a01cc0390dbb26f75287"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/eltrino/Compatibility/zipball/107b6cbebc445deb7896a01cc0390dbb26f75287",
+                    "reference": "107b6cbebc445deb7896a01cc0390dbb26f75287",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.5"
+                },
+                "time": "2015-03-31T12:30:59+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Eltrino/Compatibility",
+                            "app/code/community/Eltrino/Compatibility"
+                        ],
+                        [
+                            "app/code/community/Magento",
+                            "app/code/community/Magento"
+                        ],
+                        [
+                            "app/etc/modules/Eltrino_Compatibility.xml",
+                            "app/etc/modules/Eltrino_Compatibility.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Eltrino LLC",
+                        "email": "license@eltrino.com"
+                    }
+                ],
+                "description": "Extension provides backward compatibility with Magento 1.x for Magento 2 Extensions",
+                "homepage": "https://github.com/eltrino/Compatibility",
+                "support": {
+                    "source": "https://github.com/eltrino/Compatibility/tree/master",
+                    "issues": "https://github.com/eltrino/Compatibility/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/designcomplex_producturlkey": [
+            {
+                "name": "connect20/Designcomplex_Producturlkey",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Designcomplex_Producturlkey/1.0.0/Designcomplex_Producturlkey-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas Klosinsky",
+                        "email": "thomas@designcomplex.de"
+                    }
+                ],
+                "description": "autofill urlkey with attributes like manufacturer, name, sku, custom attributes, etc. on product save"
+            },
+            {
+                "name": "connect20/Designcomplex_Producturlkey",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Designcomplex_Producturlkey/1.0.1/Designcomplex_Producturlkey-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas Klosinsky",
+                        "email": "thomas@designcomplex.de"
+                    }
+                ],
+                "description": "autofill urlkey with attributes like manufacturer, name, sku, custom attributes, etc. on product save "
+            }
+        ]
+    }
+}

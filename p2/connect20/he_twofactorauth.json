@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/he_twofactorauth": [
+            {
+                "name": "connect20/HE_TwoFactorAuth",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/HE_TwoFactorAuth/1.0.4/HE_TwoFactorAuth-1.0.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPLv2"
+                ],
+                "authors": [
+                    {
+                        "name": "Aric Watson",
+                        "email": "awatson@nexcess.net"
+                    }
+                ],
+                "description": "Magento Two Factor Authentication Module"
+            }
+        ]
+    }
+}

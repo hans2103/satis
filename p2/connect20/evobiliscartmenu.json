@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/evobiliscartmenu": [
+            {
+                "name": "connect20/evobiliscartmenu",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/evobiliscartmenu/1.0.0/evobiliscartmenu-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Evobilis"
+                ],
+                "authors": [
+                    {
+                        "name": "Mahesh",
+                        "email": "mahesh.komarraju@evobilis.com"
+                    }
+                ],
+                "description": "Display a list of products added to the cart in a drop down menu "
+            },
+            {
+                "name": "connect20/evobiliscartmenu",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/evobiliscartmenu/1.0.1/evobiliscartmenu-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Evobilis"
+                ],
+                "authors": [
+                    {
+                        "name": "Mahesh",
+                        "email": "mahesh.komarraju@evobilis.com"
+                    }
+                ],
+                "description": "Display a list of products added to the cart in a drop down menu "
+            }
+        ]
+    }
+}

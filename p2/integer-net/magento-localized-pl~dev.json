@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "integer-net/magento-localized-pl": [
+            {
+                "name": "integer-net/magento-localized-pl",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/MagentoLocalizedPL.git",
+                    "reference": "5d0ad78e0bdab40a3c8f061a01436db1ace55309"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/MagentoLocalizedPL/zipball/5d0ad78e0bdab40a3c8f061a01436db1ace55309",
+                    "reference": "5d0ad78e0bdab40a3c8f061a01436db1ace55309",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-11-24T16:49:48+00:00",
+                "type": "magento-module",
+                "description": "Polish Localization package for Magento Localized (aka Magento PL)",
+                "homepage": "https://github.com/integer-net/MagentoLocalizedPL",
+                "support": {
+                    "source": "https://github.com/integer-net/MagentoLocalizedPL/tree/master",
+                    "issues": "https://github.com/integer-net/MagentoLocalizedPL/issues"
+                }
+            }
+        ]
+    }
+}

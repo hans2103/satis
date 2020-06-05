@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/vp_customerbirthdaymail": [
+            {
+                "name": "connect20/Vp_Customerbirthdaymail",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Vp_Customerbirthdaymail/1.0.0/Vp_Customerbirthdaymail-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "vp",
+                        "email": "vpinfo39@gmail.com"
+                    }
+                ],
+                "description": "This extension send birthday mails to customers"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/subscriptionfix": [
+            {
+                "name": "connect20/SubscriptionFix",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SubscriptionFix/1.0.0/SubscriptionFix-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Greg Croasdill",
+                        "email": "gregc@human-element.com"
+                    }
+                ],
+                "description": "Magento no longer updates the date associated with newsletter subscribe/unsubscribe actions.  This simple observer inserts the current date and time into the change_status_at field"
+            }
+        ]
+    }
+}

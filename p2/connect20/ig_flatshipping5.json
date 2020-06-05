@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/ig_flatshipping5": [
+            {
+                "name": "connect20/IG_FlatShipping5",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/IG_FlatShipping5/1.0.0/IG_FlatShipping5-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "tempesta@idealiagroup.com"
+                    }
+                ],
+                "description": "IDEALIAGroup Multiple Flat Shipping Module with custom text configuration"
+            },
+            {
+                "name": "connect20/IG_FlatShipping5",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/IG_FlatShipping5/1.0.3/IG_FlatShipping5-1.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "tempesta@idealiagroup.com"
+                    }
+                ],
+                "description": "IDEALIAGroup Multiple Flat Shipping Module with custom text configuration"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/j2t_mobilestats": [
+            {
+                "name": "connect20/J2t_Mobilestats",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/J2t_Mobilestats/1.0.0/J2t_Mobilestats-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "J2T DESIGN",
+                        "email": "contact@j2t-design.net"
+                    }
+                ],
+                "description": "J2T Magento Mobile Stats is creating a bridge between your store and a mobile application!"
+            }
+        ]
+    }
+}

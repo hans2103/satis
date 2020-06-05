@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/order_approval": [
+            {
+                "name": "connect20/Order_approval",
+                "version": "0.4.0.0",
+                "version_normalized": "0.4.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Order_approval/0.4.0.0/Order_approval-0.4.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Anatoly A. Kazantsev",
+                        "email": "anatoly.kazantsev@gmail.com"
+                    }
+                ],
+                "description": "Items can be added to cart, but cannot be checked out until a nominated approver checks the order."
+            },
+            {
+                "name": "connect20/Order_approval",
+                "version": "0.4.1.0",
+                "version_normalized": "0.4.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Order_approval/0.4.1.0/Order_approval-0.4.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Anatoly A. Kazantsev",
+                        "email": "anatoly@zetaprints.com"
+                    }
+                ],
+                "description": "Items can be added to cart, but cannot be checked out until a nominated approver checks the order."
+            }
+        ]
+    }
+}

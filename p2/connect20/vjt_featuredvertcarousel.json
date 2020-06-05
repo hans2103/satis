@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/vjt_featuredvertcarousel": [
+            {
+                "name": "connect20/vjt_featuredvertcarousel",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/vjt_featuredvertcarousel/1.0.0/vjt_featuredvertcarousel-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-V3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "VJ Templates",
+                        "email": "vjt@vjtemplates.com"
+                    }
+                ],
+                "description": "Featured Product Vertical Carousel"
+            }
+        ]
+    }
+}

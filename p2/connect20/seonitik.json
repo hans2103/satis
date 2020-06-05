@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/seonitik": [
+            {
+                "name": "connect20/Seonitik",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Seonitik/1.0/Seonitik-1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Mage-World",
+                        "email": "haint@hello-magento.com"
+                    }
+                ],
+                "description": "Seonitik - Magento Theme"
+            },
+            {
+                "name": "connect20/Seonitik",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Seonitik/1.1/Seonitik-1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Mage-World",
+                        "email": "haint@hello-magento.com"
+                    }
+                ],
+                "description": "Seonitik - Magento Theme"
+            }
+        ]
+    }
+}

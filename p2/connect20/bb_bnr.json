@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/bb_bnr": [
+            {
+                "name": "connect20/bb_bnr",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/bb_bnr/1.0.0/bb_bnr-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "George Babarus",
+                        "email": "george.babarus@gmail.com"
+                    }
+                ],
+                "description": "Automatically import currency rate between RON and others accepted currencies by BNR"
+            },
+            {
+                "name": "connect20/bb_bnr",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/bb_bnr/1.0.1/bb_bnr-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "George Babarus",
+                        "email": "george.babarus@gmail.com"
+                    }
+                ],
+                "description": "Automatically import currency rate between RON and others accepted currencies by BNR"
+            }
+        ]
+    }
+}

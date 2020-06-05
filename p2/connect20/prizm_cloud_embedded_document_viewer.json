@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/prizm_cloud_embedded_document_viewer": [
+            {
+                "name": "connect20/Prizm_Cloud_Embedded_Document_Viewer",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Prizm_Cloud_Embedded_Document_Viewer/0.1.0/Prizm_Cloud_Embedded_Document_Viewer-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL2"
+                ],
+                "authors": [
+                    {
+                        "name": "Accusoft",
+                        "email": "plugins@prizmcloud.com"
+                    }
+                ],
+                "description": "A document viewer that displays over 300 different kinds of files on your website, no additional software."
+            }
+        ]
+    }
+}

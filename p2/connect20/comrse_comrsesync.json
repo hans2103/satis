@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/comrse_comrsesync": [
+            {
+                "name": "connect20/Comrse_ComrseSync",
+                "version": "1.1.5.3",
+                "version_normalized": "1.1.5.3",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Comrse_ComrseSync/1.1.5.3/Comrse_ComrseSync-1.1.5.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "LGPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Comr.se",
+                        "email": "nate@comr.se"
+                    }
+                ],
+                "description": "Comr.se Integration"
+            },
+            {
+                "name": "connect20/Comrse_ComrseSync",
+                "version": "1.1.6",
+                "version_normalized": "1.1.6.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Comrse_ComrseSync/1.1.6/Comrse_ComrseSync-1.1.6.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "LGPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Nate Rogers",
+                        "email": "nate@comr.se"
+                    }
+                ],
+                "description": "Comr.se Integration"
+            }
+        ]
+    }
+}

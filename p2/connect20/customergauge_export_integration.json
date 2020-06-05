@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/customergauge_export_integration": [
+            {
+                "name": "connect20/CustomerGauge_Export_Integration",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CustomerGauge_Export_Integration/1.1.1/CustomerGauge_Export_Integration-1.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Manas Kanti Dey",
+                        "email": "manas.dey@directness.net"
+                    }
+                ],
+                "description": "CustomerGauge Import sends order information of the Magento to CustomeGauge Platform."
+            },
+            {
+                "name": "connect20/CustomerGauge_Export_Integration",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CustomerGauge_Export_Integration/1.1.2/CustomerGauge_Export_Integration-1.1.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Manas Kanti Dey",
+                        "email": "manas.dey@directness.net"
+                    }
+                ],
+                "description": "CustomerGauge Import sends order information of the Magento to CustomeGauge Platform."
+            }
+        ]
+    }
+}

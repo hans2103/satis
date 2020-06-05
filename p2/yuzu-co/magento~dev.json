@@ -1,0 +1,45 @@
+{
+    "packages": {
+        "yuzu-co/magento": [
+            {
+                "name": "yuzu-co/magento",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/yuzu-co/magento.git",
+                    "reference": "27e6fd0aa1ac11bd2cf428dd3ffce1d44b91a7c6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/yuzu-co/magento/zipball/27e6fd0aa1ac11bd2cf428dd3ffce1d44b91a7c6",
+                    "reference": "27e6fd0aa1ac11bd2cf428dd3ffce1d44b91a7c6",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6.0"
+                },
+                "replace": {
+                    "connect20/yuzu": "1.*"
+                },
+                "time": "2018-05-21T16:20:51+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Tech Team",
+                        "email": "tech@yuzu.co"
+                    }
+                ],
+                "description": "Official Magento Plugin to connect to Yuzu.",
+                "homepage": "https://github.com/yuzu-co/magento",
+                "support": {
+                    "source": "https://github.com/yuzu-co/magento/tree/2.0.8",
+                    "issues": "https://github.com/yuzu-co/magento/issues"
+                }
+            }
+        ]
+    }
+}

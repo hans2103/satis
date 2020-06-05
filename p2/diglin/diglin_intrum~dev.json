@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "diglin/diglin_intrum": [
+            {
+                "name": "diglin/diglin_intrum",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Intrum.git",
+                    "reference": "239aac906c355811ee0e4a617e6998ad6170c947"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Intrum/zipball/239aac906c355811ee0e4a617e6998ad6170c947",
+                    "reference": "239aac906c355811ee0e4a617e6998ad6170c947",
+                    "shasum": ""
+                },
+                "require": {
+                    "diglin/intrum": "1.*"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "mikey179/vfsstream": ">=1.2.0"
+                },
+                "time": "2016-09-20T23:27:14+00:00",
+                "type": "magento-module",
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Sylvain Raye",
+                        "email": "support@diglin.com"
+                    }
+                ],
+                "description": "Magento Extension for the Justitia Intrum Credit Check Service",
+                "support": {
+                    "source": "https://github.com/diglin/Diglin_Intrum/tree/master"
+                }
+            }
+        ]
+    }
+}

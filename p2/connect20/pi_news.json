@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/pi_news": [
+            {
+                "name": "connect20/PI_News",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/PI_News/0.1.0/PI_News-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "pureimagination",
+                        "email": "johncarter15oct@gmail.com"
+                    }
+                ],
+                "description": "This extension is use to add news section."
+            }
+        ]
+    }
+}

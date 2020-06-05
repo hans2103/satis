@@ -1,0 +1,46 @@
+{
+    "packages": {
+        "riconeitzel/vertical-navigation": [
+            {
+                "name": "riconeitzel/vertical-navigation",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/riconeitzel/VertNav.git",
+                    "reference": "1799abd10db7f653a57a4dd5c89cc269797cf2ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/riconeitzel/VertNav/zipball/1799abd10db7f653a57a4dd5c89cc269797cf2ce",
+                    "reference": "1799abd10db7f653a57a4dd5c89cc269797cf2ce",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-24T00:54:21+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rico Neitzel",
+                        "email": "mail@riconeitzel.de"
+                    },
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Vertical Navigation with CSS Classes.",
+                "homepage": "https://github.com/riconeitzel/VertNav",
+                "support": {
+                    "source": "https://github.com/riconeitzel/VertNav/tree/master",
+                    "issues": "https://github.com/riconeitzel/VertNav/issues"
+                }
+            }
+        ]
+    }
+}

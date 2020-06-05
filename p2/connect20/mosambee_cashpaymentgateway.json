@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/mosambee_cashpaymentgateway": [
+            {
+                "name": "connect20/Mosambee_CashPaymentGateway",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mosambee_CashPaymentGateway/1.0.0/Mosambee_CashPaymentGateway-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Mosambee",
+                        "email": "magento@mosambee.in"
+                    }
+                ],
+                "description": "Mosambee.Cash Payemt gateway provide wallets payment."
+            },
+            {
+                "name": "connect20/Mosambee_CashPaymentGateway",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mosambee_CashPaymentGateway/1.0.1/Mosambee_CashPaymentGateway-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Mosambee Cash",
+                        "email": "techsupport@mosambee.in"
+                    }
+                ],
+                "description": "Provide wallet payment service in magento store."
+            }
+        ]
+    }
+}

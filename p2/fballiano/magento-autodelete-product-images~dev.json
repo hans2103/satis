@@ -1,0 +1,45 @@
+{
+    "packages": {
+        "fballiano/magento-autodelete-product-images": [
+            {
+                "name": "fballiano/magento-autodelete-product-images",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fballiano/magento-autodelete-product-images.git",
+                    "reference": "e598668c441fec71b65f75c640df58d1444acd6d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/fballiano/magento-autodelete-product-images/zipball/e598668c441fec71b65f75c640df58d1444acd6d",
+                    "reference": "e598668c441fec71b65f75c640df58d1444acd6d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3.0"
+                },
+                "time": "2016-01-04T19:51:30+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Balliano",
+                        "email": "fabrizio@fabrizioballiano.it",
+                        "homepage": "http://fabrizioballiano.it",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Delete images files from filesystem when an image is removed from the product or the product is deleted.",
+                "homepage": "https://github.com/fballiano/magento-autodelete-product-images",
+                "support": {
+                    "source": "https://github.com/fballiano/magento-autodelete-product-images/tree/master",
+                    "issues": "https://github.com/fballiano/magento-autodelete-product-images/issues"
+                }
+            }
+        ]
+    }
+}

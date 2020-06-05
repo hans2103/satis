@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/theme_green": [
+            {
+                "name": "connect20/Theme_Green",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Theme_Green/1.0.0.1/Theme_Green-1.0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Go4Templage",
+                        "email": "go4template@live.com"
+                    }
+                ],
+                "description": "Theme Green is a clean & easy installable Magento theme."
+            }
+        ]
+    }
+}

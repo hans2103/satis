@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/phxsolution_autoinvoiceshipment": [
+            {
+                "name": "connect20/Phxsolution_Autoinvoiceshipment",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Phxsolution_Autoinvoiceshipment/0.1.0/Phxsolution_Autoinvoiceshipment-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSLv3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Prakash Vaniya",
+                        "email": "contact@phxsolution.com"
+                    }
+                ],
+                "description": "Payment processing module designed to generate invoice/shipment automatically after order is placed."
+            },
+            {
+                "name": "connect20/Phxsolution_Autoinvoiceshipment",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Phxsolution_Autoinvoiceshipment/0.2.0/Phxsolution_Autoinvoiceshipment-0.2.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSLv3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Prakash Vaniya",
+                        "email": "contact@phxsolution.com"
+                    }
+                ],
+                "description": "Releasing version 0.2.0, Fixed auto shipment issue."
+            }
+        ]
+    }
+}

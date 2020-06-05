@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "aydus/productlinks": [
+            {
+                "name": "aydus/productlinks",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/Productlinks.git",
+                    "reference": "fa880c20e083618027f4403209d043de4f30218e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/Productlinks/zipball/fa880c20e083618027f4403209d043de4f30218e",
+                    "reference": "fa880c20e083618027f4403209d043de4f30218e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2015-05-27T16:27:01+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "davidt@aydus.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Automate adding related, upsell and cross-sell links to your catalog based on most bought and most viewed.",
+                "homepage": "https://github.com/aydus/Productlinks.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/Productlinks/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/Productlinks/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "packages": {
+        "connect20/svitla_i_bought_it": [
+            {
+                "name": "connect20/Svitla_I_Bought_It",
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Svitla_I_Bought_It/0.3.0/Svitla_I_Bought_It-0.3.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Svitla",
+                        "email": "info@svitla.com"
+                    }
+                ],
+                "description": "Svitla_I_Bought_It 0.3.0v"
+            },
+            {
+                "name": "connect20/Svitla_I_Bought_It",
+                "version": "0.3.1",
+                "version_normalized": "0.3.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Svitla_I_Bought_It/0.3.1/Svitla_I_Bought_It-0.3.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.5.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Svitla",
+                        "email": "info@svitla.com"
+                    }
+                ],
+                "description": "Svitla_I_Bought_It v 0.3.1"
+            }
+        ]
+    }
+}

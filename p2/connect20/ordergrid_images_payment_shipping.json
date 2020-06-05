@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/ordergrid_images_payment_shipping": [
+            {
+                "name": "connect20/Ordergrid_Images_Payment_Shipping",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ordergrid_Images_Payment_Shipping/2.0.2/Ordergrid_Images_Payment_Shipping-2.0.2.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.5"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "mailsupertron",
+                        "email": "susmit.supertron@gmail.com"
+                    }
+                ],
+                "description": "We have integrated advanced features of order grid that will improve and ease order processing procedure"
+            }
+        ]
+    }
+}

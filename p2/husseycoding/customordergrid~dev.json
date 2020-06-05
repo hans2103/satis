@@ -1,0 +1,46 @@
+{
+    "packages": {
+        "husseycoding/customordergrid": [
+            {
+                "name": "husseycoding/customordergrid",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/husseycoding/customordergrid.git",
+                    "reference": "b9b3250592373358e71707787b067c0ec1adccbf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/husseycoding/customordergrid/zipball/b9b3250592373358e71707787b067c0ec1adccbf",
+                    "reference": "b9b3250592373358e71707787b067c0ec1adccbf",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-07-11T08:21:36+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jonathan Hussey",
+                        "email": "hussey@husseycoding.co.uk"
+                    },
+                    {
+                        "name": "Nicolas Belisle",
+                        "email": "nico@husseycoding.co.uk"
+                    }
+                ],
+                "description": "Sort and filter the sales order grid by many different columns.",
+                "homepage": "https://github.com/husseycoding/customordergrid",
+                "support": {
+                    "source": "https://github.com/husseycoding/customordergrid/tree/v1.1.6",
+                    "issues": "https://github.com/husseycoding/customordergrid/issues"
+                }
+            }
+        ]
+    }
+}

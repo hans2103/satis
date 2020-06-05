@@ -1,0 +1,156 @@
+{
+    "packages": {
+        "magento/services-connector": [
+            {
+                "name": "magento/services-connector",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/services-connector/magento-services-connector-1.0.1.0.zip",
+                    "shasum": "06075d63d9ce6033087c27f7289f4ca32209ec48"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "6.*",
+                    "guzzlehttp/psr7": "~1.0",
+                    "magento/framework": ">=101.0.0",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ServicesConnector\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Saas utilities module"
+            },
+            {
+                "name": "magento/services-connector",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/services-connector/magento-services-connector-1.0.2.0.zip",
+                    "shasum": "2f727137a9bdf6b684ca694dc71b87acbaf90a0f"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "6.*",
+                    "guzzlehttp/psr7": "~1.0",
+                    "magento/framework": ">=101.0.0",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ServicesConnector\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Saas utilities module"
+            },
+            {
+                "name": "magento/services-connector",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/services-connector/magento-services-connector-1.0.3.0.zip",
+                    "shasum": "7a602cfcbb2c66c559d0df8cce8a698effc9e711"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "6.*",
+                    "guzzlehttp/psr7": "~1.0",
+                    "magento/framework": ">=101.0.0",
+                    "php": "~7.0.2||~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ServicesConnector\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Saas utilities module"
+            },
+            {
+                "name": "magento/services-connector",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/services-connector/magento-services-connector-1.0.4.0.zip",
+                    "shasum": "5c0753e6b3aeb86d0dbffc126f2318a14df9d893"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "6.*",
+                    "guzzlehttp/psr7": "~1.0",
+                    "magento/framework": ">=101.0.0",
+                    "php": "~7.0.2||~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ServicesConnector\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Saas utilities module"
+            },
+            {
+                "name": "magento/services-connector",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/services-connector/magento-services-connector-1.0.5.0.zip",
+                    "shasum": "3f0ec08eb1fd15502f010f55e16c7b2ecb7316b8"
+                },
+                "require": {
+                    "guzzlehttp/guzzle": "6.*",
+                    "guzzlehttp/psr7": "~1.0",
+                    "magento/framework": ">=101.0.0",
+                    "php": "~7.0.2||~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ServicesConnector\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Saas utilities module"
+            }
+        ]
+    }
+}

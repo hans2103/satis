@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "magento/google-shopping-ads-bundle": [
+            {
+                "name": "magento/google-shopping-ads-bundle",
+                "version": "3.0.1",
+                "version_normalized": "3.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/google-shopping-ads-bundle/magento-google-shopping-ads-bundle-3.0.1.0.zip",
+                    "shasum": "2e1f4944454936f6fd602cdc362fe9c41803bf6b"
+                },
+                "require": {
+                    "magento/google-shopping-ads": "3.0.1"
+                },
+                "type": "metapackage",
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Bundling metapackage for magento/google-shopping-ads: Connect your Magento admin with Google Merchant Center and Google Ads. Leverage Google machine learning through Google Smart Shopping campaigns"
+            },
+            {
+                "name": "magento/google-shopping-ads-bundle",
+                "version": "3.0.2",
+                "version_normalized": "3.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/google-shopping-ads-bundle/magento-google-shopping-ads-bundle-3.0.2.0.zip",
+                    "shasum": "1b215b6f614848a16054ba2e98dc31aad86c8033"
+                },
+                "require": {
+                    "magento/google-shopping-ads": "3.0.2"
+                },
+                "type": "metapackage",
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Bundling metapackage for magento/google-shopping-ads: Connect your Magento admin with Google Merchant Center and Google Ads. Leverage Google machine learning through Google Smart Shopping campaigns"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/easymultiwebsite_creation": [
+            {
+                "name": "connect20/EasyMultiwebsite_Creation",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/EasyMultiwebsite_Creation/1.0.0/EasyMultiwebsite_Creation-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "commercebees",
+                        "email": "support@commercebees.com"
+                    }
+                ],
+                "description": "EasyMultiwebsite creation module allows to create multiple website in a single step and also allows to delete the website that is created"
+            }
+        ]
+    }
+}

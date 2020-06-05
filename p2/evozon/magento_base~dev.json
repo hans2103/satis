@@ -1,0 +1,126 @@
+{
+    "packages": {
+        "evozon/magento_base": [
+            {
+                "name": "evozon/magento_base",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/evozon/magento_base.git",
+                    "reference": "032a0b7423b89484fe5502a1ee18abdadba0a91d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/evozon/magento_base/zipball/032a0b7423b89484fe5502a1ee18abdadba0a91d",
+                    "reference": "032a0b7423b89484fe5502a1ee18abdadba0a91d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "suggest": {
+                    "evozon/magento_core": "Magento module that fixes common problems.",
+                    "n98/magerun": "Tools for managing Magento projects and installations."
+                },
+                "time": "2016-09-23T13:56:26+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Evozon/Base",
+                            "app/code/community/Evozon/Base"
+                        ],
+                        [
+                            "app/etc/modules/Evozon_Base.xml",
+                            "app/etc/modules/Evozon_Base.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Constantin Bejenaru",
+                        "email": "constantin.bejenaru@evozon.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Base module for other modules developed by Evozon Systems",
+                "homepage": "https://github.com/evozon/magento_base",
+                "keywords": [
+                    "base",
+                    "extension",
+                    "magento",
+                    "module"
+                ],
+                "support": {
+                    "issues": "https://github.com/evozon/magento_base/issues",
+                    "wiki": "https://github.com/evozon/magento_base/wiki",
+                    "source": "https://github.com/evozon/magento_base"
+                }
+            },
+            {
+                "name": "evozon/magento_base",
+                "version": "dev-development",
+                "version_normalized": "dev-development",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/evozon/magento_base.git",
+                    "reference": "2ae04891de3d9a27cbcf946880bf5ca4c52170bd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/evozon/magento_base/zipball/2ae04891de3d9a27cbcf946880bf5ca4c52170bd",
+                    "reference": "2ae04891de3d9a27cbcf946880bf5ca4c52170bd",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "suggest": {
+                    "evozon/magento_core": "Magento module that fixes common problems.",
+                    "n98/magerun": "Tools for managing Magento projects and installations."
+                },
+                "time": "2015-11-26T13:27:24+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Evozon/Base",
+                            "app/code/community/Evozon/Base"
+                        ],
+                        [
+                            "app/etc/modules/Evozon_Base.xml",
+                            "app/etc/modules/Evozon_Base.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Constantin Bejenaru",
+                        "email": "constantin.bejenaru@evozon.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Base module for other modules developed by Evozon Systems",
+                "homepage": "https://github.com/evozon/magento_base",
+                "keywords": [
+                    "base",
+                    "extension",
+                    "magento",
+                    "module"
+                ],
+                "support": {
+                    "issues": "https://github.com/evozon/magento_base/issues",
+                    "wiki": "https://github.com/evozon/magento_base/wiki",
+                    "source": "https://github.com/evozon/magento_base"
+                }
+            }
+        ]
+    }
+}

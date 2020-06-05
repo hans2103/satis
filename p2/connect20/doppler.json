@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/doppler": [
+            {
+                "name": "connect20/doppler",
+                "version": "0.1.6",
+                "version_normalized": "0.1.6.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/doppler/0.1.6/doppler-0.1.6.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Diego Noya",
+                        "email": "info@fromdoppler.com"
+                    }
+                ],
+                "description": "Integrate your Magento Ecommerce with the #1 Email Marketing app in Latin America."
+            },
+            {
+                "name": "connect20/doppler",
+                "version": "0.1.6.1",
+                "version_normalized": "0.1.6.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/doppler/0.1.6.1/doppler-0.1.6.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Diego Noya",
+                        "email": "info@fromdoppler.com"
+                    }
+                ],
+                "description": "Integrate your Magento Ecommerce with the #1 Email Marketing app in Latin America."
+            }
+        ]
+    }
+}

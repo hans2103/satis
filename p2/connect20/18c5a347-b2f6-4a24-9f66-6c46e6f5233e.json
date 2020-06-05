@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/18c5a347-b2f6-4a24-9f66-6c46e6f5233e": [
+            {
+                "name": "connect20/18c5a347-b2f6-4a24-9f66-6c46e6f5233e",
+                "version": "0.0.5",
+                "version_normalized": "0.0.5.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Marktfeed/0.0.5/Marktfeed-0.0.5.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT-License"
+                ],
+                "authors": [
+                    {
+                        "name": "EasyAds",
+                        "email": "development@easyads.eu"
+                    }
+                ],
+                "description": "Marktfeed is dé tool voor webshophouders die producten volledig automatisch op Marktplaats willen plaatsen."
+            }
+        ]
+    }
+}

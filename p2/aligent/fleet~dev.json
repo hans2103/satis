@@ -1,0 +1,36 @@
+{
+    "packages": {
+        "aligent/fleet": [
+            {
+                "name": "aligent/fleet",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Magento_Fleet.git",
+                    "reference": "360e108ee6d29ca09a9a0dae103540272cc90a50"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Magento_Fleet/zipball/360e108ee6d29ca09a9a0dae103540272cc90a50",
+                    "reference": "360e108ee6d29ca09a9a0dae103540272cc90a50",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-10-02T06:49:19+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Applies necessary configurations for hosting on Anchor Fleet",
+                "homepage": "https://github.com/aligent/Magento_Fleet",
+                "support": {
+                    "source": "https://github.com/aligent/Magento_Fleet/tree/0.0.1",
+                    "issues": "https://github.com/aligent/Magento_Fleet/issues"
+                }
+            }
+        ]
+    }
+}

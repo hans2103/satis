@@ -1,0 +1,339 @@
+{
+    "packages": {
+        "ecocode/magento_profiler": [
+            {
+                "name": "ecocode/magento_profiler",
+                "version": "v1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ecoco/magento_profiler.git",
+                    "reference": "a2ff5436089e3260c1ac340578013c254809e490"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ecoco/magento_profiler/zipball/a2ff5436089e3260c1ac340578013c254809e490",
+                    "reference": "a2ff5436089e3260c1ac340578013c254809e490",
+                    "shasum": ""
+                },
+                "require": {
+                    "jdorn/sql-formatter": "^1.2",
+                    "magento-hackathon/magento-composer-installer": "^3.0",
+                    "php": ">=5.4",
+                    "symfony/debug": "^3.1",
+                    "symfony/yaml": "^3.1"
+                },
+                "time": "2016-09-27T15:51:57+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Justus Krapp",
+                        "email": "jk@ecocode.de"
+                    }
+                ],
+                "description": "Web Profiler for Magento 1.x",
+                "support": {
+                    "source": "https://github.com/ecoco/magento_profiler/tree/v1.0.0",
+                    "issues": "https://github.com/ecoco/magento_profiler/issues"
+                }
+            },
+            {
+                "name": "ecocode/magento_profiler",
+                "version": "v1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ecoco/magento_profiler.git",
+                    "reference": "a0630a7e249644ed37b081ab70e1c49f4ad4855d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ecoco/magento_profiler/zipball/a0630a7e249644ed37b081ab70e1c49f4ad4855d",
+                    "reference": "a0630a7e249644ed37b081ab70e1c49f4ad4855d",
+                    "shasum": ""
+                },
+                "require": {
+                    "jdorn/sql-formatter": "^1.2",
+                    "magento-hackathon/magento-composer-installer": "^3.0",
+                    "php": ">=5.4",
+                    "symfony/debug": "^3.1",
+                    "symfony/yaml": "^3.1"
+                },
+                "time": "2016-09-29T15:57:33+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Justus Krapp",
+                        "email": "jk@ecocode.de"
+                    }
+                ],
+                "description": "Web Profiler for Magento 1.x",
+                "support": {
+                    "source": "https://github.com/ecoco/magento_profiler/tree/v1.0.1",
+                    "issues": "https://github.com/ecoco/magento_profiler/issues"
+                }
+            },
+            {
+                "name": "ecocode/magento_profiler",
+                "version": "v1.0.11",
+                "version_normalized": "1.0.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ecoco/magento_profiler.git",
+                    "reference": "08f965c17e753e22870b9421c3a43912189915bf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ecoco/magento_profiler/zipball/08f965c17e753e22870b9421c3a43912189915bf",
+                    "reference": "08f965c17e753e22870b9421c3a43912189915bf",
+                    "shasum": ""
+                },
+                "require": {
+                    "jdorn/sql-formatter": "^1.2",
+                    "magento-hackathon/magento-composer-installer": "^3.0",
+                    "php": ">=5.4",
+                    "symfony/debug": "^3.1",
+                    "symfony/yaml": "^3.1"
+                },
+                "time": "2016-10-01T01:10:17+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Justus Krapp",
+                        "email": "jk@ecocode.de"
+                    }
+                ],
+                "description": "Web Profiler for Magento 1.x",
+                "support": {
+                    "source": "https://github.com/ecoco/magento_profiler/tree/v1.0.11",
+                    "issues": "https://github.com/ecoco/magento_profiler/issues"
+                }
+            },
+            {
+                "name": "ecocode/magento_profiler",
+                "version": "v1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ecoco/magento_profiler.git",
+                    "reference": "7c0e23fc045704b66ed4752d04cbcfd3465061e4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ecoco/magento_profiler/zipball/7c0e23fc045704b66ed4752d04cbcfd3465061e4",
+                    "reference": "7c0e23fc045704b66ed4752d04cbcfd3465061e4",
+                    "shasum": ""
+                },
+                "require": {
+                    "jdorn/sql-formatter": "^1.2",
+                    "magento-hackathon/magento-composer-installer": "^3.0",
+                    "monolog/monolog": "~1.11",
+                    "php": ">=5.5.9",
+                    "symfony/debug": "^3.0",
+                    "symfony/yaml": "^3.1"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~4.0|~5.0",
+                    "satooshi/php-coveralls": "~1.0"
+                },
+                "time": "2016-10-10T14:41:40+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Justus Krapp",
+                        "email": "jk@ecocode.de"
+                    }
+                ],
+                "description": "Web Profiler for Magento 1.x",
+                "homepage": "https://github.com/ecoco/magento_profiler",
+                "keywords": [
+                    "Magento",
+                    "logging",
+                    "performance",
+                    "profiler",
+                    "toolbar"
+                ],
+                "support": {
+                    "wiki": "https://github.com/ecoco/magento_profiler/wiki",
+                    "issues": "https://github.com/ecoco/magento_profiler/issues",
+                    "source": "https://github.com/ecoco/magento_profiler"
+                }
+            },
+            {
+                "name": "ecocode/magento_profiler",
+                "version": "v1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ecoco/magento_profiler.git",
+                    "reference": "00b1452457960a97cdb9749b62b5807ea3171d84"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ecoco/magento_profiler/zipball/00b1452457960a97cdb9749b62b5807ea3171d84",
+                    "reference": "00b1452457960a97cdb9749b62b5807ea3171d84",
+                    "shasum": ""
+                },
+                "require": {
+                    "jdorn/sql-formatter": "^1.2",
+                    "magento-hackathon/magento-composer-installer": "^3.0",
+                    "monolog/monolog": "~1.11",
+                    "php": ">=5.5.9",
+                    "symfony/debug": "^3.0",
+                    "symfony/yaml": "^3.1"
+                },
+                "require-dev": {
+                    "phpmd/phpmd": "^2.4",
+                    "phpunit/phpunit": "~4.0|~5.0",
+                    "satooshi/php-coveralls": "~1.0"
+                },
+                "time": "2016-10-19T13:37:10+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Justus Krapp",
+                        "email": "jk@ecocode.de"
+                    }
+                ],
+                "description": "Web Profiler for Magento 1.x",
+                "homepage": "https://github.com/ecoco/magento_profiler",
+                "keywords": [
+                    "Magento",
+                    "logging",
+                    "performance",
+                    "profiler",
+                    "toolbar"
+                ],
+                "support": {
+                    "wiki": "https://github.com/ecoco/magento_profiler/wiki",
+                    "issues": "https://github.com/ecoco/magento_profiler/issues",
+                    "source": "https://github.com/ecoco/magento_profiler"
+                }
+            },
+            {
+                "name": "ecocode/magento_profiler",
+                "version": "v1.2.1",
+                "version_normalized": "1.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ecoco/magento_profiler.git",
+                    "reference": "4ea206f6b359acb6777af89901e869ed0e9ecd9e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ecoco/magento_profiler/zipball/4ea206f6b359acb6777af89901e869ed0e9ecd9e",
+                    "reference": "4ea206f6b359acb6777af89901e869ed0e9ecd9e",
+                    "shasum": ""
+                },
+                "require": {
+                    "jdorn/sql-formatter": "^1.2",
+                    "magento-hackathon/magento-composer-installer": "^3.0",
+                    "monolog/monolog": "~1.11",
+                    "php": ">=5.5.9",
+                    "symfony/debug": "^3.0",
+                    "symfony/yaml": "^3.1"
+                },
+                "require-dev": {
+                    "phpmd/phpmd": "^2.4",
+                    "phpunit/phpunit": "~4.0|~5.0",
+                    "satooshi/php-coveralls": "~1.0"
+                },
+                "time": "2016-10-24T12:54:50+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Justus Krapp",
+                        "email": "jk@ecocode.de"
+                    }
+                ],
+                "description": "Web Profiler for Magento 1.x",
+                "homepage": "https://github.com/ecoco/magento_profiler",
+                "keywords": [
+                    "Magento",
+                    "logging",
+                    "performance",
+                    "profiler",
+                    "toolbar"
+                ],
+                "support": {
+                    "wiki": "https://github.com/ecoco/magento_profiler/wiki",
+                    "issues": "https://github.com/ecoco/magento_profiler/issues",
+                    "source": "https://github.com/ecoco/magento_profiler"
+                }
+            },
+            {
+                "name": "ecocode/magento_profiler",
+                "version": "v1.3.0",
+                "version_normalized": "1.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ecoco/magento_profiler.git",
+                    "reference": "b611f48ceacdd9ccc03147be08e518e9fd2a7144"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ecoco/magento_profiler/zipball/b611f48ceacdd9ccc03147be08e518e9fd2a7144",
+                    "reference": "b611f48ceacdd9ccc03147be08e518e9fd2a7144",
+                    "shasum": ""
+                },
+                "require": {
+                    "jdorn/sql-formatter": "^1.2",
+                    "magento-hackathon/magento-composer-installer": "^3.0",
+                    "monolog/monolog": "~1.11",
+                    "php": ">=5.5.9",
+                    "symfony/debug": "^3.0",
+                    "symfony/stopwatch": "^3.2",
+                    "symfony/yaml": "^3.1"
+                },
+                "require-dev": {
+                    "phpmd/phpmd": "^2.4",
+                    "phpunit/phpunit": "~4.0|~5.0",
+                    "satooshi/php-coveralls": "~1.0"
+                },
+                "time": "2016-12-12T17:23:11+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Justus Krapp",
+                        "email": "jk@ecocode.de"
+                    }
+                ],
+                "description": "Web Profiler for Magento 1.x",
+                "homepage": "https://github.com/ecoco/magento_profiler",
+                "keywords": [
+                    "Magento",
+                    "logging",
+                    "performance",
+                    "profiler",
+                    "toolbar"
+                ],
+                "support": {
+                    "wiki": "https://github.com/ecoco/magento_profiler/wiki",
+                    "issues": "https://github.com/ecoco/magento_profiler/issues",
+                    "source": "https://github.com/ecoco/magento_profiler"
+                }
+            }
+        ]
+    }
+}

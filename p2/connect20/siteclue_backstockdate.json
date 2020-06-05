@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/siteclue_backstockdate": [
+            {
+                "name": "connect20/SiteClue_BackStockDate",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SiteClue_BackStockDate/1.0.0/SiteClue_BackStockDate-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Academic-Free-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Site Clue",
+                        "email": "siteclue@gmail.com"
+                    }
+                ],
+                "description": "Back in stock date show the date when your “Out of Stock” product is back to “In Stock” in product  page."
+            }
+        ]
+    }
+}

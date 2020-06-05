@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "aydus/blogwidget": [
+            {
+                "name": "aydus/blogwidget",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/BlogWidget.git",
+                    "reference": "dc79733edba58c62e4f984e8be34763aea3bdea4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/BlogWidget/zipball/dc79733edba58c62e4f984e8be34763aea3bdea4",
+                    "reference": "dc79733edba58c62e4f984e8be34763aea3bdea4",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2015-08-11T17:42:25+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "davidt@aydus.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Show a list of blog articles in a widget.",
+                "homepage": "https://github.com/aydus/BlogWidget.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/BlogWidget/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/BlogWidget/issues"
+                }
+            }
+        ]
+    }
+}

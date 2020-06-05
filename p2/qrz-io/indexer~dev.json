@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "qrz-io/indexer": [
+            {
+                "name": "qrz-io/indexer",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/qrz-io/indexer.git",
+                    "reference": "837a26cb5dea69d2cae65732c09a2669cd498d42"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/qrz-io/indexer/zipball/837a26cb5dea69d2cae65732c09a2669cd498d42",
+                    "reference": "837a26cb5dea69d2cae65732c09a2669cd498d42",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-15T21:37:32+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Cristian Quiroz",
+                        "email": "cris@qrz.io"
+                    }
+                ],
+                "description": "Adds Reindex options in the admin panel. Mimics shell/indexer.php",
+                "homepage": "https://github.com/qrz-io/indexer",
+                "support": {
+                    "source": "https://github.com/qrz-io/indexer/tree/master",
+                    "issues": "https://github.com/qrz-io/indexer/issues"
+                }
+            }
+        ]
+    }
+}

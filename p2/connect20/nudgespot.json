@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/nudgespot": [
+            {
+                "name": "connect20/nudgespot",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/nudgespot/1.0.0/nudgespot-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Massachusetts-Institute-of-Technology-License-(MITL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Nudgespot Technologies Inc",
+                        "email": "magento@nudgespot.com"
+                    }
+                ],
+                "description": "Nudgespot lets you communicate with your customers (via email/sms), based on their interactions on your store."
+            }
+        ]
+    }
+}

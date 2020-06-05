@@ -1,0 +1,72 @@
+{
+    "packages": {
+        "bugsnag/bugsnag-magento": [
+            {
+                "name": "bugsnag/bugsnag-magento",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bugsnag/bugsnag-magento.git",
+                    "reference": "11c651abb5faf0bc0712b31a1b84cb94707f3848"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bugsnag/bugsnag-magento/zipball/11c651abb5faf0bc0712b31a1b84cb94707f3848",
+                    "reference": "11c651abb5faf0bc0712b31a1b84cb94707f3848",
+                    "shasum": ""
+                },
+                "require": {
+                    "bugsnag/bugsnag": "^2.0",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-05-10T05:15:41+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "."
+                },
+                "license": [
+                    "MIT"
+                ],
+                "description": "Magento extension for bugsnag.com",
+                "support": {
+                    "source": "https://github.com/bugsnag/bugsnag-magento/tree/master",
+                    "issues": "https://github.com/bugsnag/bugsnag-magento/issues"
+                }
+            },
+            {
+                "name": "bugsnag/bugsnag-magento",
+                "version": "dev-handled-unhandled",
+                "version_normalized": "dev-handled-unhandled",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bugsnag/bugsnag-magento.git",
+                    "reference": "f97b2cea0f6352836f22863967e0a23616badd4f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bugsnag/bugsnag-magento/zipball/f97b2cea0f6352836f22863967e0a23616badd4f",
+                    "reference": "f97b2cea0f6352836f22863967e0a23616badd4f",
+                    "shasum": ""
+                },
+                "require": {
+                    "bugsnag/bugsnag": "^2.0",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-09-18T11:09:19+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "."
+                },
+                "license": [
+                    "MIT"
+                ],
+                "description": "Magento extension for bugsnag.com",
+                "support": {
+                    "source": "https://github.com/bugsnag/bugsnag-magento/tree/handled-unhandled",
+                    "issues": "https://github.com/bugsnag/bugsnag-magento/issues"
+                }
+            }
+        ]
+    }
+}

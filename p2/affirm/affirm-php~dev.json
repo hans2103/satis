@@ -1,0 +1,231 @@
+{
+    "packages": {
+        "affirm/affirm-php": [
+            {
+                "name": "affirm/affirm-php",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Affirm/Magento_Affirm.git",
+                    "reference": "b35ddd82eecef7ced0c8d70fe30b5e7403fd56b7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Affirm/Magento_Affirm/zipball/b35ddd82eecef7ced0c8d70fe30b5e7403fd56b7",
+                    "reference": "b35ddd82eecef7ced0c8d70fe30b5e7403fd56b7",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.2"
+                },
+                "require-dev": {
+                    "simpletest/simpletest": "1.1.*",
+                    "zendframework/zendframework1": "1.12.6"
+                },
+                "time": "2020-02-13T23:09:35+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Affirm, Inc.",
+                        "homepage": "https://www.affirm.com/company"
+                    }
+                ],
+                "description": "Affirm payment integration for Magento 1",
+                "homepage": "https://www.affirm.com/",
+                "keywords": [
+                    "affirm",
+                    "api",
+                    "consumer finance",
+                    "credit",
+                    "e-commerce",
+                    "payment method"
+                ],
+                "support": {
+                    "source": "https://github.com/Affirm/Magento_Affirm/tree/master",
+                    "issues": "https://github.com/Affirm/Magento_Affirm/issues"
+                }
+            },
+            {
+                "name": "affirm/affirm-php",
+                "version": "dev-dev-3.6.3",
+                "version_normalized": "dev-dev-3.6.3",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Affirm/Magento_Affirm.git",
+                    "reference": "629fe33f3010a73e20ede08618ca0d799cca2ea8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Affirm/Magento_Affirm/zipball/629fe33f3010a73e20ede08618ca0d799cca2ea8",
+                    "reference": "629fe33f3010a73e20ede08618ca0d799cca2ea8",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.2"
+                },
+                "require-dev": {
+                    "simpletest/simpletest": "1.1.*",
+                    "zendframework/zendframework1": "1.12.6"
+                },
+                "time": "2019-12-09T19:34:34+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Affirm, Inc.",
+                        "homepage": "https://www.affirm.com/company"
+                    }
+                ],
+                "description": "Affirm payment integration for Magento 1",
+                "homepage": "https://www.affirm.com/",
+                "keywords": [
+                    "affirm",
+                    "api",
+                    "consumer finance",
+                    "credit",
+                    "e-commerce",
+                    "payment method"
+                ],
+                "support": {
+                    "source": "https://github.com/Affirm/Magento_Affirm/tree/dev-3.6.3",
+                    "issues": "https://github.com/Affirm/Magento_Affirm/issues"
+                }
+            },
+            {
+                "name": "affirm/affirm-php",
+                "version": "dev-explicit-store",
+                "version_normalized": "dev-explicit-store",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Affirm/Magento_Affirm.git",
+                    "reference": "7561c07873cfc2fa724da5824761f15ec65412a9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Affirm/Magento_Affirm/zipball/7561c07873cfc2fa724da5824761f15ec65412a9",
+                    "reference": "7561c07873cfc2fa724da5824761f15ec65412a9",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.2"
+                },
+                "require-dev": {
+                    "simpletest/simpletest": "1.1.*",
+                    "zendframework/zendframework1": "1.12.6"
+                },
+                "time": "2020-02-13T23:09:16+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Affirm, Inc.",
+                        "homepage": "https://www.affirm.com/company"
+                    }
+                ],
+                "description": "Affirm payment integration for Magento 1",
+                "homepage": "https://www.affirm.com/",
+                "keywords": [
+                    "affirm",
+                    "api",
+                    "consumer finance",
+                    "credit",
+                    "e-commerce",
+                    "payment method"
+                ],
+                "support": {
+                    "source": "https://github.com/Affirm/Magento_Affirm/tree/explicit-store",
+                    "issues": "https://github.com/Affirm/Magento_Affirm/issues"
+                }
+            },
+            {
+                "name": "affirm/affirm-php",
+                "version": "dev-no-serial",
+                "version_normalized": "dev-no-serial",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Affirm/Magento_Affirm.git",
+                    "reference": "a56f8566befd9370061cb1041d5c8d7c619af830"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Affirm/Magento_Affirm/zipball/a56f8566befd9370061cb1041d5c8d7c619af830",
+                    "reference": "a56f8566befd9370061cb1041d5c8d7c619af830",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.2"
+                },
+                "require-dev": {
+                    "simpletest/simpletest": "1.1.*",
+                    "zendframework/zendframework1": "1.12.6"
+                },
+                "time": "2019-09-12T22:44:15+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Affirm, Inc.",
+                        "homepage": "https://www.affirm.com/company"
+                    }
+                ],
+                "description": "Affirm payment integration for Magento 1",
+                "homepage": "https://www.affirm.com/",
+                "keywords": [
+                    "affirm",
+                    "api",
+                    "consumer finance",
+                    "credit",
+                    "e-commerce",
+                    "payment method"
+                ],
+                "support": {
+                    "source": "https://github.com/Affirm/Magento_Affirm/tree/no-serial",
+                    "issues": "https://github.com/Affirm/Magento_Affirm/issues"
+                }
+            },
+            {
+                "name": "affirm/affirm-php",
+                "version": "dev-shipping-update",
+                "version_normalized": "dev-shipping-update",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Affirm/Magento_Affirm.git",
+                    "reference": "902dc1a70fc4bc729e6c2e592407ea9ab58743e6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Affirm/Magento_Affirm/zipball/902dc1a70fc4bc729e6c2e592407ea9ab58743e6",
+                    "reference": "902dc1a70fc4bc729e6c2e592407ea9ab58743e6",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.2"
+                },
+                "require-dev": {
+                    "simpletest/simpletest": "1.1.*",
+                    "zendframework/zendframework1": "1.12.6"
+                },
+                "time": "2019-10-22T16:45:37+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Affirm, Inc.",
+                        "homepage": "https://www.affirm.com/company"
+                    }
+                ],
+                "description": "Affirm payment integration for Magento 1",
+                "homepage": "https://www.affirm.com/",
+                "keywords": [
+                    "affirm",
+                    "api",
+                    "consumer finance",
+                    "credit",
+                    "e-commerce",
+                    "payment method"
+                ],
+                "support": {
+                    "source": "https://github.com/Affirm/Magento_Affirm/tree/shipping-update",
+                    "issues": "https://github.com/Affirm/Magento_Affirm/issues"
+                }
+            }
+        ]
+    }
+}

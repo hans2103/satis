@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/smartbear_alertsite": [
+            {
+                "name": "connect20/smartbear_alertsite",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/smartbear_alertsite/2.0.0/smartbear_alertsite-2.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Free"
+                ],
+                "authors": [
+                    {
+                        "name": "SmartBear Software",
+                        "email": "magento-extension@SmartBear.com"
+                    }
+                ],
+                "description": "The AlertSite for Magento extension provides a free service to monitor store availability and performance from the end-user perspective."
+            },
+            {
+                "name": "connect20/smartbear_alertsite",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/smartbear_alertsite/2.0.1/smartbear_alertsite-2.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Free"
+                ],
+                "authors": [
+                    {
+                        "name": "SmartBear Software",
+                        "email": "magento-extension@SmartBear.com"
+                    }
+                ],
+                "description": "The AlertSite for Magento extension provides a free service to monitor store availability and performance from the end-user perspective."
+            }
+        ]
+    }
+}

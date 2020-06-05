@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/lib_pear": [
+            {
+                "name": "connect20/Lib_PEAR",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Lib_PEAR/1.3.1/Lib_PEAR-1.3.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Mixed"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "PEAR Library"
+            },
+            {
+                "name": "connect20/Lib_PEAR",
+                "version": "1.4.0.0",
+                "version_normalized": "1.4.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Lib_PEAR/1.4.0.0/Lib_PEAR-1.4.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Mixed"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "PEAR Library"
+            }
+        ]
+    }
+}

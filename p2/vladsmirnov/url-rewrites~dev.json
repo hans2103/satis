@@ -1,0 +1,46 @@
+{
+    "packages": {
+        "vladsmirnov/url-rewrites": [
+            {
+                "name": "vladsmirnov/url-rewrites",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/vladsmirnov/url-rewrites.git",
+                    "reference": "1f5d0837f71b81166f513439866ca61632635151"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/vladsmirnov/url-rewrites/zipball/1f5d0837f71b81166f513439866ca61632635151",
+                    "reference": "1f5d0837f71b81166f513439866ca61632635151",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-11-30T16:18:43+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-deploystrategy": "copy",
+                    "magento-deploystrategy-dev": "symlink"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Vladyslav Smirnov",
+                        "email": "vladsm088@gmail.com"
+                    }
+                ],
+                "description": "This Magento module prevents creating duplicates in 'core_url_rewrites' table. Also included the dedicated Shell script that allows you to remove the duplicates from the database.",
+                "homepage": "https://github.com/vladsmirnov/url-rewrites",
+                "support": {
+                    "source": "https://github.com/vladsmirnov/url-rewrites/tree/v1.0.1",
+                    "issues": "https://github.com/vladsmirnov/url-rewrites/issues"
+                }
+            }
+        ]
+    }
+}

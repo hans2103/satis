@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/neto_magento_orders_sync": [
+            {
+                "name": "connect20/Neto_Magento_Orders_Sync",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Neto_Magento_Orders_Sync/1.0.0.1/Neto_Magento_Orders_Sync-1.0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Arun",
+                        "email": "arun@dzine-hub.com"
+                    }
+                ],
+                "description": "Enabling all magento merchants to use neto as their multi-channel software, yet continue using the magento as their choice of ecommerce frontend. Use neto as your ecommerce backend, and magento to power your website frontend, and automatically synchronize the sales orders across both the systems."
+            }
+        ]
+    }
+}

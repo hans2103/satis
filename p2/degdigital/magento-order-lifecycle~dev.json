@@ -1,0 +1,39 @@
+{
+    "packages": {
+        "degdigital/magento-order-lifecycle": [
+            {
+                "name": "degdigital/magento-order-lifecycle",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/degdigital/magento-order-lifecycle.git",
+                    "reference": "ce590545dec4d55c68016d58461ef32efcc26fa8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/degdigital/magento-order-lifecycle/zipball/ce590545dec4d55c68016d58461ef32efcc26fa8",
+                    "reference": "ce590545dec4d55c68016d58461ef32efcc26fa8",
+                    "shasum": ""
+                },
+                "require": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2015-04-19T19:01:51+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "../hackathon",
+                    "magento-deploystrategy": "symlink"
+                },
+                "description": "Interface for adding data that pertains to the lifecycle of an order and its children.",
+                "homepage": "https://github.com/degdigital/magento-order-lifecycle",
+                "support": {
+                    "source": "https://github.com/degdigital/magento-order-lifecycle/tree/master",
+                    "issues": "https://github.com/degdigital/magento-order-lifecycle/issues"
+                }
+            }
+        ]
+    }
+}

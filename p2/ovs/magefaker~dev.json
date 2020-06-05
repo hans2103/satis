@@ -1,0 +1,102 @@
+{
+    "packages": {
+        "ovs/magefaker": [
+            {
+                "name": "ovs/magefaker",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ovanschie/mageFaker.git",
+                    "reference": "0523b0cfba5a6bc1fc137a44755ca8df3666462e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ovanschie/mageFaker/zipball/0523b0cfba5a6bc1fc137a44755ca8df3666462e",
+                    "reference": "0523b0cfba5a6bc1fc137a44755ca8df3666462e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.4"
+                },
+                "time": "2017-10-30T10:03:15+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Olav van Schie"
+                    }
+                ],
+                "description": "Sample data generator for Magento",
+                "support": {
+                    "source": "https://github.com/ovanschie/mageFaker/tree/0.8.2",
+                    "issues": "https://github.com/ovanschie/mageFaker/issues"
+                }
+            },
+            {
+                "name": "ovs/magefaker",
+                "version": "dev-analysis-8LRJEn",
+                "version_normalized": "dev-analysis-8LRJEn",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ovanschie/mageFaker.git",
+                    "reference": "86b7a407b4ec6353b53164c197cdf3b2c17c8121"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ovanschie/mageFaker/zipball/86b7a407b4ec6353b53164c197cdf3b2c17c8121",
+                    "reference": "86b7a407b4ec6353b53164c197cdf3b2c17c8121",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.4"
+                },
+                "time": "2017-10-30T10:02:05+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Olav van Schie"
+                    }
+                ],
+                "description": "Sample data generator for Magento",
+                "support": {
+                    "source": "https://github.com/ovanschie/mageFaker/tree/analysis-8LRJEn",
+                    "issues": "https://github.com/ovanschie/mageFaker/issues"
+                }
+            },
+            {
+                "name": "ovs/magefaker",
+                "version": "dev-dev",
+                "version_normalized": "dev-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ovanschie/mageFaker.git",
+                    "reference": "74d1069563a7e40c9657165a7bac2eb7261c5af9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ovanschie/mageFaker/zipball/74d1069563a7e40c9657165a7bac2eb7261c5af9",
+                    "reference": "74d1069563a7e40c9657165a7bac2eb7261c5af9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.4"
+                },
+                "time": "2016-01-22T21:05:27+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Olav van Schie"
+                    }
+                ],
+                "description": "Sample data generator for Magento",
+                "support": {
+                    "source": "https://github.com/ovanschie/mageFaker/tree/dev",
+                    "issues": "https://github.com/ovanschie/mageFaker/issues"
+                }
+            }
+        ]
+    }
+}

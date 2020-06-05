@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "connect20/soclever_sharing_buttons": [
+            {
+                "name": "connect20/soclever_sharing_buttons",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/soclever_sharing_buttons/1.0.0/soclever_sharing_buttons-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/magento_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Soclever Social",
+                        "email": "hemang@socleversocial.com"
+                    }
+                ],
+                "description": "Configurable Facebook, Twitter, Google, Pinterest & more Social buttons with reports"
+            },
+            {
+                "name": "connect20/soclever_sharing_buttons",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/soclever_sharing_buttons/1.0.1/soclever_sharing_buttons-1.0.1.tgz"
+                },
+                "require": {
+                    "connect20/magento_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Soclever Social",
+                        "email": "hemang@socleversocial.com"
+                    }
+                ],
+                "description": "Configurable Facebook, Twitter, Google, Pinterest & more Social buttons with reports"
+            }
+        ]
+    }
+}

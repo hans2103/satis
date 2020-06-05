@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "sgh/bundletierprices": [
+            {
+                "name": "sgh/bundletierprices",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/sgh-it/bundletierprices.git",
+                    "reference": "c45e3052405f02ed3f3607f92755e3c646426c7c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/sgh-it/bundletierprices/zipball/c45e3052405f02ed3f3607f92755e3c646426c7c",
+                    "reference": "c45e3052405f02ed3f3607f92755e3c646426c7c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-10-20T07:52:00+00:00",
+                "type": "magento-module",
+                "license": [
+                    "osl-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabian Schmengler",
+                        "email": "fschmengler@sgh-it.eu"
+                    }
+                ],
+                "description": "Allow tier prices within bundle product options",
+                "homepage": "http://www.sgh-it.eu/",
+                "support": {
+                    "source": "https://github.com/sgh-it/bundletierprices/tree/master",
+                    "issues": "https://github.com/sgh-it/bundletierprices/issues"
+                }
+            }
+        ]
+    }
+}

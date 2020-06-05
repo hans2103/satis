@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/zoniz": [
+            {
+                "name": "connect20/Zoniz",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Zoniz/0.1.0/Zoniz-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License"
+                ],
+                "authors": [
+                    {
+                        "name": "paul",
+                        "email": "paul@zoniz.com"
+                    }
+                ],
+                "description": "Zoniz Magento Extensions link products in Magento stores to Zoniz Social Media Marketing Platform. "
+            },
+            {
+                "name": "connect20/Zoniz",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Zoniz/0.1.1/Zoniz-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License"
+                ],
+                "authors": [
+                    {
+                        "name": "paul",
+                        "email": "paul@zoniz.com"
+                    }
+                ],
+                "description": "Zoniz Magento Extensions link products in Magento stores to Zoniz Social Media Marketing Platform. "
+            }
+        ]
+    }
+}

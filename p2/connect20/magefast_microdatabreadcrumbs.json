@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/magefast_microdatabreadcrumbs": [
+            {
+                "name": "connect20/Magefast_MicrodataBreadcrumbs",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Magefast_MicrodataBreadcrumbs/1.0.0/Magefast_MicrodataBreadcrumbs-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "AFL"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex. [magefast.com]",
+                        "email": "magento@magefast.com"
+                    }
+                ],
+                "description": "Add microdata format for Breadcrumbs on page."
+            }
+        ]
+    }
+}

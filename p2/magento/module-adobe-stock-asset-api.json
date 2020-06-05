@@ -1,0 +1,62 @@
+{
+    "packages": {
+        "magento/module-adobe-stock-asset-api": [
+            {
+                "name": "magento/module-adobe-stock-asset-api",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-adobe-stock-asset-api/magento-module-adobe-stock-asset-api-1.0.0.0.zip",
+                    "shasum": "74c37ce6d176428be340394c9d1ba01af054c46f"
+                },
+                "require": {
+                    "magento/framework": "~102.0.4",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeStockAssetApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for Adobe Stock assets handling on Magento side"
+            },
+            {
+                "name": "magento/module-adobe-stock-asset-api",
+                "version": "1.0.0-beta1",
+                "version_normalized": "1.0.0.0-beta1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-adobe-stock-asset-api/magento-module-adobe-stock-asset-api-1.0.0.0-beta1.zip",
+                    "shasum": "4afd98bce3be49d6e80144959ce693f057bc0818"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeStockAssetApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for Adobe Stock assets handling on Magento side"
+            }
+        ]
+    }
+}

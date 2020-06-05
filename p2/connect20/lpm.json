@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/lpm": [
+            {
+                "name": "connect20/lpm",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/lpm/1.0.0/lpm-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Oleg V. Kryuchin",
+                        "email": "kryuchov@gmail.com"
+                    }
+                ],
+                "description": "This module implements payment method via bank translation for legal entities"
+            },
+            {
+                "name": "connect20/lpm",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/lpm/1.0.1/lpm-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Oleg V. Kryuchin",
+                        "email": "kryuchov@gmail.com"
+                    }
+                ],
+                "description": "This module implements payment method via bank translation for legal entities"
+            }
+        ]
+    }
+}

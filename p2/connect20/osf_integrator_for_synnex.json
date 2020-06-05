@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/osf_integrator_for_synnex": [
+            {
+                "name": "connect20/OSF_Integrator_for_Synnex",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/OSF_Integrator_for_Synnex/1.0.0/OSF_Integrator_for_Synnex-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "End-User-License-Agreement-(EULA)"
+                ],
+                "authors": [
+                    {
+                        "name": "OSF Global",
+                        "email": "chris.hooven@osf-global.com"
+                    }
+                ],
+                "description": "Automated flow for Synnex integration from product import to ship notification"
+            }
+        ]
+    }
+}

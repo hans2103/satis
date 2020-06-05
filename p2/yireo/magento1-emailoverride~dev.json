@@ -1,0 +1,49 @@
+{
+    "packages": {
+        "yireo/magento1-emailoverride": [
+            {
+                "name": "yireo/magento1-emailoverride",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/yireo/Yireo_EmailOverride.git",
+                    "reference": "6d426afbaf3cd54aebfb81d729f129e8de354e7f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/yireo/Yireo_EmailOverride/zipball/6d426afbaf3cd54aebfb81d729f129e8de354e7f",
+                    "reference": "6d426afbaf3cd54aebfb81d729f129e8de354e7f",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2019-05-30T12:42:11+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "source/"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Override Magento emails in your app/design/frontend/PACKAGE/THEME/locale folder",
+                "homepage": "https://github.com/yireo/Yireo_EmailOverride",
+                "support": {
+                    "source": "https://github.com/yireo/Yireo_EmailOverride/tree/master",
+                    "issues": "https://github.com/yireo/Yireo_EmailOverride/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/ti_migspayment": [
+            {
+                "name": "connect20/Ti_Migspayment",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ti_Migspayment/0.1.0/Ti_Migspayment-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Ti Technologies",
+                        "email": "info@titechnologies.in"
+                    }
+                ],
+                "description": "Processing Credit Card with Mastercard Internet Gateway Service (MIGS)"
+            },
+            {
+                "name": "connect20/Ti_Migspayment",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ti_Migspayment/1.0.0/Ti_Migspayment-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Ti",
+                        "email": "info@titechnologies.in"
+                    }
+                ],
+                "description": "Processing Credit Card with Mastercard Internet Gateway Service (MIGS) "
+            }
+        ]
+    }
+}

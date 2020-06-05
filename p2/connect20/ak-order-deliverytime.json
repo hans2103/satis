@@ -1,0 +1,90 @@
+{
+    "packages": {
+        "connect20/ak-order-deliverytime": [
+            {
+                "name": "connect20/ak-order-deliverytime",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ak-order-deliverytime/0.1.0/ak-order-deliverytime-0.1.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Anuj",
+                        "email": "farshwal.anujkumar11@gmail.com"
+                    }
+                ],
+                "description": "This Extension allows user to Select Order Delivery Time slot"
+            },
+            {
+                "name": "connect20/ak-order-deliverytime",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ak-order-deliverytime/0.2.0/ak-order-deliverytime-0.2.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.5.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Anuj",
+                        "email": "farshwal.anujkumar11@gmail.com"
+                    }
+                ],
+                "description": "This extension allows user to choose a timeslot for delivery"
+            },
+            {
+                "name": "connect20/ak-order-deliverytime",
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ak-order-deliverytime/0.3.0/ak-order-deliverytime-0.3.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Anuj ",
+                        "email": "farshwal.anujkumar11@gmail.com"
+                    }
+                ],
+                "description": "This Extensions allows user to select delivery time"
+            }
+        ]
+    }
+}

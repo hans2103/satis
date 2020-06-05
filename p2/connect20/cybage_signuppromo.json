@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/cybage_signuppromo": [
+            {
+                "name": "connect20/Cybage_SignupPromo",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Cybage_SignupPromo/1.0.0/Cybage_SignupPromo-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Cybage Software Pvt. Ltd.",
+                        "email": "Support_Magento@cybage.com"
+                    }
+                ],
+                "description": "The Sign-up Promotion plug-in provides the discount functionality for new sign-up customers. It generates random coupon codes for the customers."
+            },
+            {
+                "name": "connect20/Cybage_SignupPromo",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Cybage_SignupPromo/1.0.1/Cybage_SignupPromo-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Cybage Software Pvt. Ltd.",
+                        "email": "Support_Magento@cybage.com"
+                    }
+                ],
+                "description": "The Sign-up Promotion plug-in provides the discount functionality for new sign-up customers. It generates random coupon codes for the customers."
+            }
+        ]
+    }
+}

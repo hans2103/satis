@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ecomus_mediabox": [
+            {
+                "name": "connect20/Ecomus_Mediabox",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ecomus_Mediabox/1.0.2/Ecomus_Mediabox-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Ecomus Ltd",
+                        "email": "info@ecomus.co.uk"
+                    }
+                ],
+                "description": "Fully responsive Amazon style modal for showing images and Youtube videos in a modal / lightbox window."
+            }
+        ]
+    }
+}

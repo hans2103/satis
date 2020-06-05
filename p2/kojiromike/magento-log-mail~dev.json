@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "kojiromike/magento-log-mail": [
+            {
+                "name": "kojiromike/magento-log-mail",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/kojiromike/LogMail.git",
+                    "reference": "25ea4144f827531f17bcbec792bb4fb0ce4ad5ee"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/kojiromike/LogMail/zipball/25ea4144f827531f17bcbec792bb4fb0ce4ad5ee",
+                    "reference": "25ea4144f827531f17bcbec792bb4fb0ce4ad5ee",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-10-30T18:31:18+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael A. Smith",
+                        "email": "msmith3@ebay.com"
+                    }
+                ],
+                "description": "Instead of sending real emails to dubious SMTP servers, just log them. This module delegates to Zend_Email_Transport_File to drop all emails in var/log/mail instead of trying to send real emails.",
+                "support": {
+                    "source": "https://github.com/kojiromike/LogMail/tree/master",
+                    "issues": "https://github.com/kojiromike/LogMail/issues"
+                }
+            }
+        ]
+    }
+}

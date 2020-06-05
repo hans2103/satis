@@ -1,0 +1,39 @@
+{
+    "packages": {
+        "hws47a/custom-menu": [
+            {
+                "name": "hws47a/custom-menu",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/hws47a/VF_CustomMenu.git",
+                    "reference": "5ce98c4300f60fda2a70eb866e84f0bba93d16ab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hws47a/VF_CustomMenu/zipball/5ce98c4300f60fda2a70eb866e84f0bba93d16ab",
+                    "reference": "5ce98c4300f60fda2a70eb866e84f0bba93d16ab",
+                    "shasum": ""
+                },
+                "time": "2015-09-10T13:30:46+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vladimir Fishchenko",
+                        "email": "hws47a@gmail.com"
+                    }
+                ],
+                "description": "Replace generated magento menu with own custom menu. Use admin page to add menu items.",
+                "homepage": "https://github.com/hws47a/VF_CustomMenu",
+                "support": {
+                    "source": "https://github.com/hws47a/VF_CustomMenu/tree/master",
+                    "issues": "https://github.com/hws47a/VF_CustomMenu/issues"
+                }
+            }
+        ]
+    }
+}

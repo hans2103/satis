@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/pleisty": [
+            {
+                "name": "connect20/Pleisty",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Pleisty/1.0.1/Pleisty-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Cristian Darie",
+                        "email": "cristian.darie@pleisty.com"
+                    }
+                ],
+                "description": "Web and Email Personalization and Marketing Automation Platform"
+            },
+            {
+                "name": "connect20/Pleisty",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Pleisty/2.1.1/Pleisty-2.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Pleisty",
+                        "email": "support@pleisty.com"
+                    }
+                ],
+                "description": "Turn more visitors into customers"
+            }
+        ]
+    }
+}

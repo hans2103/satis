@@ -1,0 +1,92 @@
+{
+    "packages": {
+        "firegento/extendedimport": [
+            {
+                "name": "firegento/extendedimport",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/firegento/FireGento_ExtendedImport2.git",
+                    "reference": "d6f4dfe396579d35c73555ae907807b7587d1d52"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/firegento/FireGento_ExtendedImport2/zipball/d6f4dfe396579d35c73555ae907807b7587d1d52",
+                    "reference": "d6f4dfe396579d35c73555ae907807b7587d1d52",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0|~7.2.0|~7.3.0"
+                },
+                "time": "2019-10-10T07:57:19+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "FireGento\\ExtendedImport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabian Schmengler",
+                        "email": "fs@integer-net.de"
+                    }
+                ],
+                "description": "Extended Import Features (ported from AvS_FastSimpleImport)",
+                "support": {
+                    "source": "https://github.com/firegento/FireGento_ExtendedImport2/tree/master",
+                    "issues": "https://github.com/firegento/FireGento_ExtendedImport2/issues"
+                }
+            },
+            {
+                "name": "firegento/extendedimport",
+                "version": "dev-feature-createmissingattributeoptions",
+                "version_normalized": "dev-feature-createmissingattributeoptions",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/firegento/FireGento_ExtendedImport2.git",
+                    "reference": "abb25d7d8e5125ea293ce1c135c5df9cb880485f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/firegento/FireGento_ExtendedImport2/zipball/abb25d7d8e5125ea293ce1c135c5df9cb880485f",
+                    "reference": "abb25d7d8e5125ea293ce1c135c5df9cb880485f",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "time": "2016-06-20T21:02:15+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "FireGento\\ExtendedImport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabian Schmengler",
+                        "email": "fs@integer-net.de"
+                    }
+                ],
+                "description": "Extended Import Features (ported from AvS_FastSimpleImport)",
+                "support": {
+                    "source": "https://github.com/firegento/FireGento_ExtendedImport2/tree/feature-createmissingattributeoptions",
+                    "issues": "https://github.com/firegento/FireGento_ExtendedImport2/issues"
+                }
+            }
+        ]
+    }
+}

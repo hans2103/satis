@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/appath_connect": [
+            {
+                "name": "connect20/Appath_Connect",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Appath_Connect/1.0.0/Appath_Connect-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Appath Inc.",
+                        "email": "appath@appath.com"
+                    }
+                ],
+                "description": "Extend SOAP API"
+            },
+            {
+                "name": "connect20/Appath_Connect",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Appath_Connect/1.0.1/Appath_Connect-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Appath Inc.",
+                        "email": "appath@appath.com"
+                    }
+                ],
+                "description": "Extend SOAP API"
+            }
+        ]
+    }
+}

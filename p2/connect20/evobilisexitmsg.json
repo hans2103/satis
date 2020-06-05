@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/evobilisexitmsg": [
+            {
+                "name": "connect20/evobilisexitmsg",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/evobilisexitmsg/1.0.0/evobilisexitmsg-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Evobilis"
+                ],
+                "authors": [
+                    {
+                        "name": "Mahesh Komarraju",
+                        "email": "mahesh.komarraju@evobilis.com"
+                    }
+                ],
+                "description": "The idea of this plugin is to capture customer feedback when they are exiting the checkout process without completing the purchase."
+            }
+        ]
+    }
+}

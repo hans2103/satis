@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "connect20/paypaluseractioncommit": [
+            {
+                "name": "connect20/PaypalUseractionCommit",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/PaypalUseractionCommit/1.0.0/PaypalUseractionCommit-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "David Danier",
+                        "email": "info@team23.de"
+                    }
+                ],
+                "description": "Removes the papyal express order review page."
+            },
+            {
+                "name": "connect20/PaypalUseractionCommit",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/PaypalUseractionCommit/1.0.1/PaypalUseractionCommit-1.0.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MITL"
+                ],
+                "authors": [
+                    {
+                        "name": "David Danier",
+                        "email": "info@team23.de"
+                    }
+                ],
+                "description": "This extension removes the order review page from PayPal Express and redirects directly to order success page."
+            }
+        ]
+    }
+}

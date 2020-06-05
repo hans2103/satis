@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "aydus/stylert": [
+            {
+                "name": "aydus/stylert",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/Stylert.git",
+                    "reference": "d6d6949f0052b415bad6294340eb6a19cec905a9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/Stylert/zipball/d6d6949f0052b415bad6294340eb6a19cec905a9",
+                    "reference": "d6d6949f0052b415bad6294340eb6a19cec905a9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2015-06-30T22:39:51+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "davidt@aydus.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Customize the window alert box.",
+                "homepage": "https://github.com/aydus/Stylert",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/Stylert/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/Stylert/issues"
+                }
+            }
+        ]
+    }
+}

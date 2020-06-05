@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/express_checkout_with_sekurme": [
+            {
+                "name": "connect20/Express_Checkout_with_sekurme",
+                "version": "1.0.0.7",
+                "version_normalized": "1.0.0.7",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Express_Checkout_with_sekurme/1.0.0.7/Express_Checkout_with_sekurme-1.0.0.7.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Sekur.me",
+                        "email": "jack@septium.com"
+                    }
+                ],
+                "description": "1-Click Mobile Web Payments for mobile enabled m-Commerce."
+            }
+        ]
+    }
+}

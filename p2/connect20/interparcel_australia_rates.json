@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/interparcel_australia_rates": [
+            {
+                "name": "connect20/Interparcel_Australia_Rates",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Interparcel_Australia_Rates/1.0.0/Interparcel_Australia_Rates-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-Lesser-General-Public-License-(LGPL)-"
+                ],
+                "authors": [
+                    {
+                        "name": "Steve",
+                        "email": "customerservices@interparcel.com.au"
+                    }
+                ],
+                "description": "Interparcel offer a rate extention to take advantage of our low cost courier rates using some of Australia's biggest couriers"
+            }
+        ]
+    }
+}

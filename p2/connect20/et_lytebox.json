@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/et_lytebox": [
+            {
+                "name": "connect20/ET_Lytebox",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ET_Lytebox/1.0.0/ET_Lytebox-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "ETWS-Free-License-(EFL1)"
+                ],
+                "authors": [
+                    {
+                        "name": "Jurij",
+                        "email": "support@etwebsolutions.com"
+                    }
+                ],
+                "description": "Extension adds Lytebox image viewer integration to Magento"
+            }
+        ]
+    }
+}

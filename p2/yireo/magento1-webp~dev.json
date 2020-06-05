@@ -1,0 +1,53 @@
+{
+    "packages": {
+        "yireo/magento1-webp": [
+            {
+                "name": "yireo/magento1-webp",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/yireo/Yireo_Webp.git",
+                    "reference": "b86ec905d22b5d4fb766bfcc209c9b7cba1a45f6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/yireo/Yireo_Webp/zipball/b86ec905d22b5d4fb766bfcc209c9b7cba1a45f6",
+                    "reference": "b86ec905d22b5d4fb766bfcc209c9b7cba1a45f6",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2019-10-28T09:44:58+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "source/"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add WebP image support to your Magento pages",
+                "homepage": "https://github.com/yireo/Yireo_Webp",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/yireo/Yireo_Webp/tree/master",
+                    "issues": "https://github.com/yireo/Yireo_Webp/issues"
+                }
+            }
+        ]
+    }
+}

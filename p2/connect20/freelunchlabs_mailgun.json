@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/freelunchlabs_mailgun": [
+            {
+                "name": "connect20/FreeLunchLabs_MailGun",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/FreeLunchLabs_MailGun/1.0.0/FreeLunchLabs_MailGun-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Massachusetts-Institute-of-Technology-License-(MITL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Charles Drew",
+                        "email": "info@freelunchlabs.com"
+                    }
+                ],
+                "description": "Community extension to send all transactional emails via MailGun. Tracks and stores outgoing emails. "
+            },
+            {
+                "name": "connect20/FreeLunchLabs_MailGun",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/FreeLunchLabs_MailGun/1.0.1/FreeLunchLabs_MailGun-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Massachusetts-Institute-of-Technology-License-(MITL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Charles Drew",
+                        "email": "info@freelunchlabs.com"
+                    }
+                ],
+                "description": "Community extension to send all transactional emails via MailGun. Tracks and stores outgoing emails. "
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ansh_custom_contact": [
+            {
+                "name": "connect20/ansh_custom_contact",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ansh_custom_contact/1.0.6/ansh_custom_contact-1.0.6.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ansh",
+                        "email": "MagentoAnshsystem@gmail.com"
+                    }
+                ],
+                "description": "Custom Contacts is a powerful and robust extension to integrate a contact form to your site with ease. "
+            }
+        ]
+    }
+}

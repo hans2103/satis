@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/mobify": [
+            {
+                "name": "connect20/Mobify",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/0a2d30eb82e9387c910c2ae361455026/1.0.0/0a2d30eb82e9387c910c2ae361455026-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Mobify",
+                        "email": "se@mobify.com"
+                    }
+                ],
+                "description": "Mobify delivers technology and services that help companies engage connected consumers to increase revenue online and in-store. Mobify’s mobile engagement platform creates powerful mobile web and native applications and delivers the latest mobile push notification and location-based technology across all mobile devices.\r\n"
+            }
+        ]
+    }
+}

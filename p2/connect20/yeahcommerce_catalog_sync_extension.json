@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/yeahcommerce_catalog_sync_extension": [
+            {
+                "name": "connect20/YeahCommerce_Catalog_Sync_Extension",
+                "version": "1.0.17",
+                "version_normalized": "1.0.17.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/YeahCommerce_Catalog_Sync_Extension/1.0.17/YeahCommerce_Catalog_Sync_Extension-1.0.17.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Boris Udachin",
+                        "email": "mail@yeahcommerce.com"
+                    }
+                ],
+                "description": "Automatic synchronization of Magento product catalog with Yeah!Commerce service"
+            },
+            {
+                "name": "connect20/YeahCommerce_Catalog_Sync_Extension",
+                "version": "1.0.18",
+                "version_normalized": "1.0.18.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/YeahCommerce_Catalog_Sync_Extension/1.0.18/YeahCommerce_Catalog_Sync_Extension-1.0.18.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Boris Udachin",
+                        "email": "mail@yeahcommerce.com"
+                    }
+                ],
+                "description": "Automatic synchronization of Magento product catalog with Yeah!Commerce service"
+            }
+        ]
+    }
+}

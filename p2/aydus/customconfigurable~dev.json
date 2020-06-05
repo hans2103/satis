@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "aydus/customconfigurable": [
+            {
+                "name": "aydus/customconfigurable",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/CustomConfigurable.git",
+                    "reference": "c6bb9acdb85a64203b0a3e1e8b26b87feca848a1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/CustomConfigurable/zipball/c6bb9acdb85a64203b0a3e1e8b26b87feca848a1",
+                    "reference": "c6bb9acdb85a64203b0a3e1e8b26b87feca848a1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2015-05-28T01:59:52+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "davidt@aydus.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Access configurable products over the Magento API.",
+                "homepage": "https://github.com/aydus/CustomConfigurable.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/CustomConfigurable/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/CustomConfigurable/issues"
+                }
+            }
+        ]
+    }
+}

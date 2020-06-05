@@ -1,0 +1,93 @@
+{
+    "packages": {
+        "connect20/jalak_zeroprice": [
+            {
+                "name": "connect20/Jalak_Zeroprice",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Jalak_Zeroprice/1.0.0/Jalak_Zeroprice-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.5.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "I Gusti Agung Mahendra Putra",
+                        "email": "hendrathings@gmail.com"
+                    }
+                ],
+                "description": "Hide price product and add to cart button with condition price value."
+            },
+            {
+                "name": "connect20/Jalak_Zeroprice",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Jalak_Zeroprice/1.1.0/Jalak_Zeroprice-1.1.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.5.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "I Gusti Agung Mahendra Putra",
+                        "email": "hendrathings@gmail.com"
+                    }
+                ],
+                "description": "Hide price product and add to cart button with condition price value."
+            },
+            {
+                "name": "connect20/Jalak_Zeroprice",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Jalak_Zeroprice/1.2.0/Jalak_Zeroprice-1.2.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.5.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "I Gusti Agung Mahendra Putra",
+                        "email": "hendrathings@gmail.com"
+                    }
+                ],
+                "description": "Make your catalog price hide from customer whenever the price is zero or setup what price you want to hide."
+            }
+        ]
+    }
+}

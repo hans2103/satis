@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/diglin_github": [
+            {
+                "name": "connect20/Diglin_Github",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Diglin_Github/1.0.0/Diglin_Github-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "diglin",
+                        "email": "sly@diglin.com"
+                    }
+                ],
+                "description": "Autorize your customers/users to login & register into Magento via their Github account"
+            },
+            {
+                "name": "connect20/Diglin_Github",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Diglin_Github/1.0.0.1/Diglin_Github-1.0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "diglin",
+                        "email": "sly@diglin.com"
+                    }
+                ],
+                "description": "Autorize your customers/users to login & register into Magento via their Github account"
+            }
+        ]
+    }
+}

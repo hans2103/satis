@@ -1,0 +1,36 @@
+{
+    "packages": {
+        "firegento/gridcontrol": [
+            {
+                "name": "firegento/gridcontrol",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/GridControl.git",
+                    "reference": "2e2b647428b3dc68672b32bc4ce0a15afa2be444"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/GridControl/zipball/2e2b647428b3dc68672b32bc4ce0a15afa2be444",
+                    "reference": "2e2b647428b3dc68672b32bc4ce0a15afa2be444",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2020-03-11T10:58:31+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "Full control over your admin grids with xml.",
+                "homepage": "https://github.com/firegento/firegento-gridcontrol",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/GridControl/tree/v1.1",
+                    "issues": "https://github.com/magento-hackathon/GridControl/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "packages": {
+        "creare/creare-seo": [
+            {
+                "name": "creare/creare-seo",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/adampmoss/CreareSEO.git",
+                    "reference": "2051d687c4c86ad7d9efe57638318119e360a33e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/adampmoss/CreareSEO/zipball/2051d687c4c86ad7d9efe57638318119e360a33e",
+                    "reference": "2051d687c4c86ad7d9efe57638318119e360a33e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-12-13T10:45:58+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Adam Moss",
+                        "homepage": "https://adammoss.co.uk",
+                        "role": "Web Developer"
+                    }
+                ],
+                "description": "This extension provides fixes and features to Magento that will help improve its overall SEO performance.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/creare-seo.html",
+                "support": {
+                    "source": "https://github.com/adampmoss/CreareSEO/tree/master",
+                    "issues": "https://github.com/adampmoss/CreareSEO/issues"
+                }
+            },
+            {
+                "name": "creare/creare-seo",
+                "version": "dev-refactorObserver",
+                "version_normalized": "dev-refactorObserver",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/adampmoss/CreareSEO.git",
+                    "reference": "5ce6b6a58f5419809811a051b6f821ce017f720a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/adampmoss/CreareSEO/zipball/5ce6b6a58f5419809811a051b6f821ce017f720a",
+                    "reference": "5ce6b6a58f5419809811a051b6f821ce017f720a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-11-16T09:06:05+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Adam Moss",
+                        "homepage": "https://adammoss.co.uk",
+                        "role": "Web Developer"
+                    }
+                ],
+                "description": "This extension provides fixes and features to Magento that will help improve its overall SEO performance.",
+                "homepage": "http://www.magentocommerce.com/magento-connect/creare-seo.html",
+                "support": {
+                    "source": "https://github.com/adampmoss/CreareSEO/tree/refactorObserver",
+                    "issues": "https://github.com/adampmoss/CreareSEO/issues"
+                }
+            }
+        ]
+    }
+}

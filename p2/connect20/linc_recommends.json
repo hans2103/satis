@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/linc_recommends": [
+            {
+                "name": "connect20/Linc_Recommends",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Linc_Recommends/1.0.0/Linc_Recommends-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/linc_care": ">=1.12"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Linc-Global-Commercial-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Linc",
+                        "email": "apps@letslinc.com"
+                    }
+                ],
+                "description": "Linc Recommends streamlines a personal and contextual self-serviced customer care experience that drives loyalty."
+            }
+        ]
+    }
+}

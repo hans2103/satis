@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/juicy_barclayspspid": [
+            {
+                "name": "connect20/Juicy_BarclaysPSPID",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Juicy_BarclaysPSPID/1.0.0/Juicy_BarclaysPSPID-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Juicy Media",
+                        "email": "jonathan.webb@juicymedia.co.uk"
+                    }
+                ],
+                "description": "Barclays PSPID Payment gateway solution from Juicy Media"
+            },
+            {
+                "name": "connect20/Juicy_BarclaysPSPID",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Juicy_BarclaysPSPID/1.0.1/Juicy_BarclaysPSPID-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Juicy Media",
+                        "email": "jonathan.webb@juicymedia.co.uk"
+                    }
+                ],
+                "description": "Barclays PSPID Payment gateway solution from Juicy Media"
+            }
+        ]
+    }
+}

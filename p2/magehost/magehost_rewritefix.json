@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "magehost/magehost_rewritefix": [
+            {
+                "name": "magehost/magehost_rewritefix",
+                "version": "1.6.1",
+                "version_normalized": "1.6.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magehost/magehost_rewritefix.git",
+                    "reference": "2886fb70737a99de951dfd59cefa62e2a2b8538a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magehost/magehost_rewritefix/zipball/2886fb70737a99de951dfd59cefa62e2a2b8538a",
+                    "reference": "2886fb70737a99de951dfd59cefa62e2a2b8538a",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Makes it possible to manage this package as a dependency"
+                },
+                "time": "2019-09-26T09:28:21+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "MagentoHosting.pro - Jeroen Vermeulen",
+                        "email": "jeroen@magehost.pro"
+                    }
+                ],
+                "description": "MageHost_RewriteFix: Solves a problem most big ‪#‎Magento‬ 1.x shops face: an ever growing huge URL Rewrite table.",
+                "homepage": "https://github.com/magehost/magehost_rewritefix",
+                "support": {
+                    "source": "https://github.com/magehost/magehost_rewritefix/tree/1.6.1",
+                    "issues": "https://github.com/magehost/magehost_rewritefix/issues"
+                }
+            }
+        ]
+    }
+}

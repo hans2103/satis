@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/dibagshipping": [
+            {
+                "name": "connect20/dibagshipping",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/dibagshipping/0.1.0/dibagshipping-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Faisal Khalil",
+                        "email": "faisal@di.net.au"
+                    }
+                ],
+                "description": "Real-time shipping and delivery options from multiple Australian couriers, batch upload csv product dimension."
+            }
+        ]
+    }
+}

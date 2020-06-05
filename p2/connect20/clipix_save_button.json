@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/clipix_save_button": [
+            {
+                "name": "connect20/Clipix_Save_Button",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Clipix_Save_Button/0.1.0/Clipix_Save_Button-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Roman Chen",
+                        "email": "chenromandeveloper@gmail.com"
+                    }
+                ],
+                "description": "Add the Clipix \"Save\" Button to your online store and provide your visitors with an easy way to save any items they are considering to buy, but not ready to execute on.\r\n<br>\r\nWhen they are ready to purchase, instead of searching for items again they will now easily get back to your website, with one click of a button, to the exact product page to execute their purchase.  Additionally, visitors can set a price drop alert for items that they save, which will automatically alert them when your merchandise goes on sale."
+            }
+        ]
+    }
+}

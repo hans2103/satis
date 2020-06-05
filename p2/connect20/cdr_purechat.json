@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/cdr_purechat": [
+            {
+                "name": "connect20/Cdr_PureChat",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Cdr_PureChat/1.0.0/Cdr_PureChat-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Cdr",
+                        "email": "paul@ketelle.co.uk"
+                    }
+                ],
+                "description": "Pure Chat for Magento.\r\nChat with you visitors, while they shop on your website."
+            }
+        ]
+    }
+}

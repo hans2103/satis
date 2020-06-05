@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sitewards_quickorders": [
+            {
+                "name": "connect20/Sitewards_QuickOrders",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Sitewards_QuickOrders/0.1.0/Sitewards_QuickOrders-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Sitewards Magento Team",
+                        "email": "magento@sitewards.com"
+                    }
+                ],
+                "description": "The Sitewards QuickOrders extension adds a new form to the customer section that allows a user to add multiple products to the cart via sku."
+            }
+        ]
+    }
+}

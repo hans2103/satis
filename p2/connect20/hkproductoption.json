@@ -1,0 +1,87 @@
+{
+    "packages": {
+        "connect20/hkproductoption": [
+            {
+                "name": "connect20/hkproductoption",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/hkproductoption/1.0.0/hkproductoption-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OLS-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Hardik",
+                        "email": "hkpatel201@gmail.com"
+                    }
+                ],
+                "description": "Custom option on product list page."
+            },
+            {
+                "name": "connect20/hkproductoption",
+                "version": "1.1.0.1",
+                "version_normalized": "1.1.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/hkproductoption/1.1.0.1/hkproductoption-1.1.0.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OLS-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Hardik Patel",
+                        "email": "hkpatel201@gmail.com"
+                    }
+                ],
+                "description": "Custom option on product list page"
+            },
+            {
+                "name": "connect20/hkproductoption",
+                "version": "1.2.0.1",
+                "version_normalized": "1.2.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/hkproductoption/1.2.0.1/hkproductoption-1.2.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OLS-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Hardik",
+                        "email": "hkpatel201@gmail.com"
+                    }
+                ],
+                "description": "Custom option on product list page."
+            }
+        ]
+    }
+}

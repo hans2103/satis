@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/safitech_catalog": [
+            {
+                "name": "connect20/Safitech_Catalog",
+                "version": "0.7.1",
+                "version_normalized": "0.7.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Safitech_Catalog/0.7.1/Safitech_Catalog-0.7.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "mohammed",
+                        "email": "mohammed@safitech.com"
+                    }
+                ],
+                "description": "This extension replaces the image gallery with the jqueryZoom widget"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/symcode_pagelinks": [
+            {
+                "name": "connect20/Symcode_PageLinks",
+                "version": "1.0.0.3",
+                "version_normalized": "1.0.0.3",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Symcode_PageLinks/1.0.0.3/Symcode_PageLinks-1.0.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(-GPL-)"
+                ],
+                "authors": [
+                    {
+                        "name": "Mehmet Durmaz",
+                        "email": "info@symcode.de"
+                    }
+                ],
+                "description": "Manage cms links"
+            }
+        ]
+    }
+}

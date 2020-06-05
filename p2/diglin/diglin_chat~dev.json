@@ -1,0 +1,78 @@
+{
+    "packages": {
+        "diglin/diglin_chat": [
+            {
+                "name": "diglin/diglin_chat",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Chat.git",
+                    "reference": "8dc6f2f67351f7933dd6434547da9d340208b08c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Chat/zipball/8dc6f2f67351f7933dd6434547da9d340208b08c",
+                    "reference": "8dc6f2f67351f7933dd6434547da9d340208b08c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-10-31T22:20:44+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sylvain Rayé",
+                        "email": "{firstname}.{lastname}@diglin.com"
+                    }
+                ],
+                "description": "Add Zopim Chat support into Magento. Very flexible and configurable per store view unlike the official one.",
+                "homepage": "https://github.com/diglin/Diglin_Chat",
+                "support": {
+                    "source": "https://github.com/diglin/Diglin_Chat/tree/2.1.0",
+                    "issues": "https://github.com/diglin/Diglin_Chat/issues"
+                }
+            },
+            {
+                "name": "diglin/diglin_chat",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Chat.git",
+                    "reference": "3e561c7a1a4b9842a9ed5482c56fb063f3523af9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Chat/zipball/3e561c7a1a4b9842a9ed5482c56fb063f3523af9",
+                    "reference": "3e561c7a1a4b9842a9ed5482c56fb063f3523af9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-10T18:33:51+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sylvain Rayé",
+                        "email": "{firstname}.{lastname}@diglin.com"
+                    }
+                ],
+                "description": "Add Zopim Chat support into Magento. Very flexible and configurable per store view unlike the official one.",
+                "homepage": "https://github.com/diglin/Diglin_Chat",
+                "support": {
+                    "source": "https://github.com/diglin/Diglin_Chat/tree/develop",
+                    "issues": "https://github.com/diglin/Diglin_Chat/issues"
+                }
+            }
+        ]
+    }
+}

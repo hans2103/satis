@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "aydus/quickaddtocart": [
+            {
+                "name": "aydus/quickaddtocart",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/QuickAddToCart.git",
+                    "reference": "dd5fda562fc79cb356d454467e897c1d08c97975"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/QuickAddToCart/zipball/dd5fda562fc79cb356d454467e897c1d08c97975",
+                    "reference": "dd5fda562fc79cb356d454467e897c1d08c97975",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2015-06-30T22:28:28+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "davidt@aydus.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "A page where you can quickly add products to the cart.",
+                "homepage": "https://github.com/aydus/QuickAddToCart.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/QuickAddToCart/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/QuickAddToCart/issues"
+                }
+            }
+        ]
+    }
+}

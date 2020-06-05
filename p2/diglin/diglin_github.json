@@ -1,0 +1,78 @@
+{
+    "packages": {
+        "diglin/diglin_github": [
+            {
+                "name": "diglin/diglin_github",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Github.git",
+                    "reference": "ff49db2c989492abd80e8e2fcdf6228f9be7ccff"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Github/zipball/ff49db2c989492abd80e8e2fcdf6228f9be7ccff",
+                    "reference": "ff49db2c989492abd80e8e2fcdf6228f9be7ccff",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-05-22T17:42:18+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sylvain Rayé",
+                        "email": "{firstname}.{lastname}@diglin.com"
+                    }
+                ],
+                "description": "Login or register customer/user accounts into Magento via Github OAuth.",
+                "homepage": "https://github.com/diglin/Diglin_Github",
+                "support": {
+                    "source": "https://github.com/diglin/Diglin_Github/tree/1.0.0",
+                    "issues": "https://github.com/diglin/Diglin_Github/issues"
+                }
+            },
+            {
+                "name": "diglin/diglin_github",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Github.git",
+                    "reference": "ed638609c638f7c8cd152ca4baa233269f0d0d10"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Github/zipball/ed638609c638f7c8cd152ca4baa233269f0d0d10",
+                    "reference": "ed638609c638f7c8cd152ca4baa233269f0d0d10",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-09-29T20:21:44+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sylvain Rayé",
+                        "email": "{firstname}.{lastname}@diglin.com"
+                    }
+                ],
+                "description": "Login or register customer/user accounts into Magento via Github OAuth.",
+                "homepage": "https://github.com/diglin/Diglin_Github",
+                "support": {
+                    "source": "https://github.com/diglin/Diglin_Github/tree/1.0.1",
+                    "issues": "https://github.com/diglin/Diglin_Github/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/globallink": [
+            {
+                "name": "connect20/GlobalLink",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/GlobalLink/2.0.0/GlobalLink-2.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Commercial-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Translations.com",
+                        "email": "magento@translations.com"
+                    }
+                ],
+                "description": "Translation extension from Translations.com"
+            }
+        ]
+    }
+}

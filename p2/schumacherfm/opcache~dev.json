@@ -1,0 +1,78 @@
+{
+    "packages": {
+        "schumacherfm/opcache": [
+            {
+                "name": "schumacherfm/opcache",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SchumacherFM/Magento-OpCache.git",
+                    "reference": "e334abe15869a495cf3ea5e198ac31bd67f0fa03"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/SchumacherFM/Magento-OpCache/zipball/e334abe15869a495cf3ea5e198ac31bd67f0fa03",
+                    "reference": "e334abe15869a495cf3ea5e198ac31bd67f0fa03",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-11-02T14:21:45+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher",
+                        "email": "cyrill@schumacher.fm"
+                    }
+                ],
+                "description": "OpCache Panel for Backend. Reset cache, compile all files, SVG Pie Charts with live reload",
+                "homepage": "https://github.com/SchumacherFM/Magento-OpCache",
+                "support": {
+                    "source": "https://github.com/SchumacherFM/Magento-OpCache/tree/v1.0.3",
+                    "issues": "https://github.com/SchumacherFM/Magento-OpCache/issues"
+                }
+            },
+            {
+                "name": "schumacherfm/opcache",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SchumacherFM/Magento-OpCache.git",
+                    "reference": "854ad1043d7e14255f08861873183e74f9d3a9d1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/SchumacherFM/Magento-OpCache/zipball/854ad1043d7e14255f08861873183e74f9d3a9d1",
+                    "reference": "854ad1043d7e14255f08861873183e74f9d3a9d1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-01-26T06:37:26+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher",
+                        "email": "cyrill@schumacher.fm"
+                    }
+                ],
+                "description": "OpCache Panel for Backend. Reset cache, compile all files, SVG Pie Charts with live reload",
+                "homepage": "https://github.com/SchumacherFM/Magento-OpCache",
+                "support": {
+                    "source": "https://github.com/SchumacherFM/Magento-OpCache/tree/develop",
+                    "issues": "https://github.com/SchumacherFM/Magento-OpCache/issues"
+                }
+            }
+        ]
+    }
+}

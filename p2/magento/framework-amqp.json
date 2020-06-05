@@ -1,0 +1,470 @@
+{
+    "packages": {
+        "magento/framework-amqp": [
+            {
+                "name": "magento/framework-amqp",
+                "version": "100.0.0-rc20",
+                "version_normalized": "100.0.0.0-RC20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/framework-amqp/magento-framework-amqp-100.0.0.0-RC20.zip",
+                    "shasum": "05b1b176095a3acf5e53c6fcba418d94469313f3"
+                },
+                "require": {
+                    "magento/framework": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0",
+                    "php-amqplib/php-amqplib": "2.5.*"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\Amqp\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework-amqp",
+                "version": "100.2.0",
+                "version_normalized": "100.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/framework-amqp/magento-framework-amqp-100.2.0.0.zip",
+                    "shasum": "76a04234afca1dddeee1fd9004bd84be782e3e87"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0",
+                    "php-amqplib/php-amqplib": "2.5.*"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\Amqp\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework-amqp",
+                "version": "100.2.0-rc21",
+                "version_normalized": "100.2.0.0-RC21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/framework-amqp/magento-framework-amqp-100.2.0.0-RC21.zip",
+                    "shasum": "0080184c3f3131d8e6fb9e78dae0077260a729e7"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0",
+                    "php-amqplib/php-amqplib": "2.5.*"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\Amqp\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework-amqp",
+                "version": "100.2.0-rc22",
+                "version_normalized": "100.2.0.0-RC22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/framework-amqp/magento-framework-amqp-100.2.0.0-RC22.zip",
+                    "shasum": "766e8843fa3f68f3570506a0babab8e95b5c1f42"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0",
+                    "php-amqplib/php-amqplib": "2.5.*"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\Amqp\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework-amqp",
+                "version": "100.2.0-rc23",
+                "version_normalized": "100.2.0.0-RC23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/framework-amqp/magento-framework-amqp-100.2.0.0-RC23.zip",
+                    "shasum": "605e7dac5c290f78b7b0038c9ab10c27816e62f4"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0",
+                    "php-amqplib/php-amqplib": "2.5.*"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\Amqp\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework-amqp",
+                "version": "100.2.0-rc30",
+                "version_normalized": "100.2.0.0-RC30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/framework-amqp/magento-framework-amqp-100.2.0.0-RC30.zip",
+                    "shasum": "dc7ccc606edb2a75bba046f8204f6e04780c6c53"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0",
+                    "php-amqplib/php-amqplib": "2.5.*"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\Amqp\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework-amqp",
+                "version": "100.2.1",
+                "version_normalized": "100.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/framework-amqp/magento-framework-amqp-100.2.1.0.zip",
+                    "shasum": "4f56aa67de370cdd701d1111047484aec340a0f5"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0",
+                    "php-amqplib/php-amqplib": "2.5.*"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\Amqp\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework-amqp",
+                "version": "100.2.2",
+                "version_normalized": "100.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/framework-amqp/magento-framework-amqp-100.2.2.0.zip",
+                    "shasum": "ee22c6969a0968249254a644df4b81bde6b39798"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "php": "~7.0.13|~7.1.0",
+                    "php-amqplib/php-amqplib": "2.5.*"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\Amqp\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework-amqp",
+                "version": "100.2.3",
+                "version_normalized": "100.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/framework-amqp/magento-framework-amqp-100.2.3.0.zip",
+                    "shasum": "aa2a067dab2ff4c3da4ffd30e5fbfe4357cc8ca0"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "php": "~7.0.13|~7.1.0|~7.2.0",
+                    "php-amqplib/php-amqplib": "2.5.*"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\Amqp\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework-amqp",
+                "version": "100.2.4",
+                "version_normalized": "100.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/framework-amqp/magento-framework-amqp-100.2.4.0.zip",
+                    "shasum": "03f19087e6066002da79fa7db17a5dd8ec46803b"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "php": "~7.0.13||~7.1.0||~7.2.0",
+                    "php-amqplib/php-amqplib": "2.5.*"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\Amqp\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework-amqp",
+                "version": "100.3.0",
+                "version_normalized": "100.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/framework-amqp/magento-framework-amqp-100.3.0.0.zip",
+                    "shasum": "13ceaed7dd14fc3468a7bf5eac64b6053953ca93"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "php": "~7.1.3||~7.2.0",
+                    "php-amqplib/php-amqplib": "~2.7.0"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\Amqp\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework-amqp",
+                "version": "100.3.1",
+                "version_normalized": "100.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/framework-amqp/magento-framework-amqp-100.3.1.0.zip",
+                    "shasum": "40a4d6799c43dd9eed1f7dba4ca2eb6b26518966"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "php": "~7.1.3||~7.2.0",
+                    "php-amqplib/php-amqplib": "~2.7.0"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\Amqp\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework-amqp",
+                "version": "100.3.2",
+                "version_normalized": "100.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/framework-amqp/magento-framework-amqp-100.3.2.0.zip",
+                    "shasum": "65b83fc91c18b5f8049ac7f52e273cb0b58ffcad"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "php": "~7.1.3||~7.2.0",
+                    "php-amqplib/php-amqplib": "~2.7.0"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\Amqp\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework-amqp",
+                "version": "100.3.3",
+                "version_normalized": "100.3.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/framework-amqp/magento-framework-amqp-100.3.3.0.zip",
+                    "shasum": "d95212ad10a885affc6e9a5f535d48a9c4cd35b8"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0",
+                    "php-amqplib/php-amqplib": "~2.7.0"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\Amqp\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework-amqp",
+                "version": "100.3.4",
+                "version_normalized": "100.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/framework-amqp/magento-framework-amqp-100.3.4.0.zip",
+                    "shasum": "459c76463785d6880a8dd0a24de02439b153b650"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0",
+                    "php-amqplib/php-amqplib": "~2.7.0|~2.10.0"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\Amqp\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework-amqp",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/framework-amqp/magento-framework-amqp-100.3.5.0.zip",
+                    "shasum": "88683eec625f1305aa59475fc7478e5c7ee2de6e"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0",
+                    "php-amqplib/php-amqplib": "~2.7.0||~2.10.0"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\Amqp\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

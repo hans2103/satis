@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/readypulse_rpwidget": [
+            {
+                "name": "connect20/Readypulse_RPWidget",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Readypulse_RPWidget/0.1.2/Readypulse_RPWidget-0.1.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "vinod jain",
+                        "email": "jvinodk1028@yahoo.co.in"
+                    }
+                ],
+                "description": "This is beta version"
+            }
+        ]
+    }
+}

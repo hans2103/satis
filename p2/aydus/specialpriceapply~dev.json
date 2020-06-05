@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "aydus/specialpriceapply": [
+            {
+                "name": "aydus/specialpriceapply",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/SpecialPriceApply.git",
+                    "reference": "e83f55f20344a2c21b41374778ccda642932428f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/SpecialPriceApply/zipball/e83f55f20344a2c21b41374778ccda642932428f",
+                    "reference": "e83f55f20344a2c21b41374778ccda642932428f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2015-06-30T22:37:37+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "davidt@aydus.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "This module lets you activate/deactivate special prices to a grid of category products.",
+                "homepage": "https://github.com/aydus/SpecialPriceApply.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/SpecialPriceApply/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/SpecialPriceApply/issues"
+                }
+            }
+        ]
+    }
+}

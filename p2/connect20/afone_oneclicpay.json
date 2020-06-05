@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/afone_oneclicpay": [
+            {
+                "name": "connect20/Afone_Oneclicpay",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Afone_Oneclicpay/1.0.0/Afone_Oneclicpay-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Afone",
+                        "email": "smalinge@afone.com"
+                    }
+                ],
+                "description": "The extension provides Oneclicpay payment integration. "
+            }
+        ]
+    }
+}

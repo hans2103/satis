@@ -1,0 +1,40 @@
+{
+    "packages": {
+        "hwg/attributemanager": [
+            {
+                "name": "hwg/attributemanager",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ho-nl-fork/magento1-Hwg_Attributemanager.git",
+                    "reference": "c89a9d13d1844b9f6958eb3695e311aa3f00aec9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ho-nl-fork/magento1-Hwg_Attributemanager/zipball/c89a9d13d1844b9f6958eb3695e311aa3f00aec9",
+                    "reference": "c89a9d13d1844b9f6958eb3695e311aa3f00aec9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-12-18T09:42:37+00:00",
+                "type": "magento-module",
+                "license": [
+                    "public"
+                ],
+                "authors": [
+                    {
+                        "name": "Sanjay Modasia",
+                        "email": "sanjaymodasia@gmail.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/ho-nl-fork/magento1-Hwg_Attributemanager/tree/master",
+                    "issues": "https://github.com/ho-nl-fork/magento1-Hwg_Attributemanager/issues"
+                }
+            }
+        ]
+    }
+}

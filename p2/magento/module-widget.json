@@ -1,0 +1,1710 @@
+{
+    "packages": {
+        "magento/module-widget": [
+            {
+                "name": "magento/module-widget",
+                "version": "100.0.10",
+                "version_normalized": "100.0.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.0.10.0.zip",
+                    "shasum": "2f2dc6b2be7e7aee8a09ddb24d83518cd448f47a"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-cms": "100.0.*",
+                    "magento/module-email": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-theme": "100.0.*",
+                    "magento/module-variable": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.0.2",
+                "version_normalized": "100.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.0.2.0.zip",
+                    "shasum": "58cf569eddc172389d3d51cd905c8d67321b1592"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-cms": "100.0.*",
+                    "magento/module-email": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-theme": "100.0.*",
+                    "magento/module-variable": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.0.3",
+                "version_normalized": "100.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.0.3.0.zip",
+                    "shasum": "6204f505b515917d36438257a29909b927bd329c"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-cms": "100.0.*",
+                    "magento/module-email": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-theme": "100.0.*",
+                    "magento/module-variable": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.0.4",
+                "version_normalized": "100.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.0.4.0.zip",
+                    "shasum": "8db905de4c5883c5a5cfe70399100b60e0abc243"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-cms": "100.0.*",
+                    "magento/module-email": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-theme": "100.0.*",
+                    "magento/module-variable": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.0.5",
+                "version_normalized": "100.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.0.5.0.zip",
+                    "shasum": "2287734c0e146452bf3936eb3e7a401ad424bb9b"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-cms": "100.0.*",
+                    "magento/module-email": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-theme": "100.0.*",
+                    "magento/module-variable": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.0.6",
+                "version_normalized": "100.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.0.6.0.zip",
+                    "shasum": "7e19c14760abca4c91ae80b76ad067225ce899fc"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-cms": "100.0.*",
+                    "magento/module-email": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-theme": "100.0.*",
+                    "magento/module-variable": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.0.7",
+                "version_normalized": "100.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.0.7.0.zip",
+                    "shasum": "ca3e8fae05f71d647fe8d4ce894b40b9a3716c06"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-cms": "100.0.*",
+                    "magento/module-email": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-theme": "100.0.*",
+                    "magento/module-variable": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.0.8",
+                "version_normalized": "100.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.0.8.0.zip",
+                    "shasum": "0310afdb6ae1981ecf4288a77e79a1cd4cd2f05f"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-cms": "100.0.*",
+                    "magento/module-email": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-theme": "100.0.*",
+                    "magento/module-variable": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.0.9",
+                "version_normalized": "100.0.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.0.9.0.zip",
+                    "shasum": "b3951449cd0627ad1725274737ed25e8d4149175"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-cms": "100.0.*",
+                    "magento/module-email": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-theme": "100.0.*",
+                    "magento/module-variable": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.1.0",
+                "version_normalized": "100.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.1.0.0.zip",
+                    "shasum": "40b5ccf952d23a577d7ee21d99c4d87f91904db1"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-email": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "magento/module-variable": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.1.0-rc1",
+                "version_normalized": "100.1.0.0-RC1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.1.0.0-RC1.zip",
+                    "shasum": "2f0393cc47b6d0152544d2c23a236988014f4c47"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-email": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "magento/module-variable": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.1.0-rc2",
+                "version_normalized": "100.1.0.0-RC2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.1.0.0-RC2.zip",
+                    "shasum": "82331b76bb38507eb3b6d60af463b076e43a2d42"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-email": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "magento/module-variable": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.1.0-rc3",
+                "version_normalized": "100.1.0.0-RC3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.1.0.0-RC3.zip",
+                    "shasum": "8e29b84a852d97ff580226c032ae2167a5f44d05"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-email": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "magento/module-variable": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.1.1",
+                "version_normalized": "100.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.1.1.0.zip",
+                    "shasum": "cdcf66fc0720a22e778bf096f8feee1c49d88c84"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-email": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "magento/module-variable": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.1.10",
+                "version_normalized": "100.1.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.1.10.0.zip",
+                    "shasum": "a39e3e80cde63fee4c8f7fd3b5057ab1b563d406"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-email": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "magento/module-variable": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.1.11",
+                "version_normalized": "100.1.11.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.1.11.0.zip",
+                    "shasum": "21c5a2bc52f48d4a3573322593177363ff7fbe36"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-email": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "magento/module-variable": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.1.2",
+                "version_normalized": "100.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.1.2.0.zip",
+                    "shasum": "badda3ff964644cf4450782a0e6d417f4c15cb9f"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-email": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "magento/module-variable": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.1.3",
+                "version_normalized": "100.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.1.3.0.zip",
+                    "shasum": "aaca3bb5cf85f3d533f8d95d12d2f6068ae6eb0e"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-email": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "magento/module-variable": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.1.4",
+                "version_normalized": "100.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.1.4.0.zip",
+                    "shasum": "db137edc499fc1642a9e24c4b893540703e8e7de"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-email": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "magento/module-variable": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.1.5",
+                "version_normalized": "100.1.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.1.5.0.zip",
+                    "shasum": "cceca58bf58e2ae97185945940d449f5e401c8a8"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-email": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "magento/module-variable": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.1.6",
+                "version_normalized": "100.1.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.1.6.0.zip",
+                    "shasum": "b0a007e061b4de08a6014385b8fccfa7e20faaf4"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-email": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "magento/module-variable": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.1.7",
+                "version_normalized": "100.1.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.1.7.0.zip",
+                    "shasum": "b1cf8f08d62c029ce02d9d9ba651740f3e741cff"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-email": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "magento/module-variable": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.1.8",
+                "version_normalized": "100.1.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.1.8.0.zip",
+                    "shasum": "df6eaf30f3cef12179cc36ab6775d71fedff2c57"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-email": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "magento/module-variable": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.1.9",
+                "version_normalized": "100.1.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.1.9.0.zip",
+                    "shasum": "f0b8c6f404dc457a3654949c4969066c4047ccc2"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-cms": "101.0.*",
+                    "magento/module-email": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-theme": "100.1.*",
+                    "magento/module-variable": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "100.2.0-rc20",
+                "version_normalized": "100.2.0.0-RC20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-100.2.0.0-RC20.zip",
+                    "shasum": "3870c0ad89c61449f75fa461d3f44743da9cfe1f"
+                },
+                "require": {
+                    "magento/framework": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "101.1.*",
+                    "magento/module-cms": "101.1.*",
+                    "magento/module-email": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-theme": "100.2.*",
+                    "magento/module-variable": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.0.0",
+                "version_normalized": "101.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.0.0.0.zip",
+                    "shasum": "4a036131a1b1bed8db98afd36a1f974fb1a01a11"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-email": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-theme": "100.2.*",
+                    "magento/module-variable": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.0.0-rc21",
+                "version_normalized": "101.0.0.0-RC21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.0.0.0-RC21.zip",
+                    "shasum": "92a25ab808e391cc6492057d08a3aa0c582308c5"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-email": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-theme": "100.2.*",
+                    "magento/module-variable": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.0.0-rc22",
+                "version_normalized": "101.0.0.0-RC22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.0.0.0-RC22.zip",
+                    "shasum": "30bb0e4dc749a1b6f1324e9e0e50478748df33bd"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-email": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-theme": "100.2.*",
+                    "magento/module-variable": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.0.0-rc23",
+                "version_normalized": "101.0.0.0-RC23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.0.0.0-RC23.zip",
+                    "shasum": "d8c2585dc5504cc7b065c57d7da4e29aa734b8be"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-email": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-theme": "100.2.*",
+                    "magento/module-variable": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.0.0-rc30",
+                "version_normalized": "101.0.0.0-RC30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.0.0.0-RC30.zip",
+                    "shasum": "938ecf320aa95c5d423a912ecd65ec7bd7fa213e"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-email": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-theme": "100.2.*",
+                    "magento/module-variable": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.0.1",
+                "version_normalized": "101.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.0.1.0.zip",
+                    "shasum": "fe54aacdae23fb7ce7c7c1844f669eba86933ece"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-email": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-theme": "100.2.*",
+                    "magento/module-variable": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.0.2",
+                "version_normalized": "101.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.0.2.0.zip",
+                    "shasum": "96f39c3acc4d5cd294342ec3d9a0df6f72954183"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-email": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-theme": "100.2.*",
+                    "magento/module-variable": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.0.3",
+                "version_normalized": "101.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.0.3.0.zip",
+                    "shasum": "4398ed9bb9db3a5cc1d905014728f0784abfc559"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-email": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-theme": "100.2.*",
+                    "magento/module-variable": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.0.4",
+                "version_normalized": "101.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.0.4.0.zip",
+                    "shasum": "f63abf5ba4d8959ca7d8bd93b928fa0a7d5de929"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-email": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-theme": "100.2.*",
+                    "magento/module-variable": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.0.5",
+                "version_normalized": "101.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.0.5.0.zip",
+                    "shasum": "22c06a0c2b8b78084a8a1821ccac9fb788ff957a"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-email": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-theme": "100.2.*",
+                    "magento/module-variable": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.0.6",
+                "version_normalized": "101.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.0.6.0.zip",
+                    "shasum": "3debbad83c67030c73efad6d2abb652f88d4bfd9"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-email": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-theme": "100.2.*",
+                    "magento/module-variable": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.0.7",
+                "version_normalized": "101.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.0.7.0.zip",
+                    "shasum": "1559eebd295a894494b4a4cf3d937c6b4c22de65"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-email": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-theme": "100.2.*",
+                    "magento/module-variable": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.0.8",
+                "version_normalized": "101.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.0.8.0.zip",
+                    "shasum": "71f8d6e5aa0e5d18cbf9bd99e44051ef7b66a955"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-email": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-theme": "100.2.*",
+                    "magento/module-variable": "100.2.*",
+                    "php": "~7.0.13|~7.1.0|~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.0.9",
+                "version_normalized": "101.0.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.0.9.0.zip",
+                    "shasum": "cc15d3c553da734ecba1082c0125d298607d489d"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-cms": "102.0.*",
+                    "magento/module-email": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-theme": "100.2.*",
+                    "magento/module-variable": "100.2.*",
+                    "php": "~7.0.13||~7.1.0||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version:100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.1.0",
+                "version_normalized": "101.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.1.0.0.zip",
+                    "shasum": "babf935d90f9c651dbc0dfe9f500e3e0ca8d16f3"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-theme": "101.0.*",
+                    "magento/module-variable": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version: 100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.1.1",
+                "version_normalized": "101.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.1.1.0.zip",
+                    "shasum": "f7c8f6136274aee6ec623112981505475b36ea04"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-theme": "101.0.*",
+                    "magento/module-variable": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version: 100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.1.2",
+                "version_normalized": "101.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.1.2.0.zip",
+                    "shasum": "77327a9b2319ad3440eda190c9817194358be899"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-theme": "101.0.*",
+                    "magento/module-variable": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version: 100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.1.3",
+                "version_normalized": "101.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.1.3.0.zip",
+                    "shasum": "2dc34793663aab1ecd55f462b128b8e487912d6f"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-theme": "101.0.*",
+                    "magento/module-variable": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version: 100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.1.4",
+                "version_normalized": "101.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.1.4.0.zip",
+                    "shasum": "4682875f50085860f6c49a64eacc6efa1ad22c7a"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-theme": "101.0.*",
+                    "magento/module-variable": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version: 100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-widget",
+                "version": "101.1.4-p2",
+                "version_normalized": "101.1.4.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-widget/magento-module-widget-101.1.4.0-patch2.zip",
+                    "shasum": "59cc20d35012657cc10d1ca9ca146077ad3cdf3d"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-theme": "101.0.*",
+                    "magento/module-variable": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-widget-sample-data": "Sample Data version: 100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Widget\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

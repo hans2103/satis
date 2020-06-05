@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/ogone_epayments": [
+            {
+                "name": "connect20/Ogone_ePayments",
+                "version": "16.05.26",
+                "version_normalized": "16.05.26.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ogone_ePayments/16.05.26/Ogone_ePayments-16.05.26.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Lühr",
+                        "email": "michael.luehr@netresearch.de"
+                    }
+                ],
+                "description": "Ingenico ePayments"
+            },
+            {
+                "name": "connect20/Ogone_ePayments",
+                "version": "16.12.14",
+                "version_normalized": "16.12.14.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ogone_ePayments/16.12.14/Ogone_ePayments-16.12.14.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Lühr",
+                        "email": "michael.luehr@netresearch.de"
+                    }
+                ],
+                "description": "Ingenico ePayments"
+            }
+        ]
+    }
+}

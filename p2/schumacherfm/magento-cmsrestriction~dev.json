@@ -1,0 +1,78 @@
+{
+    "packages": {
+        "schumacherfm/magento-cmsrestriction": [
+            {
+                "name": "schumacherfm/magento-cmsrestriction",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SchumacherFM/Magento-CmsRestriction.git",
+                    "reference": "888edb3c1d8b654e18d651c61db0fb37c1998297"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/SchumacherFM/Magento-CmsRestriction/zipball/888edb3c1d8b654e18d651c61db0fb37c1998297",
+                    "reference": "888edb3c1d8b654e18d651c61db0fb37c1998297",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-12-10T02:43:38+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher",
+                        "email": "cyrill+github@schumacher.fm"
+                    }
+                ],
+                "description": "Magento CMS Page Restriction on Customer ID and Group ID basis",
+                "homepage": "https://github.com/SchumacherFM/Magento-CmsRestriction",
+                "support": {
+                    "source": "https://github.com/SchumacherFM/Magento-CmsRestriction/tree/master",
+                    "issues": "https://github.com/SchumacherFM/Magento-CmsRestriction/issues"
+                }
+            },
+            {
+                "name": "schumacherfm/magento-cmsrestriction",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SchumacherFM/Magento-CmsRestriction.git",
+                    "reference": "16ad60b3a3e6d65829085f0a9023b6ad4da864eb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/SchumacherFM/Magento-CmsRestriction/zipball/16ad60b3a3e6d65829085f0a9023b6ad4da864eb",
+                    "reference": "16ad60b3a3e6d65829085f0a9023b6ad4da864eb",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-12-08T08:38:29+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher",
+                        "email": "cyrill+github@schumacher.fm"
+                    }
+                ],
+                "description": "Magento CMS Page Restriction on Customer ID and Group ID basis",
+                "homepage": "https://github.com/SchumacherFM/Magento-CmsRestriction",
+                "support": {
+                    "source": "https://github.com/SchumacherFM/Magento-CmsRestriction/tree/develop",
+                    "issues": "https://github.com/SchumacherFM/Magento-CmsRestriction/issues"
+                }
+            }
+        ]
+    }
+}

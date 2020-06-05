@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/order_status": [
+            {
+                "name": "connect20/Order_Status",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Order_Status/0.1.1/Order_Status-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Itai Etzman",
+                        "email": "webmaster@digitaladdiction.co.za"
+                    }
+                ],
+                "description": "This extension adds extra Status options to the Order Status drop down of Customer Orders and also allows you to add your own."
+            },
+            {
+                "name": "connect20/Order_Status",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Order_Status/0.1.2/Order_Status-0.1.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Itai Etzman",
+                        "email": "webmaster@digitaladdiction.co.za"
+                    }
+                ],
+                "description": "This extension adds extra Status options to the Order Status drop down of Customer Orders and also allows you to add your own."
+            }
+        ]
+    }
+}

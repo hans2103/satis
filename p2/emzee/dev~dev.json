@@ -1,0 +1,76 @@
+{
+    "packages": {
+        "emzee/dev": [
+            {
+                "name": "emzee/dev",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mzeis/Emzee_Dev.git",
+                    "reference": "4c684dd8c7cf9753bd5c24ac48efd693f53d0235"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mzeis/Emzee_Dev/zipball/4c684dd8c7cf9753bd5c24ac48efd693f53d0235",
+                    "reference": "4c684dd8c7cf9753bd5c24ac48efd693f53d0235",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-08-31T11:25:37+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthias Zeis",
+                        "email": "admin@matthias-zeis.com"
+                    }
+                ],
+                "description": "Provides a handy object inspection method for Magento developers",
+                "support": {
+                    "source": "https://github.com/mzeis/Emzee_Dev/tree/v1.0.0",
+                    "issues": "https://github.com/mzeis/Emzee_Dev/issues"
+                }
+            },
+            {
+                "name": "emzee/dev",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mzeis/Emzee_Dev.git",
+                    "reference": "6f217ee41e55bd582a8dbab41caeccccf93d2a44"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mzeis/Emzee_Dev/zipball/6f217ee41e55bd582a8dbab41caeccccf93d2a44",
+                    "reference": "6f217ee41e55bd582a8dbab41caeccccf93d2a44",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-05-20T12:21:41+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthias Zeis",
+                        "email": "admin@matthias-zeis.com"
+                    }
+                ],
+                "description": "Provides a handy object inspection method for Magento developers",
+                "support": {
+                    "source": "https://github.com/mzeis/Emzee_Dev/tree/v0.1.0",
+                    "issues": "https://github.com/mzeis/Emzee_Dev/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sigma_look": [
+            {
+                "name": "connect20/Sigma_Look",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Sigma_Look/1.1.0/Sigma_Look-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Manoj",
+                        "email": "mmathew@sigmainfo.net"
+                    }
+                ],
+                "description": "Look is pictorial representation of a product in actual usage environment."
+            }
+        ]
+    }
+}

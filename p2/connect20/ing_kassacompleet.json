@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ing_kassacompleet": [
+            {
+                "name": "connect20/ING_KassaCompleet",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ING_KassaCompleet/1.0.3/ING_KassaCompleet-1.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "The-MIT-License-(MIT)"
+                ],
+                "authors": [
+                    {
+                        "name": "ING",
+                        "email": "info@ing.nl"
+                    }
+                ],
+                "description": "ING Kassa Compleet - Magento Extension for iDEAL, Banktransfer and Creditcard"
+            }
+        ]
+    }
+}

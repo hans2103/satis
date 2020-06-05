@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/tealium_extend": [
+            {
+                "name": "connect20/Tealium_Extend",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Tealium_Extend/1.0.0/Tealium_Extend-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/tealium_tags": "*"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Patrick McWilliams",
+                        "email": "patrick.mcwilliams@tealium.com"
+                    }
+                ],
+                "description": "Tealum Custom Data for Tealium Tags Module"
+            }
+        ]
+    }
+}

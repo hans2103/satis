@@ -1,0 +1,75 @@
+{
+    "packages": {
+        "ebayenterprise/magento-file-transfer": [
+            {
+                "name": "ebayenterprise/magento-file-transfer",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/eBayEnterprise/magento-file-transfer.git",
+                    "reference": "22da9ff870bb678cff2a3b91c6689a8d957bb9cc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/eBayEnterprise/magento-file-transfer/zipball/22da9ff870bb678cff2a3b91c6689a8d957bb9cc",
+                    "reference": "22da9ff870bb678cff2a3b91c6689a8d957bb9cc",
+                    "shasum": ""
+                },
+                "require": {
+                    "ebayenterprise/magento-active-config": "~1.0"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "~0.3",
+                    "pdepend/pdepend": "~1.1",
+                    "phpdocumentor/phpdocumentor": "~2.4",
+                    "phploc/phploc": "~2.0",
+                    "phpmd/phpmd": "~1.5",
+                    "phpunit/dbunit": "~1",
+                    "phpunit/php-invoker": "~1.1",
+                    "phpunit/phpunit-selenium": "~1",
+                    "phpunit/phpunit-story": "~1",
+                    "sebastian/phpcpd": "~2.0",
+                    "squizlabs/php_codesniffer": "~1.5"
+                },
+                "time": "2015-01-07T15:54:53+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.x-dev"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Scott van Brug",
+                        "email": "svanbrug@ebay.com"
+                    },
+                    {
+                        "name": "Michael Phang",
+                        "email": "mphang@ebay.com"
+                    },
+                    {
+                        "name": "Michael A. Smith",
+                        "email": "msmith3@ebay.com"
+                    },
+                    {
+                        "name": "Mike West",
+                        "email": "micwest@ebay.com"
+                    },
+                    {
+                        "name": "Reginald Gabriel",
+                        "email": "rgabriel@ebay.com"
+                    }
+                ],
+                "description": "The FileTransfer (FT) module provides simplified mechanisms for transferring files to and from a remote server.",
+                "support": {
+                    "source": "https://github.com/eBayEnterprise/magento-file-transfer/tree/1.0.0",
+                    "issues": "https://github.com/eBayEnterprise/magento-file-transfer/issues"
+                }
+            }
+        ]
+    }
+}

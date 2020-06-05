@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/zoho_salesiq": [
+            {
+                "name": "connect20/Zoho_SalesIQ",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Zoho_SalesIQ/1.0.1/Zoho_SalesIQ-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Zoho SalesIQ",
+                        "email": "support@zohosalesiq.com"
+                    }
+                ],
+                "description": "With Zoho SalesIQ you can instantly connect to your customers and deliver instant support"
+            }
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "packages": {
+        "ctidigital/magento-configurator": [
+            {
+                "name": "ctidigital/magento-configurator",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ctidigital/magento-configurator.git",
+                    "reference": "3fe62c1b58ea92df130937b26666cefca7ceeb4f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ctidigital/magento-configurator/zipball/3fe62c1b58ea92df130937b26666cefca7ceeb4f",
+                    "reference": "3fe62c1b58ea92df130937b26666cefca7ceeb4f",
+                    "shasum": ""
+                },
+                "time": "2016-04-11T10:10:11+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "CTI Digital",
+                        "email": "sales@ctidigital.com"
+                    }
+                ],
+                "description": "Magento Configurator",
+                "support": {
+                    "source": "https://github.com/ctidigital/magento-configurator/tree/v0.15.0",
+                    "issues": "https://github.com/ctidigital/magento-configurator/issues"
+                }
+            },
+            {
+                "name": "ctidigital/magento-configurator",
+                "version": "dev-attribute-store-labels",
+                "version_normalized": "dev-attribute-store-labels",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ctidigital/magento-configurator.git",
+                    "reference": "fbd55349ce23c8cad5f3491f496bb1f0ab5f3b5d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ctidigital/magento-configurator/zipball/fbd55349ce23c8cad5f3491f496bb1f0ab5f3b5d",
+                    "reference": "fbd55349ce23c8cad5f3491f496bb1f0ab5f3b5d",
+                    "shasum": ""
+                },
+                "time": "2016-04-11T10:04:14+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "CTI Digital",
+                        "email": "sales@ctidigital.com"
+                    }
+                ],
+                "description": "Magento Configurator",
+                "support": {
+                    "source": "https://github.com/ctidigital/magento-configurator/tree/attribute-store-labels",
+                    "issues": "https://github.com/ctidigital/magento-configurator/issues"
+                }
+            },
+            {
+                "name": "ctidigital/magento-configurator",
+                "version": "dev-feature/tests",
+                "version_normalized": "dev-feature/tests",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ctidigital/magento-configurator.git",
+                    "reference": "d0b26e4abc51ec21c106084415320ceb97b3259c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ctidigital/magento-configurator/zipball/d0b26e4abc51ec21c106084415320ceb97b3259c",
+                    "reference": "d0b26e4abc51ec21c106084415320ceb97b3259c",
+                    "shasum": ""
+                },
+                "time": "2016-02-02T22:37:50+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "CTI Digital",
+                        "email": "sales@ctidigital.com"
+                    }
+                ],
+                "description": "Magento Configurator",
+                "support": {
+                    "source": "https://github.com/ctidigital/magento-configurator/tree/feature/tests",
+                    "issues": "https://github.com/ctidigital/magento-configurator/issues"
+                }
+            }
+        ]
+    }
+}

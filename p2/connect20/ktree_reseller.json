@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ktree_reseller": [
+            {
+                "name": "connect20/Ktree_Reseller",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ktree_Reseller/0.1.0/Ktree_Reseller-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "AFL"
+                ],
+                "authors": [
+                    {
+                        "name": "Ktree",
+                        "email": "alma.rajkumar@goktree.com"
+                    }
+                ],
+                "description": "Ktree Reseller Extension"
+            }
+        ]
+    }
+}

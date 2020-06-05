@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/merchantplus_merchantplus": [
+            {
+                "name": "connect20/Merchantplus_Merchantplus",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Merchantplus_Merchantplus/1.0.1/Merchantplus_Merchantplus-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Merchantplus",
+                        "email": "support@merchantplus.com"
+                    }
+                ],
+                "description": "MerchantPlus NaviGate payment gateway for credit card processing."
+            }
+        ]
+    }
+}

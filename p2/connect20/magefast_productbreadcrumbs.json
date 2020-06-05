@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/magefast_productbreadcrumbs": [
+            {
+                "name": "connect20/Magefast_ProductBreadcrumbs",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Magefast_ProductBreadcrumbs/0.0.1/Magefast_ProductBreadcrumbs-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "AFL"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex",
+                        "email": "magento@magefast.com"
+                    }
+                ],
+                "description": "Breadcrumbs for Product page, with categories link"
+            },
+            {
+                "name": "connect20/Magefast_ProductBreadcrumbs",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Magefast_ProductBreadcrumbs/1.0.1/Magefast_ProductBreadcrumbs-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "AFL"
+                ],
+                "authors": [
+                    {
+                        "name": "Alex",
+                        "email": "magento@magefast.com"
+                    }
+                ],
+                "description": "Breadcrumbs for Product page, with categories link"
+            }
+        ]
+    }
+}

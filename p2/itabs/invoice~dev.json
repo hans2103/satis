@@ -1,0 +1,114 @@
+{
+    "packages": {
+        "itabs/invoice": [
+            {
+                "name": "itabs/invoice",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/itabs/Itabs_Invoice.git",
+                    "reference": "dc3b59011c5ab3d815bddfdf200231dec485c1f6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/itabs/Itabs_Invoice/zipball/dc3b59011c5ab3d815bddfdf200231dec485c1f6",
+                    "reference": "dc3b59011c5ab3d815bddfdf200231dec485c1f6",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-01-14T15:34:22+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "therouv@googlemail.com"
+                    }
+                ],
+                "description": "Provides the payment method Invoice",
+                "homepage": "https://github.com/itabs/Itabs_Invoice",
+                "support": {
+                    "source": "https://github.com/itabs/Itabs_Invoice/tree/1.5.0",
+                    "issues": "https://github.com/itabs/Itabs_Invoice/issues"
+                }
+            },
+            {
+                "name": "itabs/invoice",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/itabs/Itabs_Invoice.git",
+                    "reference": "1746a1f651d6c46bc0fc761d83c18e1e25379fd6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/itabs/Itabs_Invoice/zipball/1746a1f651d6c46bc0fc761d83c18e1e25379fd6",
+                    "reference": "1746a1f651d6c46bc0fc761d83c18e1e25379fd6",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-01-14T15:34:28+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "therouv@googlemail.com"
+                    }
+                ],
+                "description": "Provides the payment method Invoice",
+                "homepage": "https://github.com/itabs/Itabs_Invoice",
+                "support": {
+                    "source": "https://github.com/itabs/Itabs_Invoice/tree/develop",
+                    "issues": "https://github.com/itabs/Itabs_Invoice/issues"
+                }
+            },
+            {
+                "name": "itabs/invoice",
+                "version": "dev-infabo-feature/sofort-zahlbar",
+                "version_normalized": "dev-infabo-feature/sofort-zahlbar",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/itabs/Itabs_Invoice.git",
+                    "reference": "6f574f12c2a0fdc6f3dc34da3d9aff801ca1b704"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/itabs/Itabs_Invoice/zipball/6f574f12c2a0fdc6f3dc34da3d9aff801ca1b704",
+                    "reference": "6f574f12c2a0fdc6f3dc34da3d9aff801ca1b704",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-01-14T15:14:00+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "therouv@googlemail.com"
+                    }
+                ],
+                "description": "Provides the payment method Invoice",
+                "homepage": "https://github.com/itabs/Itabs_Invoice",
+                "support": {
+                    "source": "https://github.com/itabs/Itabs_Invoice/tree/infabo-feature/sofort-zahlbar",
+                    "issues": "https://github.com/itabs/Itabs_Invoice/issues"
+                }
+            }
+        ]
+    }
+}

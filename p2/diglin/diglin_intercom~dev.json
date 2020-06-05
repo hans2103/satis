@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "diglin/diglin_intercom": [
+            {
+                "name": "diglin/diglin_intercom",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Intercom.git",
+                    "reference": "640d369bda2a2fb6ea3142aaae768e2ab56c19f9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Intercom/zipball/640d369bda2a2fb6ea3142aaae768e2ab56c19f9",
+                    "reference": "640d369bda2a2fb6ea3142aaae768e2ab56c19f9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-02-22T11:57:59+00:00",
+                "type": "magento-module",
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Sylvain Rayé",
+                        "email": "support@diglin.com"
+                    }
+                ],
+                "description": "Magento Extension for the service intercom.io",
+                "support": {
+                    "source": "https://github.com/diglin/Diglin_Intercom/tree/master",
+                    "issues": "https://github.com/diglin/Diglin_Intercom/issues"
+                }
+            }
+        ]
+    }
+}

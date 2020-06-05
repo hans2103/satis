@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "integer-net/magento-localized-ch": [
+            {
+                "name": "integer-net/magento-localized-ch",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/MagentoLocalizedCH.git",
+                    "reference": "9d88c3af1a340601f1e5dd8af6b150d16235778e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/MagentoLocalizedCH/zipball/9d88c3af1a340601f1e5dd8af6b150d16235778e",
+                    "reference": "9d88c3af1a340601f1e5dd8af6b150d16235778e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-11-24T13:37:26+00:00",
+                "type": "magento-module",
+                "description": "Swiss Localization package for Magento Localized (aka Magento CH)",
+                "homepage": "https://github.com/integer-net/MagentoLocalizedCH",
+                "support": {
+                    "source": "https://github.com/integer-net/MagentoLocalizedCH/tree/master",
+                    "issues": "https://github.com/integer-net/MagentoLocalizedCH/issues"
+                }
+            }
+        ]
+    }
+}

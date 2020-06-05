@@ -1,0 +1,39 @@
+{
+    "packages": {
+        "firegento/pdf-paypalplus": [
+            {
+                "name": "firegento/pdf-paypalplus",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/firegento/firegento-pdf-paypalplus.git",
+                    "reference": "94b1019a726a2134ec739084b28374e2103a4c85"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/firegento/firegento-pdf-paypalplus/zipball/94b1019a726a2134ec739084b28374e2103a4c85",
+                    "reference": "94b1019a726a2134ec739084b28374e2103a4c85",
+                    "shasum": ""
+                },
+                "require": {
+                    "firegento/pdf": "1.*"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Magento composer installer (or a replacement) is needed to install this packages"
+                },
+                "time": "2016-09-14T13:07:12+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "FireGento Pdf PayPalPlus adds the detailed PayPalPlus payment information on the FireGento PDF invoices.",
+                "homepage": "https://github.com/firegento/firegento-pdf-paypalplus",
+                "support": {
+                    "source": "https://github.com/firegento/firegento-pdf-paypalplus/tree/master",
+                    "issues": "https://github.com/firegento/firegento-pdf-paypalplus/issues"
+                }
+            }
+        ]
+    }
+}

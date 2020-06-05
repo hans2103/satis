@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "tim-bezhashvyly/geoip": [
+            {
+                "name": "tim-bezhashvyly/geoip",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Sandfox_GeoIP.git",
+                    "reference": "da30ab8c23467c15bb5ed752c50cb4846e3516af"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Sandfox_GeoIP/zipball/da30ab8c23467c15bb5ed752c50cb4846e3516af",
+                    "reference": "da30ab8c23467c15bb5ed752c50cb4846e3516af",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-11-02T10:38:17+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Tim Bezhashvyly",
+                        "email": "tim.bezhashvyly@gmail.com"
+                    }
+                ],
+                "description": "Connects MaxMind GeoIP DB to Magento",
+                "homepage": "https://github.com/tim-bezhashvyly/geoip",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Sandfox_GeoIP/tree/master",
+                    "issues": "https://github.com/magento-hackathon/Sandfox_GeoIP/issues"
+                }
+            }
+        ]
+    }
+}

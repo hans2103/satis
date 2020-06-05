@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/search_manipulation": [
+            {
+                "name": "connect20/Search_Manipulation",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Search_Manipulation/1.0.0/Search_Manipulation-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Exinent LLC",
+                        "email": "developer@exinent.com"
+                    }
+                ],
+                "description": "This extension allows you to sort the products on the basis of product rating in the product list page"
+            },
+            {
+                "name": "connect20/Search_Manipulation",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Search_Manipulation/2.0.0/Search_Manipulation-2.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Dev",
+                        "email": "developer@exinent.com"
+                    }
+                ],
+                "description": "Enables product sorting based on merchant rating in category listing and search results for the customers."
+            }
+        ]
+    }
+}

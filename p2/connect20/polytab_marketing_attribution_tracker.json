@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/polytab_marketing_attribution_tracker": [
+            {
+                "name": "connect20/Polytab_Marketing_Attribution_Tracker",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Polytab_Marketing_Attribution_Tracker/1.0.3/Polytab_Marketing_Attribution_Tracker-1.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-3.0-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Polytab Tech",
+                        "email": "varun@infernotions.com"
+                    }
+                ],
+                "description": "Polytab Attribution Tracker"
+            }
+        ]
+    }
+}

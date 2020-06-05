@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "zookal/harris-street-impex": [
+            {
+                "name": "zookal/harris-street-impex",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Zookal/HarrisStreet-ImpEx.git",
+                    "reference": "707b67f78b81778e98faff7f1710a2266d81c48f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Zookal/HarrisStreet-ImpEx/zipball/707b67f78b81778e98faff7f1710a2266d81c48f",
+                    "reference": "707b67f78b81778e98faff7f1710a2266d81c48f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-03-18T14:13:21+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher",
+                        "email": "cyrill+magento@schumacher.fm"
+                    }
+                ],
+                "description": "Magento n98-magerun module for importing and exporting configuration data. Import supports hierarchical folder structure and of course different environments.",
+                "support": {
+                    "source": "https://github.com/Zookal/HarrisStreet-ImpEx/tree/v1.2.1",
+                    "issues": "https://github.com/Zookal/HarrisStreet-ImpEx/issues"
+                }
+            }
+        ]
+    }
+}

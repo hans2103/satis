@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/chapagain_quickorder": [
+            {
+                "name": "connect20/Chapagain_QuickOrder",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Chapagain_QuickOrder/0.1.0/Chapagain_QuickOrder-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Mukesh Chapagain",
+                        "email": "mukesh.chapagain@gmail.com"
+                    }
+                ],
+                "description": "Quick Order - Directly add products to shopping cart by product SKU"
+            },
+            {
+                "name": "connect20/Chapagain_QuickOrder",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Chapagain_QuickOrder/0.1.1/Chapagain_QuickOrder-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Mukesh Chapagain",
+                        "email": "mukesh.chapagain@gmail.com"
+                    }
+                ],
+                "description": "This extension allows customers to directly add products to shopping cart using product SKU."
+            }
+        ]
+    }
+}

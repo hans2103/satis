@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "community-engineering/module-japanese-region": [
+            {
+                "name": "community-engineering/module-japanese-region",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/community-engineering/module-japanese-region/community-engineering-module-japanese-region-1.0.0.0.zip",
+                    "shasum": "b7156be9b7f317af332573540b680623c6299e1c"
+                },
+                "require": {
+                    "magento/framework": "^102.0.0",
+                    "magento/module-config": "^101.1.0",
+                    "magento/module-directory": "^100.3.0",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "CommunityEngineering\\JapaneseRegion\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Hirokazu Nishi",
+                        "email": "nishi@veriteworks.co.jp",
+                        "homepage": "https://veriteworks.co.jp/",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Magento2 extension for Japanese Region."
+            }
+        ]
+    }
+}

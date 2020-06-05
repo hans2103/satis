@@ -1,0 +1,62 @@
+{
+    "packages": {
+        "magento-hackathon/indexer-stats": [
+            {
+                "name": "magento-hackathon/indexer-stats",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_IndexerStats.git",
+                    "reference": "78328e51e65a56db974e41ab3ea7f2a0353051a1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_IndexerStats/zipball/78328e51e65a56db974e41ab3ea7f2a0353051a1",
+                    "reference": "78328e51e65a56db974e41ab3ea7f2a0353051a1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.4"
+                },
+                "time": "2014-12-05T23:01:46+00:00",
+                "type": "magento-module",
+                "description": "Adds a column to the indexer list with information about running time for full reindex of the respective indexers.",
+                "homepage": "https://github.com/magento-hackathon/IndexerStats",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_IndexerStats/tree/master",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_IndexerStats/issues"
+                }
+            },
+            {
+                "name": "magento-hackathon/indexer-stats",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Hackathon_IndexerStats.git",
+                    "reference": "90dccba9e99bb3d47a1aa22ca7ec8d72bdf04ccb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Hackathon_IndexerStats/zipball/90dccba9e99bb3d47a1aa22ca7ec8d72bdf04ccb",
+                    "reference": "90dccba9e99bb3d47a1aa22ca7ec8d72bdf04ccb",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.4"
+                },
+                "time": "2015-04-22T07:50:12+00:00",
+                "type": "magento-module",
+                "description": "Adds a column to the indexer list with information about running time for full reindex of the respective indexers.",
+                "homepage": "https://github.com/magento-hackathon/Hackathon_IndexerStats",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Hackathon_IndexerStats/tree/develop",
+                    "issues": "https://github.com/magento-hackathon/Hackathon_IndexerStats/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/netgains_deleteccsave": [
+            {
+                "name": "connect20/netgains_deleteccsave",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/netgains_deleteccsave/0.1.0/netgains_deleteccsave-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Ashish Khuller",
+                        "email": "biz@netgains.org"
+                    }
+                ],
+                "description": "Magento Creditcard Purger Extension: Custom credit card purger extension to secure CC information."
+            }
+        ]
+    }
+}

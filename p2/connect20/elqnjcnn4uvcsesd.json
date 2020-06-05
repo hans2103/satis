@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/elqnjcnn4uvcsesd": [
+            {
+                "name": "connect20/ELQNjCNN4uvCsESd",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ELQNjCNN4uvCsESd/1.0.0/ELQNjCNN4uvCsESd-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Ravi patel",
+                        "email": "ravipatelb07272@gmail.com"
+                    }
+                ],
+                "description": "This extension allows user to check product images on order review section of magento checkout."
+            }
+        ]
+    }
+}

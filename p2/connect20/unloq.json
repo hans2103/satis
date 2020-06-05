@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/unloq": [
+            {
+                "name": "connect20/UNLOQ",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/unloq/0.1.0/unloq-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Adrian Bunta",
+                        "email": "adrian@unloq.io"
+                    }
+                ],
+                "description": "UNLOQ.io Passwordless authentication"
+            },
+            {
+                "name": "connect20/UNLOQ",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/unloq/1.0.0/unloq-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Adrian Bunta",
+                        "email": "adrian@unloq.io"
+                    }
+                ],
+                "description": "UNLOQ.io Passwordless authentication"
+            }
+        ]
+    }
+}

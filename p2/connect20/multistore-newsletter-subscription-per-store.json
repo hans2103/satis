@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/multistore-newsletter-subscription-per-store": [
+            {
+                "name": "connect20/Multistore-Newsletter-Subscription-per-store",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Multistore-Newsletter-Subscription-per-store/1.0.0/Multistore-Newsletter-Subscription-per-store-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v1.0"
+                ],
+                "authors": [
+                    {
+                        "name": "magegeeks",
+                        "email": "magegeeks@gmail.com"
+                    }
+                ],
+                "description": "Allow users to subscribe for multiple store with same email Id."
+            }
+        ]
+    }
+}

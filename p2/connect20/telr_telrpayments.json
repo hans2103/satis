@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/telr_telrpayments": [
+            {
+                "name": "connect20/Telr_TelrPayments",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Telr_TelrPayments/2.0.0/Telr_TelrPayments-2.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Telr",
+                        "email": "support@telr.com"
+                    }
+                ],
+                "description": "Accept payments using the Telr secure hosted payment pages."
+            }
+        ]
+    }
+}

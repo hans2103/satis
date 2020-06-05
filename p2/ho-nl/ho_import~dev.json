@@ -1,0 +1,117 @@
+{
+    "packages": {
+        "ho-nl/ho_import": [
+            {
+                "name": "ho-nl/ho_import",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ho-nl/magento1-Ho_Import.git",
+                    "reference": "fcad82502e4d8d165872d1a90f3cd8ff0819c493"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ho-nl/magento1-Ho_Import/zipball/fcad82502e4d8d165872d1a90f3cd8ff0819c493",
+                    "reference": "fcad82502e4d8d165872d1a90f3cd8ff0819c493",
+                    "shasum": ""
+                },
+                "require": {
+                    "avstudnitz/fast-simple-import": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2020-03-24T13:31:00+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Paul Hachmang - H&O",
+                        "email": "paul@h-o.nl"
+                    }
+                ],
+                "description": "A Magento Module that allows you to map fields and import all sorts of file formats, sources and entities. Fast and Low Memory.",
+                "homepage": "https://github.com/ho-nl/Ho_Import",
+                "support": {
+                    "source": "https://github.com/ho-nl/magento1-Ho_Import/tree/master",
+                    "issues": "https://github.com/ho-nl/magento1-Ho_Import/issues"
+                }
+            },
+            {
+                "name": "ho-nl/ho_import",
+                "version": "dev-dev",
+                "version_normalized": "dev-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ho-nl/magento1-Ho_Import.git",
+                    "reference": "b2bea2799db255364fd3cb3be07c9db648fd0aad"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ho-nl/magento1-Ho_Import/zipball/b2bea2799db255364fd3cb3be07c9db648fd0aad",
+                    "reference": "b2bea2799db255364fd3cb3be07c9db648fd0aad",
+                    "shasum": ""
+                },
+                "require": {
+                    "avstudnitz/fast-simple-import": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2020-03-24T13:31:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Paul Hachmang - H&O",
+                        "email": "paul@h-o.nl"
+                    }
+                ],
+                "description": "A Magento Module that allows you to map fields and import all sorts of file formats, sources and entities. Fast and Low Memory.",
+                "homepage": "https://github.com/ho-nl/Ho_Import",
+                "support": {
+                    "source": "https://github.com/ho-nl/magento1-Ho_Import/tree/dev",
+                    "issues": "https://github.com/ho-nl/magento1-Ho_Import/issues"
+                }
+            },
+            {
+                "name": "ho-nl/ho_import",
+                "version": "dev-feature/DA-1036",
+                "version_normalized": "dev-feature/DA-1036",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ho-nl/magento1-Ho_Import.git",
+                    "reference": "8fc2c724b5d5ce3f551193bdcb98333eecebae34"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ho-nl/magento1-Ho_Import/zipball/8fc2c724b5d5ce3f551193bdcb98333eecebae34",
+                    "reference": "8fc2c724b5d5ce3f551193bdcb98333eecebae34",
+                    "shasum": ""
+                },
+                "require": {
+                    "avstudnitz/fast-simple-import": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2020-03-02T16:02:47+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Paul Hachmang - H&O",
+                        "email": "paul@h-o.nl"
+                    }
+                ],
+                "description": "A Magento Module that allows you to map fields and import all sorts of file formats, sources and entities. Fast and Low Memory.",
+                "homepage": "https://github.com/ho-nl/Ho_Import",
+                "support": {
+                    "source": "https://github.com/ho-nl/magento1-Ho_Import/tree/feature/DA-1036",
+                    "issues": "https://github.com/ho-nl/magento1-Ho_Import/issues"
+                }
+            }
+        ]
+    }
+}

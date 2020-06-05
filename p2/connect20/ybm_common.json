@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/ybm_common": [
+            {
+                "name": "connect20/YBM_Common",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/YBM_Common/1.0.0/YBM_Common-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "--"
+                ],
+                "authors": [
+                    {
+                        "name": "Puderbach und Wienczny GbR",
+                        "email": "info@ybm-deutschland.de"
+                    }
+                ],
+                "description": "YBM shared module"
+            },
+            {
+                "name": "connect20/YBM_Common",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/YBM_Common/2.1.0/YBM_Common-2.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "--"
+                ],
+                "authors": [
+                    {
+                        "name": "Puderbach und Wienczny GbR",
+                        "email": "info@ybm-deutschland.de"
+                    }
+                ],
+                "description": "YBM shared module"
+            }
+        ]
+    }
+}

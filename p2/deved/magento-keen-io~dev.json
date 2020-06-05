@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "deved/magento-keen-io": [
+            {
+                "name": "deved/magento-keen-io",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/deved-it/magento-keen-io.git",
+                    "reference": "a9eacecc1445c7f90b3d13a8d7de773c6ab6dc43"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/deved-it/magento-keen-io/zipball/a9eacecc1445c7f90b3d13a8d7de773c6ab6dc43",
+                    "reference": "a9eacecc1445c7f90b3d13a8d7de773c6ab6dc43",
+                    "shasum": ""
+                },
+                "require": {
+                    "keen-io/keen-io": "~2.5"
+                },
+                "time": "2015-03-10T20:03:13+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Salvatore Guarino",
+                        "email": "sg@deved.it"
+                    }
+                ],
+                "description": "Magento module to send orders data to keen.io",
+                "support": {
+                    "source": "https://github.com/deved-it/magento-keen-io/tree/1.0.4",
+                    "issues": "https://github.com/deved-it/magento-keen-io/issues"
+                }
+            }
+        ]
+    }
+}

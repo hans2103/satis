@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "itabs/logviewer": [
+            {
+                "name": "itabs/logviewer",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/itabs/Itabs_LogViewer.git",
+                    "reference": "af4d0610478b44cce558897d2dd1f2d74be89506"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/itabs/Itabs_LogViewer/zipball/af4d0610478b44cce558897d2dd1f2d74be89506",
+                    "reference": "af4d0610478b44cce558897d2dd1f2d74be89506",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-21T16:45:00+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "ITABS GmbH",
+                        "email": "info@itabs.de"
+                    }
+                ],
+                "description": "This extension provides the possibility to view log files in the backend.",
+                "support": {
+                    "source": "https://github.com/itabs/Itabs_LogViewer/tree/1.0.0",
+                    "issues": "https://github.com/itabs/Itabs_LogViewer/issues"
+                }
+            }
+        ]
+    }
+}

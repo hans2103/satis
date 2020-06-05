@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/discountlayerfilter": [
+            {
+                "name": "connect20/discountlayerfilter",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/discountlayerfilter/0.1.1/discountlayerfilter-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Praful Rajput",
+                        "email": "rajput.praful@gmail.com"
+                    }
+                ],
+                "description": "This module is useful to display Discount Field into Layer Filter."
+            },
+            {
+                "name": "connect20/discountlayerfilter",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/discountlayerfilter/1.0.0/discountlayerfilter-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-"
+                ],
+                "authors": [
+                    {
+                        "name": "Praful Rajput",
+                        "email": "rajput.praful@gmail.com"
+                    }
+                ],
+                "description": " This module is useful to display Discount Field into Layer Filter. "
+            }
+        ]
+    }
+}

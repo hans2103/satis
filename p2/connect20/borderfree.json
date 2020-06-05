@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/borderfree": [
+            {
+                "name": "connect20/Borderfree",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Borderfree/1.1.1/Borderfree-1.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "SaaS"
+                ],
+                "authors": [
+                    {
+                        "name": "Borderfree",
+                        "email": "sales@borderfree.com"
+                    }
+                ],
+                "description": "Magento to Borderfree Integration"
+            }
+        ]
+    }
+}

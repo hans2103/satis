@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/contacts_grid": [
+            {
+                "name": "connect20/contacts_grid",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/contacts_grid/1.0.0/contacts_grid-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Akhilesh Yadav",
+                        "email": "akhileshaky@gmail.com"
+                    }
+                ],
+                "description": "Contact Us details saves in admin grid form. Admin can respond to customer from this grid directly. "
+            },
+            {
+                "name": "connect20/contacts_grid",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/contacts_grid/1.1.0/contacts_grid-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Akhilesh Yadav",
+                        "email": "akhileshaky@gmail.com"
+                    }
+                ],
+                "description": "Contact Us details saves in admin grid form. Admin can respond to customer from this grid directly. "
+            }
+        ]
+    }
+}

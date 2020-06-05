@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/dextrous_quickview": [
+            {
+                "name": "connect20/Dextrous_Quickview",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Dextrous_Quickview/1.0.0/Dextrous_Quickview-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Hemant kumar sharma",
+                        "email": "hemant7677@gmail.com"
+                    }
+                ],
+                "description": "Quick View allows you to quickly view and add a product to cart (without opening the product view page). Quickview shows you all the necessary product information in a fancy popup box."
+            },
+            {
+                "name": "connect20/Dextrous_Quickview",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Dextrous_Quickview/1.1.0/Dextrous_Quickview-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Hemant kumar sharma",
+                        "email": "hemant7677@gmail.com"
+                    }
+                ],
+                "description": "Quick View allows you to quickly view and add a product to cart in a fancy popup box."
+            }
+        ]
+    }
+}

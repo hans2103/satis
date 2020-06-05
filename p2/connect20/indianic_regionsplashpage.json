@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/indianic_regionsplashpage": [
+            {
+                "name": "connect20/Indianic_Regionsplashpage",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Indianic_Regionsplashpage/1.0.0.1/Indianic_Regionsplashpage-1.0.0.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "indianic",
+                        "email": "enquiry@indianic.com"
+                    }
+                ],
+                "description": "This module display region wise splash pages "
+            }
+        ]
+    }
+}

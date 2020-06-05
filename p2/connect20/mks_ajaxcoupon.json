@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/mks_ajaxcoupon": [
+            {
+                "name": "connect20/Mks_Ajaxcoupon",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mks_Ajaxcoupon/1.0.0.1/Mks_Ajaxcoupon-1.0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "mukesh kumar saini",
+                        "email": "in.mukeshsaini@gmail.com"
+                    }
+                ],
+                "description": "add the coupon code in last step of checkout process"
+            }
+        ]
+    }
+}

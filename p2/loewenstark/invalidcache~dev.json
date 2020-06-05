@@ -1,0 +1,36 @@
+{
+    "packages": {
+        "loewenstark/invalidcache": [
+            {
+                "name": "loewenstark/invalidcache",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mklooss/Loewenstark_InvalidCache.git",
+                    "reference": "0c0ff6215497a5749b9787f44be270cd965bbb3f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mklooss/Loewenstark_InvalidCache/zipball/0c0ff6215497a5749b9787f44be270cd965bbb3f",
+                    "reference": "0c0ff6215497a5749b9787f44be270cd965bbb3f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-01-08T14:07:40+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "Workaround to fix Invalid Caches",
+                "homepage": "https://github.com/mklooss/Loewenstark_InvalidCache",
+                "support": {
+                    "source": "https://github.com/mklooss/Loewenstark_InvalidCache/tree/master",
+                    "issues": "https://github.com/mklooss/Loewenstark_InvalidCache/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/totalsecurity": [
+            {
+                "name": "connect20/TotalSecurity",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Magegurutotalsecurity/1.0.1/Magegurutotalsecurity-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "developer",
+                        "email": "mageguruindia@gmail.com"
+                    }
+                ],
+                "description": "Protect your Store back-end against unauthorized logins and fraudsters today! Because passwords just aren't enough."
+            }
+        ]
+    }
+}

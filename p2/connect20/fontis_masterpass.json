@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/fontis_masterpass": [
+            {
+                "name": "connect20/Fontis_Masterpass",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Fontis_Masterpass/1.0.2/Fontis_Masterpass-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Fontis",
+                        "email": "magento@fontis.com.au"
+                    }
+                ],
+                "description": "Fontis extension for the MasterPass credit card wallet."
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "ikonoshirt/customadminnotifications": [
+            {
+                "name": "ikonoshirt/customadminnotifications",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ikonoshirt/CustomAdminNotifications.git",
+                    "reference": "2157a9a1a666b7ac379c98da0666ec6637653b81"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ikonoshirt/CustomAdminNotifications/zipball/2157a9a1a666b7ac379c98da0666ec6637653b81",
+                    "reference": "2157a9a1a666b7ac379c98da0666ec6637653b81",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-06-29T07:24:04+00:00",
+                "type": "magento-module",
+                "description": "Add own RSS Feeds to admin notifications.",
+                "homepage": "https://github.com/ikonoshirt/CustomAdminNotifications",
+                "support": {
+                    "source": "https://github.com/ikonoshirt/CustomAdminNotifications/tree/master",
+                    "issues": "https://github.com/ikonoshirt/CustomAdminNotifications/issues"
+                }
+            }
+        ]
+    }
+}

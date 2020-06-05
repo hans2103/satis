@@ -1,0 +1,108 @@
+{
+    "packages": {
+        "onepica/avatax": [
+            {
+                "name": "onepica/avatax",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/onepica/avatax.git",
+                    "reference": "baac2b0515708bfab3f7abe0406648bd9f3942ea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/onepica/avatax/zipball/baac2b0515708bfab3f7abe0406648bd9f3942ea",
+                    "reference": "baac2b0515708bfab3f7abe0406648bd9f3942ea",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "onepica/avatax16": "^0.2.2-alpha"
+                },
+                "time": "2018-09-07T11:57:34+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "."
+                },
+                "scripts": {
+                    "copy-avatax16-lib": [
+                        "php -r \"require './composer/onepica/install-functions.php';  copy_recursive('./vendor/onepica/avatax16/src','./lib');\""
+                    ],
+                    "post-update-cmd": [
+                        "@copy-avatax16-lib"
+                    ],
+                    "post-install-cmd": [
+                        "@copy-avatax16-lib"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "One Pica",
+                        "homepage": "http://www.onepica.com/"
+                    }
+                ],
+                "description": "This extension integrates Magento with AvaTax, a tax service provided by Avalara. ",
+                "homepage": "http://www.magentocommerce.com/magento-connect/6760.html",
+                "support": {
+                    "source": "https://github.com/onepica/avatax/tree/3.7.0-stable",
+                    "issues": "https://github.com/onepica/avatax/issues"
+                }
+            },
+            {
+                "name": "onepica/avatax",
+                "version": "dev-master16",
+                "version_normalized": "dev-master16",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/onepica/avatax.git",
+                    "reference": "b1b50a155490180564a699cceb9007c3ca7cfc0f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/onepica/avatax/zipball/b1b50a155490180564a699cceb9007c3ca7cfc0f",
+                    "reference": "b1b50a155490180564a699cceb9007c3ca7cfc0f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "onepica/avatax16": "^0.2.2-alpha"
+                },
+                "time": "2016-06-02T11:34:34+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "."
+                },
+                "scripts": {
+                    "copy-avatax16-lib": [
+                        "php -r \"require './composer/onepica/install-functions.php';  copy_recursive('./vendor/onepica/avatax16/src','./lib');\""
+                    ],
+                    "post-update-cmd": [
+                        "@copy-avatax16-lib"
+                    ],
+                    "post-install-cmd": [
+                        "@copy-avatax16-lib"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "One Pica",
+                        "homepage": "http://www.onepica.com/"
+                    }
+                ],
+                "description": "This extension integrates Magento with AvaTax, a tax service provided by Avalara. ",
+                "homepage": "http://www.magentocommerce.com/magento-connect/6760.html",
+                "support": {
+                    "source": "https://github.com/onepica/avatax/tree/master16",
+                    "issues": "https://github.com/onepica/avatax/issues"
+                }
+            }
+        ]
+    }
+}

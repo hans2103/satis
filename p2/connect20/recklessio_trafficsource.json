@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "connect20/recklessio_trafficsource": [
+            {
+                "name": "connect20/Recklessio_Trafficsource",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Recklessio_Trafficsource/1.0.1/Recklessio_Trafficsource-1.0.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.0.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Reckless",
+                        "email": "hello@reckless.io"
+                    }
+                ],
+                "description": "Magento Traffic Source Tracker"
+            },
+            {
+                "name": "connect20/Recklessio_Trafficsource",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Recklessio_Trafficsource/1.0.2/Recklessio_Trafficsource-1.0.2.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.0.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Reckless",
+                        "email": "hello@reckless.io"
+                    }
+                ],
+                "description": "Magento Traffic Source Tracker"
+            }
+        ]
+    }
+}

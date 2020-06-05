@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/pli_layer": [
+            {
+                "name": "connect20/Pli_Layer",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Pli_Layer/0.1.1/Pli_Layer-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Pavel Livinskiy",
+                        "email": "pavel.livinskij@gmail.com"
+                    }
+                ],
+                "description": "It is very convenient to use slider display mode for price."
+            },
+            {
+                "name": "connect20/Pli_Layer",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Pli_Layer/0.1.2/Pli_Layer-0.1.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Pavel Livinskiy",
+                        "email": "pavel.livinskij@gmail.com"
+                    }
+                ],
+                "description": "It is very convenient to use slider display mode for price."
+            }
+        ]
+    }
+}

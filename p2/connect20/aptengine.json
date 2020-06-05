@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/aptengine": [
+            {
+                "name": "connect20/aptengine",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/aptengine/1.5.0/aptengine-1.5.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Whirl",
+                        "email": "Whirl@email.com"
+                    }
+                ],
+                "description": "Whirl recommendation engine enables the plugin in Product display and cart page."
+            },
+            {
+                "name": "connect20/aptengine",
+                "version": "1.5.1",
+                "version_normalized": "1.5.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/aptengine/1.5.1/aptengine-1.5.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Whirl",
+                        "email": "Whirl@email.com"
+                    }
+                ],
+                "description": "Whirl recommendation engine enables the plugin in Product display and cart page."
+            }
+        ]
+    }
+}

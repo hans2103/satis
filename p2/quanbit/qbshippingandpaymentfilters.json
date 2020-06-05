@@ -1,0 +1,40 @@
+{
+    "packages": {
+        "quanbit/qbshippingandpaymentfilters": [
+            {
+                "name": "quanbit/qbshippingandpaymentfilters",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ho-nl-fork/magento1-Quanbit_QBShippingAndPaymentFilters.git",
+                    "reference": "fe86722e2f06feaf4e3e892ad62f6b35c1d65da4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ho-nl-fork/magento1-Quanbit_QBShippingAndPaymentFilters/zipball/fe86722e2f06feaf4e3e892ad62f6b35c1d65da4",
+                    "reference": "fe86722e2f06feaf4e3e892ad62f6b35c1d65da4",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-01-16T14:24:28+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "quanbit"
+                    }
+                ],
+                "description": "QBShippingAndPaymentFilters is a module of Magento. This Module allows you set up rules to enable or disable payment and shipping methods, based on the content’s of the checkout cart (e.g. you can disallow “Personal Delivery” for orders to be shipped outside your city or enable Paypal payment only to people who bought from you products from the …",
+                "support": {
+                    "source": "https://github.com/ho-nl-fork/magento1-Quanbit_QBShippingAndPaymentFilters/tree/1.1",
+                    "issues": "https://github.com/ho-nl-fork/magento1-Quanbit_QBShippingAndPaymentFilters/issues"
+                }
+            }
+        ]
+    }
+}

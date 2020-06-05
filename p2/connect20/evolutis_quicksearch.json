@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/evolutis_quicksearch": [
+            {
+                "name": "connect20/Evolutis_QuickSearch",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/16092523a84af2a2dacb3b75a8504df4/1.0.0/16092523a84af2a2dacb3b75a8504df4-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Maillotte",
+                        "email": "contact@evolutis.fr"
+                    }
+                ],
+                "description": "Improves the Quick Search functionality with weight on each attribute and OR/AND operator for the search query."
+            }
+        ]
+    }
+}

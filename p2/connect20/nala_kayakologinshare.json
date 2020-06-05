@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/nala_kayakologinshare": [
+            {
+                "name": "connect20/Nala_KayakoLoginShare",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Nala_KayakoLoginShare/1.0.0/Nala_KayakoLoginShare-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Sutha Kathir",
+                        "email": "sutha@nalanetworks.com"
+                    }
+                ],
+                "description": "The Magento LoginShare module lets users access Kayako Help Desk by using a Magento username and password"
+            },
+            {
+                "name": "connect20/Nala_KayakoLoginShare",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Nala_KayakoLoginShare/1.0.1/Nala_KayakoLoginShare-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Nala Networks Inc",
+                        "email": "sutha@nalanetworks.com"
+                    }
+                ],
+                "description": "The Nala_LoginShare module lets users access Kayako Help Desk by using a Magento username and password"
+            }
+        ]
+    }
+}

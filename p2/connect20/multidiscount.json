@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/multidiscount": [
+            {
+                "name": "connect20/multidiscount",
+                "version": "0.1.9",
+                "version_normalized": "0.1.9.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/multidiscount/0.1.9/multidiscount-0.1.9.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kingshuk deb",
+                        "email": "kingshukdeb88@gmail.com"
+                    }
+                ],
+                "description": "Use same coupon code for multiple discounts based on cart total"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/retentionhero": [
+            {
+                "name": "connect20/RetentionHero",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/RetentionHero/1.0.0/RetentionHero-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Retention Hero",
+                        "email": "support@retentionhero.com"
+                    }
+                ],
+                "description": "Identify valuable customers early on and keep them coming back with targeted lifecycle marketing."
+            }
+        ]
+    }
+}

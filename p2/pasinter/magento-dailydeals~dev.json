@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "pasinter/magento-dailydeals": [
+            {
+                "name": "pasinter/magento-dailydeals",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/pasinter/magento-dailydeals.git",
+                    "reference": "9d490eac8a85469e754f28764df1a2023e433b9b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pasinter/magento-dailydeals/zipball/9d490eac8a85469e754f28764df1a2023e433b9b",
+                    "reference": "9d490eac8a85469e754f28764df1a2023e433b9b",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-06-07T20:43:08+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "pasinter"
+                    }
+                ],
+                "description": "Daily Deals extension",
+                "homepage": "https://github.com/pasinter/MagentoDailyDealExtension",
+                "support": {
+                    "source": "https://github.com/pasinter/magento-dailydeals/tree/master",
+                    "issues": "https://github.com/pasinter/magento-dailydeals/issues"
+                }
+            }
+        ]
+    }
+}

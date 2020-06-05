@@ -1,0 +1,28 @@
+{
+    "packages": {
+        "dotmailer/dotmailer-magento2-extension-b2b-package-edge": [
+            {
+                "name": "dotmailer/dotmailer-magento2-extension-b2b-package-edge",
+                "version": "4.4.0",
+                "version_normalized": "4.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/dotmailer/dotmailer-magento2-extension-b2b-package-edge/dotmailer-dotmailer-magento2-extension-b2b-package-edge-4.4.0.0.zip",
+                    "shasum": "7f6f58ac4dd4e3febbaa9ed427aa995b8e6db5dc"
+                },
+                "require": {
+                    "dotmailer/dotmailer-magento2-extension-b2b": "1.0.0",
+                    "dotmailer/dotmailer-magento2-extension-enterprise-package": "4.4.0"
+                },
+                "replace": {
+                    "dotmailer/dotmailer-magento2-extension-b2b-package": "<=4.4.0"
+                },
+                "type": "metapackage",
+                "license": [
+                    "MIT"
+                ],
+                "description": "Engagement Cloud for Magento 2: B2B package (Edge release!)"
+            }
+        ]
+    }
+}

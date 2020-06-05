@@ -1,0 +1,84 @@
+{
+    "packages": {
+        "connect20/locaweb_gateway": [
+            {
+                "name": "connect20/Locaweb_Gateway",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Locaweb_Gateway/1.0.0/Locaweb_Gateway-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Locaweb",
+                        "email": "saas-dev@locaweb.com.br"
+                    }
+                ],
+                "description": "O Gateway de Pagamento da Locaweb permite a integração de diversos meios de pagamentos na sua loja virtual."
+            },
+            {
+                "name": "connect20/Locaweb_Gateway",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Locaweb_Gateway/1.0.1/Locaweb_Gateway-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Locaweb",
+                        "email": "saas-dev@locaweb.com.br"
+                    }
+                ],
+                "description": "O Gateway de Pagamento da Locaweb permite a integração de diversos meios de pagamentos na sua loja virtual."
+            },
+            {
+                "name": "connect20/Locaweb_Gateway",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Locaweb_Gateway/1.0.2/Locaweb_Gateway-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "osl"
+                ],
+                "authors": [
+                    {
+                        "name": "Locaweb",
+                        "email": "saas-dev@locaweb.com.br"
+                    }
+                ],
+                "description": "Correções em meios de pagamento"
+            }
+        ]
+    }
+}

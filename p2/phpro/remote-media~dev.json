@@ -1,0 +1,45 @@
+{
+    "packages": {
+        "phpro/remote-media": [
+            {
+                "name": "phpro/remote-media",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/phpro/mage-remote-media.git",
+                    "reference": "4a2a54e730b5efbee2a85736edfefb4792f0d89b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/phpro/mage-remote-media/zipball/4a2a54e730b5efbee2a85736edfefb4792f0d89b",
+                    "reference": "4a2a54e730b5efbee2a85736edfefb4792f0d89b",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "ecomdev/mage-ci": "dev-master",
+                    "phpunit/phpunit": "3.7.*"
+                },
+                "time": "2014-10-21T20:33:05+00:00",
+                "type": "magento-module",
+                "license": [
+                    "BSD-3-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Jasper De Craecker"
+                    }
+                ],
+                "description": "Magento development tool to automatically fetch catalog product images from a production environment for a development or staging environment.",
+                "homepage": "https://github.com/phpro/mage-remote-media",
+                "support": {
+                    "source": "https://github.com/phpro/mage-remote-media/tree/master",
+                    "issues": "https://github.com/phpro/mage-remote-media/issues"
+                }
+            }
+        ]
+    }
+}

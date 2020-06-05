@@ -1,0 +1,126 @@
+{
+    "packages": {
+        "aligent/availableaddresses": [
+            {
+                "name": "aligent/availableaddresses",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/magento_availableaddresses.git",
+                    "reference": "375ee58f6d8f46d156e3883a3b596cf2524259f6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/magento_availableaddresses/zipball/375ee58f6d8f46d156e3883a3b596cf2524259f6",
+                    "reference": "375ee58f6d8f46d156e3883a3b596cf2524259f6",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-23T05:43:33+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Allow admins to specify different Allowed Countries for billing and shipping addresses.",
+                "homepage": "https://github.com/aligent/magento_availableaddresses",
+                "support": {
+                    "source": "https://github.com/aligent/magento_availableaddresses/tree/master",
+                    "issues": "https://github.com/aligent/magento_availableaddresses/issues"
+                }
+            },
+            {
+                "name": "aligent/availableaddresses",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/magento_availableaddresses.git",
+                    "reference": "2147894d1ed14f8e951d85c8aee10af6e1dce5f1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/magento_availableaddresses/zipball/2147894d1ed14f8e951d85c8aee10af6e1dce5f1",
+                    "reference": "2147894d1ed14f8e951d85c8aee10af6e1dce5f1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-11-27T03:03:41+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Allow admins to specify different Allowed Countries for billing and shipping addresses.",
+                "homepage": "https://github.com/aligent/magento_availableaddresses",
+                "support": {
+                    "source": "https://github.com/aligent/magento_availableaddresses/tree/develop",
+                    "issues": "https://github.com/aligent/magento_availableaddresses/issues"
+                }
+            },
+            {
+                "name": "aligent/availableaddresses",
+                "version": "dev-fix/Aligent_Base_conflict",
+                "version_normalized": "dev-fix/Aligent_Base_conflict",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/magento_availableaddresses.git",
+                    "reference": "745776117a8082510b9b29639ae3417cf45feb03"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/magento_availableaddresses/zipball/745776117a8082510b9b29639ae3417cf45feb03",
+                    "reference": "745776117a8082510b9b29639ae3417cf45feb03",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-02T05:29:36+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Allow admins to specify different Allowed Countries for billing and shipping addresses.",
+                "homepage": "https://github.com/aligent/magento_availableaddresses",
+                "support": {
+                    "source": "https://github.com/aligent/magento_availableaddresses/tree/fix/Aligent_Base_conflict",
+                    "issues": "https://github.com/aligent/magento_availableaddresses/issues"
+                }
+            },
+            {
+                "name": "aligent/availableaddresses",
+                "version": "dev-fix/validate-addresses-before-save",
+                "version_normalized": "dev-fix/validate-addresses-before-save",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/magento_availableaddresses.git",
+                    "reference": "c655317e39cdfc9edb2605d12da671ef7514b2a3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/magento_availableaddresses/zipball/c655317e39cdfc9edb2605d12da671ef7514b2a3",
+                    "reference": "c655317e39cdfc9edb2605d12da671ef7514b2a3",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-05T07:14:08+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Allow admins to specify different Allowed Countries for billing and shipping addresses.",
+                "homepage": "https://github.com/aligent/magento_availableaddresses",
+                "support": {
+                    "source": "https://github.com/aligent/magento_availableaddresses/tree/fix/validate-addresses-before-save",
+                    "issues": "https://github.com/aligent/magento_availableaddresses/issues"
+                }
+            }
+        ]
+    }
+}

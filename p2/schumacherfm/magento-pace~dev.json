@@ -1,0 +1,66 @@
+{
+    "packages": {
+        "schumacherfm/magento-pace": [
+            {
+                "name": "schumacherfm/magento-pace",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SchumacherFM/Magento-Pace.git",
+                    "reference": "cb68cd51132f679a81138a6953c4e65134232102"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/SchumacherFM/Magento-Pace/zipball/cb68cd51132f679a81138a6953c4e65134232102",
+                    "reference": "cb68cd51132f679a81138a6953c4e65134232102",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-06-08T18:17:48+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Pace - Automatic page load progress bar for the backend.",
+                "homepage": "https://github.com/SchumacherFM/Magento-Pace",
+                "support": {
+                    "source": "https://github.com/SchumacherFM/Magento-Pace/tree/v0.6.1",
+                    "issues": "https://github.com/SchumacherFM/Magento-Pace/issues"
+                }
+            },
+            {
+                "name": "schumacherfm/magento-pace",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SchumacherFM/Magento-Pace.git",
+                    "reference": "51b2d3fe22c4e09f569531d9b093ed7b6daf3e4e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/SchumacherFM/Magento-Pace/zipball/51b2d3fe22c4e09f569531d9b093ed7b6daf3e4e",
+                    "reference": "51b2d3fe22c4e09f569531d9b093ed7b6daf3e4e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-03-16T05:12:55+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Pace - Automatic page load progress bar for the backend.",
+                "homepage": "https://github.com/SchumacherFM/Magento-Pace",
+                "support": {
+                    "source": "https://github.com/SchumacherFM/Magento-Pace/tree/develop",
+                    "issues": "https://github.com/SchumacherFM/Magento-Pace/issues"
+                }
+            }
+        ]
+    }
+}

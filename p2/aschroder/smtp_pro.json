@@ -1,0 +1,226 @@
+{
+    "packages": {
+        "aschroder/smtp_pro": [
+            {
+                "name": "aschroder/smtp_pro",
+                "version": "1.4.4",
+                "version_normalized": "1.4.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension.git",
+                    "reference": "25f4ff90ec276e0e96f4a8f0cdb053d9bad799f3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aschroder/Magento-SMTP-Pro-Email-Extension/zipball/25f4ff90ec276e0e96f4a8f0cdb053d9bad799f3",
+                    "reference": "25f4ff90ec276e0e96f4a8f0cdb053d9bad799f3",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-01-06T00:08:00+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "aschroder"
+                    }
+                ],
+                "description": "sending Magento mail through an external smtp-server",
+                "homepage": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension",
+                "support": {
+                    "source": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension/tree/1.4.4",
+                    "issues": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension/issues"
+                }
+            },
+            {
+                "name": "aschroder/smtp_pro",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension.git",
+                    "reference": "a97b92ad0cfe487904652d0365c8787b35bff993"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aschroder/Magento-SMTP-Pro-Email-Extension/zipball/a97b92ad0cfe487904652d0365c8787b35bff993",
+                    "reference": "a97b92ad0cfe487904652d0365c8787b35bff993",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-01T12:30:10+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "aschroder"
+                    }
+                ],
+                "description": "sending Magento mail through an external smtp-server",
+                "homepage": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension",
+                "support": {
+                    "source": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension/tree/2.0.0",
+                    "issues": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension/issues"
+                }
+            },
+            {
+                "name": "aschroder/smtp_pro",
+                "version": "2.0.5",
+                "version_normalized": "2.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension.git",
+                    "reference": "9027575503cba4af433dc66212f8dc84798eb6a0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aschroder/Magento-SMTP-Pro-Email-Extension/zipball/9027575503cba4af433dc66212f8dc84798eb6a0",
+                    "reference": "9027575503cba4af433dc66212f8dc84798eb6a0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-16T10:00:13+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/etc/modules/Aschroder_SMTPPro.xml",
+                            "app/etc/modules/Aschroder_SMTPPro.xml"
+                        ],
+                        [
+                            "app/code/local/Aschroder/SMTPPro",
+                            "app/code/local/Aschroder/SMTPPro"
+                        ],
+                        [
+                            "app/design/adminhtml/base/default/template/smtppro",
+                            "app/design/adminhtml/default/default/template/smtppro"
+                        ],
+                        [
+                            "app/locale/en_US/Aschroder_SMTPPro.csv",
+                            "app/locale/en_US/Aschroder_SMTPPro.csv"
+                        ]
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "aschroder"
+                    }
+                ],
+                "description": "sending Magento mail through an external smtp-server",
+                "homepage": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension",
+                "support": {
+                    "source": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension/tree/2.0.5",
+                    "issues": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension/issues"
+                }
+            },
+            {
+                "name": "aschroder/smtp_pro",
+                "version": "2.0.6",
+                "version_normalized": "2.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension.git",
+                    "reference": "2e391bd37b231a4bed2dbd634df569a27b5d3038"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aschroder/Magento-SMTP-Pro-Email-Extension/zipball/2e391bd37b231a4bed2dbd634df569a27b5d3038",
+                    "reference": "2e391bd37b231a4bed2dbd634df569a27b5d3038",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-04-12T02:09:22+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/etc/modules/Aschroder_SMTPPro.xml",
+                            "app/etc/modules/Aschroder_SMTPPro.xml"
+                        ],
+                        [
+                            "app/code/local/Aschroder/SMTPPro",
+                            "app/code/local/Aschroder/SMTPPro"
+                        ],
+                        [
+                            "app/design/adminhtml/base/default/template/smtppro",
+                            "app/design/adminhtml/default/default/template/smtppro"
+                        ],
+                        [
+                            "app/locale/en_US/Aschroder_SMTPPro.csv",
+                            "app/locale/en_US/Aschroder_SMTPPro.csv"
+                        ]
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "aschroder"
+                    }
+                ],
+                "description": "sending Magento mail through an external smtp-server",
+                "homepage": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension",
+                "support": {
+                    "source": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension/tree/2.0.6",
+                    "issues": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension/issues"
+                }
+            },
+            {
+                "name": "aschroder/smtp_pro",
+                "version": "2.0.7",
+                "version_normalized": "2.0.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension.git",
+                    "reference": "5101ed278d4aba05279fc1e53c3811983be8adda"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aschroder/Magento-SMTP-Pro-Email-Extension/zipball/5101ed278d4aba05279fc1e53c3811983be8adda",
+                    "reference": "5101ed278d4aba05279fc1e53c3811983be8adda",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-10-30T09:33:29+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/etc/modules/Aschroder_SMTPPro.xml",
+                            "app/etc/modules/Aschroder_SMTPPro.xml"
+                        ],
+                        [
+                            "app/code/local/Aschroder/SMTPPro",
+                            "app/code/local/Aschroder/SMTPPro"
+                        ],
+                        [
+                            "app/design/adminhtml/base/default/template/smtppro",
+                            "app/design/adminhtml/default/default/template/smtppro"
+                        ],
+                        [
+                            "app/locale/en_US/Aschroder_SMTPPro.csv",
+                            "app/locale/en_US/Aschroder_SMTPPro.csv"
+                        ]
+                    ]
+                },
+                "authors": [
+                    {
+                        "name": "aschroder"
+                    }
+                ],
+                "description": "sending Magento mail through an external smtp-server",
+                "homepage": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension",
+                "support": {
+                    "source": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension/tree/2.0.7",
+                    "issues": "https://github.com/aschroder/Magento-SMTP-Pro-Email-Extension/issues"
+                }
+            }
+        ]
+    }
+}

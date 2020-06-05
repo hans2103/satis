@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/maghos_eet": [
+            {
+                "name": "connect20/Maghos_Eet",
+                "version": "0.5.0",
+                "version_normalized": "0.5.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Maghos_Eet/0.5.0/Maghos_Eet-0.5.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Maghos team",
+                        "email": "support@maghos.com"
+                    }
+                ],
+                "description": "The extension sends the order amount to the Czech Tax Office."
+            },
+            {
+                "name": "connect20/Maghos_Eet",
+                "version": "0.6.0",
+                "version_normalized": "0.6.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Maghos_Eet/0.6.0/Maghos_Eet-0.6.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Maghos team",
+                        "email": "support@maghos.com"
+                    }
+                ],
+                "description": "The extension sends the order amount to the Czech Tax Office."
+            }
+        ]
+    }
+}

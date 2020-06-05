@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/shiptheory_yodel": [
+            {
+                "name": "connect20/Shiptheory_Yodel",
+                "version": "0.0.4",
+                "version_normalized": "0.0.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Shiptheory_Yodel/0.0.4/Shiptheory_Yodel-0.0.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "authors": [
+                    {
+                        "name": "Shiptheory",
+                        "email": "jm@shiptheory.com"
+                    }
+                ],
+                "description": "Yodel Integration from Shiptheory"
+            }
+        ]
+    }
+}

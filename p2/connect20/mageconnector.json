@@ -1,0 +1,84 @@
+{
+    "packages": {
+        "connect20/mageconnector": [
+            {
+                "name": "connect20/MageConnector",
+                "version": "1.5",
+                "version_normalized": "1.5.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MageConnector/1.5/MageConnector-1.5.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "bInTime",
+                        "email": "info@bintime.com"
+                    }
+                ],
+                "description": "ICEcat to Magento Open Source Connector - rich content in your magento shop"
+            },
+            {
+                "name": "connect20/MageConnector",
+                "version": "1.6",
+                "version_normalized": "1.6.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MageConnector/1.6/MageConnector-1.6.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "bInTime",
+                        "email": "info@bintime.com"
+                    }
+                ],
+                "description": "ICEcat to Magento Open Source Connector - rich content in your magento shop"
+            },
+            {
+                "name": "connect20/MageConnector",
+                "version": "2.2.6.0",
+                "version_normalized": "2.2.6.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MageConnector/2.2.6.0/MageConnector-2.2.6.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "free"
+                ],
+                "authors": [
+                    {
+                        "name": "bintime",
+                        "email": "yfedoruck@gmail.com"
+                    }
+                ],
+                "description": "MageConnector"
+            }
+        ]
+    }
+}

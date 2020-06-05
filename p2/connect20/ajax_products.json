@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ajax_products": [
+            {
+                "name": "connect20/ajax_products",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ajax_products/1.0.0/ajax_products-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "LGPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Mohammed Meabed",
+                        "email": "mo.meabed@gmail.com"
+                    }
+                ],
+                "description": "Load Ajax Products in the category pages "
+            }
+        ]
+    }
+}

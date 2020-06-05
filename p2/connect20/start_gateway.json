@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/start_gateway": [
+            {
+                "name": "connect20/Start_Gateway",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Start_Gateway/0.1.0/Start_Gateway-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Payfort Start",
+                        "email": "pavel@payfort.com"
+                    }
+                ],
+                "description": "Payfort Start Payment Gateway integration module"
+            },
+            {
+                "name": "connect20/Start_Gateway",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Start_Gateway/0.1.1/Start_Gateway-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Payfort Start",
+                        "email": "pavel@payfort.com"
+                    }
+                ],
+                "description": "Payfort Start Payment Gateway integration module"
+            }
+        ]
+    }
+}

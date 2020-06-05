@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/svitla_iboughtit": [
+            {
+                "name": "connect20/Svitla_IBoughtIt",
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Svitla_IBoughtIt/0.3.0/Svitla_IBoughtIt-0.3.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Svitla",
+                        "email": "okhokhliuk@svitla.com"
+                    }
+                ],
+                "description": "Svitla_IBoughtIt 0.3.0v"
+            }
+        ]
+    }
+}

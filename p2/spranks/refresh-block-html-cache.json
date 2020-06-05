@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "spranks/refresh-block-html-cache": [
+            {
+                "name": "spranks/refresh-block-html-cache",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/sprankhub/Spranks_RefreshBlockHtmlCache.git",
+                    "reference": "b9269dc33f1dacf26ef9a1afc0f65863dc426112"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/sprankhub/Spranks_RefreshBlockHtmlCache/zipball/b9269dc33f1dacf26ef9a1afc0f65863dc426112",
+                    "reference": "b9269dc33f1dacf26ef9a1afc0f65863dc426112",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-01-16T13:36:33+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Simon Sprankel"
+                    }
+                ],
+                "description": "This extension refreshes the block HTML cache each time a product is saved.",
+                "homepage": "https://github.com/sprankhub/Spranks_RefreshBlockHtmlCache",
+                "support": {
+                    "source": "https://github.com/sprankhub/Spranks_RefreshBlockHtmlCache/tree/0.1.0",
+                    "issues": "https://github.com/sprankhub/Spranks_RefreshBlockHtmlCache/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/designcomplex_hiddencomponents": [
+            {
+                "name": "connect20/Designcomplex_Hiddencomponents",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Designcomplex_Hiddencomponents/1.0.0/Designcomplex_Hiddencomponents-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas Klosinsky",
+                        "email": "thomas@designcomplex.de"
+                    }
+                ],
+                "description": "Automatically hide all sub-products of grouped, bundled or configurable product with this extension."
+            },
+            {
+                "name": "connect20/Designcomplex_Hiddencomponents",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Designcomplex_Hiddencomponents/1.0.1/Designcomplex_Hiddencomponents-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas Klosinsky",
+                        "email": "thomas@designcomplex.de"
+                    }
+                ],
+                "description": "Automatically hide all sub-products of grouped, bundled or configurable product with this extension."
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/dhl_versenden": [
+            {
+                "name": "connect20/Dhl_Versenden",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Dhl_Versenden/1.0.0/Dhl_Versenden-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Christoph Aßmann",
+                        "email": "christoph.assmann@netresearch.de"
+                    }
+                ],
+                "description": "DHL Versenden"
+            },
+            {
+                "name": "connect20/Dhl_Versenden",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Dhl_Versenden/1.1.0/Dhl_Versenden-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL3"
+                ],
+                "authors": [
+                    {
+                        "name": "Christoph Aßmann",
+                        "email": "christoph.assmann@netresearch.de"
+                    }
+                ],
+                "description": "DHL Versenden"
+            }
+        ]
+    }
+}

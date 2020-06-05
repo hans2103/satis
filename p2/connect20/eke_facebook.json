@@ -1,0 +1,64 @@
+{
+    "packages": {
+        "connect20/eke_facebook": [
+            {
+                "name": "connect20/Eke_Facebook",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Eke_Facebook/0.1.0/Eke_Facebook-0.1.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_helper_abstract": ">=1.6"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Eke Digital",
+                        "email": "dane@ekedigital.com"
+                    }
+                ],
+                "description": "Facebook tracking pixel integration extension for Magento."
+            },
+            {
+                "name": "connect20/Eke_Facebook",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Eke_Facebook/0.1.1/Eke_Facebook-0.1.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_helper_abstract": ">=1.6"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Eke Digital",
+                        "email": "dane@ekedigital.com"
+                    }
+                ],
+                "description": "Facebook tracking pixel integration extension for Magento."
+            }
+        ]
+    }
+}

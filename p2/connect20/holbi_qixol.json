@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/holbi_qixol": [
+            {
+                "name": "connect20/Holbi_Qixol",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Holbi_Qixol/0.1.0/Holbi_Qixol-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Sergey",
+                        "email": "sbukovetsky@holbi.co.uk"
+                    }
+                ],
+                "description": "Qixol Promo"
+            },
+            {
+                "name": "connect20/Holbi_Qixol",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Holbi_Qixol/0.2.0/Holbi_Qixol-0.2.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Qixol",
+                        "email": "ken.westgate@qixol.com"
+                    }
+                ],
+                "description": "Qixol Promo extension"
+            }
+        ]
+    }
+}

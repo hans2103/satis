@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/niveus_requestproduct": [
+            {
+                "name": "connect20/Niveus_Requestproduct",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Niveus_Requestproduct/1.1.0/Niveus_Requestproduct-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Niveus Solutions",
+                        "email": "support@niveussolutions.com"
+                    }
+                ],
+                "description": "Know your customers requirements better with the \"Request New Product\" Magento extension. The extension helps your keep in pace with the growing customer demands in your market."
+            }
+        ]
+    }
+}

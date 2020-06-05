@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "kirchbergerknorr/static-blocks-everywhere": [
+            {
+                "name": "kirchbergerknorr/static-blocks-everywhere",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/kirchbergerknorr/static-blocks-everywhere.git",
+                    "reference": "ef4c1a2595e427de60bbca9bc89e424481fc8367"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/kirchbergerknorr/static-blocks-everywhere/zipball/ef4c1a2595e427de60bbca9bc89e424481fc8367",
+                    "reference": "ef4c1a2595e427de60bbca9bc89e424481fc8367",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-03-06T13:58:22+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Aleksey Razbakov",
+                        "email": "aleksey@razbakov.com"
+                    }
+                ],
+                "description": "Static Blocks Everywhere",
+                "homepage": "http://www.magentocommerce.com/magento-connect/static-blocks-everywhere.html",
+                "keywords": [
+                    "magento",
+                    "static-blocks-everywhere",
+                    "xonu_sbe"
+                ],
+                "support": {
+                    "source": "https://github.com/kirchbergerknorr/static-blocks-everywhere/tree/1.0.2",
+                    "issues": "https://github.com/kirchbergerknorr/static-blocks-everywhere/issues"
+                }
+            }
+        ]
+    }
+}

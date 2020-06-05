@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/newsmodules_canonicalurl": [
+            {
+                "name": "connect20/NewsModules_CanonicalUrl",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/NewsModules_CanonicalUrl/0.1.0/NewsModules_CanonicalUrl-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Alessandro Lioce",
+                        "email": "a.lioce@ne-ws.it"
+                    }
+                ],
+                "description": "Change the url of the products to improve indexing on search engines."
+            },
+            {
+                "name": "connect20/NewsModules_CanonicalUrl",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/NewsModules_CanonicalUrl/0.1.1/NewsModules_CanonicalUrl-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Alessandro Lioce",
+                        "email": "a.lioce@ne-ws.it"
+                    }
+                ],
+                "description": "Change the url of the products to improve indexing on search engines."
+            }
+        ]
+    }
+}

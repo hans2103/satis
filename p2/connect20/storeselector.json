@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/storeselector": [
+            {
+                "name": "connect20/storeselector",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/storeselector/1.0.0/storeselector-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Gaggle Thread",
+                        "email": "gaggle.thread@gmail.com"
+                    }
+                ],
+                "description": "Store Selector Using Map"
+            }
+        ]
+    }
+}

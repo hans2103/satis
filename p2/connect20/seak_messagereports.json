@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/seak_messagereports": [
+            {
+                "name": "connect20/Seak_Messagereports",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Seak_Messagereports/1.0.0/Seak_Messagereports-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Seak Ecommerce",
+                        "email": "seakecommerce@gmail.com"
+                    }
+                ],
+                "description": "Easily record global message reports and easily manage in the admin panel of your Magento Platform."
+            },
+            {
+                "name": "connect20/Seak_Messagereports",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Seak_Messagereports/2.0.0/Seak_Messagereports-2.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Seak Ecommerce",
+                        "email": "seakecommerce@gmail.com"
+                    }
+                ],
+                "description": "Easily record global message reports and easily manage in the admin panel of your Magento Platform."
+            }
+        ]
+    }
+}

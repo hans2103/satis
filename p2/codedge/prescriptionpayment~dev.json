@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "codedge/prescriptionpayment": [
+            {
+                "name": "codedge/prescriptionpayment",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/codedge/prescriptionpayment.git",
+                    "reference": "afe95dbc6128d8f2f74d35dd0109be88e912ac23"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/codedge/prescriptionpayment/zipball/afe95dbc6128d8f2f74d35dd0109be88e912ac23",
+                    "reference": "afe95dbc6128d8f2f74d35dd0109be88e912ac23",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-06-04T17:52:43+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Holger Lösken",
+                        "email": "post@codedge.de"
+                    }
+                ],
+                "description": "Magento payment method for prescriptions",
+                "homepage": "https://github.com/codedge/prescriptionpayment",
+                "support": {
+                    "source": "https://github.com/codedge/prescriptionpayment/tree/master",
+                    "issues": "https://github.com/codedge/prescriptionpayment/issues"
+                }
+            }
+        ]
+    }
+}

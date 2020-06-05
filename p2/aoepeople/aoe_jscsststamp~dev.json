@@ -1,0 +1,78 @@
+{
+    "packages": {
+        "aoepeople/aoe_jscsststamp": [
+            {
+                "name": "aoepeople/aoe_jscsststamp",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_JsCssTstamp.git",
+                    "reference": "4bd3e801893ed96b41632f5fc7b267f1b4ab4ed5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_JsCssTstamp/zipball/4bd3e801893ed96b41632f5fc7b267f1b4ab4ed5",
+                    "reference": "4bd3e801893ed96b41632f5fc7b267f1b4ab4ed5",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-05-01T09:36:52+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com"
+                    }
+                ],
+                "description": "Automatic Versioning of JS and CSS files for Magento.",
+                "homepage": "https://github.com/AOEpeople/Aoe_JsCssTstamp",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_JsCssTstamp/tree/0.9.2",
+                    "issues": "https://github.com/AOEpeople/Aoe_JsCssTstamp/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_jscsststamp",
+                "version": "dev-bug_sorting_breaks_add_order_for_same_prio",
+                "version_normalized": "dev-bug_sorting_breaks_add_order_for_same_prio",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_JsCssTstamp.git",
+                    "reference": "5ff9df650aa606a42e7d77f1ab5414fef20f09c6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_JsCssTstamp/zipball/5ff9df650aa606a42e7d77f1ab5414fef20f09c6",
+                    "reference": "5ff9df650aa606a42e7d77f1ab5414fef20f09c6",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-11-24T13:05:42+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com"
+                    }
+                ],
+                "description": "Automatic Versioning of JS and CSS files for Magento.",
+                "homepage": "https://github.com/AOEpeople/Aoe_JsCssTstamp",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_JsCssTstamp/tree/bug_sorting_breaks_add_order_for_same_prio",
+                    "issues": "https://github.com/AOEpeople/Aoe_JsCssTstamp/issues"
+                }
+            }
+        ]
+    }
+}

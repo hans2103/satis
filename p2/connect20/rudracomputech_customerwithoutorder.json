@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/rudracomputech_customerwithoutorder": [
+            {
+                "name": "connect20/Rudracomputech_Customerwithoutorder",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Rudracomputech_Customerwithoutorder/0.1.0/Rudracomputech_Customerwithoutorder-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rudra Computech",
+                        "email": "rudracomputechs@gmail.com"
+                    }
+                ],
+                "description": "This extension help you to get list of customers those are registered on your store but who didn't placed any order."
+            }
+        ]
+    }
+}

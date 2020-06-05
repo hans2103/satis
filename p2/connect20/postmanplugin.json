@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/postmanplugin": [
+            {
+                "name": "connect20/PostmanPlugin",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/PostmanPlugin/1.0.0/PostmanPlugin-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Paloma",
+                        "email": "teknik@paloma.se"
+                    }
+                ],
+                "description": "Automatically send your customer to an address list in Postman, Paloma’s tool for email marketing and newsletters."
+            }
+        ]
+    }
+}

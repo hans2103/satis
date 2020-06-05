@@ -1,0 +1,88 @@
+{
+    "packages": {
+        "ho-nl/ho_nl_nl": [
+            {
+                "name": "ho-nl/ho_nl_nl",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ho-nl/magento1-Ho_nl_NL.git",
+                    "reference": "9af288f93a23cf34b1367d3970caef06374a8120"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ho-nl/magento1-Ho_nl_NL/zipball/9af288f93a23cf34b1367d3970caef06374a8120",
+                    "reference": "9af288f93a23cf34b1367d3970caef06374a8120",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2020-02-13T09:24:03+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.9-dev"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Paul Hachmang",
+                        "email": "paul@h-o.nl"
+                    }
+                ],
+                "description": "Nederlandse vertalingen voor Magento",
+                "homepage": "http://www.h-o.nl/blog/nederlandse-vertalingen-magento-17-inclusief-e-mailvertalingen/",
+                "support": {
+                    "source": "https://github.com/ho-nl/magento1-Ho_nl_NL/tree/master",
+                    "issues": "https://github.com/ho-nl/magento1-Ho_nl_NL/issues"
+                }
+            },
+            {
+                "name": "ho-nl/ho_nl_nl",
+                "version": "dev-pre-responsive",
+                "version_normalized": "dev-pre-responsive",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ho-nl/magento1-Ho_nl_NL.git",
+                    "reference": "364b487cb9285070039501761c92d01d801c8710"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ho-nl/magento1-Ho_nl_NL/zipball/364b487cb9285070039501761c92d01d801c8710",
+                    "reference": "364b487cb9285070039501761c92d01d801c8710",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-09-08T08:45:28+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.9-dev"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Paul Hachmang",
+                        "email": "paul@h-o.nl"
+                    }
+                ],
+                "description": "Nederlandse vertalingen voor Magento",
+                "homepage": "http://www.h-o.nl/blog/nederlandse-vertalingen-magento-17-inclusief-e-mailvertalingen/",
+                "support": {
+                    "source": "https://github.com/ho-nl/magento1-Ho_nl_NL/tree/pre-responsive",
+                    "issues": "https://github.com/ho-nl/magento1-Ho_nl_NL/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "packages": {
+        "aydus/categorynewproducts": [
+            {
+                "name": "aydus/categorynewproducts",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/CategoryNewProducts.git",
+                    "reference": "2552b5b130ad2eb314630137afdf113e855f239a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/CategoryNewProducts/zipball/2552b5b130ad2eb314630137afdf113e855f239a",
+                    "reference": "2552b5b130ad2eb314630137afdf113e855f239a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "magento/core": "1.9.0.1",
+                    "php": ">=5.3",
+                    "phpunit/phpunit": "3.7.*"
+                },
+                "time": "2015-06-23T18:12:56+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "ls -l"
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "davidt@aydus.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Cron module to generate new products to categories.",
+                "homepage": "https://github.com/aydus/CategoryNewProducts.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/CategoryNewProducts/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/CategoryNewProducts/issues"
+                }
+            }
+        ]
+    }
+}

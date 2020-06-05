@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ikonoshirt/extendedaccountnavigation": [
+            {
+                "name": "ikonoshirt/extendedAccountNavigation",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ikonoshirt/ExtendedAccountNavigation.git",
+                    "reference": "f0688717796d5e112775c102643aea56632f9b49"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ikonoshirt/ExtendedAccountNavigation/zipball/f0688717796d5e112775c102643aea56632f9b49",
+                    "reference": "f0688717796d5e112775c102643aea56632f9b49",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-04-06T11:44:42+00:00",
+                "type": "magento-module",
+                "description": "Make it possible to remove customer account navigation items",
+                "support": {
+                    "source": "https://github.com/ikonoshirt/ExtendedAccountNavigation/tree/v1.0.0",
+                    "issues": "https://github.com/ikonoshirt/ExtendedAccountNavigation/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/husseycoding_spamfilter": [
+            {
+                "name": "connect20/HusseyCoding_SpamFilter",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/HusseyCoding_SpamFilter/1.0.3/HusseyCoding_SpamFilter-1.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Hussey Coding",
+                        "email": "info@husseycoding.co.uk"
+                    }
+                ],
+                "description": "Disable third party admin notifications but still be notified by Magento."
+            }
+        ]
+    }
+}

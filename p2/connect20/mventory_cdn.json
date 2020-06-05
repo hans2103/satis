@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/mventory_cdn": [
+            {
+                "name": "connect20/MVentory_CDN",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MVentory_CDN/1.0.0/MVentory_CDN-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-version-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Anatoly A. Kazantsev",
+                        "email": "anatoly@mventory.com"
+                    }
+                ],
+                "description": "Host product images on AWS S3 with automated uploading of new images. Compatible with AWS CloudFront."
+            }
+        ]
+    }
+}

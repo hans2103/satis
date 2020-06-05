@@ -1,0 +1,45 @@
+{
+    "packages": {
+        "extensions-store/constantcontact": [
+            {
+                "name": "extensions-store/constantcontact",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/ConstantContact.git",
+                    "reference": "b0d32b6d2982fb434c6a16d9a650d7f5f7599914"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/ConstantContact/zipball/b0d32b6d2982fb434c6a16d9a650d7f5f7599914",
+                    "reference": "b0d32b6d2982fb434c6a16d9a650d7f5f7599914",
+                    "shasum": ""
+                },
+                "require": {
+                    "constantcontact/constantcontact": "1.3.*",
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2016-01-20T03:29:32+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "admin@extensions-store.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Add Magento users to Constant Contact contacts and lists.",
+                "homepage": "https://github.com/ExtensionsStore/ConstantContact.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/ConstantContact/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/ConstantContact/issues"
+                }
+            }
+        ]
+    }
+}

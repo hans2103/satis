@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/payin7_payments": [
+            {
+                "name": "connect20/Payin7_Payments",
+                "version": "1.0.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/payin7/1.0.0.0/payin7-1.0.0.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_payment": "*"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Payin7.com",
+                        "email": "info@payin7.com"
+                    }
+                ],
+                "description": "Payin7 offers the clients the opportunity of choosing between two products: Pay in 7 days or Finance Payment (http://www.payin7.com)\r\n\r\n----\r\n\r\nPayin7 ofrece a los clientes la oportunidad de elegir entre dos productos: Pago en 7 días o Pago financiado"
+            }
+        ]
+    }
+}

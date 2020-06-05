@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/ooworx_scopesexplorer": [
+            {
+                "name": "connect20/Ooworx_ScopesExplorer",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ooworx_ScopesExplorer/0.1.0/Ooworx_ScopesExplorer-0.1.0.tgz"
+                },
+                "require": {
+                    "connect20/magento_core_modules": ">=1.6"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Ooworx",
+                        "email": "support@ooworx.com"
+                    }
+                ],
+                "description": "Show overridden scopes into configuration and product admin."
+            }
+        ]
+    }
+}

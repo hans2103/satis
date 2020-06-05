@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/total_web_solutions_payment_gateway_module": [
+            {
+                "name": "connect20/Total_Web_Solutions_Payment_Gateway_Module",
+                "version": "1.8.4",
+                "version_normalized": "1.8.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Total_Web_Solutions_Payment_Gateway_Module/1.8.4/Total_Web_Solutions_Payment_Gateway_Module-1.8.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "EcomMerchant",
+                        "email": "support@totalwebsolutions.com"
+                    }
+                ],
+                "description": "Payment module for Total Web Solutions Payment Gateway (EcomMerchant) "
+            },
+            {
+                "name": "connect20/Total_Web_Solutions_Payment_Gateway_Module",
+                "version": "1.8.5",
+                "version_normalized": "1.8.5.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Total_Web_Solutions_Payment_Gateway_Module/1.8.5/Total_Web_Solutions_Payment_Gateway_Module-1.8.5.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "EcomMerchant",
+                        "email": "support@totalwebsolutions.com"
+                    }
+                ],
+                "description": "Payment module for Total Web Solutions Payment Gateway (EcomMerchant) "
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "ikonoshirt/strict-transport-security": [
+            {
+                "name": "ikonoshirt/strict-transport-security",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ikonoshirt/StrictTransportSecurity.git",
+                    "reference": "d90c2f573de0c85379097a99e943e2717a37f8cf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ikonoshirt/StrictTransportSecurity/zipball/d90c2f573de0c85379097a99e943e2717a37f8cf",
+                    "reference": "d90c2f573de0c85379097a99e943e2717a37f8cf",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-04-06T11:49:38+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabian Blechschmidt",
+                        "email": "hackathon@fabian-blechschmidt.de"
+                    }
+                ],
+                "description": "STS - Strict Transport Security support for Magento",
+                "support": {
+                    "source": "https://github.com/ikonoshirt/StrictTransportSecurity/tree/v1.0.1",
+                    "issues": "https://github.com/ikonoshirt/StrictTransportSecurity/issues"
+                }
+            }
+        ]
+    }
+}

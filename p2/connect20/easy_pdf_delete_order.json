@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/easy_pdf_delete_order": [
+            {
+                "name": "connect20/Easy_PDF_Delete_Order",
+                "version": "1.0.0.3",
+                "version_normalized": "1.0.0.3",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Easy_PDF_Delete_Order/1.0.0.3/Easy_PDF_Delete_Order-1.0.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-V3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Easy PDF Invoice",
+                        "email": "easypdfinvoice@gmail.com"
+                    }
+                ],
+                "description": "Add feature \"Delete Order\" to your magento store."
+            }
+        ]
+    }
+}

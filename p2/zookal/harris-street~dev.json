@@ -1,0 +1,118 @@
+{
+    "packages": {
+        "zookal/harris-street": [
+            {
+                "name": "zookal/harris-street",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Zookal/HarrisStreet.git",
+                    "reference": "8763fb72d770b7919efb3a9c37fcbbe9c8f78902"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Zookal/HarrisStreet/zipball/8763fb72d770b7919efb3a9c37fcbbe9c8f78902",
+                    "reference": "8763fb72d770b7919efb3a9c37fcbbe9c8f78902",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/composer-command-integrator": "*",
+                    "symfony/yaml": "*",
+                    "zookal/harris-street-impex": "*"
+                },
+                "require-dev": {
+                    "composer/composer": "*",
+                    "mikey179/vfsstream": "@stable",
+                    "mockery/mockery": "@stable"
+                },
+                "time": "2015-03-11T03:17:43+00:00",
+                "bin": [
+                    "bin/ReplaceSymLink.sh",
+                    "bin/composer.prebase.php"
+                ],
+                "type": "library",
+                "extra": {
+                    "composer-command-registry": [
+                        "Zookal\\HarrisStreet\\Commands\\CreateReleaseCommand"
+                    ]
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Zookal\\HarrisStreet": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher",
+                        "email": "cyrill+magento@schumacher.fm"
+                    }
+                ],
+                "description": "Composer's plugin handler to install or update Magento after a 'composer install/update'",
+                "support": {
+                    "source": "https://github.com/Zookal/HarrisStreet/tree/master",
+                    "issues": "https://github.com/Zookal/HarrisStreet/issues"
+                }
+            },
+            {
+                "name": "zookal/harris-street",
+                "version": "dev-feature/skip-releasecheck",
+                "version_normalized": "dev-feature/skip-releasecheck",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Zookal/HarrisStreet.git",
+                    "reference": "20aa27e837947a8be8b8d541fc3fbf43a1d227e3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Zookal/HarrisStreet/zipball/20aa27e837947a8be8b8d541fc3fbf43a1d227e3",
+                    "reference": "20aa27e837947a8be8b8d541fc3fbf43a1d227e3",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/composer-command-integrator": "*",
+                    "symfony/yaml": "*",
+                    "zookal/harris-street-impex": "*"
+                },
+                "require-dev": {
+                    "composer/composer": "*",
+                    "mikey179/vfsstream": "@stable",
+                    "mockery/mockery": "@stable"
+                },
+                "time": "2018-11-22T03:16:11+00:00",
+                "bin": [
+                    "bin/ReplaceSymLink.sh",
+                    "bin/composer.prebase.php"
+                ],
+                "type": "library",
+                "extra": {
+                    "composer-command-registry": [
+                        "Zookal\\HarrisStreet\\Commands\\CreateReleaseCommand"
+                    ]
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Zookal\\HarrisStreet": "src/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher",
+                        "email": "cyrill+magento@schumacher.fm"
+                    }
+                ],
+                "description": "Composer's plugin handler to install or update Magento after a 'composer install/update'",
+                "support": {
+                    "source": "https://github.com/Zookal/HarrisStreet/tree/feature/skip-releasecheck",
+                    "issues": "https://github.com/Zookal/HarrisStreet/issues"
+                }
+            }
+        ]
+    }
+}

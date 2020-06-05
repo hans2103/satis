@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "openmage/czregions": [
+            {
+                "name": "openmage/czregions",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/openmagecz/CzRegions.git",
+                    "reference": "9c6f224ba703d7bf44903542192943bab5f82757"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/openmagecz/CzRegions/zipball/9c6f224ba703d7bf44903542192943bab5f82757",
+                    "reference": "9c6f224ba703d7bf44903542192943bab5f82757",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-03-03T14:36:45+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Stanislav Puffler",
+                        "email": "stanislav.puffler@openmage.cz"
+                    }
+                ],
+                "description": "Magento extension for adding all regions of Czech Republic to customer address form.",
+                "homepage": "https://github.com/openmagecz/CzRegions",
+                "support": {
+                    "source": "https://github.com/openmagecz/CzRegions/tree/master",
+                    "issues": "https://github.com/openmagecz/CzRegions/issues"
+                }
+            }
+        ]
+    }
+}

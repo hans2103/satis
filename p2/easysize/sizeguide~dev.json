@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "easysize/sizeguide": [
+            {
+                "name": "easysize/sizeguide",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/EasySize/Magento_SizeGuide.git",
+                    "reference": "75c8f5767d5594f5c1772f94870bd1a64e5b4f15"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/EasySize/Magento_SizeGuide/zipball/75c8f5767d5594f5c1772f94870bd1a64e5b4f15",
+                    "reference": "75c8f5767d5594f5c1772f94870bd1a64e5b4f15",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2019-09-30T13:57:18+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "EasySize",
+                        "email": "gk@easysize.me",
+                        "homepage": "https://www.easysize.me",
+                        "role": "CEO"
+                    }
+                ],
+                "description": "EasySize magento extension",
+                "homepage": "https://github.com/EasySize/Magento_SizeGuide",
+                "keywords": [
+                    "easysize",
+                    "reduce returns",
+                    "size",
+                    "size guide"
+                ],
+                "support": {
+                    "source": "https://github.com/EasySize/Magento_SizeGuide/tree/master",
+                    "issues": "https://github.com/EasySize/Magento_SizeGuide/issues"
+                }
+            }
+        ]
+    }
+}

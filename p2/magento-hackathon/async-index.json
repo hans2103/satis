@@ -1,0 +1,84 @@
+{
+    "packages": {
+        "magento-hackathon/async-index": [
+            {
+                "name": "magento-hackathon/async-index",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/AsyncIndex.git",
+                    "reference": "2b43d07b972ba55c0459b899b5cda77985fcb393"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/AsyncIndex/zipball/2b43d07b972ba55c0459b899b5cda77985fcb393",
+                    "reference": "2b43d07b972ba55c0459b899b5cda77985fcb393",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-20T14:16:20+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Fahlke aka Flyingmana",
+                        "email": "flyingmana@googlemail.com"
+                    },
+                    {
+                        "name": "Oprean Dan Stefan",
+                        "email": "dan@designxenon.com"
+                    }
+                ],
+                "description": "This extension allows to execute the index process asyncronously",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/AsyncIndex/tree/0.1.0",
+                    "issues": "https://github.com/magento-hackathon/AsyncIndex/issues"
+                }
+            },
+            {
+                "name": "magento-hackathon/async-index",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/AsyncIndex.git",
+                    "reference": "27205e9f93efd5c207f5244aa25ed9a41339c260"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/AsyncIndex/zipball/27205e9f93efd5c207f5244aa25ed9a41339c260",
+                    "reference": "27205e9f93efd5c207f5244aa25ed9a41339c260",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-01-27T21:07:59+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Fahlke aka Flyingmana",
+                        "email": "flyingmana@googlemail.com"
+                    },
+                    {
+                        "name": "Oprean Dan Stefan",
+                        "email": "dan@designxenon.com"
+                    }
+                ],
+                "description": "This extension allows to execute the index process asyncronously",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/AsyncIndex/tree/0.2.0",
+                    "issues": "https://github.com/magento-hackathon/AsyncIndex/issues"
+                }
+            }
+        ]
+    }
+}

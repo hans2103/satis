@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/padoo_gallery": [
+            {
+                "name": "connect20/padoo_gallery",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/padoo_gallery/1.0.2/padoo_gallery-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Padoosoft",
+                        "email": "stdspace@gmail.com"
+                    }
+                ],
+                "description": "Display images, pictures in the form of Photo Gallery & Product Gallery with lighbox."
+            }
+        ]
+    }
+}

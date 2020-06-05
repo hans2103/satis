@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "spranks/automatic-invoices": [
+            {
+                "name": "spranks/automatic-invoices",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/sprankhub/Spranks_AutomaticInvoices.git",
+                    "reference": "d7282f4210f3c1bf58b6ff53528db5e868d39a22"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/sprankhub/Spranks_AutomaticInvoices/zipball/d7282f4210f3c1bf58b6ff53528db5e868d39a22",
+                    "reference": "d7282f4210f3c1bf58b6ff53528db5e868d39a22",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-06-27T07:32:50+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Simon Sprankel"
+                    }
+                ],
+                "description": "This extension can invoice and send invoice mails for orders payed with specified payment methods automatically.",
+                "homepage": "https://github.com/sprankhub/Spranks_AutomaticInvoices",
+                "support": {
+                    "source": "https://github.com/sprankhub/Spranks_AutomaticInvoices/tree/v1.0.0",
+                    "issues": "https://github.com/sprankhub/Spranks_AutomaticInvoices/issues"
+                }
+            }
+        ]
+    }
+}

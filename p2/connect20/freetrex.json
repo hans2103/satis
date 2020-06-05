@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/freetrex": [
+            {
+                "name": "connect20/freetrex",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/freetrex/1.0.0/freetrex-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Custom-License"
+                ],
+                "authors": [
+                    {
+                        "name": "JoomlArt",
+                        "email": "arvind@joomsolutions.com"
+                    }
+                ],
+                "description": "This premium Magento responsive theme highlights cycle store theme but can be easily adapted to feature any product range. The theme comes in 4 colors: blue, green, yellow and violet and is mobile ready."
+            },
+            {
+                "name": "connect20/freetrex",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/freetrex/1.0.1/freetrex-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Custom-License"
+                ],
+                "authors": [
+                    {
+                        "name": "JoomlArt",
+                        "email": "arvind@joomsolutions.com"
+                    }
+                ],
+                "description": "This premium Magento responsive theme highlights cycle store theme but can be easily adapted to feature any product range. The theme comes in 4 colors: blue, green, yellow and violet and is mobile ready."
+            }
+        ]
+    }
+}

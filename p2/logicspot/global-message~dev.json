@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "logicspot/global-message": [
+            {
+                "name": "logicspot/global-message",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LogicSpot/Magento_GlobalMessage.git",
+                    "reference": "57f7ee773179f080fd9e9739587a2608c84e84bc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LogicSpot/Magento_GlobalMessage/zipball/57f7ee773179f080fd9e9739587a2608c84e84bc",
+                    "reference": "57f7ee773179f080fd9e9739587a2608c84e84bc",
+                    "shasum": ""
+                },
+                "require": {
+                    "logicspot/core": "*"
+                },
+                "time": "2015-05-07T14:48:19+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "LogicSpot",
+                        "email": "support@logicspot.com"
+                    }
+                ],
+                "description": "Global message module showing CMS static block on all layout configured pages",
+                "homepage": "http://logicspot.com",
+                "support": {
+                    "source": "https://github.com/LogicSpot/Magento_GlobalMessage/tree/1.0.0",
+                    "issues": "https://github.com/LogicSpot/Magento_GlobalMessage/issues"
+                }
+            }
+        ]
+    }
+}

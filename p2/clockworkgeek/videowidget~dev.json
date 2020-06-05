@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "clockworkgeek/videowidget": [
+            {
+                "name": "clockworkgeek/videowidget",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/clockworkgeek/Video-Widget.git",
+                    "reference": "5e83cd76623756dd4f06758180cc1e684a5d7f4f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/clockworkgeek/Video-Widget/zipball/5e83cd76623756dd4f06758180cc1e684a5d7f4f",
+                    "reference": "5e83cd76623756dd4f06758180cc1e684a5d7f4f",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-06-20T18:27:44+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Deady",
+                        "email": "daniel@clockworkgeek.com"
+                    }
+                ],
+                "description": "Embed Youtube or Vimeo in any block location",
+                "homepage": "https://github.com/clockworkgeek/Video-Widget",
+                "support": {
+                    "source": "https://github.com/clockworkgeek/Video-Widget/tree/master",
+                    "issues": "https://github.com/clockworkgeek/Video-Widget/issues"
+                }
+            }
+        ]
+    }
+}

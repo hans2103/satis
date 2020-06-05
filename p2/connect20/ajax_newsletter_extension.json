@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ajax_newsletter_extension": [
+            {
+                "name": "connect20/Ajax_newsletter_extension",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ajax_newsletter_extension/1.0.1/Ajax_newsletter_extension-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSLv1.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rohit Dhiman",
+                        "email": "rdhimansujji@gmail.com"
+                    }
+                ],
+                "description": "Ajax newsletter help you to submit the magneto newsletter without refersh the page.."
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "kutybait/magento-gd-preserve-exif": [
+            {
+                "name": "kutybait/magento-gd-preserve-exif",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mkutyba/magento-gd-preserve-exif.git",
+                    "reference": "28565762ef02d85fbf6862bb0b9b1b504e77ef69"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mkutyba/magento-gd-preserve-exif/zipball/28565762ef02d85fbf6862bb0b9b1b504e77ef69",
+                    "reference": "28565762ef02d85fbf6862bb0b9b1b504e77ef69",
+                    "shasum": ""
+                },
+                "require": {
+                    "lsolesen/pel": "~0.9",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-02-23T12:58:25+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Mateusz Kutyba",
+                        "email": "mateusz@kutyba.it"
+                    }
+                ],
+                "description": "Preserve EXIF data when resizing images in Magento using standard Gd2 library.",
+                "homepage": "https://github.com/mkutyba/magento-gd-preserve-exif",
+                "support": {
+                    "source": "https://github.com/mkutyba/magento-gd-preserve-exif/tree/master",
+                    "issues": "https://github.com/mkutyba/magento-gd-preserve-exif/issues"
+                }
+            }
+        ]
+    }
+}

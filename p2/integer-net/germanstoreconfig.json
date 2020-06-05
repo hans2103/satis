@@ -1,0 +1,36 @@
+{
+    "packages": {
+        "integer-net/germanstoreconfig": [
+            {
+                "name": "integer-net/GermanStoreConfig",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/GermanStoreConfig.git",
+                    "reference": "0a020bb6e53ffaca40deab0824295223f9f02556"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/GermanStoreConfig/zipball/0a020bb6e53ffaca40deab0824295223f9f02556",
+                    "reference": "0a020bb6e53ffaca40deab0824295223f9f02556",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-06-23T20:09:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento DE - A preconfigured Magento CE installation for German Merchants",
+                "homepage": "https://github.com/integer-net/GermanStoreConfig",
+                "support": {
+                    "source": "https://github.com/integer-net/GermanStoreConfig/tree/1.2.1",
+                    "issues": "https://github.com/integer-net/GermanStoreConfig/issues"
+                }
+            }
+        ]
+    }
+}

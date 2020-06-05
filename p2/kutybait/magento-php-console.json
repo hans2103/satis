@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "kutybait/magento-php-console": [
+            {
+                "name": "kutybait/magento-php-console",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mkutyba/magento-php-console.git",
+                    "reference": "0cad205459d72def7285c1d998704ccab8c995a0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mkutyba/magento-php-console/zipball/0cad205459d72def7285c1d998704ccab8c995a0",
+                    "reference": "0cad205459d72def7285c1d998704ccab8c995a0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php-console/php-console": "~3.0"
+                },
+                "time": "2017-02-19T20:23:58+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Mateusz Kutyba",
+                        "email": "mateusz@kutyba.it"
+                    }
+                ],
+                "description": "Magento service provider to handle PHP errors, dump variables, execute PHP code remotely in Google Chrome",
+                "homepage": "https://github.com/mkutyba/magento-php-console",
+                "support": {
+                    "source": "https://github.com/mkutyba/magento-php-console/tree/0.1.0",
+                    "issues": "https://github.com/mkutyba/magento-php-console/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/ad_manager": [
+            {
+                "name": "connect20/Ad_Manager",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ad_Manager/1.0.0/Ad_Manager-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Rohit Goel",
+                        "email": "rhtgoel7@gmail.com"
+                    }
+                ],
+                "description": "Ad Manager for displaying custom ads in any place of magento "
+            },
+            {
+                "name": "connect20/Ad_Manager",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ad_Manager/1.0.1/Ad_Manager-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Rohit Goel",
+                        "email": "rhtgoel7@gmail.com"
+                    }
+                ],
+                "description": "Ad Manager for displaying custom ads in any place of magento "
+            }
+        ]
+    }
+}

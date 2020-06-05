@@ -1,0 +1,87 @@
+{
+    "packages": {
+        "connect20/chaordic_base": [
+            {
+                "name": "connect20/Chaordic_Base",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Chaordic_Base/1.0.0/Chaordic_Base-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Chaordic Systems",
+                        "email": "costa@chaordicsystems.com.br"
+                    }
+                ],
+                "description": "Módulo de integração Chaordic."
+            },
+            {
+                "name": "connect20/Chaordic_Base",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Chaordic_Base/1.0.4/Chaordic_Base-1.0.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Chaordic Systems",
+                        "email": "costa@chaordicsystems.com"
+                    }
+                ],
+                "description": "Módulo de integração Chaordic."
+            },
+            {
+                "name": "connect20/Chaordic_Base",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Chaordic_Base/1.1.0/Chaordic_Base-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Chaordic",
+                        "email": "mauricio@chaordic.com.br"
+                    }
+                ],
+                "description": "This module automatically integrates your Store to Chaordic's personalization technology.\r\n"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/mistersoft_paidy": [
+            {
+                "name": "connect20/MisterSoft_Paidy",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MisterSoft_Paidy/1.0.0/MisterSoft_Paidy-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sergey Balitsky",
+                        "email": "sergey.balitsky@gmail.com"
+                    }
+                ],
+                "description": "Receive payments from over 100 million Japanese consumers through Paidy, a smart combination of konbini, atobarai, COD and bunkatsubarai. "
+            },
+            {
+                "name": "connect20/MisterSoft_Paidy",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MisterSoft_Paidy/1.0.1/MisterSoft_Paidy-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sergey Balitsky",
+                        "email": "sergey.balitsky@gmail.com"
+                    }
+                ],
+                "description": "Receive payments from over 100 million Japanese consumers through Paidy, a smart combination of konbini, atobarai, COD and bunkatsubarai. "
+            }
+        ]
+    }
+}

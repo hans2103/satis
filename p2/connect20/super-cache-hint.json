@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/super-cache-hint": [
+            {
+                "name": "connect20/super-cache-hint",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/super-cache-hint/1.0.0.1/super-cache-hint-1.0.0.1.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.5.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "ESSE SOLUTIONS srl",
+                        "email": "magento@essesolutions.it"
+                    }
+                ],
+                "description": "Super Cache Hint allows you to identify blocks within cache, find out where they are used and how long."
+            }
+        ]
+    }
+}

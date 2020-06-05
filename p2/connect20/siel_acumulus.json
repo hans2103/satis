@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/siel_acumulus": [
+            {
+                "name": "connect20/Siel_Acumulus",
+                "version": "4.3.0",
+                "version_normalized": "4.3.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Siel_Acumulus/4.3.0/Siel_Acumulus-4.3.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-v3"
+                ],
+                "authors": [
+                    {
+                        "name": "SIEL Acumulus",
+                        "email": "erwin@burorader.com"
+                    }
+                ],
+                "description": "This addon connects your Magento store to the Dutch SIEL Acumulus online financial administration application."
+            }
+        ]
+    }
+}

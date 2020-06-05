@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/psquared_pricefactor": [
+            {
+                "name": "connect20/Psquared_PriceFactor",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Psquared_PriceFactor/1.0.0/Psquared_PriceFactor-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "p squared",
+                        "email": "realityfforce@yahoo.de"
+                    }
+                ],
+                "description": "Define a price factor in the system configuration which is multiplied with all product prices."
+            },
+            {
+                "name": "connect20/Psquared_PriceFactor",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Psquared_PriceFactor/1.0.1/Psquared_PriceFactor-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "p squared",
+                        "email": "realityfforce@yahoo.de"
+                    }
+                ],
+                "description": "Define a price factor in the system configuration which is multiplied with all product prices."
+            }
+        ]
+    }
+}

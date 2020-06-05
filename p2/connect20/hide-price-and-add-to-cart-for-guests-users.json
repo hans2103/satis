@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/hide-price-and-add-to-cart-for-guests-users": [
+            {
+                "name": "connect20/Hide-Price-and-Add-to-Cart-for-Guests-Users",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Hide-Price-and-Add-to-Cart-for-Guests-Users/0.1.0/Hide-Price-and-Add-to-Cart-for-Guests-Users-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Deepak mnakotia",
+                        "email": "deepakmankotiacse@gmail.com"
+                    }
+                ],
+                "description": "Online store owners often have a need no price on product page or hide price if not logged in on the detail pages for a wide range of reasons including when a product price is not fixed or needs to be quoted based on specifications and so on. The Hideprice extension provides functionality to globally hide price for guest user with simple solution"
+            },
+            {
+                "name": "connect20/Hide-Price-and-Add-to-Cart-for-Guests-Users",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Hide-Price-and-Add-to-Cart-for-Guests-Users/1.1.0/Hide-Price-and-Add-to-Cart-for-Guests-Users-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v1.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magegeeks",
+                        "email": "deepakmankotiacse@gmail.com"
+                    }
+                ],
+                "description": "Hide Price and Add to Cart for Guests Users"
+            }
+        ]
+    }
+}

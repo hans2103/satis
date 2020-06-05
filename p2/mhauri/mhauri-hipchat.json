@@ -1,0 +1,111 @@
+{
+    "packages": {
+        "mhauri/mhauri-hipchat": [
+            {
+                "name": "mhauri/mhauri-hipchat",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mhauri/magento-hipchat.git",
+                    "reference": "c8dc89bf89eef4cf50241af5259a31d881e93982"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mhauri/magento-hipchat/zipball/c8dc89bf89eef4cf50241af5259a31d881e93982",
+                    "reference": "c8dc89bf89eef4cf50241af5259a31d881e93982",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "2.*"
+                },
+                "time": "2015-04-28T08:18:54+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Marcel Hauri",
+                        "email": "marcel@hauri.me"
+                    }
+                ],
+                "description": "Magento HipChat allows you to send specific and/or custom events to a definable room.",
+                "support": {
+                    "source": "https://github.com/mhauri/magento-hipchat/tree/0.2.0",
+                    "issues": "https://github.com/mhauri/magento-hipchat/issues"
+                }
+            },
+            {
+                "name": "mhauri/mhauri-hipchat",
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mhauri/magento-hipchat.git",
+                    "reference": "44298dd5fc627e776b61ce9d2caf5027813b8fd2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mhauri/magento-hipchat/zipball/44298dd5fc627e776b61ce9d2caf5027813b8fd2",
+                    "reference": "44298dd5fc627e776b61ce9d2caf5027813b8fd2",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "2.*"
+                },
+                "time": "2015-05-01T13:55:35+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Marcel Hauri",
+                        "email": "marcel@hauri.me"
+                    }
+                ],
+                "description": "Magento HipChat allows you to send notifications to a HipChat room.",
+                "support": {
+                    "source": "https://github.com/mhauri/magento-hipchat/tree/0.3.0",
+                    "issues": "https://github.com/mhauri/magento-hipchat/issues"
+                }
+            },
+            {
+                "name": "mhauri/mhauri-hipchat",
+                "version": "0.3.1",
+                "version_normalized": "0.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mhauri/magento-hipchat.git",
+                    "reference": "4771305ab0b442583851a7dd62a16ab5dd25f387"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mhauri/magento-hipchat/zipball/4771305ab0b442583851a7dd62a16ab5dd25f387",
+                    "reference": "4771305ab0b442583851a7dd62a16ab5dd25f387",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-06-17T08:11:25+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Marcel Hauri",
+                        "email": "marcel@hauri.me"
+                    }
+                ],
+                "description": "Magento HipChat allows you to send notifications to a HipChat room.",
+                "support": {
+                    "source": "https://github.com/mhauri/magento-hipchat/tree/0.3.1",
+                    "issues": "https://github.com/mhauri/magento-hipchat/issues"
+                }
+            }
+        ]
+    }
+}

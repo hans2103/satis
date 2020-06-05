@@ -1,0 +1,899 @@
+{
+    "packages": {
+        "aoepeople/aoe_lazycatalogimages": [
+            {
+                "name": "aoepeople/aoe_lazycatalogimages",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_LazyCatalogImages.git",
+                    "reference": "223379a19cebee602581484d1a911a3c7499b18a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_LazyCatalogImages/zipball/223379a19cebee602581484d1a911a3c7499b18a",
+                    "reference": "223379a19cebee602581484d1a911a3c7499b18a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.2"
+                },
+                "time": "2015-01-14T15:44:10+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Aoe/LazyCatalogImages",
+                            "app/code/community/Aoe/LazyCatalogImages"
+                        ],
+                        [
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml",
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "{firstname}.{lastname}@aoe.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/tree/0.0.1",
+                    "issues": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_lazycatalogimages",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_LazyCatalogImages.git",
+                    "reference": "f47d370f8829d738ccd3a1da96a6b1bb67a922c8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_LazyCatalogImages/zipball/f47d370f8829d738ccd3a1da96a6b1bb67a922c8",
+                    "reference": "f47d370f8829d738ccd3a1da96a6b1bb67a922c8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.2"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpmd/phpmd": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "time": "2015-03-31T17:58:38+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Aoe/LazyCatalogImages",
+                            "app/code/community/Aoe/LazyCatalogImages"
+                        ],
+                        [
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml",
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/tree/0.1.0",
+                    "issues": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_lazycatalogimages",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_LazyCatalogImages.git",
+                    "reference": "a95b3e4cc2f54835c73bf2558f06db2af0639a6d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_LazyCatalogImages/zipball/a95b3e4cc2f54835c73bf2558f06db2af0639a6d",
+                    "reference": "a95b3e4cc2f54835c73bf2558f06db2af0639a6d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.2"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpmd/phpmd": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "time": "2015-04-01T17:00:18+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Aoe/LazyCatalogImages",
+                            "app/code/community/Aoe/LazyCatalogImages"
+                        ],
+                        [
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml",
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/tree/0.2.0",
+                    "issues": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_lazycatalogimages",
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_LazyCatalogImages.git",
+                    "reference": "6b2efd7b623397c5452fc77eee665ed378be72e0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_LazyCatalogImages/zipball/6b2efd7b623397c5452fc77eee665ed378be72e0",
+                    "reference": "6b2efd7b623397c5452fc77eee665ed378be72e0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.2"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpmd/phpmd": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "time": "2015-04-10T20:15:08+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Aoe/LazyCatalogImages",
+                            "app/code/community/Aoe/LazyCatalogImages"
+                        ],
+                        [
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml",
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/tree/0.3.0",
+                    "issues": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_lazycatalogimages",
+                "version": "0.4.0",
+                "version_normalized": "0.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_LazyCatalogImages.git",
+                    "reference": "ea29e8a60a879e651305e4adcd2ad03ddea15a1d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_LazyCatalogImages/zipball/ea29e8a60a879e651305e4adcd2ad03ddea15a1d",
+                    "reference": "ea29e8a60a879e651305e4adcd2ad03ddea15a1d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.2"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpmd/phpmd": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "time": "2015-04-16T15:00:00+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Aoe/LazyCatalogImages",
+                            "app/code/community/Aoe/LazyCatalogImages"
+                        ],
+                        [
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml",
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/tree/0.4.0",
+                    "issues": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_lazycatalogimages",
+                "version": "0.5.0",
+                "version_normalized": "0.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_LazyCatalogImages.git",
+                    "reference": "61ff3d336e7863be62c77f2cfbc73fad56ac1c40"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_LazyCatalogImages/zipball/61ff3d336e7863be62c77f2cfbc73fad56ac1c40",
+                    "reference": "61ff3d336e7863be62c77f2cfbc73fad56ac1c40",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.2"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpmd/phpmd": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "time": "2015-04-27T20:15:15+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Aoe/LazyCatalogImages",
+                            "app/code/community/Aoe/LazyCatalogImages"
+                        ],
+                        [
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml",
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/tree/0.5.0",
+                    "issues": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_lazycatalogimages",
+                "version": "0.6.0",
+                "version_normalized": "0.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_LazyCatalogImages.git",
+                    "reference": "14adf74c76a993c5b2c641e8aa90734111de5f6f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_LazyCatalogImages/zipball/14adf74c76a993c5b2c641e8aa90734111de5f6f",
+                    "reference": "14adf74c76a993c5b2c641e8aa90734111de5f6f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.2"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpmd/phpmd": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "time": "2015-05-27T15:51:03+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Aoe/LazyCatalogImages",
+                            "app/code/community/Aoe/LazyCatalogImages"
+                        ],
+                        [
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml",
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/tree/0.6.0",
+                    "issues": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_lazycatalogimages",
+                "version": "0.6.1",
+                "version_normalized": "0.6.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_LazyCatalogImages.git",
+                    "reference": "add2aac9523a4b79c4a3407af0075828b1b1cfa2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_LazyCatalogImages/zipball/add2aac9523a4b79c4a3407af0075828b1b1cfa2",
+                    "reference": "add2aac9523a4b79c4a3407af0075828b1b1cfa2",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.2"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpmd/phpmd": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "time": "2015-08-03T11:30:07+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Aoe/LazyCatalogImages",
+                            "app/code/community/Aoe/LazyCatalogImages"
+                        ],
+                        [
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml",
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/tree/0.6.1",
+                    "issues": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_lazycatalogimages",
+                "version": "0.6.2",
+                "version_normalized": "0.6.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_LazyCatalogImages.git",
+                    "reference": "2fa6f458112099eb13ca1432b02f4940ba6732eb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_LazyCatalogImages/zipball/2fa6f458112099eb13ca1432b02f4940ba6732eb",
+                    "reference": "2fa6f458112099eb13ca1432b02f4940ba6732eb",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.2"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpmd/phpmd": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "time": "2015-08-03T11:46:15+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Aoe/LazyCatalogImages",
+                            "app/code/community/Aoe/LazyCatalogImages"
+                        ],
+                        [
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml",
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/tree/0.6.2",
+                    "issues": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_lazycatalogimages",
+                "version": "0.6.3",
+                "version_normalized": "0.6.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_LazyCatalogImages.git",
+                    "reference": "ce24978fbcc90fe9aac32b14125380b185f5de18"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_LazyCatalogImages/zipball/ce24978fbcc90fe9aac32b14125380b185f5de18",
+                    "reference": "ce24978fbcc90fe9aac32b14125380b185f5de18",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.2"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpmd/phpmd": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "time": "2015-08-11T11:26:36+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Aoe/LazyCatalogImages",
+                            "app/code/community/Aoe/LazyCatalogImages"
+                        ],
+                        [
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml",
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/tree/0.6.6",
+                    "issues": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_lazycatalogimages",
+                "version": "0.6.4",
+                "version_normalized": "0.6.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_LazyCatalogImages.git",
+                    "reference": "722e8a1a18550cb5c95bec6ea3b38cf2cd13ef57"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_LazyCatalogImages/zipball/722e8a1a18550cb5c95bec6ea3b38cf2cd13ef57",
+                    "reference": "722e8a1a18550cb5c95bec6ea3b38cf2cd13ef57",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.2"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpmd/phpmd": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "time": "2015-08-18T12:15:22+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Aoe/LazyCatalogImages",
+                            "app/code/community/Aoe/LazyCatalogImages"
+                        ],
+                        [
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml",
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/tree/0.6.4",
+                    "issues": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_lazycatalogimages",
+                "version": "0.6.5",
+                "version_normalized": "0.6.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_LazyCatalogImages.git",
+                    "reference": "e721636df07936afe2226d5c5472e2f23fe05665"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_LazyCatalogImages/zipball/e721636df07936afe2226d5c5472e2f23fe05665",
+                    "reference": "e721636df07936afe2226d5c5472e2f23fe05665",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.2"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpmd/phpmd": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "time": "2015-08-18T12:40:44+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Aoe/LazyCatalogImages",
+                            "app/code/community/Aoe/LazyCatalogImages"
+                        ],
+                        [
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml",
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/tree/1.0.0",
+                    "issues": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_lazycatalogimages",
+                "version": "0.6.6",
+                "version_normalized": "0.6.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_LazyCatalogImages.git",
+                    "reference": "ce24978fbcc90fe9aac32b14125380b185f5de18"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_LazyCatalogImages/zipball/ce24978fbcc90fe9aac32b14125380b185f5de18",
+                    "reference": "ce24978fbcc90fe9aac32b14125380b185f5de18",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.2"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpmd/phpmd": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "time": "2015-08-11T11:26:36+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Aoe/LazyCatalogImages",
+                            "app/code/community/Aoe/LazyCatalogImages"
+                        ],
+                        [
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml",
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/tree/0.6.6",
+                    "issues": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_lazycatalogimages",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_LazyCatalogImages.git",
+                    "reference": "e721636df07936afe2226d5c5472e2f23fe05665"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_LazyCatalogImages/zipball/e721636df07936afe2226d5c5472e2f23fe05665",
+                    "reference": "e721636df07936afe2226d5c5472e2f23fe05665",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.2"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpmd/phpmd": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "time": "2015-08-18T12:40:44+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Aoe/LazyCatalogImages",
+                            "app/code/community/Aoe/LazyCatalogImages"
+                        ],
+                        [
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml",
+                            "app/etc/modules/Aoe_LazyCatalogImages.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/tree/1.0.0",
+                    "issues": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_lazycatalogimages",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_LazyCatalogImages.git",
+                    "reference": "bef23bbfabe5f8c873a794321abb71e2f63f45c1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_LazyCatalogImages/zipball/bef23bbfabe5f8c873a794321abb71e2f63f45c1",
+                    "reference": "bef23bbfabe5f8c873a794321abb71e2f63f45c1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.2"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpmd/phpmd": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "time": "2016-12-13T16:00:09+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee.saferite@aoe.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/tree/1.0.1",
+                    "issues": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/issues"
+                }
+            },
+            {
+                "name": "aoepeople/aoe_lazycatalogimages",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_LazyCatalogImages.git",
+                    "reference": "6b3af78a321a7c2dedf1f1b913d28867180d311c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_LazyCatalogImages/zipball/6b3af78a321a7c2dedf1f1b913d28867180d311c",
+                    "reference": "6b3af78a321a7c2dedf1f1b913d28867180d311c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.1.2"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpmd/phpmd": "*",
+                    "squizlabs/php_codesniffer": "*"
+                },
+                "time": "2017-05-11T03:02:27+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "lee@saferite.com",
+                        "role": "Author/Maintainer"
+                    },
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "firstname.lastname@aoe.com",
+                        "role": "Contributor/Maintainer"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/tree/1.0.2",
+                    "issues": "https://github.com/AOEpeople/Aoe_LazyCatalogImages/issues"
+                }
+            }
+        ]
+    }
+}

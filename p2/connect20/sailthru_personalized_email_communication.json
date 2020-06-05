@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sailthru_personalized_email_communication": [
+            {
+                "name": "connect20/Sailthru_Personalized_Email_Communication",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Sailthru_Personalized_Email_Communication/1.1.0/Sailthru_Personalized_Email_Communication-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Kwadwo Juantuah",
+                        "email": "kjuantuah@sailthru.com"
+                    }
+                ],
+                "description": "The Sailthru extension enables you route all transactional emails through Sailthru as well as utilize the powerful suite of products from Sailthru that enable each Merchant to truly personalize email communication. "
+            }
+        ]
+    }
+}

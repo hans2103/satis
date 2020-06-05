@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/checkout_payment": [
+            {
+                "name": "connect20/Checkout_Payment",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Checkout_Payment/0.0.1/Checkout_Payment-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "EvoPin",
+                        "email": "evopin@gmail.com"
+                    }
+                ],
+                "description": "This extension will allow your customers to use Checkout.com payment gateway."
+            }
+        ]
+    }
+}

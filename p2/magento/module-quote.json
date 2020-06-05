@@ -1,0 +1,2091 @@
+{
+    "packages": {
+        "magento/module-quote": [
+            {
+                "name": "magento/module-quote",
+                "version": "100.0.10",
+                "version_normalized": "100.0.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.0.10.0.zip",
+                    "shasum": "e12a2d306b6909df6252e4245c3ee838e1a758ee"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-authorization": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-sales-sequence": "100.0.*",
+                    "magento/module-shipping": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.0.11",
+                "version_normalized": "100.0.11.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.0.11.0.zip",
+                    "shasum": "c69362398f54b0c67a5a0efc23f473813348f161"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-authorization": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-sales-sequence": "100.0.*",
+                    "magento/module-shipping": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.0.2",
+                "version_normalized": "100.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.0.2.0.zip",
+                    "shasum": "ba84e86660185b0971e4993e3fc637b370af54eb"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-authorization": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-sales-sequence": "100.0.*",
+                    "magento/module-shipping": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.0.3",
+                "version_normalized": "100.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.0.3.0.zip",
+                    "shasum": "250d9c549bed7b6d2d4011d085f50ca1a4f772dc"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-authorization": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-sales-sequence": "100.0.*",
+                    "magento/module-shipping": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.0.4",
+                "version_normalized": "100.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.0.4.0.zip",
+                    "shasum": "adfcbc9ee2c23b04457cb55fa413c7d67aed1413"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-authorization": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-sales-sequence": "100.0.*",
+                    "magento/module-shipping": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.0.5",
+                "version_normalized": "100.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.0.5.0.zip",
+                    "shasum": "bc9237e09c6e30f8abda8013b499f837514a071a"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-authorization": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-sales-sequence": "100.0.*",
+                    "magento/module-shipping": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.0.6",
+                "version_normalized": "100.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.0.6.0.zip",
+                    "shasum": "fd607a2af00a10bde8e25c2546ce96e86d422cb9"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-authorization": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-sales-sequence": "100.0.*",
+                    "magento/module-shipping": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.0.7",
+                "version_normalized": "100.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.0.7.0.zip",
+                    "shasum": "c8c3572ae5ee7db39dca5d6ba7a719589ac2d516"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-authorization": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-sales-sequence": "100.0.*",
+                    "magento/module-shipping": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.0.8",
+                "version_normalized": "100.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.0.8.0.zip",
+                    "shasum": "34a3e4d7fc004ef453d83bc90ff1f7805258647f"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-authorization": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-sales-sequence": "100.0.*",
+                    "magento/module-shipping": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.0.9",
+                "version_normalized": "100.0.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.0.9.0.zip",
+                    "shasum": "fc3bd80ce6748a5cf5dc8ec2465ef3d126ee75d8"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-authorization": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-directory": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-payment": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-sales-sequence": "100.0.*",
+                    "magento/module-shipping": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.1.0",
+                "version_normalized": "100.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.1.0.0.zip",
+                    "shasum": "c7570b936d853fbc4a48b4ecc6c9b6218382b045"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-authorization": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-sales-sequence": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.1.0-rc1",
+                "version_normalized": "100.1.0.0-RC1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.1.0.0-RC1.zip",
+                    "shasum": "b58074c24cafbfc3a145373173f050f912a88c20"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-authorization": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-sales-sequence": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.1.0-rc2",
+                "version_normalized": "100.1.0.0-RC2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.1.0.0-RC2.zip",
+                    "shasum": "6ae23c82a3f1d06dc38f8be625b656bec3b15492"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-authorization": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-sales-sequence": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.1.0-rc3",
+                "version_normalized": "100.1.0.0-RC3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.1.0.0-RC3.zip",
+                    "shasum": "09eaafd82b0f6d3e253a5689d36b9b665bd20575"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-authorization": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-sales-sequence": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.1.1",
+                "version_normalized": "100.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.1.1.0.zip",
+                    "shasum": "7e8362a540666db92ed34bc3b5efd1e06e22648b"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-authorization": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-sales-sequence": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.1.10",
+                "version_normalized": "100.1.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.1.10.0.zip",
+                    "shasum": "c5d9638237bd51d32d78905136b44585d7ea0318"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-authorization": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-sales-sequence": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.1.11",
+                "version_normalized": "100.1.11.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.1.11.0.zip",
+                    "shasum": "b597c95995c0b2fdce928505d1445bcb5448ccd6"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-authorization": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-sales-sequence": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.1.2",
+                "version_normalized": "100.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.1.2.0.zip",
+                    "shasum": "a0e8ca8219f743dbdae9fdbf576f7601f7e19765"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-authorization": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-sales-sequence": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.1.3",
+                "version_normalized": "100.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.1.3.0.zip",
+                    "shasum": "f27a6f200eea740051bd2406e2e8b117bcf68b38"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-authorization": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-sales-sequence": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.1.4",
+                "version_normalized": "100.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.1.4.0.zip",
+                    "shasum": "917acc6701f77d37bf5580dd8e05cd02bf38c68a"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-authorization": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-sales-sequence": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.1.5",
+                "version_normalized": "100.1.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.1.5.0.zip",
+                    "shasum": "7da375659fa1faa192d7c35effa3cbe4169a2b85"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-authorization": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-sales-sequence": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.1.6",
+                "version_normalized": "100.1.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.1.6.0.zip",
+                    "shasum": "90b4a74f5e763df19ccb1aa0d5e4f7d39c24446f"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-authorization": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-sales-sequence": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.1.7",
+                "version_normalized": "100.1.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.1.7.0.zip",
+                    "shasum": "485daa51eca9a02bb3f14428fd961c12322a957f"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-authorization": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-sales-sequence": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.1.8",
+                "version_normalized": "100.1.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.1.8.0.zip",
+                    "shasum": "9d06f54ff4591852a91209b918488531e4de0ad4"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-authorization": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-sales-sequence": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.1.9",
+                "version_normalized": "100.1.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.1.9.0.zip",
+                    "shasum": "706febb8869ab687111adfa56150022bc05462fb"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-authorization": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-directory": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-payment": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-sales-sequence": "100.1.*",
+                    "magento/module-shipping": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "100.2.0-rc20",
+                "version_normalized": "100.2.0.0-RC20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-100.2.0.0-RC20.zip",
+                    "shasum": "411bf6d196cf1d86f73a00cee46d8a7cec7e0d60"
+                },
+                "require": {
+                    "magento/framework": "100.2.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "101.1.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "100.2.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-eav": "100.2.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-sales": "100.2.*",
+                    "magento/module-sales-sequence": "100.2.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.0.0",
+                "version_normalized": "101.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.0.0.0.zip",
+                    "shasum": "a201d8f2093d9e72e3a705c6d5f923add4a0fcc9"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-sales-sequence": "100.2.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.0.0-rc21",
+                "version_normalized": "101.0.0.0-RC21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.0.0.0-RC21.zip",
+                    "shasum": "09a5e9f6d56bce89bc9808955b74269bfbbee98c"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-sales-sequence": "100.2.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.0.0-rc22",
+                "version_normalized": "101.0.0.0-RC22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.0.0.0-RC22.zip",
+                    "shasum": "341ce8e9ed930f01c591fb6f19b65b4e4463e676"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-sales-sequence": "100.2.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.0.0-rc23",
+                "version_normalized": "101.0.0.0-RC23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.0.0.0-RC23.zip",
+                    "shasum": "e541e5e0f39d6a82b83cd6936a9a828e3d5bc4c4"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-sales-sequence": "100.2.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.0.0-rc30",
+                "version_normalized": "101.0.0.0-RC30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.0.0.0-RC30.zip",
+                    "shasum": "961a68471289d4daf3f881feca6741fbb925734f"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-sales-sequence": "100.2.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.0.1",
+                "version_normalized": "101.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.0.1.0.zip",
+                    "shasum": "6f37790e5ac136b574a64178eeb5bd587b701a80"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-sales-sequence": "100.2.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.0.10",
+                "version_normalized": "101.0.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.0.10.0.zip",
+                    "shasum": "faaa0766a2154b2701bc3f4ce763a23fef5a01c5"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-sales-sequence": "100.2.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "~7.0.13||~7.1.0||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.0.2",
+                "version_normalized": "101.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.0.2.0.zip",
+                    "shasum": "c033dce2be39bfe114be1c3e0d4d230b7ff60fed"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-sales-sequence": "100.2.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.0.3",
+                "version_normalized": "101.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.0.3.0.zip",
+                    "shasum": "4aa38b1483d7f6426ffd7e7e8c4f450403740cff"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-sales-sequence": "100.2.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.0.4",
+                "version_normalized": "101.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.0.4.0.zip",
+                    "shasum": "df7e77e4948c579d5372839068fc66ca033359b6"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-sales-sequence": "100.2.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.0.5",
+                "version_normalized": "101.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.0.5.0.zip",
+                    "shasum": "b6bbda59119229219bcc8adcb6013b85cb7b2259"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-sales-sequence": "100.2.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.0.6",
+                "version_normalized": "101.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.0.6.0.zip",
+                    "shasum": "d40c7c1b86c3ba0d3a724e5f415cdc5df82286ce"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-sales-sequence": "100.2.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.0.7",
+                "version_normalized": "101.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.0.7.0.zip",
+                    "shasum": "e3cfccc82caffc34ac96159c6ae769fb3ec84ca7"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-sales-sequence": "100.2.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.0.8",
+                "version_normalized": "101.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.0.8.0.zip",
+                    "shasum": "826d2d8d1641dd5dd9f84e8b0c08def684d9cd29"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-sales-sequence": "100.2.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.0.9",
+                "version_normalized": "101.0.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.0.9.0.zip",
+                    "shasum": "8f631725c4b5fe15983c4dc11c87368b7f49ebe8"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-directory": "100.2.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-payment": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-sales-sequence": "100.2.*",
+                    "magento/module-shipping": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "php": "~7.0.13|~7.1.0|~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.1.0",
+                "version_normalized": "101.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.1.0.0.zip",
+                    "shasum": "9c2fe8c588590ba26c7a6a612488c6ca009e0270"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-authorization": "100.3.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-sales-sequence": "100.3.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.1.1",
+                "version_normalized": "101.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.1.1.0.zip",
+                    "shasum": "e2b39264ded8af41839229e7ce6dc1e13f41dab1"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-authorization": "100.3.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-sales-sequence": "100.3.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.1.2",
+                "version_normalized": "101.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.1.2.0.zip",
+                    "shasum": "b3fa50d369dec417bbf3970958e04f1e5c01df81"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-authorization": "100.3.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-sales-sequence": "100.3.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.1.3",
+                "version_normalized": "101.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.1.3.0.zip",
+                    "shasum": "ebf91785b3d0d8d568aef1fa4696cbda2c9bd783"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-authorization": "100.3.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-sales-sequence": "100.3.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.1.4",
+                "version_normalized": "101.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.1.4.0.zip",
+                    "shasum": "d407a6e90c9fb0384de8a8c605b0e67cc3e0d67f"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-authorization": "100.3.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-sales-sequence": "100.3.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.1.4-p2",
+                "version_normalized": "101.1.4.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.1.4.0-patch2.zip",
+                    "shasum": "0027ac21298e19dc073ecf6c2444c563af8a3487"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-authorization": "100.3.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-sales-sequence": "100.3.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote",
+                "version": "101.1.5",
+                "version_normalized": "101.1.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-quote/magento-module-quote-101.1.5.0.zip",
+                    "shasum": "3e155895b482f01197c841eecde3c4bd159d992e"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-authorization": "100.3.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-payment": "100.3.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-sales-sequence": "100.3.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Quote\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

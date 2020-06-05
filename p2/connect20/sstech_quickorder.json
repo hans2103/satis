@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sstech_quickorder": [
+            {
+                "name": "connect20/SSTech_Quickorder",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SSTech_Quickorder/0.0.1/SSTech_Quickorder-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Source-License"
+                ],
+                "authors": [
+                    {
+                        "name": "SSTech",
+                        "email": "sandynareshg@gmail.com"
+                    }
+                ],
+                "description": "Quick order which allow to add all products in quick time"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/poln": [
+            {
+                "name": "connect20/Poln",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Poln/1.0.3/Poln-1.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Harmohit Lyall",
+                        "email": "hlyall@poln.co"
+                    }
+                ],
+                "description": "Poln is the only Pretargeting Platform, designed to help you easily find new users at unbelievable prices."
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/epoint_responsive": [
+            {
+                "name": "connect20/Epoint_Responsive",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Epoint_Responsive/1.0.0/Epoint_Responsive-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Grosu Alexandru",
+                        "email": "alexandru.grosu@epoint.ro"
+                    }
+                ],
+                "description": "Provides the possibility to set a custom theme and/or package for mobile and tablet separately."
+            }
+        ]
+    }
+}

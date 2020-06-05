@@ -1,0 +1,198 @@
+{
+    "packages": {
+        "proxiblue/ordersyncquerunner": [
+            {
+                "name": "proxiblue/ordersyncquerunner",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ProxiBlue/OrderSyncQueRunner.git",
+                    "reference": "707cbd4efa927f483ea6afcb27b3e62561357f18"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ProxiBlue/OrderSyncQueRunner/zipball/707cbd4efa927f483ea6afcb27b3e62561357f18",
+                    "reference": "707cbd4efa927f483ea6afcb27b3e62561357f18",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-02-24T02:35:54+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "/app/code/community/ProxiBlue/OrderSyncQueRunner/",
+                            "/app/code/community/ProxiBlue/OrderSyncQueRunner/"
+                        ],
+                        [
+                            "/app/etc/modules/ProxiBlue_OrderSyncQueRunner.xml",
+                            "/app/etc/modules/ProxiBlue_OrderSyncQueRunner.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lucas van Staden",
+                        "email": "sales@proxiblue.com.au"
+                    }
+                ],
+                "description": "Magento extension to sync orders to external systems via a basic que during checkout. Sync any orders done by event sales_order_place_after, using a new ecent called sales_order_place_after_que.",
+                "homepage": "https://github.com/ProxiBlue/OrderSynQueRunner",
+                "support": {
+                    "source": "https://github.com/ProxiBlue/OrderSyncQueRunner/tree/0.0.1",
+                    "issues": "https://github.com/ProxiBlue/OrderSyncQueRunner/issues"
+                }
+            },
+            {
+                "name": "proxiblue/ordersyncquerunner",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ProxiBlue/OrderSyncQueRunner.git",
+                    "reference": "0bad70652beee061adba7442104c60eebb678302"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ProxiBlue/OrderSyncQueRunner/zipball/0bad70652beee061adba7442104c60eebb678302",
+                    "reference": "0bad70652beee061adba7442104c60eebb678302",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-04-08T06:42:04+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "/app/code/community/ProxiBlue/OrderSyncQueRunner/",
+                            "/app/code/community/ProxiBlue/OrderSyncQueRunner/"
+                        ],
+                        [
+                            "/app/etc/modules/ProxiBlue_OrderSyncQueRunner.xml",
+                            "/app/etc/modules/ProxiBlue_OrderSyncQueRunner.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lucas van Staden",
+                        "email": "sales@proxiblue.com.au"
+                    }
+                ],
+                "description": "Magento extension to sync orders to external systems via a basic que during checkout. Sync any orders done by event sales_order_place_after, using a new ecent called sales_order_place_after_que.",
+                "homepage": "https://github.com/ProxiBlue/OrderSynQueRunner",
+                "support": {
+                    "source": "https://github.com/ProxiBlue/OrderSyncQueRunner/tree/0.0.2",
+                    "issues": "https://github.com/ProxiBlue/OrderSyncQueRunner/issues"
+                }
+            },
+            {
+                "name": "proxiblue/ordersyncquerunner",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ProxiBlue/OrderSyncQueRunner.git",
+                    "reference": "3d819adb297d7c29ffe887d41ac1695262128482"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ProxiBlue/OrderSyncQueRunner/zipball/3d819adb297d7c29ffe887d41ac1695262128482",
+                    "reference": "3d819adb297d7c29ffe887d41ac1695262128482",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-10-12T02:57:00+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "/app/code/community/ProxiBlue/OrderSyncQueRunner/",
+                            "/app/code/community/ProxiBlue/OrderSyncQueRunner/"
+                        ],
+                        [
+                            "/app/etc/modules/ProxiBlue_OrderSyncQueRunner.xml",
+                            "/app/etc/modules/ProxiBlue_OrderSyncQueRunner.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lucas van Staden",
+                        "email": "sales@proxiblue.com.au"
+                    }
+                ],
+                "description": "Magento extension to sync orders to external systems via a basic que during checkout. Sync any orders done by event sales_order_place_after, using a new ecent called sales_order_place_after_que.",
+                "homepage": "https://github.com/ProxiBlue/OrderSynQueRunner",
+                "support": {
+                    "source": "https://github.com/ProxiBlue/OrderSyncQueRunner/tree/0.1.0",
+                    "issues": "https://github.com/ProxiBlue/OrderSyncQueRunner/issues"
+                }
+            },
+            {
+                "name": "proxiblue/ordersyncquerunner",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ProxiBlue/OrderSyncQueRunner.git",
+                    "reference": "059cecd8e9ceb0ad9896b7149f448e4c729a8361"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ProxiBlue/OrderSyncQueRunner/zipball/059cecd8e9ceb0ad9896b7149f448e4c729a8361",
+                    "reference": "059cecd8e9ceb0ad9896b7149f448e4c729a8361",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-11-05T04:41:24+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "/app/code/community/ProxiBlue/OrderSyncQueRunner/",
+                            "/app/code/community/ProxiBlue/OrderSyncQueRunner/"
+                        ],
+                        [
+                            "/app/etc/modules/ProxiBlue_OrderSyncQueRunner.xml",
+                            "/app/etc/modules/ProxiBlue_OrderSyncQueRunner.xml"
+                        ]
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lucas van Staden",
+                        "email": "sales@proxiblue.com.au"
+                    }
+                ],
+                "description": "Magento extension to sync orders to external systems via a basic que during checkout. Sync any orders done by event sales_order_place_after, using a new ecent called sales_order_place_after_que.",
+                "homepage": "https://github.com/ProxiBlue/OrderSynQueRunner",
+                "support": {
+                    "source": "https://github.com/ProxiBlue/OrderSyncQueRunner/tree/0.1.1",
+                    "issues": "https://github.com/ProxiBlue/OrderSyncQueRunner/issues"
+                }
+            }
+        ]
+    }
+}

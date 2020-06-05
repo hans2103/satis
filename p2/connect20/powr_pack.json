@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/powr_pack": [
+            {
+                "name": "connect20/Powr_Pack",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Powr_Pack/1.0.0/Powr_Pack-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "James Anelay",
+                        "email": "james@theextensionlab.com"
+                    }
+                ],
+                "description": "Powr Pack - Library of free and customizable forms, galleries, social streams, e-commerce, countdowns, and more."
+            }
+        ]
+    }
+}

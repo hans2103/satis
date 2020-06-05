@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "fbrnc/aoe_static": [
+            {
+                "name": "fbrnc/aoe_static",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fbrnc/Aoe_Static.git",
+                    "reference": "4b24c69cea1ffe930254c54d30738e501fd8b2e8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/fbrnc/Aoe_Static/zipball/4b24c69cea1ffe930254c54d30738e501fd8b2e8",
+                    "reference": "4b24c69cea1ffe930254c54d30738e501fd8b2e8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-01-17T04:54:47+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Varnish Integration for Magento.",
+                "homepage": "http://www.fabrizio-branca.de/make-your-magento-store-fly-using-varnish.html",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_Static/tree/master",
+                    "issues": "https://github.com/fbrnc/Aoe_Static/issues"
+                }
+            }
+        ]
+    }
+}

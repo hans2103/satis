@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/zapper_scantologin": [
+            {
+                "name": "connect20/zapper_scantologin",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/zapper_scantologin/1.0.1/zapper_scantologin-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Branden",
+                        "email": "branden.paine@ota.co.za"
+                    }
+                ],
+                "description": "Zapper for eCommerce Login and Register integration.\r\nFrictionless Login and Register via mobile device."
+            }
+        ]
+    }
+}

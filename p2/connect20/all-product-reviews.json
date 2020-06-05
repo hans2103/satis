@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/all-product-reviews": [
+            {
+                "name": "connect20/All-Product-Reviews",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/All-Product-Reviews/1.1.1/All-Product-Reviews-1.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kamtechnology",
+                        "email": "magesupport@kamtechco.net"
+                    }
+                ],
+                "description": "All Product Reviews magento extension helps to create Reviews Dashboard for all the products."
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/nortoneo_twofactorauth": [
+            {
+                "name": "connect20/Nortoneo_TwoFactorAuth",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Nortoneo_TwoFactorAuth/0.1.0/Nortoneo_TwoFactorAuth-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "http://www.opensource.org/licenses/bsd-license.php"
+                ],
+                "authors": [
+                    {
+                        "name": "Lukasz Szczedzina",
+                        "email": "contact@nortoneo.com"
+                    }
+                ],
+                "description": "Nortoneo TwoFactorAuth module helps you secure your admin panel from unauthorized access. Admin users will be able to set up two factor authorization."
+            }
+        ]
+    }
+}

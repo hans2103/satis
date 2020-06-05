@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/sstech_viewproduct": [
+            {
+                "name": "connect20/SSTech_ViewProduct",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SSTech_ViewProduct/1.0.0/SSTech_ViewProduct-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Source-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Stek",
+                        "email": "sandynareshg@gmail.com"
+                    }
+                ],
+                "description": "Extension which able to view product directly from catalog product admin "
+            },
+            {
+                "name": "connect20/SSTech_ViewProduct",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SSTech_ViewProduct/1.0.1/SSTech_ViewProduct-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Source-Licensce"
+                ],
+                "authors": [
+                    {
+                        "name": "Stek",
+                        "email": "sandynareshg@gmail.com"
+                    }
+                ],
+                "description": "Extension which allow to show \"product view\" button to view product directly from admin"
+            }
+        ]
+    }
+}

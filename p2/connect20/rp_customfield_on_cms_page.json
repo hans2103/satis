@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/rp_customfield_on_cms_page": [
+            {
+                "name": "connect20/Rp_Customfield_on_CMS_page",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Rp_Customfield_on_CMS_page/0.1.0/Rp_Customfield_on_CMS_page-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Mage Rips",
+                        "email": "rpmagerips@gmail.com"
+                    }
+                ],
+                "description": "This is a small extension for Magento that allows you to add the custom field in the core functionality."
+            }
+        ]
+    }
+}

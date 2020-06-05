@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/mage_nopobox": [
+            {
+                "name": "connect20/Mage_nopobox",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_nopobox/1.1.0/Mage_nopobox-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Matt",
+                        "email": "caijiamx@gmail.com"
+                    }
+                ],
+                "description": "Check shipping address whether it contains POBOX."
+            },
+            {
+                "name": "connect20/Mage_nopobox",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_nopobox/1.1.1/Mage_nopobox-1.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Matt",
+                        "email": "caijiamx@gmail.com"
+                    }
+                ],
+                "description": "Check shipping address whether it contains POBOX."
+            }
+        ]
+    }
+}

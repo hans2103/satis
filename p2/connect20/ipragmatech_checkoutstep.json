@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ipragmatech_checkoutstep": [
+            {
+                "name": "connect20/ipragmatech_checkoutstep",
+                "version": "1.0.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ipragmatech_checkoutstep/1.0.0.0/ipragmatech_checkoutstep-1.0.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-Licence-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "iPragmatech",
+                        "email": "info@ipragmatech.com"
+                    }
+                ],
+                "description": "Added the custom Form in Checkout process. Also added the admin setting to export the data of custom table."
+            }
+        ]
+    }
+}

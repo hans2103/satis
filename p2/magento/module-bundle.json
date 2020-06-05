@@ -1,0 +1,2080 @@
+{
+    "packages": {
+        "magento/module-bundle": [
+            {
+                "name": "magento/module-bundle",
+                "version": "100.0.2",
+                "version_normalized": "100.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.0.2.0.zip",
+                    "shasum": "a377841513290e27c3f6152813b7c3177ca15afd"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-catalog-rule": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-gift-message": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.0.*",
+                    "magento/module-webapi": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.0.3",
+                "version_normalized": "100.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.0.3.0.zip",
+                    "shasum": "04424b0e64323b7d47d4b50e7c009a59f853214d"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-catalog-rule": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-gift-message": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.0.*",
+                    "magento/module-webapi": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.0.4",
+                "version_normalized": "100.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.0.4.0.zip",
+                    "shasum": "f7660c759c3607ea7302eaa007b1343481c0c5bd"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-catalog-rule": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-gift-message": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.0.*",
+                    "magento/module-webapi": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.0.5",
+                "version_normalized": "100.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.0.5.0.zip",
+                    "shasum": "576ea885738b28aadfbc636ea406a3bf8cf955a0"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-catalog-rule": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-gift-message": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.0.*",
+                    "magento/module-webapi": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.0.6",
+                "version_normalized": "100.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.0.6.0.zip",
+                    "shasum": "65671f3b79b00cee86540594d3c22d38f6a27b2d"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-catalog-rule": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-gift-message": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.0.*",
+                    "magento/module-webapi": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.0.7",
+                "version_normalized": "100.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.0.7.0.zip",
+                    "shasum": "70983bfe5e06305ae8f094c81b6d0a960031277b"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-catalog-rule": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-gift-message": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.0.*",
+                    "magento/module-webapi": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.0.8",
+                "version_normalized": "100.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.0.8.0.zip",
+                    "shasum": "f862cf7bb98b59b76aee378923e84a9aa8142d19"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-catalog-rule": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-gift-message": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.0.*",
+                    "magento/module-webapi": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.0.9",
+                "version_normalized": "100.0.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.0.9.0.zip",
+                    "shasum": "85c3021e26f997f14d23b2f03cd997c8147ab31e"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "magento/module-backend": "100.0.*",
+                    "magento/module-catalog": "100.0.*",
+                    "magento/module-catalog-inventory": "100.0.*",
+                    "magento/module-catalog-rule": "100.0.*",
+                    "magento/module-checkout": "100.0.*",
+                    "magento/module-config": "100.0.*",
+                    "magento/module-customer": "100.0.*",
+                    "magento/module-eav": "100.0.*",
+                    "magento/module-gift-message": "100.0.*",
+                    "magento/module-media-storage": "100.0.*",
+                    "magento/module-quote": "100.0.*",
+                    "magento/module-sales": "100.0.*",
+                    "magento/module-store": "100.0.*",
+                    "magento/module-tax": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.0.*",
+                    "magento/module-webapi": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.1.0",
+                "version_normalized": "100.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.1.0.0.zip",
+                    "shasum": "945854884f22fa18ec7bf4cb2497b5563de1184c"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-rule": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-gift-message": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-webapi": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.1.0-rc1",
+                "version_normalized": "100.1.0.0-RC1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.1.0.0-RC1.zip",
+                    "shasum": "879f5b946cbf6f3a4a79afdba446e94bf1ac6368"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-rule": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-gift-message": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-webapi": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.1.0-rc2",
+                "version_normalized": "100.1.0.0-RC2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.1.0.0-RC2.zip",
+                    "shasum": "7908252d2e76adebfab5a25b33a9912102e9d8ae"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-rule": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-gift-message": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-webapi": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.1.0-rc3",
+                "version_normalized": "100.1.0.0-RC3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.1.0.0-RC3.zip",
+                    "shasum": "1b665eb4740e61cd52d159cf613ca7d0e71ba5f3"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-rule": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-gift-message": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-webapi": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.1.1",
+                "version_normalized": "100.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.1.1.0.zip",
+                    "shasum": "64b4691d8513ce34b9b5a61aacb90ccadf6673bb"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-rule": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-gift-message": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-webapi": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.1.2",
+                "version_normalized": "100.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.1.2.0.zip",
+                    "shasum": "8a55fb0118dfcc89b08deb4286b23a6150e166b5"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-rule": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-gift-message": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-webapi": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.1.3",
+                "version_normalized": "100.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.1.3.0.zip",
+                    "shasum": "534fce3acaafc94f5fdfc60c9ada9c975f03e6f3"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-rule": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-gift-message": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-webapi": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.1.4",
+                "version_normalized": "100.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.1.4.0.zip",
+                    "shasum": "881325c35208d9a316ddf439cf8b7e8622db4d92"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-rule": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-gift-message": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-webapi": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.1.5",
+                "version_normalized": "100.1.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.1.5.0.zip",
+                    "shasum": "77d9a6cadf34ae526bc56bbbe5a8e26e00112eb6"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-rule": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-gift-message": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-webapi": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.1.6",
+                "version_normalized": "100.1.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.1.6.0.zip",
+                    "shasum": "2923a8af73259251d0bb73fb86b2c62d2a1ebf7a"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-rule": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-gift-message": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-webapi": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.1.7",
+                "version_normalized": "100.1.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.1.7.0.zip",
+                    "shasum": "b75265c66f2f24b471ffc79bbd6319d54be73d65"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-rule": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-gift-message": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-webapi": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.1.8",
+                "version_normalized": "100.1.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.1.8.0.zip",
+                    "shasum": "cd8215e8689025f27403eb01bbca4993c1b75160"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-rule": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-gift-message": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-webapi": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.1.9",
+                "version_normalized": "100.1.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.1.9.0.zip",
+                    "shasum": "b88c507a0f528564467f2a0dbdbb2f05a1d3353c"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-backend": "100.1.*",
+                    "magento/module-catalog": "101.0.*",
+                    "magento/module-catalog-inventory": "100.1.*",
+                    "magento/module-catalog-rule": "100.1.*",
+                    "magento/module-checkout": "100.1.*",
+                    "magento/module-config": "100.1.*",
+                    "magento/module-customer": "100.1.*",
+                    "magento/module-eav": "100.1.*",
+                    "magento/module-gift-message": "100.1.*",
+                    "magento/module-media-storage": "100.1.*",
+                    "magento/module-quote": "100.1.*",
+                    "magento/module-sales": "100.1.*",
+                    "magento/module-store": "100.1.*",
+                    "magento/module-tax": "100.1.*",
+                    "magento/module-ui": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.1.*",
+                    "magento/module-webapi": "100.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.2.0",
+                "version_normalized": "100.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.2.0.0.zip",
+                    "shasum": "21414ea21169b9144a51acc41528c25c33715fe9"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-gift-message": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.2.0-rc20",
+                "version_normalized": "100.2.0.0-RC20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.2.0.0-RC20.zip",
+                    "shasum": "17fc4adc7536c1e7096f19cfbf893ab48048be71"
+                },
+                "require": {
+                    "magento/framework": "100.2.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "101.1.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-rule": "100.2.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-config": "100.2.*",
+                    "magento/module-customer": "100.2.*",
+                    "magento/module-eav": "100.2.*",
+                    "magento/module-gift-message": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-quote": "100.2.*",
+                    "magento/module-sales": "100.2.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.2.0-rc21",
+                "version_normalized": "100.2.0.0-RC21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.2.0.0-RC21.zip",
+                    "shasum": "1b30eada90436937667f5fbebbb1fbf5da9bd17f"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-gift-message": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.2.0-rc22",
+                "version_normalized": "100.2.0.0-RC22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.2.0.0-RC22.zip",
+                    "shasum": "89b76c85251493f75a2f38a98c547ef471dc84bc"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-gift-message": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.2.0-rc23",
+                "version_normalized": "100.2.0.0-RC23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.2.0.0-RC23.zip",
+                    "shasum": "66e703a7f7bcd63256e9ae4343eabc1e078428ad"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-gift-message": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.2.0-rc30",
+                "version_normalized": "100.2.0.0-RC30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.2.0.0-RC30.zip",
+                    "shasum": "84d0ce74d6f369baa759985c4c590240c8f61d09"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-gift-message": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.2.1",
+                "version_normalized": "100.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.2.1.0.zip",
+                    "shasum": "7852f31c9f376073fde1798c9452f22125380b8c"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-gift-message": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.2.10",
+                "version_normalized": "100.2.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.2.10.0.zip",
+                    "shasum": "9a3998343f3bfbdaf0ab68f0c2bc32a41904ad9b"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-gift-message": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "~7.0.13||~7.1.0||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-sales-rule": "101.0.*",
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.2.2",
+                "version_normalized": "100.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.2.2.0.zip",
+                    "shasum": "401ecce9bc1c47c864898cb78df291791628c024"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-gift-message": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.2.3",
+                "version_normalized": "100.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.2.3.0.zip",
+                    "shasum": "caa70845337d0a593cccce7b79ed773a96cec864"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-gift-message": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.2.4",
+                "version_normalized": "100.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.2.4.0.zip",
+                    "shasum": "16e747011fc260cb833c47e8734262a996dfd38b"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-gift-message": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-sales-rule": "101.0.*",
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.2.5",
+                "version_normalized": "100.2.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.2.5.0.zip",
+                    "shasum": "37349aad75963634822626a0ace3a4184f0e9541"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-gift-message": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-sales-rule": "101.0.*",
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.2.6",
+                "version_normalized": "100.2.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.2.6.0.zip",
+                    "shasum": "768a4b648c3b378406540208c9a5c128c9ef01ab"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-gift-message": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-sales-rule": "101.0.*",
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.2.7",
+                "version_normalized": "100.2.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.2.7.0.zip",
+                    "shasum": "001bf0cbe0868a5f5a0d26e5867d0450c5353156"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-gift-message": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-sales-rule": "101.0.*",
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.2.8",
+                "version_normalized": "100.2.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.2.8.0.zip",
+                    "shasum": "b98e9a8e347deee862ae3321ac29fa4efa8bf72f"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-gift-message": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-sales-rule": "101.0.*",
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.2.9",
+                "version_normalized": "100.2.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.2.9.0.zip",
+                    "shasum": "c7f09f4b0580b5b4348d2c4db6eb4df88cb91c78"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.*",
+                    "magento/module-catalog-inventory": "100.2.*",
+                    "magento/module-catalog-rule": "101.0.*",
+                    "magento/module-checkout": "100.2.*",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.*",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-gift-message": "100.2.*",
+                    "magento/module-media-storage": "100.2.*",
+                    "magento/module-quote": "101.0.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-store": "100.2.*",
+                    "magento/module-tax": "100.2.*",
+                    "magento/module-ui": "101.0.*",
+                    "php": "~7.0.13|~7.1.0|~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version:100.2.*",
+                    "magento/module-sales-rule": "101.0.*",
+                    "magento/module-webapi": "100.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.3.0",
+                "version_normalized": "100.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.3.0.0.zip",
+                    "shasum": "f31386b514bc18365120d4f911e8b92b84daa98e"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-rule": "101.1.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-gift-message": "100.3.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version: 100.3.*",
+                    "magento/module-sales-rule": "101.1.*",
+                    "magento/module-webapi": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.3.1",
+                "version_normalized": "100.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.3.1.0.zip",
+                    "shasum": "b1ce50b01d2d8997e1f6dcfc9b2dc82f47d987db"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-rule": "101.1.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-gift-message": "100.3.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version: 100.3.*",
+                    "magento/module-sales-rule": "101.1.*",
+                    "magento/module-webapi": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.3.2",
+                "version_normalized": "100.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.3.2.0.zip",
+                    "shasum": "51d9b0f4d0698c4c82971f80b8515273ce4d6710"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-rule": "101.1.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-gift-message": "100.3.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version: 100.3.*",
+                    "magento/module-sales-rule": "101.1.*",
+                    "magento/module-webapi": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.3.3",
+                "version_normalized": "100.3.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.3.3.0.zip",
+                    "shasum": "24c85c6b1a4be883aac0179e0f9b6b0b96955a35"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-rule": "101.1.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-gift-message": "100.3.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version: 100.3.*",
+                    "magento/module-sales-rule": "101.1.*",
+                    "magento/module-webapi": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.3.4",
+                "version_normalized": "100.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.3.4.0.zip",
+                    "shasum": "0b097122ab45f1d7265369c290a348f0f5674513"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-rule": "101.1.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-gift-message": "100.3.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version: 100.3.*",
+                    "magento/module-sales-rule": "101.1.*",
+                    "magento/module-webapi": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.3.4-p2",
+                "version_normalized": "100.3.4.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.3.4.0-patch2.zip",
+                    "shasum": "4833e8ad27a647dec6a41cc036e6fb389e2026ae"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-rule": "101.1.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-gift-message": "100.3.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version: 100.3.*",
+                    "magento/module-sales-rule": "101.1.*",
+                    "magento/module-webapi": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-bundle/magento-module-bundle-100.3.5.0.zip",
+                    "shasum": "b0bd30f204434536591a9d884fcb642e878bac5b"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-catalog-rule": "101.1.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-gift-message": "100.3.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-tax": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-bundle-sample-data": "Sample Data version: 100.3.*",
+                    "magento/module-sales-rule": "101.1.*",
+                    "magento/module-webapi": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Bundle\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/free_testimonials_extension": [
+            {
+                "name": "connect20/free_testimonials_extension",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/free_testimonials_extension/1.1.0/free_testimonials_extension-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Creative-Commons-License-"
+                ],
+                "authors": [
+                    {
+                        "name": "TemplatesMaster",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Free Magento Testimonials extension"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/webcreta_outofstocksubscription": [
+            {
+                "name": "connect20/Webcreta_OutofStockSubscription",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Webcreta_OutofStockSubscription/0.1.0/Webcreta_OutofStockSubscription-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "WebCreta",
+                        "email": "webcreta@gmail.com"
+                    }
+                ],
+                "description": "When a product is out of stock, the customer be able to request notification of availability \r\nentering an email address on the product detail page. The subscribers will be notified by email\r\nwhen the product will be back in stock."
+            }
+        ]
+    }
+}

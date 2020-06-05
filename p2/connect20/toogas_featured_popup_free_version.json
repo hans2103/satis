@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/toogas_featured_popup_free_version": [
+            {
+                "name": "connect20/toogas_featured_popup_free_version",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/toogas_featured_popup_free_version/1.0.6/toogas_featured_popup_free_version-1.0.6.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Community"
+                ],
+                "authors": [
+                    {
+                        "name": "Toogas Lda.",
+                        "email": "ceo@toogas.com"
+                    }
+                ],
+                "description": "With Featured Pop-Up extension it’s possible to define the pop-ups you want being called from the Homepage."
+            }
+        ]
+    }
+}

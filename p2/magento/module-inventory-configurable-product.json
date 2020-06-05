@@ -1,0 +1,440 @@
+{
+    "packages": {
+        "magento/module-inventory-configurable-product": [
+            {
+                "name": "magento/module-inventory-configurable-product",
+                "version": "1.0.0-rc",
+                "version_normalized": "1.0.0.0-RC",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product/magento-module-inventory-configurable-product-1.0.0.0-RC.zip",
+                    "shasum": "6fd1e273373fde283370e76563566d63f3cd45f6"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-configurable-product": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product",
+                "version": "1.0.0-beta",
+                "version_normalized": "1.0.0.0-beta",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product/magento-module-inventory-configurable-product-1.0.0.0-beta.zip",
+                    "shasum": "7cb20ee22d96fad27f8ab21e744dbd33b34a811e"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-configurable-product": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product",
+                "version": "1.0.0-beta2",
+                "version_normalized": "1.0.0.0-beta2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product/magento-module-inventory-configurable-product-1.0.0.0-beta2.zip",
+                    "shasum": "217dbcc9e7babb3ab8c81479e2d72f9cc7804fd4"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-configurable-product": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product",
+                "version": "1.0.0-beta3",
+                "version_normalized": "1.0.0.0-beta3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product/magento-module-inventory-configurable-product-1.0.0.0-beta3.zip",
+                    "shasum": "7a61b3a6b366d9612a7bbe8fc0fd9d9bb433c11f"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-configurable-product": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product",
+                "version": "1.0.0-beta4",
+                "version_normalized": "1.0.0.0-beta4",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product/magento-module-inventory-configurable-product-1.0.0.0-beta4.zip",
+                    "shasum": "83dc21ef03dd45850fac027ae4bb82b2bca7804b"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-configurable-product": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product/magento-module-inventory-configurable-product-1.0.3.0.zip",
+                    "shasum": "0f8b331a074cf352a0750c82e1e79b1457ae051a"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-configurable-product": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product/magento-module-inventory-configurable-product-1.0.4.0.zip",
+                    "shasum": "8d4c12fcdaa863c47893664e38fa1ad60e90ffb8"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory-catalog-api": "*",
+                    "magento/module-inventory-indexer": "*",
+                    "magento/module-inventory-sales-api": "*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-configurable-product": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product/magento-module-inventory-configurable-product-1.0.5.0.zip",
+                    "shasum": "852956f39f8bdd84459d65b1b98938d7e70903eb"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-configurable-product": "*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-sales": "*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product",
+                "version": "1.0.5-beta2",
+                "version_normalized": "1.0.5.0-beta2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product/magento-module-inventory-configurable-product-1.0.5.0-beta2.zip",
+                    "shasum": "d3f1e43590eac8fd84232225fae19c5aaad83350"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-configurable-product": "100.3.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product/magento-module-inventory-configurable-product-1.0.6.0.zip",
+                    "shasum": "b111d73e5a75e5578ab767364cc2bfe8bec7edff"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-configurable-product": "*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-sales": "*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product/magento-module-inventory-configurable-product-1.0.7.0.zip",
+                    "shasum": "39e075f905ee0351ffe057a0910453bdafeaf8e4"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-configurable-product": "*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-sales": "*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-configurable-product",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-configurable-product/magento-module-inventory-configurable-product-1.0.8.0.zip",
+                    "shasum": "f47a64e87ce35e74f9a8071a54ad3a690cda8b1d"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-configurable-product": "*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-sales": "*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

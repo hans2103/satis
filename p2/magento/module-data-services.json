@@ -1,0 +1,372 @@
+{
+    "packages": {
+        "magento/module-data-services": [
+            {
+                "name": "magento/module-data-services",
+                "version": "3.0.2",
+                "version_normalized": "3.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-data-services/magento-module-data-services-3.0.2.0.zip",
+                    "shasum": "269dde0d2dfa5a3c67c44e959b75b0c6309509a4"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-config": "*",
+                    "magento/module-customer": "*",
+                    "magento/module-multishipping": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-sales-rule": "*",
+                    "magento/module-services-id": "*",
+                    "magento/module-store": "*",
+                    "php": "7.0.2||7.0.4||>=7.0.6 <7.4"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\DataServices\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-data-services",
+                "version": "3.0.3",
+                "version_normalized": "3.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-data-services/magento-module-data-services-3.0.3.0.zip",
+                    "shasum": "6e7783faad77aa83bafd09bf2c370f94f86dd7e3"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-config": "*",
+                    "magento/module-customer": "*",
+                    "magento/module-multishipping": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-services-id": "*",
+                    "magento/module-store": "*",
+                    "php": "7.0.2||7.0.4||>=7.0.6 <7.4"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\DataServices\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-data-services",
+                "version": "3.0.4",
+                "version_normalized": "3.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-data-services/magento-module-data-services-3.0.4.0.zip",
+                    "shasum": "1328784863fc98d4fc4573cb31a47608dfe02c05"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-config": "*",
+                    "magento/module-customer": "*",
+                    "magento/module-multishipping": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-services-id": "*",
+                    "magento/module-store": "*",
+                    "magento/saas-export": "*",
+                    "php": "7.0.2||7.0.4||>=7.0.6 <7.4"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\DataServices\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-data-services",
+                "version": "3.0.5",
+                "version_normalized": "3.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-data-services/magento-module-data-services-3.0.5.0.zip",
+                    "shasum": "b66cb4502bfd6a93754a17c12a591c5461e06866"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-config": "*",
+                    "magento/module-customer": "*",
+                    "magento/module-multishipping": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-services-id": ">=1.1.2",
+                    "magento/module-store": "*",
+                    "magento/saas-export": "*",
+                    "php": "7.0.2||7.0.4||>=7.0.6 <7.4"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\DataServices\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-data-services",
+                "version": "3.0.6",
+                "version_normalized": "3.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-data-services/magento-module-data-services-3.0.6.0.zip",
+                    "shasum": "6d682763f07ed2dc29a88182649a6da88fb725fa"
+                },
+                "require": {
+                    "magento/framework": "~102.0.0",
+                    "magento/module-catalog": "~103.0.0",
+                    "magento/module-checkout": "~100.3.0",
+                    "magento/module-config": "~101.1.0",
+                    "magento/module-customer": "~102.0.0",
+                    "magento/module-multishipping": "~100.3.0",
+                    "magento/module-quote": "~101.1.0",
+                    "magento/module-services-id": "~1.1.2",
+                    "magento/module-store": "~101.0.0",
+                    "magento/saas-export": "~42.1.0",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\DataServices\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-data-services",
+                "version": "3.0.7",
+                "version_normalized": "3.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-data-services/magento-module-data-services-3.0.7.0.zip",
+                    "shasum": "2e79380ddd3e58fe78a629e371b4b3fa0d73eaab"
+                },
+                "require": {
+                    "magento/framework": "~102.0.0",
+                    "magento/module-catalog": "~103.0.0",
+                    "magento/module-checkout": "~100.3.0",
+                    "magento/module-config": "~101.1.0",
+                    "magento/module-customer": "~102.0.0",
+                    "magento/module-multishipping": "~100.3.0",
+                    "magento/module-quote": "~101.1.0",
+                    "magento/module-services-id": "~1.1.2",
+                    "magento/module-store": "~101.0.0",
+                    "magento/saas-export": "~42.1.0",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\DataServices\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-data-services",
+                "version": "3.0.8",
+                "version_normalized": "3.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-data-services/magento-module-data-services-3.0.8.0.zip",
+                    "shasum": "612e5f9b0b1161e04d5ef3580d5127b74e3fb510"
+                },
+                "require": {
+                    "magento/framework": "~102.0.0",
+                    "magento/module-catalog": "~103.0.0",
+                    "magento/module-checkout": "~100.3.0",
+                    "magento/module-config": "~101.1.0",
+                    "magento/module-customer": "~102.0.0",
+                    "magento/module-multishipping": "~100.3.0",
+                    "magento/module-quote": "~101.1.0",
+                    "magento/module-services-id": "~1.1.2",
+                    "magento/module-store": "~101.0.0",
+                    "magento/saas-export": "~42.1.0",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\DataServices\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-data-services",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-data-services/magento-module-data-services-4.0.0.0.zip",
+                    "shasum": "e58ebcadbd98635b6c589aec359962dbc04b9d59"
+                },
+                "require": {
+                    "magento/framework": "~102.0.0",
+                    "magento/module-catalog": "~103.0.0",
+                    "magento/module-checkout": "~100.3.0",
+                    "magento/module-config": "~101.1.0",
+                    "magento/module-customer": "~102.0.0",
+                    "magento/module-quote": "~101.1.0",
+                    "magento/module-services-id": "~2.0.0",
+                    "magento/module-store": "~101.0.0",
+                    "magento/saas-export": "~42.2.0",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\DataServices\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Data Services base module"
+            },
+            {
+                "name": "magento/module-data-services",
+                "version": "5.0.0",
+                "version_normalized": "5.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-data-services/magento-module-data-services-5.0.0.0.zip",
+                    "shasum": "1392a6b5a9a8a7f22778e3ebb646188cc5c9b3fd"
+                },
+                "require": {
+                    "magento/framework": "~102.0.0",
+                    "magento/module-catalog": "~103.0.0",
+                    "magento/module-checkout": "~100.3.0",
+                    "magento/module-config": "~101.1.0",
+                    "magento/module-customer": "~102.0.0",
+                    "magento/module-quote": "~101.1.0",
+                    "magento/module-services-id": "~2.0.1",
+                    "magento/module-store": "~101.0.0",
+                    "magento/saas-export": "~42.2.0",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\DataServices\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Data Services base module"
+            },
+            {
+                "name": "magento/module-data-services",
+                "version": "5.0.1",
+                "version_normalized": "5.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-data-services/magento-module-data-services-5.0.1.0.zip",
+                    "shasum": "21589bc234268f7b22ffdc03eda594269d41c3d2"
+                },
+                "require": {
+                    "magento/framework": "~102.0.0",
+                    "magento/module-catalog": "~103.0.0",
+                    "magento/module-checkout": "~100.3.0",
+                    "magento/module-config": "~101.1.0",
+                    "magento/module-customer": "~102.0.0",
+                    "magento/module-quote": "~101.1.0",
+                    "magento/module-services-id": "~2.0.1",
+                    "magento/module-store": "~101.0.0",
+                    "magento/saas-export": "~42.2.0",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\DataServices\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Data Services base module"
+            }
+        ]
+    }
+}

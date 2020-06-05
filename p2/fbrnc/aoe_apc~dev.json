@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "fbrnc/aoe_apc": [
+            {
+                "name": "fbrnc/aoe_apc",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fbrnc/Aoe_Apc.git",
+                    "reference": "b51d0027ebeb163c8fb7f6c76da058ff8b3364da"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/fbrnc/Aoe_Apc/zipball/b51d0027ebeb163c8fb7f6c76da058ff8b3364da",
+                    "reference": "b51d0027ebeb163c8fb7f6c76da058ff8b3364da",
+                    "shasum": ""
+                },
+                "require": {
+                    "fbrnc/aoe_cachecleaner": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-01-17T04:55:26+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Apc component for Aoe_CacheCleaner Magento extension.",
+                "homepage": "https://github.com/fbrnc/Aoe_Apc",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_Apc/tree/master",
+                    "issues": "https://github.com/fbrnc/Aoe_Apc/issues"
+                }
+            }
+        ]
+    }
+}

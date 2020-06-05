@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/shoptimally": [
+            {
+                "name": "connect20/Shoptimally",
+                "version": "1.1.03",
+                "version_normalized": "1.1.03.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Shoptimally/1.1.03/Shoptimally-1.1.03.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.5.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Custom-license"
+                ],
+                "authors": [
+                    {
+                        "name": "Ronen Ness",
+                        "email": "ronen@shoptimally.com"
+                    }
+                ],
+                "description": "Personalize your e-commerce site to match each customer's needs."
+            }
+        ]
+    }
+}

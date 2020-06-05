@@ -1,0 +1,551 @@
+{
+    "packages": {
+        "ebayenterprise/magento-log": [
+            {
+                "name": "ebayenterprise/magento-log",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/eBayEnterprise/magento-log.git",
+                    "reference": "07bfe40d0395afdc040061432b713f87a6e96e9d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/eBayEnterprise/magento-log/zipball/07bfe40d0395afdc040061432b713f87a6e96e9d",
+                    "reference": "07bfe40d0395afdc040061432b713f87a6e96e9d",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "~0.3",
+                    "pdepend/pdepend": "~1.1",
+                    "phpdocumentor/phpdocumentor": "~2.4",
+                    "phploc/phploc": "~2.0",
+                    "phpmd/phpmd": "~1.5",
+                    "phpunit/dbunit": "~1",
+                    "phpunit/php-invoker": "~1.1",
+                    "phpunit/phpunit-selenium": "~1",
+                    "phpunit/phpunit-story": "~1",
+                    "sebastian/phpcpd": "~2.0",
+                    "squizlabs/php_codesniffer": "~1.5"
+                },
+                "time": "2015-02-18T20:33:15+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.x-dev"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Scott van Brug",
+                        "email": "svanbrug@ebay.com"
+                    },
+                    {
+                        "name": "Michael Phang",
+                        "email": "mphang@ebay.com"
+                    },
+                    {
+                        "name": "Michael A. Smith",
+                        "email": "msmith3@ebay.com"
+                    },
+                    {
+                        "name": "Mike West",
+                        "email": "micwest@ebay.com"
+                    },
+                    {
+                        "name": "Reginald Gabriel",
+                        "email": "rgabriel@ebay.com"
+                    }
+                ],
+                "description": "eBay Enterprise Magento Logging and Convenience Tool",
+                "support": {
+                    "source": "https://github.com/eBayEnterprise/magento-log/tree/1.0.0",
+                    "issues": "https://github.com/eBayEnterprise/magento-log/issues"
+                }
+            },
+            {
+                "name": "ebayenterprise/magento-log",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/eBayEnterprise/magento-log.git",
+                    "reference": "f542375336bd01fd956e10a8ed5adcee94936ca7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/eBayEnterprise/magento-log/zipball/f542375336bd01fd956e10a8ed5adcee94936ca7",
+                    "reference": "f542375336bd01fd956e10a8ed5adcee94936ca7",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "~0.3",
+                    "pdepend/pdepend": "~1.1",
+                    "phpdocumentor/phpdocumentor": "~2.4",
+                    "phploc/phploc": "~2.0",
+                    "phpmd/phpmd": "~1.5",
+                    "phpunit/dbunit": "~1",
+                    "phpunit/php-invoker": "~1.1",
+                    "phpunit/phpunit-selenium": "~1",
+                    "phpunit/phpunit-story": "~1",
+                    "psr/log": "1.0.*@dev",
+                    "sebastian/phpcpd": "~2.0",
+                    "squizlabs/php_codesniffer": "~1.5"
+                },
+                "time": "2015-03-12T01:58:57+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.x-dev"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Scott van Brug",
+                        "email": "svanbrug@ebay.com"
+                    },
+                    {
+                        "name": "Michael Phang",
+                        "email": "mphang@ebay.com"
+                    },
+                    {
+                        "name": "Michael A. Smith",
+                        "email": "msmith3@ebay.com"
+                    },
+                    {
+                        "name": "Mike West",
+                        "email": "micwest@ebay.com"
+                    },
+                    {
+                        "name": "Reginald Gabriel",
+                        "email": "rgabriel@ebay.com"
+                    }
+                ],
+                "description": "eBay Enterprise Magento Logging and Convenience Tool",
+                "support": {
+                    "source": "https://github.com/eBayEnterprise/magento-log/tree/2.0.0",
+                    "issues": "https://github.com/eBayEnterprise/magento-log/issues"
+                }
+            },
+            {
+                "name": "ebayenterprise/magento-log",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/eBayEnterprise/magento-log.git",
+                    "reference": "e04ba66d96e9d50b5f76ea7dc185055e8a7ebb2a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/eBayEnterprise/magento-log/zipball/e04ba66d96e9d50b5f76ea7dc185055e8a7ebb2a",
+                    "reference": "e04ba66d96e9d50b5f76ea7dc185055e8a7ebb2a",
+                    "shasum": ""
+                },
+                "require": {
+                    "psr/log": "~1.0"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": ">=0.3",
+                    "pdepend/pdepend": ">=1.1",
+                    "phpdocumentor/phpdocumentor": ">=2.4",
+                    "phploc/phploc": ">=2.0",
+                    "phpmd/phpmd": ">=1.5",
+                    "phpunit/dbunit": ">=1",
+                    "phpunit/php-invoker": ">=1.1",
+                    "phpunit/phpunit-selenium": ">=1",
+                    "phpunit/phpunit-story": ">=1",
+                    "sebastian/phpcpd": ">=2.0",
+                    "squizlabs/php_codesniffer": ">=1.5"
+                },
+                "time": "2015-03-12T14:23:00+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael A. Smith",
+                        "email": "msmith3@ebay.com"
+                    },
+                    {
+                        "name": "Michael Phang",
+                        "email": "mphang@ebay.com"
+                    },
+                    {
+                        "name": "Mike West",
+                        "email": "micwest@ebay.com"
+                    },
+                    {
+                        "name": "Reginald Gabriel",
+                        "email": "rgabriel@ebay.com"
+                    },
+                    {
+                        "name": "Scott van Brug",
+                        "email": "svanbrug@ebay.com"
+                    }
+                ],
+                "description": "Standardized Logging for Magento",
+                "support": {
+                    "source": "https://github.com/eBayEnterprise/magento-log/tree/2.0.1",
+                    "issues": "https://github.com/eBayEnterprise/magento-log/issues"
+                }
+            },
+            {
+                "name": "ebayenterprise/magento-log",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/eBayEnterprise/magento-log.git",
+                    "reference": "5cc3c1a0e8a3fddf247fc27f804ddeb4e4d8f7a2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/eBayEnterprise/magento-log/zipball/5cc3c1a0e8a3fddf247fc27f804ddeb4e4d8f7a2",
+                    "reference": "5cc3c1a0e8a3fddf247fc27f804ddeb4e4d8f7a2",
+                    "shasum": ""
+                },
+                "require": {
+                    "psr/log": "~1.0"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": ">=0.3",
+                    "pdepend/pdepend": ">=1.1",
+                    "phpdocumentor/phpdocumentor": ">=2.4",
+                    "phploc/phploc": ">=2.0",
+                    "phpmd/phpmd": ">=1.5",
+                    "phpunit/dbunit": ">=1",
+                    "phpunit/php-invoker": ">=1.1",
+                    "phpunit/phpunit-selenium": ">=1",
+                    "phpunit/phpunit-story": ">=1",
+                    "sebastian/phpcpd": ">=2.0",
+                    "squizlabs/php_codesniffer": ">=1.5"
+                },
+                "time": "2015-04-09T21:06:05+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.0.x-dev"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael A. Smith",
+                        "email": "msmith3@ebay.com"
+                    },
+                    {
+                        "name": "Michael Phang",
+                        "email": "mphang@ebay.com"
+                    },
+                    {
+                        "name": "Mike West",
+                        "email": "micwest@ebay.com"
+                    },
+                    {
+                        "name": "Reginald Gabriel",
+                        "email": "rgabriel@ebay.com"
+                    },
+                    {
+                        "name": "Scott van Brug",
+                        "email": "svanbrug@ebay.com"
+                    }
+                ],
+                "description": "Standardized Logging for Magento",
+                "support": {
+                    "source": "https://github.com/eBayEnterprise/magento-log/tree/2.0.2",
+                    "issues": "https://github.com/eBayEnterprise/magento-log/issues"
+                }
+            },
+            {
+                "name": "ebayenterprise/magento-log",
+                "version": "2.0.3",
+                "version_normalized": "2.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/eBayEnterprise/magento-log.git",
+                    "reference": "7bc9f2d306205c0cd83606d51b1bde4280582cf9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/eBayEnterprise/magento-log/zipball/7bc9f2d306205c0cd83606d51b1bde4280582cf9",
+                    "reference": "7bc9f2d306205c0cd83606d51b1bde4280582cf9",
+                    "shasum": ""
+                },
+                "require": {
+                    "psr/log": "~1.0"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": ">=0.3",
+                    "pdepend/pdepend": ">=1.1",
+                    "phpdocumentor/phpdocumentor": ">=2.4",
+                    "phploc/phploc": ">=2.0",
+                    "phpmd/phpmd": ">=1.5",
+                    "phpunit/dbunit": ">=1",
+                    "phpunit/php-invoker": ">=1.1",
+                    "phpunit/phpunit-selenium": ">=1",
+                    "phpunit/phpunit-story": ">=1",
+                    "sebastian/phpcpd": ">=2.0",
+                    "squizlabs/php_codesniffer": ">=1.5"
+                },
+                "time": "2015-08-28T19:01:56+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.0.x-dev"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael A. Smith",
+                        "email": "msmith3@ebay.com"
+                    },
+                    {
+                        "name": "Michael Phang",
+                        "email": "mphang@ebay.com"
+                    },
+                    {
+                        "name": "Mike West",
+                        "email": "micwest@ebay.com"
+                    },
+                    {
+                        "name": "Reginald Gabriel",
+                        "email": "rgabriel@ebay.com"
+                    },
+                    {
+                        "name": "Scott van Brug",
+                        "email": "svanbrug@ebay.com"
+                    }
+                ],
+                "description": "Standardized Logging for Magento",
+                "support": {
+                    "source": "https://github.com/eBayEnterprise/magento-log/tree/2.0.3",
+                    "issues": "https://github.com/eBayEnterprise/magento-log/issues"
+                }
+            },
+            {
+                "name": "ebayenterprise/magento-log",
+                "version": "2.0.4",
+                "version_normalized": "2.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/eBayEnterprise/magento-log.git",
+                    "reference": "2bdd1def08837f0d1bb85c2585417e37207214ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/eBayEnterprise/magento-log/zipball/2bdd1def08837f0d1bb85c2585417e37207214ce",
+                    "reference": "2bdd1def08837f0d1bb85c2585417e37207214ce",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.4.0",
+                    "psr/log": "~1.0"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": ">=0.3",
+                    "pdepend/pdepend": ">=1.1",
+                    "phpdocumentor/phpdocumentor": ">=2.4",
+                    "phploc/phploc": ">=2.0",
+                    "phpmd/phpmd": ">=1.5",
+                    "phpunit/dbunit": ">=1",
+                    "phpunit/php-invoker": ">=1.1",
+                    "phpunit/phpunit-selenium": ">=1",
+                    "phpunit/phpunit-story": ">=1",
+                    "sebastian/phpcpd": ">=2.0",
+                    "squizlabs/php_codesniffer": ">=1.5"
+                },
+                "time": "2015-11-03T14:36:27+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.0.x-dev"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael A. Smith",
+                        "email": "msmith3@ebay.com"
+                    },
+                    {
+                        "name": "Michael Phang",
+                        "email": "mphang@ebay.com"
+                    },
+                    {
+                        "name": "Mike West",
+                        "email": "micwest@ebay.com"
+                    },
+                    {
+                        "name": "Reginald Gabriel",
+                        "email": "rgabriel@ebay.com"
+                    },
+                    {
+                        "name": "Scott van Brug",
+                        "email": "svanbrug@ebay.com"
+                    }
+                ],
+                "description": "Standardized Logging for Magento",
+                "support": {
+                    "source": "https://github.com/eBayEnterprise/magento-log/tree/2.0.4",
+                    "issues": "https://github.com/eBayEnterprise/magento-log/issues"
+                }
+            },
+            {
+                "name": "ebayenterprise/magento-log",
+                "version": "2.0.5",
+                "version_normalized": "2.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/eBayEnterprise/magento-log.git",
+                    "reference": "f03ac9d9485f01db60ec0743577bb780cbafb617"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/eBayEnterprise/magento-log/zipball/f03ac9d9485f01db60ec0743577bb780cbafb617",
+                    "reference": "f03ac9d9485f01db60ec0743577bb780cbafb617",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.4.0",
+                    "psr/log": "~1.0"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": ">=0.3",
+                    "pdepend/pdepend": ">=1.1",
+                    "phpdocumentor/phpdocumentor": ">=2.4",
+                    "phploc/phploc": ">=2.0",
+                    "phpmd/phpmd": ">=1.5",
+                    "phpunit/dbunit": ">=1",
+                    "phpunit/php-invoker": ">=1.1",
+                    "phpunit/phpunit-selenium": ">=1",
+                    "phpunit/phpunit-story": ">=1",
+                    "sebastian/phpcpd": ">=2.0",
+                    "squizlabs/php_codesniffer": ">=1.5"
+                },
+                "time": "2015-11-05T14:16:53+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.0.x-dev"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael A. Smith",
+                        "email": "msmith3@ebay.com"
+                    },
+                    {
+                        "name": "Michael Phang",
+                        "email": "mphang@ebay.com"
+                    },
+                    {
+                        "name": "Mike West",
+                        "email": "micwest@ebay.com"
+                    },
+                    {
+                        "name": "Reginald Gabriel",
+                        "email": "rgabriel@ebay.com"
+                    },
+                    {
+                        "name": "Scott van Brug",
+                        "email": "svanbrug@ebay.com"
+                    }
+                ],
+                "description": "Standardized Logging for Magento",
+                "support": {
+                    "source": "https://github.com/eBayEnterprise/magento-log/tree/2.0.5",
+                    "issues": "https://github.com/eBayEnterprise/magento-log/issues"
+                }
+            },
+            {
+                "name": "ebayenterprise/magento-log",
+                "version": "2.0.6",
+                "version_normalized": "2.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/eBayEnterprise/magento-log.git",
+                    "reference": "698db7ab3f90810a9460d9a98f4f69096b285231"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/eBayEnterprise/magento-log/zipball/698db7ab3f90810a9460d9a98f4f69096b285231",
+                    "reference": "698db7ab3f90810a9460d9a98f4f69096b285231",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.4.0",
+                    "psr/log": "~1.0"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": ">=0.3",
+                    "pdepend/pdepend": ">=1.1",
+                    "phpdocumentor/phpdocumentor": ">=2.4",
+                    "phploc/phploc": ">=2.0",
+                    "phpmd/phpmd": ">=1.5",
+                    "phpunit/dbunit": ">=1",
+                    "phpunit/php-invoker": ">=1.1",
+                    "phpunit/phpunit-selenium": ">=1",
+                    "phpunit/phpunit-story": ">=1",
+                    "sebastian/phpcpd": ">=2.0",
+                    "squizlabs/php_codesniffer": ">=1.5"
+                },
+                "time": "2016-01-05T14:30:51+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "2.0.x-dev"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael A. Smith",
+                        "email": "msmith3@ebay.com"
+                    },
+                    {
+                        "name": "Michael Phang",
+                        "email": "mphang@ebay.com"
+                    },
+                    {
+                        "name": "Mike West",
+                        "email": "micwest@ebay.com"
+                    },
+                    {
+                        "name": "Reginald Gabriel",
+                        "email": "rgabriel@ebay.com"
+                    },
+                    {
+                        "name": "Scott van Brug",
+                        "email": "svanbrug@ebay.com"
+                    }
+                ],
+                "description": "Standardized Logging for Magento",
+                "support": {
+                    "source": "https://github.com/eBayEnterprise/magento-log/tree/2.0.6",
+                    "issues": "https://github.com/eBayEnterprise/magento-log/issues"
+                }
+            }
+        ]
+    }
+}

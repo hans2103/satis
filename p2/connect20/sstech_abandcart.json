@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sstech_abandcart": [
+            {
+                "name": "connect20/SSTech_Abandcart",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SSTech_Abandcart/1.0.0/SSTech_Abandcart-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "SSTech",
+                        "email": "sandynareshg@gmail.com"
+                    }
+                ],
+                "description": "Abandoned cart module which help client to send a e-mail to the logged in customer who abandoned the cart"
+            }
+        ]
+    }
+}

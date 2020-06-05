@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/securepay_directone": [
+            {
+                "name": "connect20/SecurePay_DirectOne",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SecurePay_DirectOne/1.0.0/SecurePay_DirectOne-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Andrew Dubbeld",
+                        "email": "support@securepay.com.au"
+                    }
+                ],
+                "description": "DirectOne module for Magento"
+            },
+            {
+                "name": "connect20/SecurePay_DirectOne",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SecurePay_DirectOne/1.0.1/SecurePay_DirectOne-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Andrew Dubbeld",
+                        "email": "andrewd@securepay.com.au"
+                    }
+                ],
+                "description": "Provides hosted credit-card payments through the DirectOne gateway."
+            }
+        ]
+    }
+}

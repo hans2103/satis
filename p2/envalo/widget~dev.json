@@ -1,0 +1,73 @@
+{
+    "packages": {
+        "envalo/widget": [
+            {
+                "name": "envalo/widget",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Envalo/Widget.git",
+                    "reference": "30a3938d2ec382678ae119f0c31a83eadae5d050"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Envalo/Widget/zipball/30a3938d2ec382678ae119f0c31a83eadae5d050",
+                    "reference": "30a3938d2ec382678ae119f0c31a83eadae5d050",
+                    "shasum": ""
+                },
+                "time": "2018-06-26T14:23:02+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Tim Reynolds"
+                    }
+                ],
+                "description": "Enhance Magento Widgets with Specific CMS Page Placement",
+                "homepage": "https://www.envalo.com",
+                "support": {
+                    "source": "https://github.com/Envalo/Widget/tree/master",
+                    "issues": "https://github.com/Envalo/Widget/issues"
+                }
+            },
+            {
+                "name": "envalo/widget",
+                "version": "dev-hackathon_update",
+                "version_normalized": "dev-hackathon_update",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Envalo/Widget.git",
+                    "reference": "700c0148f05fd26a02122e63c8ae27ed76f8de14"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Envalo/Widget/zipball/700c0148f05fd26a02122e63c8ae27ed76f8de14",
+                    "reference": "700c0148f05fd26a02122e63c8ae27ed76f8de14",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "2.1.3"
+                },
+                "time": "2018-04-27T15:36:50+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Tim Reynolds"
+                    }
+                ],
+                "description": "Enhance Magento Widgets with Specific CMS Page Placement",
+                "homepage": "https://www.envalo.com",
+                "support": {
+                    "source": "https://github.com/Envalo/Widget/tree/hackathon_update",
+                    "issues": "https://github.com/Envalo/Widget/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/freshcodes_fastorder": [
+            {
+                "name": "connect20/Freshcodes_Fastorder",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Freshcodes_Fastorder/0.1.0/Freshcodes_Fastorder-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "freshcodes.in",
+                        "email": "info@freshcodes.in"
+                    }
+                ],
+                "description": "Fastorder Extension for Magento"
+            }
+        ]
+    }
+}

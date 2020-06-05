@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "aydus/scheduledemails": [
+            {
+                "name": "aydus/scheduledemails",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/Scheduledemails.git",
+                    "reference": "13be4579b7afc91979e7d64bd0b0b36f8dbe5ccf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/Scheduledemails/zipball/13be4579b7afc91979e7d64bd0b0b36f8dbe5ccf",
+                    "reference": "13be4579b7afc91979e7d64bd0b0b36f8dbe5ccf",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2015-06-30T22:33:52+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "davidt@aydus.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Regularly send out emails to customers who have bought specific products. ",
+                "homepage": "https://github.com/aydus/Scheduledemails.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/Scheduledemails/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/Scheduledemails/issues"
+                }
+            }
+        ]
+    }
+}

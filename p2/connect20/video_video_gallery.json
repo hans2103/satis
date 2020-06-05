@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/video_video_gallery": [
+            {
+                "name": "connect20/Video_Video_Gallery",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Video_Video_Gallery/0.1.0/Video_Video_Gallery-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "eSparkBiz",
+                        "email": "info@esparkinfo.com"
+                    }
+                ],
+                "description": "This extension add the possibility of you mixing your product images with unlimited Youtube videos easily. "
+            }
+        ]
+    }
+}

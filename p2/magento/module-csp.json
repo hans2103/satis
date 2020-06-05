@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "magento/module-csp": [
+            {
+                "name": "magento/module-csp",
+                "version": "100.3.0",
+                "version_normalized": "100.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-csp/magento-module-csp-100.3.0.0.zip",
+                    "shasum": "f8f0ccac2d4719c8398f636d8dd6b05a8e8e29cf"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Csp\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "CSP module enables Content Security Policies for Magento"
+            }
+        ]
+    }
+}

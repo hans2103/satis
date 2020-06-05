@@ -1,0 +1,90 @@
+{
+    "packages": {
+        "connect20/uni_supportticket": [
+            {
+                "name": "connect20/Uni_Supportticket",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Uni_Supportticket/0.1.0/Uni_Supportticket-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Unicode Systems",
+                        "email": "magento@unicodesystems.in"
+                    }
+                ],
+                "description": "Magento Support Ticket module provides the facility to submit a ticket assigned to specific department, priority and revert back with explanatory information.\r\n"
+            },
+            {
+                "name": "connect20/Uni_Supportticket",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Uni_Supportticket/0.2.0/Uni_Supportticket-0.2.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.5"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Unicode Systems",
+                        "email": "magento@unicodesystems.in"
+                    }
+                ],
+                "description": "The extension is capable of collecting the information from various customer groups. Customer just have to post their request, the extension will fetch the request and shown on admin panel plus an email sent to the concerned authority."
+            },
+            {
+                "name": "connect20/Uni_Supportticket",
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Uni_Supportticket/0.3.0/Uni_Supportticket-0.3.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.5"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Unicode Systems",
+                        "email": "magento@unicodesystems.in"
+                    }
+                ],
+                "description": "The extension is capable of collecting the information from various customer groups. Customer just have to post their request, the extension will fetch the request and shown on admin panel plus an email sent to the concerned authority."
+            }
+        ]
+    }
+}

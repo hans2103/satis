@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/bindchat_live_chat": [
+            {
+                "name": "connect20/BindChat_Live_Chat",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/BindChat_Live_Chat/1.0.0/BindChat_Live_Chat-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "bindchat",
+                        "email": "bindchatinc@gmail.com"
+                    }
+                ],
+                "description": "Visitors can chat with operator directly by clicking on the BIndChat Bar.\r\n必聊网（www.bindchat.com）在线客服插件。"
+            },
+            {
+                "name": "connect20/BindChat_Live_Chat",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/BindChat_Live_Chat/1.0.1/BindChat_Live_Chat-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "BindChat inc.",
+                        "email": "bindchatinc@gmail.com"
+                    }
+                ],
+                "description": "Visitors can chat with you directly by clicking on the BindChat Bar."
+            }
+        ]
+    }
+}

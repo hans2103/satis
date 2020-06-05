@@ -1,0 +1,78 @@
+{
+    "packages": {
+        "zookal/tableopt": [
+            {
+                "name": "zookal/tableopt",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Zookal/Magento-MyTableOptimization.git",
+                    "reference": "a9982e02285993b2045fd3aec93154464adf41ad"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Zookal/Magento-MyTableOptimization/zipball/a9982e02285993b2045fd3aec93154464adf41ad",
+                    "reference": "a9982e02285993b2045fd3aec93154464adf41ad",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-10-17T01:19:08+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher",
+                        "email": "cyrill+magento@schumacher.fm"
+                    }
+                ],
+                "description": "A Magento extension which executes the MySQL command `OPTIMIZE TABLE`  for MyISAM, InnoDB, and ARCHIVE tables.",
+                "homepage": "https://github.com/Zookal/magento-mock",
+                "support": {
+                    "source": "https://github.com/Zookal/Magento-MyTableOptimization/tree/master",
+                    "issues": "https://github.com/Zookal/Magento-MyTableOptimization/issues"
+                }
+            },
+            {
+                "name": "zookal/tableopt",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Zookal/Magento-MyTableOptimization.git",
+                    "reference": "215e5478374eff8b09062f6b055492e455062f2b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Zookal/Magento-MyTableOptimization/zipball/215e5478374eff8b09062f6b055492e455062f2b",
+                    "reference": "215e5478374eff8b09062f6b055492e455062f2b",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-04-10T05:19:12+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher",
+                        "email": "{firstname}2{lastname}.fm"
+                    }
+                ],
+                "description": "A Magento extension which executes the MySQL command `OPTIMIZE TABLE`  for MyISAM, InnoDB, and ARCHIVE tables.",
+                "homepage": "https://github.com/Zookal/magento-mock",
+                "support": {
+                    "source": "https://github.com/Zookal/Magento-MyTableOptimization/tree/develop",
+                    "issues": "https://github.com/Zookal/Magento-MyTableOptimization/issues"
+                }
+            }
+        ]
+    }
+}

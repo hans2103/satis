@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/vgroup_backupdel": [
+            {
+                "name": "connect20/Vgroup_Backupdel",
+                "version": "1.9.2.1",
+                "version_normalized": "1.9.2.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Vgroup_Backupdel/1.9.2.1/Vgroup_Backupdel-1.9.2.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "V Group Inc",
+                        "email": "akhilesh.chourey@vgroup.net"
+                    }
+                ],
+                "description": "This extension help you to automatic delete your old backup created by system by keeping selected days backup."
+            },
+            {
+                "name": "connect20/Vgroup_Backupdel",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Vgroup_Backupdel/2.0.0/Vgroup_Backupdel-2.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "V Group Inc",
+                        "email": "akhilesh.chourey@vgroup.net"
+                    }
+                ],
+                "description": "Extension automatically deletes backups created by Magento backup tool. It keeps backup for selected days only."
+            }
+        ]
+    }
+}

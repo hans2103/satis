@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/nd_migsvpc": [
+            {
+                "name": "connect20/ND_MigsVpc",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ND_MigsVpc/0.1.1/ND_MigsVpc-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikul Doshi",
+                        "email": "nikulonline@gmail.com"
+                    }
+                ],
+                "description": "Migs Vpc Payment Method Integration"
+            },
+            {
+                "name": "connect20/ND_MigsVpc",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ND_MigsVpc/0.1.2/ND_MigsVpc-0.1.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikul Doshi",
+                        "email": "nikulonline@gmail.com"
+                    }
+                ],
+                "description": "Migs Vpc Payment Method Integration"
+            }
+        ]
+    }
+}

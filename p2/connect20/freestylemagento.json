@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/freestylemagento": [
+            {
+                "name": "connect20/FreestyleMagento",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/FreestyleMagento/1.4.1/FreestyleMagento-1.4.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Custom-License"
+                ],
+                "authors": [
+                    {
+                        "name": "John Canare",
+                        "email": "developer@freestylesolutions.com"
+                    }
+                ],
+                "description": "Integrates Magento to Freestyle SaaS platform"
+            },
+            {
+                "name": "connect20/FreestyleMagento",
+                "version": "1.4.2",
+                "version_normalized": "1.4.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/FreestyleMagento/1.4.2/FreestyleMagento-1.4.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Custom-License"
+                ],
+                "authors": [
+                    {
+                        "name": "John Canare",
+                        "email": "developer@freestylesolutions.com"
+                    }
+                ],
+                "description": "Integrates Magento to Freestyle SaaS platform"
+            }
+        ]
+    }
+}

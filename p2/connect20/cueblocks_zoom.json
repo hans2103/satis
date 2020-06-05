@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/cueblocks_zoom": [
+            {
+                "name": "connect20/CueBlocks_Zoom",
+                "version": "3.0.2",
+                "version_normalized": "3.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CueBlocks_Zoom/3.0.2/CueBlocks_Zoom-3.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "CueBlocks",
+                        "email": "magento@cueblocks.com"
+                    }
+                ],
+                "description": "Product Zoom Extension"
+            }
+        ]
+    }
+}

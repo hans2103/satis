@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/payme": [
+            {
+                "name": "connect20/Payme",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/3bb75778bd4c50cb2d4b617e9533962a/2.0.2/3bb75778bd4c50cb2d4b617e9533962a-2.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU"
+                ],
+                "authors": [
+                    {
+                        "name": "José Alexander Zapata Ruiz",
+                        "email": "josezapataruiz@outlook.com"
+                    }
+                ],
+                "description": "Este módulo facilita pagos mediante tarjeta de crédito utilizando la plataforma Payme de Alignet."
+            }
+        ]
+    }
+}

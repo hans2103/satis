@@ -1,0 +1,96 @@
+{
+    "packages": {
+        "magento-hackathon/e-mail-preview": [
+            {
+                "name": "magento-hackathon/e-mail-preview",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/E-MailPreview.git",
+                    "reference": "ffa0526786b62f5d7953c9ff21ee3512842231dc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/E-MailPreview/zipball/ffa0526786b62f5d7953c9ff21ee3512842231dc",
+                    "reference": "ffa0526786b62f5d7953c9ff21ee3512842231dc",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "time": "2015-12-01T14:00:43+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthias Zeis",
+                        "email": "admin@matthias-zeis.com"
+                    },
+                    {
+                        "name": "Marc Päpper",
+                        "email": "m.paepper@lemundo.de"
+                    },
+                    {
+                        "name": "Tobias Hille",
+                        "email": "tobihille@googlemail.com"
+                    }
+                ],
+                "description": "This Magento extension enables the merchants and developers to preview mail templates from the backend with real data.",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/E-MailPreview/tree/master",
+                    "issues": "https://github.com/magento-hackathon/E-MailPreview/issues"
+                }
+            },
+            {
+                "name": "magento-hackathon/e-mail-preview",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/E-MailPreview.git",
+                    "reference": "01471df4cbf657a4ab754a5708e6612036edebec"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/E-MailPreview/zipball/01471df4cbf657a4ab754a5708e6612036edebec",
+                    "reference": "01471df4cbf657a4ab754a5708e6612036edebec",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "time": "2018-06-18T17:26:33+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthias Zeis",
+                        "email": "admin@matthias-zeis.com"
+                    },
+                    {
+                        "name": "Marc Päpper",
+                        "email": "m.paepper@lemundo.de"
+                    },
+                    {
+                        "name": "Tobias Hille",
+                        "email": "tobihille@googlemail.com"
+                    },
+                    {
+                        "name": "Wilfried Wolf",
+                        "email": "wilfried.wolf@sandstein.de"
+                    }
+                ],
+                "description": "This Magento extension enables the merchants and developers to preview mail templates from the backend with real data.",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/E-MailPreview/tree/develop",
+                    "issues": "https://github.com/magento-hackathon/E-MailPreview/issues"
+                }
+            }
+        ]
+    }
+}

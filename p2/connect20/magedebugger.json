@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/magedebugger": [
+            {
+                "name": "connect20/Magedebugger",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Magedebugger/0.1.0/Magedebugger-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magestore.com",
+                        "email": "magestore@gmail.com"
+                    }
+                ],
+                "description": "Our developers sometimes fell crazy when debug on customer live store. It's very hard to debug in silence. Now our Mage Debugger extension is a real magic. You can debug and see the result in your own screen, not the screen of store."
+            }
+        ]
+    }
+}

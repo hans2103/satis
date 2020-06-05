@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/lister_greyferret": [
+            {
+                "name": "connect20/Lister_Greyferret",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Lister_Greyferret/0.0.1/Lister_Greyferret-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Lister Technologies (P) Ltd",
+                        "email": "info@listertechnologies.com"
+                    }
+                ],
+                "description": "Greyferret is designed to offer e-tailers an edge by helping marketers achieve their critical marketing goals i.e Customer Retention, Acquisition & Sales Uplift"
+            }
+        ]
+    }
+}

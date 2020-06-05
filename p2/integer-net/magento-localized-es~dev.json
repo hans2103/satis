@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "integer-net/magento-localized-es": [
+            {
+                "name": "integer-net/magento-localized-es",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/MagentoLocalizedES.git",
+                    "reference": "25b7b3c377cb6931951ee976ca19a3e8b4724c55"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/MagentoLocalizedES/zipball/25b7b3c377cb6931951ee976ca19a3e8b4724c55",
+                    "reference": "25b7b3c377cb6931951ee976ca19a3e8b4724c55",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-11-24T16:49:18+00:00",
+                "type": "magento-module",
+                "description": "Spanish Localization package for Magento Localized (aka Magento ES)",
+                "homepage": "https://github.com/integer-net/MagentoLocalizedES",
+                "support": {
+                    "source": "https://github.com/integer-net/MagentoLocalizedES/tree/master",
+                    "issues": "https://github.com/integer-net/MagentoLocalizedES/issues"
+                }
+            }
+        ]
+    }
+}

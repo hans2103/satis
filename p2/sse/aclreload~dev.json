@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "sse/aclreload": [
+            {
+                "name": "sse/aclreload",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/schmengler/AclReload.git",
+                    "reference": "0a3a7001d9e3ceb8c6f3ed2dc3341566e13f0c23"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/schmengler/AclReload/zipball/0a3a7001d9e3ceb8c6f3ed2dc3341566e13f0c23",
+                    "reference": "0a3a7001d9e3ceb8c6f3ed2dc3341566e13f0c23",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-07-17T12:03:33+00:00",
+                "type": "magento-module",
+                "license": [
+                    "osl-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabian Schmengler",
+                        "email": "fabian@schmengler-se.de"
+                    }
+                ],
+                "description": "Adds a menu entry \"Reload ACL\" to Magento admin panel. Useful after installing extensions instead of logging out and back in.",
+                "homepage": "https://github.com/schmengler/AclReload",
+                "support": {
+                    "source": "https://github.com/schmengler/AclReload/tree/0.1.2",
+                    "issues": "https://github.com/schmengler/AclReload/issues"
+                }
+            }
+        ]
+    }
+}

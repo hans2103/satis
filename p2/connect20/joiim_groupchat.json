@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/joiim_groupchat": [
+            {
+                "name": "connect20/Joiim_GroupChat",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Joiim_GroupChat/1.0.0/Joiim_GroupChat-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Apache-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Joi.IM",
+                        "email": "angelo@joi.im"
+                    }
+                ],
+                "description": "Group Chat Referral System"
+            },
+            {
+                "name": "connect20/Joiim_GroupChat",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Joiim_GroupChat/1.0.1/Joiim_GroupChat-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Apache-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Joi.IM",
+                        "email": "angelo@joi.im"
+                    }
+                ],
+                "description": "Group Chat Referral System"
+            }
+        ]
+    }
+}

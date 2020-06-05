@@ -1,0 +1,142 @@
+{
+    "packages": {
+        "magento-hackathon/magento-two-factor-authentication": [
+            {
+                "name": "magento-hackathon/magento-two-factor-authentication",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Magento-Two-factor-Authentication.git",
+                    "reference": "bd4b45a1b43d590cabc20b02204ae212f45af5dc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Magento-Two-factor-Authentication/zipball/bd4b45a1b43d590cabc20b02204ae212f45af5dc",
+                    "reference": "bd4b45a1b43d590cabc20b02204ae212f45af5dc",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "phpunit/phpunit": "4.6.*"
+                },
+                "time": "2016-11-15T15:17:57+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "description": "Implementation of an two-factor-authentication using Google's 2-Step Verification algorithm",
+                "homepage": "https://github.com/magento-hackathon/Magento-Two-factor-Authentication",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Magento-Two-factor-Authentication/tree/master",
+                    "issues": "https://github.com/magento-hackathon/Magento-Two-factor-Authentication/issues"
+                }
+            },
+            {
+                "name": "magento-hackathon/magento-two-factor-authentication",
+                "version": "dev-TFA_Customer",
+                "version_normalized": "dev-TFA_Customer",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Magento-Two-factor-Authentication.git",
+                    "reference": "225bed2dca4f099ccef4dce480efe58964b46736"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Magento-Two-factor-Authentication/zipball/225bed2dca4f099ccef4dce480efe58964b46736",
+                    "reference": "225bed2dca4f099ccef4dce480efe58964b46736",
+                    "shasum": ""
+                },
+                "require": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.6.*"
+                },
+                "time": "2015-09-20T08:23:55+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "description": "Implementation of an two-factor-authentication using Google's 2-Step Verification algorithm",
+                "homepage": "https://github.com/magento-hackathon/Magento-Two-factor-Authentication",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Magento-Two-factor-Authentication/tree/TFA_Customer",
+                    "issues": "https://github.com/magento-hackathon/Magento-Two-factor-Authentication/issues"
+                }
+            },
+            {
+                "name": "magento-hackathon/magento-two-factor-authentication",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Magento-Two-factor-Authentication.git",
+                    "reference": "d5a30b5cc8f366d5c533a7ea6076a8bc390ce55f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Magento-Two-factor-Authentication/zipball/d5a30b5cc8f366d5c533a7ea6076a8bc390ce55f",
+                    "reference": "d5a30b5cc8f366d5c533a7ea6076a8bc390ce55f",
+                    "shasum": ""
+                },
+                "require": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.6.*"
+                },
+                "time": "2015-05-29T13:52:25+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "description": "Implementation of an two-factor-authentication using Google's 2-Step Verification algorithm",
+                "homepage": "https://github.com/magento-hackathon/Magento-Two-factor-Authentication",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Magento-Two-factor-Authentication/tree/develop",
+                    "issues": "https://github.com/magento-hackathon/Magento-Two-factor-Authentication/issues"
+                }
+            },
+            {
+                "name": "magento-hackathon/magento-two-factor-authentication",
+                "version": "dev-readme-images",
+                "version_normalized": "dev-readme-images",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/Magento-Two-factor-Authentication.git",
+                    "reference": "86be1dcada2c377a95202ec878ead5b38cb96379"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/Magento-Two-factor-Authentication/zipball/86be1dcada2c377a95202ec878ead5b38cb96379",
+                    "reference": "86be1dcada2c377a95202ec878ead5b38cb96379",
+                    "shasum": ""
+                },
+                "require": {
+                    "ecomdev/ecomdev_phpunit": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "4.6.*"
+                },
+                "time": "2015-05-10T19:26:57+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "description": "Implementation of an two-factor-authentication using Google's 2-Step Verification algorithm",
+                "homepage": "https://github.com/magento-hackathon/Magento-Two-factor-Authentication",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/Magento-Two-factor-Authentication/tree/readme-images",
+                    "issues": "https://github.com/magento-hackathon/Magento-Two-factor-Authentication/issues"
+                }
+            }
+        ]
+    }
+}

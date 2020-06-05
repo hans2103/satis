@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/frontend_links_manager": [
+            {
+                "name": "connect20/Frontend_Links_Manager",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Frontend_Links_Manager/0.2.0/Frontend_Links_Manager-0.2.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "MagePsycho",
+                        "email": "rajen_k_bhtt@hotmail.com"
+                    }
+                ],
+                "description": "Frontend Links Manager extension is used to turn on/off the frontend links(top links, footer links, customer navigation links & catalog navigation links) is easier way via backend."
+            }
+        ]
+    }
+}

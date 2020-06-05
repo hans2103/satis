@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ts_core_extension": [
+            {
+                "name": "connect20/ts_core_extension",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ts_core_extension/0.1.1/ts_core_extension-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "CL"
+                ],
+                "authors": [
+                    {
+                        "name": "Nick",
+                        "email": "support@templatestudio.com"
+                    }
+                ],
+                "description": "A core module that other Template Studio's modules depend on. "
+            }
+        ]
+    }
+}

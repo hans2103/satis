@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/solwin_googlelangtranslator": [
+            {
+                "name": "connect20/Solwin_GoogleLangTranslator",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Solwin_GoogleLangTranslator/1.0.0/Solwin_GoogleLangTranslator-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sanjay Dabhoya",
+                        "email": "stdabhoya@yahoo.com"
+                    }
+                ],
+                "description": "This extension will translate your whole website into any language you selected."
+            }
+        ]
+    }
+}

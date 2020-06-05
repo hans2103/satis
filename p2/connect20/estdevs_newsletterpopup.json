@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/estdevs_newsletterpopup": [
+            {
+                "name": "connect20/estdevs_newsletterpopup",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/estdevs_newsletterpopup/1.0.0/estdevs_newsletterpopup-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "tularamaurya",
+                        "email": "tularamaurya@gmail.com"
+                    }
+                ],
+                "description": "Newsletter Popup allows you to display a newsletter subscription popup when customers visit your home page."
+            }
+        ]
+    }
+}

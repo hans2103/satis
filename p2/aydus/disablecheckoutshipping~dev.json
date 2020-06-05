@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "aydus/disablecheckoutshipping": [
+            {
+                "name": "aydus/disablecheckoutshipping",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/DisableCheckoutShipping.git",
+                    "reference": "b2976f3d5a8addfec8817ddfd3904205d291f37a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/DisableCheckoutShipping/zipball/b2976f3d5a8addfec8817ddfd3904205d291f37a",
+                    "reference": "b2976f3d5a8addfec8817ddfd3904205d291f37a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2015-05-28T02:07:03+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "davidt@aydus.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Disable specific shipping methods from displaying on the checkout. Disabled methods will still be enabled in the admin and can be used to create orders in the admin.",
+                "homepage": "https://github.com/aydus/DisableCheckoutShipping.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/DisableCheckoutShipping/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/DisableCheckoutShipping/issues"
+                }
+            }
+        ]
+    }
+}

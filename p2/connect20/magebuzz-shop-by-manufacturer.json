@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/magebuzz-shop-by-manufacturer": [
+            {
+                "name": "connect20/magebuzz-shop-by-manufacturer",
+                "version": "0.1.5",
+                "version_normalized": "0.1.5.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/magebuzz-shop-by-manufacturer/0.1.5/magebuzz-shop-by-manufacturer-0.1.5.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Magebuzz",
+                        "email": "magebuzz@gmail.com"
+                    }
+                ],
+                "description": "Shop by Manufacturer / Shop by brand"
+            }
+        ]
+    }
+}

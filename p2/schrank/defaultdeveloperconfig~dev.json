@@ -1,0 +1,38 @@
+{
+    "packages": {
+        "schrank/defaultdeveloperconfig": [
+            {
+                "name": "Schrank/DefaultDeveloperConfig",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Schrank/DefaultDeveloperConfig.git",
+                    "reference": "97cbfd65c6d16f9a2512956be9fd156f97e44bc7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Schrank/DefaultDeveloperConfig/zipball/97cbfd65c6d16f9a2512956be9fd156f97e44bc7",
+                    "reference": "97cbfd65c6d16f9a2512956be9fd156f97e44bc7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2012-10-29T22:52:51+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Fabian Blechschmidt",
+                        "email": "blechschmidt@fabian-blechschmidt.de"
+                    }
+                ],
+                "homepage": "https://github.com/Schrank/DefaultDeveloperConfig",
+                "support": {
+                    "source": "https://github.com/Schrank/DefaultDeveloperConfig/tree/master",
+                    "issues": "https://github.com/Schrank/DefaultDeveloperConfig/issues"
+                }
+            }
+        ]
+    }
+}

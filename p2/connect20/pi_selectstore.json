@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/pi_selectstore": [
+            {
+                "name": "connect20/PI_Selectstore",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/PI_Selectstore/0.1.2/PI_Selectstore-0.1.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "pureimagination",
+                        "email": "johncarter15oct@gmail.com"
+                    }
+                ],
+                "description": "You can use this extension in order to add store, so that customer's can select their require store at the of checkout."
+            }
+        ]
+    }
+}

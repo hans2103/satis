@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/creative_access_codes": [
+            {
+                "name": "connect20/Creative_Access_Codes",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Creative_Access_Codes/1.0.0/Creative_Access_Codes-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "SydneyDesign",
+                        "email": "scott@creative-web-designer.com"
+                    }
+                ],
+                "description": "'Creative Access Code' is a module which enables a user to access the site if he has the correct access code."
+            }
+        ]
+    }
+}

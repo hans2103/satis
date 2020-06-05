@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "n98/n98_basejquery": [
+            {
+                "name": "n98/N98_BaseJQuery",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/netz98/N98_BaseJQuery.git",
+                    "reference": "49779dfc6ce951d8772370e296c1192520efa7bc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/netz98/N98_BaseJQuery/zipball/49779dfc6ce951d8772370e296c1192520efa7bc",
+                    "reference": "49779dfc6ce951d8772370e296c1192520efa7bc",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-06-12T10:10:13+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "netz98 new media GmbH",
+                        "email": "magento@netz98.de"
+                    }
+                ],
+                "description": "Provides basic jQuery JS library for other netz98 modules.",
+                "homepage": "https://github.com/netz98/N98_BaseJQuery",
+                "support": {
+                    "source": "https://github.com/netz98/N98_BaseJQuery/tree/master",
+                    "issues": "https://github.com/netz98/N98_BaseJQuery/issues"
+                }
+            }
+        ]
+    }
+}

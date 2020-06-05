@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/ksv_deleteorder": [
+            {
+                "name": "connect20/ksv_deleteOrder",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ksv_deleteOrder/0.1.1/ksv_deleteOrder-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "ksvcorporation",
+                        "email": "ksvcorporation@gmail.com"
+                    }
+                ],
+                "description": "Our Delete Order Extension allows you easy  to delete in  orders simple drop-down selection."
+            },
+            {
+                "name": "connect20/ksv_deleteOrder",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ksv_deleteOrder/1.0.1/ksv_deleteOrder-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "ksvcorporation",
+                        "email": "ksvcorporation@gmail.com"
+                    }
+                ],
+                "description": "Our Delete Order Extension allows you easy  to delete in  orders simple drop-down selection."
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/wishlistplus": [
+            {
+                "name": "connect20/WishlistPlus",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/WishlistPlus/0.1.1/WishlistPlus-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Arvind",
+                        "email": "bhardwajsonheight@gmail.com"
+                    }
+                ],
+                "description": "WishlistPlus adds the features of Pagination, search and selective add to cart to your wishlst module."
+            }
+        ]
+    }
+}

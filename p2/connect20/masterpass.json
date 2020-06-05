@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/masterpass": [
+            {
+                "name": "connect20/MasterPass",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/346d97d4dfa1a091db7bf497d7e25969/1.0/346d97d4dfa1a091db7bf497d7e25969-1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "MAG003284503",
+                        "email": "merchant_testing_support@masterpass.com"
+                    }
+                ],
+                "description": "The MasterPass extension by MasterCard enables you to easily embed MasterPass checkout capability into your online shopping site, helping to streamline the payment process for your customers without changing the way you currently process payments."
+            }
+        ]
+    }
+}

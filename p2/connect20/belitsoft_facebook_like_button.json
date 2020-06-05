@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/belitsoft_facebook_like_button": [
+            {
+                "name": "connect20/Belitsoft_Facebook_Like_Button",
+                "version": "2.3.2",
+                "version_normalized": "2.3.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Belitsoft_Facebook_Like_Button/2.3.2/Belitsoft_Facebook_Like_Button-2.3.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-GPLv2"
+                ],
+                "authors": [
+                    {
+                        "name": "Belitsoft",
+                        "email": "vtursin@belitsoft.com"
+                    }
+                ],
+                "description": "Facebook  Like  Button"
+            }
+        ]
+    }
+}

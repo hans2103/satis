@@ -1,0 +1,50 @@
+{
+    "packages": {
+        "magento/google-shopping-ads-bundle-edge": [
+            {
+                "name": "magento/google-shopping-ads-bundle-edge",
+                "version": "3.0.1",
+                "version_normalized": "3.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/google-shopping-ads-bundle-edge/magento-google-shopping-ads-bundle-edge-3.0.1.0.zip",
+                    "shasum": "3f29bc6f61a0c8a963459d5c4f1beee1d12e81fc"
+                },
+                "require": {
+                    "magento/google-shopping-ads": "3.0.1"
+                },
+                "replace": {
+                    "magento/google-shopping-ads-bundle": "<=3.0.1"
+                },
+                "type": "metapackage",
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Bundling metapackage for magento/google-shopping-ads: Connect your Magento admin with Google Merchant Center and Google Ads. Leverage Google machine learning through Google Smart Shopping campaigns (Edge release!)"
+            },
+            {
+                "name": "magento/google-shopping-ads-bundle-edge",
+                "version": "3.0.2",
+                "version_normalized": "3.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/google-shopping-ads-bundle-edge/magento-google-shopping-ads-bundle-edge-3.0.2.0.zip",
+                    "shasum": "694007e839af04bcb8bab5f04868391ce812d9a5"
+                },
+                "require": {
+                    "magento/google-shopping-ads": "3.0.2"
+                },
+                "replace": {
+                    "magento/google-shopping-ads-bundle": "<=3.0.2"
+                },
+                "type": "metapackage",
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Bundling metapackage for magento/google-shopping-ads: Connect your Magento admin with Google Merchant Center and Google Ads. Leverage Google machine learning through Google Smart Shopping campaigns (Edge release!)"
+            }
+        ]
+    }
+}

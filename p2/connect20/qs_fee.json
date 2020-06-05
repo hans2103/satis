@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/qs_fee": [
+            {
+                "name": "connect20/QS_Fee",
+                "version": "0.1.7",
+                "version_normalized": "0.1.7.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/QS_Fee/0.1.7/QS_Fee-0.1.7.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Ecomitize",
+                        "email": "milosdodic90@gmail.com"
+                    }
+                ],
+                "description": "Allows you to offer discounted parcel insurance to your customers "
+            }
+        ]
+    }
+}

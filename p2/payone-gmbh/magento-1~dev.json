@@ -1,0 +1,230 @@
+{
+    "packages": {
+        "payone-gmbh/magento-1": [
+            {
+                "name": "payone-gmbh/magento-1",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/PAYONE-GmbH/magento-1.git",
+                    "reference": "b7773bfc2592c86a3f98668e645e409e7fa41feb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/PAYONE-GmbH/magento-1/zipball/b7773bfc2592c86a3f98668e645e409e7fa41feb",
+                    "reference": "b7773bfc2592c86a3f98668e645e409e7fa41feb",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2020-04-23T08:30:09+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Payone/*",
+                            "app/code/community/Payone/"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/payone/*",
+                            "app/design/adminhtml/default/default/layout/payone/"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/payone/*",
+                            "app/design/adminhtml/default/default/template/payone/"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/payone/*",
+                            "app/design/frontend/base/default/layout/payone/"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/payone/*",
+                            "app/design/frontend/base/default/template/payone/"
+                        ],
+                        [
+                            "app/etc/modules/*",
+                            "app/etc/modules/"
+                        ],
+                        [
+                            "app/locale/de_DE/*.csv",
+                            "app/locale/de_DE/"
+                        ],
+                        [
+                            "app/locale/de_DE/template/email/payone/*",
+                            "app/locale/de_DE/template/email/payone/"
+                        ],
+                        [
+                            "app/locale/en_US/*.csv",
+                            "app/locale/en_US/"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/payone/*",
+                            "app/locale/en_US/template/email/payone/"
+                        ],
+                        [
+                            "js/payone/",
+                            "js/payone/"
+                        ],
+                        [
+                            "js/prototype/windows/themes/payone/",
+                            "js/prototype/windows/themes/payone/"
+                        ],
+                        [
+                            "js/prototype/windows/themes/payone.css",
+                            "js/prototype/windows/themes/payone.css"
+                        ],
+                        [
+                            "lib/Payone/*",
+                            "lib/Payone/"
+                        ],
+                        [
+                            "skin/adminhtml/default/default/payone/*",
+                            "skin/adminhtml/default/default/payone/"
+                        ],
+                        [
+                            "skin/frontend/base/default/payone/*",
+                            "skin/frontend/base/default/payone/"
+                        ],
+                        [
+                            "skin/frontend/base/default/images/payone/*",
+                            "skin/frontend/base/default/images/payone/"
+                        ]
+                    ]
+                },
+                "license": [
+                    "GPL-3.0-or-later"
+                ],
+                "authors": [
+                    {
+                        "name": "Payone",
+                        "email": "magento@payone.de"
+                    }
+                ],
+                "description": "Payone Magento Extension",
+                "homepage": "http://www.payone.de",
+                "keywords": [
+                    "Magento",
+                    "Payone",
+                    "payment"
+                ],
+                "support": {
+                    "email": "tech.support@payone.de",
+                    "source": "https://github.com/PAYONE-GmbH/magento-1/tree/master",
+                    "issues": "https://github.com/PAYONE-GmbH/magento-1/issues"
+                }
+            },
+            {
+                "name": "payone-gmbh/magento-1",
+                "version": "dev-development",
+                "version_normalized": "dev-development",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/PAYONE-GmbH/magento-1.git",
+                    "reference": "65875c04deb5e6034fdbdfe1488aeb21f7cdbfae"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/PAYONE-GmbH/magento-1/zipball/65875c04deb5e6034fdbdfe1488aeb21f7cdbfae",
+                    "reference": "65875c04deb5e6034fdbdfe1488aeb21f7cdbfae",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-12-08T08:46:47+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/Payone/*",
+                            "app/code/community/Payone/"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/payone/*",
+                            "app/design/adminhtml/default/default/layout/payone/"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/payone/*",
+                            "app/design/adminhtml/default/default/template/payone/"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/payone/*",
+                            "app/design/frontend/base/default/layout/payone/"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/payone/*",
+                            "app/design/frontend/base/default/template/payone/"
+                        ],
+                        [
+                            "app/etc/modules/*",
+                            "app/etc/modules/"
+                        ],
+                        [
+                            "app/locale/de_DE/*.csv",
+                            "app/locale/de_DE/"
+                        ],
+                        [
+                            "app/locale/de_DE/template/email/payone/*",
+                            "app/locale/de_DE/template/email/payone/"
+                        ],
+                        [
+                            "app/locale/en_US/*.csv",
+                            "app/locale/en_US/"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/payone/*",
+                            "app/locale/en_US/template/email/payone/"
+                        ],
+                        [
+                            "js/payone/",
+                            "js/payone/"
+                        ],
+                        [
+                            "js/prototype/windows/themes/payone/",
+                            "js/prototype/windows/themes/payone/"
+                        ],
+                        [
+                            "js/prototype/windows/themes/payone.css",
+                            "js/prototype/windows/themes/payone.css"
+                        ],
+                        [
+                            "lib/Payone/*",
+                            "lib/Payone/"
+                        ],
+                        [
+                            "skin/adminhtml/default/default/payone/*",
+                            "skin/adminhtml/default/default/payone/"
+                        ],
+                        [
+                            "skin/frontend/base/default/payone/*",
+                            "skin/frontend/base/default/payone/"
+                        ]
+                    ]
+                },
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Payone",
+                        "email": "magento@payone.de"
+                    }
+                ],
+                "description": "Payone Magento Extension",
+                "homepage": "http://www.payone.de",
+                "keywords": [
+                    "Magento",
+                    "Payone",
+                    "payment"
+                ],
+                "support": {
+                    "email": "tech.support@payone.de",
+                    "source": "https://github.com/PAYONE-GmbH/magento-1/tree/development",
+                    "issues": "https://github.com/PAYONE-GmbH/magento-1/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "packages": {
+        "fbrnc/pulsestorm_launcher": [
+            {
+                "name": "fbrnc/pulsestorm_launcher",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fbrnc/Pulsestorm_Launcher.git",
+                    "reference": "70244921d9901781a21beb358aec348865cd3c22"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/fbrnc/Pulsestorm_Launcher/zipball/70244921d9901781a21beb358aec348865cd3c22",
+                    "reference": "70244921d9901781a21beb358aec348865cd3c22",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-01-17T04:56:14+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Alan Storm"
+                    }
+                ],
+                "description": "Pulsestom_Launcher by Alan Storm.",
+                "homepage": "http://alanstorm.com/category/magento#magento_pulse_storm_launcher",
+                "support": {
+                    "source": "https://github.com/fbrnc/Pulsestorm_Launcher/tree/master"
+                }
+            }
+        ]
+    }
+}

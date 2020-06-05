@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/luckycycle": [
+            {
+                "name": "connect20/luckycycle",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/luckycycle/1.0.0/luckycycle-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "LuckyCycle"
+                ],
+                "authors": [
+                    {
+                        "name": "Nicolas Van Peteghem",
+                        "email": "nvanpeteghem@luckycycle.com"
+                    }
+                ],
+                "description": "Buy &amp; Win! Luckycycle is a patented sales promotion tool offered to digital stores allowing them to offer free purchases to their customers in accordance with pre-set parameters."
+            },
+            {
+                "name": "connect20/Luckycycle",
+                "version": "1.6.1",
+                "version_normalized": "1.6.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/luckycycle/1.6.1/luckycycle-1.6.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "JM Goemaere",
+                        "email": "jm@luckycycle.com"
+                    }
+                ],
+                "description": "Luckycycle modules that add the gamebox in the confirmation page"
+            }
+        ]
+    }
+}

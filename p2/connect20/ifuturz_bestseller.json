@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ifuturz_bestseller": [
+            {
+                "name": "connect20/Ifuturz_Bestseller",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ifuturz_Bestseller/0.1.0/Ifuturz_Bestseller-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Iverve",
+                        "email": "extension.geek@ifuturz.com"
+                    }
+                ],
+                "description": "Showcase your best products to the\r\ncustomers to enhance your selling and the latest trend in the market."
+            }
+        ]
+    }
+}

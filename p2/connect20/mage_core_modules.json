@@ -1,0 +1,969 @@
+{
+    "packages": {
+        "connect20/mage_core_modules": [
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.7.0.0",
+                "version_normalized": "1.7.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.7.0.0/Mage_Core_Modules-1.7.0.0.tgz"
+                },
+                "require": {
+                    "connect20/lib_google_checkout": ">=1.5.0.0",
+                    "connect20/lib_js_calendar": ">=1.51.1.1",
+                    "connect20/lib_js_mage": ">=1.7.0.0",
+                    "connect20/lib_js_prototype": ">=1.7.0.03",
+                    "connect20/lib_mage": ">=1.7.0.0",
+                    "connect20/lib_phpseclib": ">=1.5.0.0",
+                    "connect20/lib_varien": ">=1.7.0.0",
+                    "connect20/mage_locale_en_us": ">=1.7.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.7.0.1",
+                "version_normalized": "1.7.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.7.0.1/Mage_Core_Modules-1.7.0.1.tgz"
+                },
+                "require": {
+                    "connect20/lib_google_checkout": ">=1.5.0.0",
+                    "connect20/lib_js_calendar": ">=1.51.1.1",
+                    "connect20/lib_js_mage": ">=1.7.0.1",
+                    "connect20/lib_js_prototype": ">=1.7.0.03",
+                    "connect20/lib_mage": ">=1.7.0.1",
+                    "connect20/lib_phpseclib": ">=1.5.0.0",
+                    "connect20/lib_varien": ">=1.7.0.0",
+                    "connect20/mage_locale_en_us": ">=1.7.0.1"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.7.0.2",
+                "version_normalized": "1.7.0.2",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.7.0.2/Mage_Core_Modules-1.7.0.2.tgz"
+                },
+                "require": {
+                    "connect20/lib_google_checkout": ">=1.5.0.0",
+                    "connect20/lib_js_calendar": ">=1.51.1.1",
+                    "connect20/lib_js_mage": ">=1.7.0.1",
+                    "connect20/lib_js_prototype": ">=1.7.0.03",
+                    "connect20/lib_mage": ">=1.7.0.1",
+                    "connect20/lib_phpseclib": ">=1.5.0.0",
+                    "connect20/lib_varien": ">=1.7.0.0",
+                    "connect20/mage_locale_en_us": ">=1.7.0.1"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.8.0.0",
+                "version_normalized": "1.8.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.8.0.0/Mage_Core_Modules-1.8.0.0.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.8.0.0",
+                    "connect20/lib_google_checkout": ">=1.8.0.0",
+                    "connect20/lib_js_calendar": ">=1.51.1.1",
+                    "connect20/lib_js_mage": ">=1.8.0.0",
+                    "connect20/lib_js_prototype": ">=1.7.0.04",
+                    "connect20/lib_mage": ">=1.8.0.0",
+                    "connect20/lib_magento": ">=1.8.0.0",
+                    "connect20/lib_phpseclib": ">=1.5.0.0",
+                    "connect20/lib_varien": ">=1.8.0.0",
+                    "connect20/mage_locale_en_us": ">=1.8.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.8.1.0",
+                "version_normalized": "1.8.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.8.1.0/Mage_Core_Modules-1.8.1.0.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.8.0.0",
+                    "connect20/lib_google_checkout": ">=1.8.1.0",
+                    "connect20/lib_js_calendar": ">=1.51.1.1",
+                    "connect20/lib_js_mage": ">=1.8.1.0",
+                    "connect20/lib_js_prototype": ">=1.7.0.04",
+                    "connect20/lib_mage": ">=1.8.0.0",
+                    "connect20/lib_magento": ">=1.8.0.0",
+                    "connect20/lib_phpseclib": ">=1.5.0.0",
+                    "connect20/lib_varien": ">=1.8.1.0",
+                    "connect20/mage_locale_en_us": ">=1.8.1.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.0.0",
+                "version_normalized": "1.9.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.0.0/Mage_Core_Modules-1.9.0.0.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.8.0.0",
+                    "connect20/lib_google_checkout": ">=1.8.1.0",
+                    "connect20/lib_js_calendar": ">=1.51.1.1",
+                    "connect20/lib_js_mage": ">=1.9.0.0",
+                    "connect20/lib_js_prototype": ">=1.7.0.05",
+                    "connect20/lib_mage": ">=1.8.0.0",
+                    "connect20/lib_magento": ">=1.9.0.0",
+                    "connect20/lib_phpseclib": ">=1.5.0.0",
+                    "connect20/lib_varien": ">=1.9.0.0",
+                    "connect20/mage_locale_de_de": ">=1.9.0.0",
+                    "connect20/mage_locale_en_us": ">=1.9.0.0",
+                    "connect20/mage_locale_es_es": ">=1.9.0.0",
+                    "connect20/mage_locale_fr_fr": ">=1.9.0.0",
+                    "connect20/mage_locale_nl_nl": ">=1.9.0.0",
+                    "connect20/mage_locale_pt_br": ">=1.9.0.0",
+                    "connect20/mage_locale_zh_cn": ">=1.9.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.0.1",
+                "version_normalized": "1.9.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.0.1/Mage_Core_Modules-1.9.0.1.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.8.0.0",
+                    "connect20/lib_google_checkout": ">=1.8.1.0",
+                    "connect20/lib_js_calendar": ">=1.51.1.1",
+                    "connect20/lib_js_mage": ">=1.9.0.0",
+                    "connect20/lib_js_prototype": ">=1.7.0.05",
+                    "connect20/lib_mage": ">=1.8.0.0",
+                    "connect20/lib_magento": ">=1.9.0.0",
+                    "connect20/lib_phpseclib": ">=1.5.0.0",
+                    "connect20/lib_varien": ">=1.9.0.0",
+                    "connect20/mage_locale_de_de": ">=1.9.0.0",
+                    "connect20/mage_locale_en_us": ">=1.9.0.0",
+                    "connect20/mage_locale_es_es": ">=1.9.0.0",
+                    "connect20/mage_locale_fr_fr": ">=1.9.0.0",
+                    "connect20/mage_locale_nl_nl": ">=1.9.0.0",
+                    "connect20/mage_locale_pt_br": ">=1.9.0.0",
+                    "connect20/mage_locale_zh_cn": ">=1.9.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.1.0",
+                "version_normalized": "1.9.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.1.0/Mage_Core_Modules-1.9.1.0.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.8.0.0",
+                    "connect20/lib_google_checkout": ">=1.9.1.0",
+                    "connect20/lib_js_calendar": ">=1.51.1.1",
+                    "connect20/lib_js_mage": ">=1.9.1.0",
+                    "connect20/lib_js_prototype": ">=1.7.0.05",
+                    "connect20/lib_mage": ">=1.9.1.0",
+                    "connect20/lib_magento": ">=1.9.1.0",
+                    "connect20/lib_pelago": ">=1.9.1.0",
+                    "connect20/lib_phpseclib": ">=1.5.0.0",
+                    "connect20/lib_varien": ">=1.9.1.0",
+                    "connect20/mage_locale_en_us": ">=1.9.1.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.1.1",
+                "version_normalized": "1.9.1.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.1.1/Mage_Core_Modules-1.9.1.1.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.8.0.0",
+                    "connect20/lib_google_checkout": ">=1.9.1.1",
+                    "connect20/lib_js_calendar": ">=1.51.1.1",
+                    "connect20/lib_js_mage": ">=1.9.1.1",
+                    "connect20/lib_js_prototype": ">=1.7.0.05",
+                    "connect20/lib_mage": ">=1.9.1.1",
+                    "connect20/lib_magento": ">=1.9.1.1",
+                    "connect20/lib_pelago": ">=1.9.1.0",
+                    "connect20/lib_phpseclib": ">=1.5.0.0",
+                    "connect20/lib_varien": ">=1.9.1.1",
+                    "connect20/mage_locale_en_us": ">=1.9.1.1"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.2.0",
+                "version_normalized": "1.9.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.2.0/Mage_Core_Modules-1.9.2.0.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.9.2.0",
+                    "connect20/lib_google_checkout": ">=1.9.2.0",
+                    "connect20/lib_idna2": ">=1.9.2.0",
+                    "connect20/lib_js_calendar": ">=1.51.1.1",
+                    "connect20/lib_js_mage": ">=1.9.2.0",
+                    "connect20/lib_js_prototype": ">=1.7.0.1",
+                    "connect20/lib_mage": ">=1.9.2.0",
+                    "connect20/lib_magento": ">=1.9.2.0",
+                    "connect20/lib_pelago": ">=1.9.1.0",
+                    "connect20/lib_phpseclib": ">=1.5.0.0",
+                    "connect20/lib_varien": ">=1.9.2.0",
+                    "connect20/mage_locale_en_us": ">=1.9.2.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.2.1",
+                "version_normalized": "1.9.2.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.2.1/Mage_Core_Modules-1.9.2.1.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.9.2.1",
+                    "connect20/lib_google_checkout": ">=1.9.2.1",
+                    "connect20/lib_idna2": ">=1.9.2.1",
+                    "connect20/lib_js_calendar": ">=1.51.1.2",
+                    "connect20/lib_js_mage": ">=1.9.2.1",
+                    "connect20/lib_js_prototype": ">=1.9.2.1",
+                    "connect20/lib_mage": ">=1.9.2.1",
+                    "connect20/lib_magento": ">=1.9.2.1",
+                    "connect20/lib_pelago": ">=1.9.2.1",
+                    "connect20/lib_phpseclib": ">=1.9.2.1",
+                    "connect20/lib_varien": ">=1.9.2.1",
+                    "connect20/mage_locale_en_us": ">=1.9.2.1"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.2.2",
+                "version_normalized": "1.9.2.2",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.2.2/Mage_Core_Modules-1.9.2.2.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.9.2.2",
+                    "connect20/lib_google_checkout": ">=1.9.2.2",
+                    "connect20/lib_idna2": ">=1.9.2.2",
+                    "connect20/lib_js_calendar": ">=1.51.1.3",
+                    "connect20/lib_js_mage": ">=1.9.2.2",
+                    "connect20/lib_js_prototype": ">=1.9.2.2",
+                    "connect20/lib_mage": ">=1.9.2.2",
+                    "connect20/lib_magento": ">=1.9.2.2",
+                    "connect20/lib_pelago": ">=1.9.2.2",
+                    "connect20/lib_phpseclib": ">=1.9.2.2",
+                    "connect20/lib_unserialize": ">=1.9.2.2",
+                    "connect20/lib_varien": ">=1.9.2.2",
+                    "connect20/mage_locale_en_us": ">=1.9.2.2"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.2.3",
+                "version_normalized": "1.9.2.3",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.2.3/Mage_Core_Modules-1.9.2.3.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.9.2.3",
+                    "connect20/lib_google_checkout": ">=1.9.2.3",
+                    "connect20/lib_idna2": ">=1.9.2.3",
+                    "connect20/lib_js_calendar": ">=1.51.1.4",
+                    "connect20/lib_js_mage": ">=1.9.2.3",
+                    "connect20/lib_js_prototype": ">=1.9.2.3",
+                    "connect20/lib_mage": ">=1.9.2.3",
+                    "connect20/lib_magento": ">=1.9.2.3",
+                    "connect20/lib_pelago": ">=1.9.2.3",
+                    "connect20/lib_phpseclib": ">=1.9.2.3",
+                    "connect20/lib_unserialize": ">=1.9.2.3",
+                    "connect20/lib_varien": ">=1.9.2.3",
+                    "connect20/mage_locale_en_us": ">=1.9.2.3"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.2.4",
+                "version_normalized": "1.9.2.4",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.2.4/Mage_Core_Modules-1.9.2.4.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.9.2.4",
+                    "connect20/lib_google_checkout": ">=1.9.2.4",
+                    "connect20/lib_idna2": ">=1.9.2.4",
+                    "connect20/lib_js_calendar": ">=1.51.1.5",
+                    "connect20/lib_js_mage": ">=1.9.2.4",
+                    "connect20/lib_js_prototype": ">=1.9.2.4",
+                    "connect20/lib_mage": ">=1.9.2.4",
+                    "connect20/lib_magento": ">=1.9.2.4",
+                    "connect20/lib_pelago": ">=1.9.2.4",
+                    "connect20/lib_phpseclib": ">=1.9.2.4",
+                    "connect20/lib_unserialize": ">=1.9.2.4",
+                    "connect20/lib_varien": ">=1.9.2.4",
+                    "connect20/mage_locale_en_us": ">=1.9.2.4"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.3.0",
+                "version_normalized": "1.9.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.3.0/Mage_Core_Modules-1.9.3.0.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.9.3.0",
+                    "connect20/lib_google_checkout": ">=1.9.3.0",
+                    "connect20/lib_idna2": ">=1.9.3.0",
+                    "connect20/lib_js_calendar": ">=1.51.1.6",
+                    "connect20/lib_js_mage": ">=1.9.3.0",
+                    "connect20/lib_js_prototype": ">=1.9.3.0",
+                    "connect20/lib_mage": ">=1.9.3.0",
+                    "connect20/lib_magento": ">=1.9.3.0",
+                    "connect20/lib_pelago": ">=1.9.3.0",
+                    "connect20/lib_phpseclib": ">=1.9.3.0",
+                    "connect20/lib_unserialize": ">=1.9.3.0",
+                    "connect20/lib_varien": ">=1.9.3.0",
+                    "connect20/mage_locale_en_us": ">=1.9.3.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.3.1",
+                "version_normalized": "1.9.3.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.3.1/Mage_Core_Modules-1.9.3.1.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.9.3.1",
+                    "connect20/lib_google_checkout": ">=1.9.3.1",
+                    "connect20/lib_idna2": ">=1.9.3.1",
+                    "connect20/lib_js_calendar": ">=1.51.1.7",
+                    "connect20/lib_js_mage": ">=1.9.3.1",
+                    "connect20/lib_js_prototype": ">=1.9.3.1",
+                    "connect20/lib_mage": ">=1.9.3.1",
+                    "connect20/lib_magento": ">=1.9.3.1",
+                    "connect20/lib_pelago": ">=1.9.3.1",
+                    "connect20/lib_phpseclib": ">=1.9.3.1",
+                    "connect20/lib_unserialize": ">=1.9.3.1",
+                    "connect20/lib_varien": ">=1.9.3.1",
+                    "connect20/mage_locale_en_us": ">=1.9.3.1"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.3.2",
+                "version_normalized": "1.9.3.2",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.3.2/Mage_Core_Modules-1.9.3.2.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.9.3.2",
+                    "connect20/lib_google_checkout": ">=1.9.3.2",
+                    "connect20/lib_idna2": ">=1.9.3.2",
+                    "connect20/lib_js_calendar": ">=1.51.1.8",
+                    "connect20/lib_js_mage": ">=1.9.3.2",
+                    "connect20/lib_js_prototype": ">=1.9.3.2",
+                    "connect20/lib_mage": ">=1.9.3.2",
+                    "connect20/lib_magento": ">=1.9.3.2",
+                    "connect20/lib_pelago": ">=1.9.3.2",
+                    "connect20/lib_phpseclib": ">=1.9.3.2",
+                    "connect20/lib_unserialize": ">=1.9.3.2",
+                    "connect20/lib_varien": ">=1.9.3.2",
+                    "connect20/mage_locale_en_us": ">=1.9.3.2"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.3.3",
+                "version_normalized": "1.9.3.3",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.3.3/Mage_Core_Modules-1.9.3.3.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.9.3.3",
+                    "connect20/lib_google_checkout": ">=1.9.3.3",
+                    "connect20/lib_idna2": ">=1.9.3.3",
+                    "connect20/lib_js_calendar": ">=1.51.1.9",
+                    "connect20/lib_js_mage": ">=1.9.3.3",
+                    "connect20/lib_js_prototype": ">=1.9.3.3",
+                    "connect20/lib_mage": ">=1.9.3.3",
+                    "connect20/lib_magento": ">=1.9.3.3",
+                    "connect20/lib_pelago": ">=1.9.3.3",
+                    "connect20/lib_phpseclib": ">=1.9.3.3",
+                    "connect20/lib_unserialize": ">=1.9.3.3",
+                    "connect20/lib_varien": ">=1.9.3.3",
+                    "connect20/mage_locale_en_us": ">=1.9.3.3"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.3.4",
+                "version_normalized": "1.9.3.4",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.3.4/Mage_Core_Modules-1.9.3.4.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.9.3.4",
+                    "connect20/lib_google_checkout": ">=1.9.3.4",
+                    "connect20/lib_idna2": ">=1.9.3.4",
+                    "connect20/lib_js_calendar": ">=1.51.1.10",
+                    "connect20/lib_js_mage": ">=1.9.3.4",
+                    "connect20/lib_js_prototype": ">=1.9.3.4",
+                    "connect20/lib_mage": ">=1.9.3.4",
+                    "connect20/lib_magento": ">=1.9.3.4",
+                    "connect20/lib_pelago": ">=1.9.3.4",
+                    "connect20/lib_phpseclib": ">=1.9.3.4",
+                    "connect20/lib_unserialize": ">=1.9.3.4",
+                    "connect20/lib_varien": ">=1.9.3.4",
+                    "connect20/mage_locale_en_us": ">=1.9.3.4"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.3.5",
+                "version_normalized": "1.9.3.5",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.3.5/Mage_Core_Modules-1.9.3.5.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.9.3.5",
+                    "connect20/lib_google_checkout": ">=1.9.3.5",
+                    "connect20/lib_idna2": ">=1.9.3.5",
+                    "connect20/lib_js_calendar": ">=1.51.1.11",
+                    "connect20/lib_js_mage": ">=1.9.3.5",
+                    "connect20/lib_js_prototype": ">=1.9.3.5",
+                    "connect20/lib_mage": ">=1.9.3.5",
+                    "connect20/lib_magento": ">=1.9.3.5",
+                    "connect20/lib_pelago": ">=1.9.3.5",
+                    "connect20/lib_phpseclib": ">=1.9.3.5",
+                    "connect20/lib_unserialize": ">=1.9.3.5",
+                    "connect20/lib_varien": ">=1.9.3.5",
+                    "connect20/mage_locale_en_us": ">=1.9.3.5"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.3.6",
+                "version_normalized": "1.9.3.6",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.3.6/Mage_Core_Modules-1.9.3.6.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.9.3.6",
+                    "connect20/lib_google_checkout": ">=1.9.3.6",
+                    "connect20/lib_idna2": ">=1.9.3.6",
+                    "connect20/lib_js_calendar": ">=1.51.1.12",
+                    "connect20/lib_js_mage": ">=1.9.3.6",
+                    "connect20/lib_js_prototype": ">=1.9.3.6",
+                    "connect20/lib_mage": ">=1.9.3.6",
+                    "connect20/lib_magento": ">=1.9.3.6",
+                    "connect20/lib_pelago": ">=1.9.3.6",
+                    "connect20/lib_phpseclib": ">=1.9.3.6",
+                    "connect20/lib_unserialize": ">=1.9.3.6",
+                    "connect20/lib_varien": ">=1.9.3.6",
+                    "connect20/mage_locale_en_us": ">=1.9.3.6"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.3.7",
+                "version_normalized": "1.9.3.7",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.3.7/Mage_Core_Modules-1.9.3.7.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.9.3.7",
+                    "connect20/lib_google_checkout": ">=1.9.3.7",
+                    "connect20/lib_idna2": ">=1.9.3.7",
+                    "connect20/lib_js_calendar": ">=1.51.1.13",
+                    "connect20/lib_js_mage": ">=1.9.3.7",
+                    "connect20/lib_js_prototype": ">=1.9.3.7",
+                    "connect20/lib_mage": ">=1.9.3.7",
+                    "connect20/lib_magento": ">=1.9.3.7",
+                    "connect20/lib_pelago": ">=1.9.3.7",
+                    "connect20/lib_phpseclib": ">=1.9.3.7",
+                    "connect20/lib_unserialize": ">=1.9.3.7",
+                    "connect20/lib_varien": ">=1.9.3.7",
+                    "connect20/mage_locale_en_us": ">=1.9.3.7"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.3.8",
+                "version_normalized": "1.9.3.8",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.3.8/Mage_Core_Modules-1.9.3.8.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.9.3.8",
+                    "connect20/lib_google_checkout": ">=1.9.3.8",
+                    "connect20/lib_idna2": ">=1.9.3.8",
+                    "connect20/lib_js_calendar": ">=1.51.1.14",
+                    "connect20/lib_js_mage": ">=1.9.3.8",
+                    "connect20/lib_js_prototype": ">=1.9.3.8",
+                    "connect20/lib_mage": ">=1.9.3.8",
+                    "connect20/lib_magento": ">=1.9.3.8",
+                    "connect20/lib_pelago": ">=1.9.3.8",
+                    "connect20/lib_phpseclib": ">=1.9.3.8",
+                    "connect20/lib_unserialize": ">=1.9.3.8",
+                    "connect20/lib_varien": ">=1.9.3.8",
+                    "connect20/mage_locale_en_us": ">=1.9.3.8"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            },
+            {
+                "name": "connect20/Mage_Core_Modules",
+                "version": "1.9.3.9",
+                "version_normalized": "1.9.3.9",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Core_Modules/1.9.3.9/Mage_Core_Modules-1.9.3.9.tgz"
+                },
+                "require": {
+                    "connect20/lib_credis": ">=1.9.3.9",
+                    "connect20/lib_google_checkout": ">=1.9.3.9",
+                    "connect20/lib_idna2": ">=1.9.3.9",
+                    "connect20/lib_js_calendar": ">=1.51.1.15",
+                    "connect20/lib_js_mage": ">=1.9.3.9",
+                    "connect20/lib_js_prototype": ">=1.9.3.9",
+                    "connect20/lib_mage": ">=1.9.3.9",
+                    "connect20/lib_magento": ">=1.9.3.9",
+                    "connect20/lib_pelago": ">=1.9.3.9",
+                    "connect20/lib_phpseclib": ">=1.9.3.9",
+                    "connect20/lib_unserialize": ">=1.9.3.9",
+                    "connect20/lib_varien": ">=1.9.3.9",
+                    "connect20/mage_locale_en_us": ">=1.9.3.9"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Collection of Magento Core Modules"
+            }
+        ]
+    }
+}

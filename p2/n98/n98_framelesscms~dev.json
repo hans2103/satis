@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "n98/n98_framelesscms": [
+            {
+                "name": "n98/N98_FramelessCms",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/amenk/N98_FramelessCms.git",
+                    "reference": "13f4c563fa0104085770e68806bf9332adc7e1b8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/amenk/N98_FramelessCms/zipball/13f4c563fa0104085770e68806bf9332adc7e1b8",
+                    "reference": "13f4c563fa0104085770e68806bf9332adc7e1b8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-03-13T13:12:45+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "netz98 new media GmbH",
+                        "email": "magento@netz98.de"
+                    }
+                ],
+                "description": "Small module to display a CMS page in a popup or lightbox.",
+                "homepage": "https://github.com/netz98/N98_FramelessCms",
+                "support": {
+                    "source": "https://github.com/amenk/N98_FramelessCms/tree/master",
+                    "issues": "https://github.com/amenk/N98_FramelessCms/issues"
+                }
+            }
+        ]
+    }
+}

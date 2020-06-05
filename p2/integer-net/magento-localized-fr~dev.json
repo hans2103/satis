@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "integer-net/magento-localized-fr": [
+            {
+                "name": "integer-net/magento-localized-fr",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/MagentoLocalizedFR.git",
+                    "reference": "9a8e247f974dd658f1a7238f2ac92661a36bb781"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/MagentoLocalizedFR/zipball/9a8e247f974dd658f1a7238f2ac92661a36bb781",
+                    "reference": "9a8e247f974dd658f1a7238f2ac92661a36bb781",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-11-24T16:50:57+00:00",
+                "type": "magento-module",
+                "description": "French Localization package for Magento Localized (aka Magento FR)",
+                "homepage": "https://github.com/integer-net/MagentoLocalizedFR",
+                "support": {
+                    "source": "https://github.com/integer-net/MagentoLocalizedFR/tree/master",
+                    "issues": "https://github.com/integer-net/MagentoLocalizedFR/issues"
+                }
+            }
+        ]
+    }
+}

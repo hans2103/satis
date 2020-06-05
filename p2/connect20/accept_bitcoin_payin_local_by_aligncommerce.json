@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/accept_bitcoin_payin_local_by_aligncommerce": [
+            {
+                "name": "connect20/Accept_Bitcoin_Payin_Local_by_Aligncommerce",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Accept_Bitcoin_Payin_Local_by_Aligncommerce/1.0.1/Accept_Bitcoin_Payin_Local_by_Aligncommerce-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Aldo Carrascoso",
+                        "email": "tech@aligncommerce.com"
+                    }
+                ],
+                "description": "Accept payments from international buyers via local currency using bank transfers and/or via bitcoin"
+            }
+        ]
+    }
+}

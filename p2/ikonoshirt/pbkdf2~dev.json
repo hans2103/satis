@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "ikonoshirt/pbkdf2": [
+            {
+                "name": "ikonoshirt/pbkdf2",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ikonoshirt/pbkdf2.git",
+                    "reference": "deca6fe3d09003e691dbd73b041618666e04f832"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ikonoshirt/pbkdf2/zipball/deca6fe3d09003e691dbd73b041618666e04f832",
+                    "reference": "deca6fe3d09003e691dbd73b041618666e04f832",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2020-04-04T16:11:32+00:00",
+                "type": "magento-module",
+                "description": "Implements PBKDF2 as replacement for the standard magento password hashing",
+                "support": {
+                    "source": "https://github.com/ikonoshirt/pbkdf2/tree/v1.2.1",
+                    "issues": "https://github.com/ikonoshirt/pbkdf2/issues"
+                }
+            }
+        ]
+    }
+}

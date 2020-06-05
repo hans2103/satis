@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "diglin/diglin_admintheme": [
+            {
+                "name": "diglin/diglin_admintheme",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_AdminTheme.git",
+                    "reference": "221e57b6c643e535c8c3f2b39e5b5ebd42f855bc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_AdminTheme/zipball/221e57b6c643e535c8c3f2b39e5b5ebd42f855bc",
+                    "reference": "221e57b6c643e535c8c3f2b39e5b5ebd42f855bc",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-01-16T09:22:55+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sylvain Rayé",
+                        "email": "{firstname}.{lastname}@diglin.com"
+                    }
+                ],
+                "description": "Add capability to support custom admin theme in Magento Backend",
+                "homepage": "https://github.com/diglin/Diglin_AdminTheme",
+                "support": {
+                    "source": "https://github.com/diglin/Diglin_AdminTheme/tree/1.0.0",
+                    "issues": "https://github.com/diglin/Diglin_AdminTheme/issues"
+                }
+            }
+        ]
+    }
+}

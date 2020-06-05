@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/fretala": [
+            {
+                "name": "connect20/Fretala",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Fretala/1.0.0/Fretala-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Uecommerce",
+                        "email": "rafael@uecommerce.com.br"
+                    }
+                ],
+                "description": "Integration with http://freta.la platform. Displays new shipping methods based on Freta.lá platform."
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/viva_responsive_slider": [
+            {
+                "name": "connect20/Viva_Responsive_Slider",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Viva_Responsive_Slider/1.0.2/Viva_Responsive_Slider-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Team Vivacity",
+                        "email": "vivacityinfotech.jaipur@gmail.com"
+                    }
+                ],
+                "description": "Super Slim, easy &amp; Responsive Slider for your Magento Store."
+            }
+        ]
+    }
+}

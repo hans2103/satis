@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/reviews_sidebar": [
+            {
+                "name": "connect20/Reviews_Sidebar",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Reviews_Sidebar/1.0.6/Reviews_Sidebar-1.0.6.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "commercial"
+                ],
+                "authors": [
+                    {
+                        "name": "Amasty Ltd.",
+                        "email": "support@amasty.com"
+                    }
+                ],
+                "description": "Reviews Sidebar extension by Amasty"
+            }
+        ]
+    }
+}

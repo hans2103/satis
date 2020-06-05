@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/mrms_mrms": [
+            {
+                "name": "connect20/Mrms_Mrms",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mrms_Mrms/1.0.1/Mrms_Mrms-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "MerchantRMS",
+                        "email": "devadmin@merchantrms.com"
+                    }
+                ],
+                "description": "Online transaction fraud detection"
+            },
+            {
+                "name": "connect20/Mrms_Mrms",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mrms_Mrms/1.0.2/Mrms_Mrms-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "MerchantRMS",
+                        "email": "devadmin@merchantrms.com"
+                    }
+                ],
+                "description": "Online credit card fraud detection"
+            }
+        ]
+    }
+}

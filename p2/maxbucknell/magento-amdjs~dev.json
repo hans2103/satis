@@ -1,0 +1,640 @@
+{
+    "packages": {
+        "maxbucknell/magento-amdjs": [
+            {
+                "name": "maxbucknell/magento-amdjs",
+                "version": "1.1.x-dev",
+                "version_normalized": "1.1.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maxbucknell/magento-amdjs.git",
+                    "reference": "f6fb6c0f1ac0bacdbb17ef23608dabd279d2de05"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maxbucknell/magento-amdjs/zipball/f6fb6c0f1ac0bacdbb17ef23608dabd279d2de05",
+                    "reference": "f6fb6c0f1ac0bacdbb17ef23608dabd279d2de05",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-12-15T17:17:19+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/MaxBucknell/AMDJS",
+                            "app/code/community/MaxBucknell/AMDJS"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/maxbucknell/amdjs.xml",
+                            "app/design/frontend/base/default/layout/maxbucknell/amdjs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/maxbucknell/amdjs",
+                            "app/design/frontend/base/default/template/maxbucknell/amdjs"
+                        ],
+                        [
+                            "app/etc/modules/MaxBucknell_AMDJS.xml",
+                            "app/etc/modules/MaxBucknell_AMDJS.xml"
+                        ],
+                        [
+                            "js/maxbucknell/amdjs",
+                            "js/maxbucknell/amdjs"
+                        ],
+                        [
+                            "lib/amd-packager-php",
+                            "lib/amd-packager-php"
+                        ],
+                        [
+                            "lib/JShrink",
+                            "lib/JShrink"
+                        ]
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Max Bucknell",
+                        "email": "me@maxbucknell.com"
+                    }
+                ],
+                "description": "JavaScript modules loader using AMD",
+                "support": {
+                    "source": "https://github.com/maxbucknell/magento-amdjs/tree/1.1",
+                    "issues": "https://github.com/maxbucknell/magento-amdjs/issues"
+                }
+            },
+            {
+                "name": "maxbucknell/magento-amdjs",
+                "version": "1.2.x-dev",
+                "version_normalized": "1.2.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maxbucknell/magento-amdjs.git",
+                    "reference": "2a06f7d41b7a90417b4de2903f0538253c703c26"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maxbucknell/magento-amdjs/zipball/2a06f7d41b7a90417b4de2903f0538253c703c26",
+                    "reference": "2a06f7d41b7a90417b4de2903f0538253c703c26",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-12-15T19:36:02+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Max Bucknell",
+                        "email": "me@maxbucknell.com"
+                    }
+                ],
+                "description": "JavaScript modules loader using AMD",
+                "support": {
+                    "source": "https://github.com/maxbucknell/magento-amdjs/tree/1.2",
+                    "issues": "https://github.com/maxbucknell/magento-amdjs/issues"
+                }
+            },
+            {
+                "name": "maxbucknell/magento-amdjs",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maxbucknell/magento-amdjs.git",
+                    "reference": "6771d6f4a128f3f2ed251310b9316b56870d06f0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maxbucknell/magento-amdjs/zipball/6771d6f4a128f3f2ed251310b9316b56870d06f0",
+                    "reference": "6771d6f4a128f3f2ed251310b9316b56870d06f0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-18T17:22:34+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/MaxBucknell/AMDJS",
+                            "app/code/community/MaxBucknell/AMDJS"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/maxbucknell/amdjs.xml",
+                            "app/design/frontend/base/default/layout/maxbucknell/amdjs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/maxbucknell/amdjs",
+                            "app/design/frontend/base/default/template/maxbucknell/amdjs"
+                        ],
+                        [
+                            "app/etc/modules/MaxBucknell_AMDJS.xml",
+                            "app/etc/modules/MaxBucknell_AMDJS.xml"
+                        ],
+                        [
+                            "js/maxbucknell/amdjs",
+                            "js/maxbucknell/amdjs"
+                        ]
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Max Bucknell",
+                        "email": "me@maxbucknell.com"
+                    }
+                ],
+                "description": "JavaScript modules loader using AMD",
+                "support": {
+                    "source": "https://github.com/maxbucknell/magento-amdjs/tree/master",
+                    "issues": "https://github.com/maxbucknell/magento-amdjs/issues"
+                }
+            },
+            {
+                "name": "maxbucknell/magento-amdjs",
+                "version": "dev-1-config",
+                "version_normalized": "dev-1-config",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maxbucknell/magento-amdjs.git",
+                    "reference": "4d91f045f0c4c23f9fe054bb9572806771211403"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maxbucknell/magento-amdjs/zipball/4d91f045f0c4c23f9fe054bb9572806771211403",
+                    "reference": "4d91f045f0c4c23f9fe054bb9572806771211403",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-12-14T10:08:25+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/MaxBucknell/AMDJS",
+                            "app/code/community/MaxBucknell/AMDJS"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/maxbucknell/amdjs.xml",
+                            "app/design/frontend/base/default/layout/maxbucknell/amdjs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/maxbucknell/amdjs",
+                            "app/design/frontend/base/default/template/maxbucknell/amdjs"
+                        ],
+                        [
+                            "app/etc/modules/MaxBucknell_AMDJS.xml",
+                            "app/etc/modules/MaxBucknell_AMDJS.xml"
+                        ],
+                        [
+                            "js/maxbucknell/amdjs",
+                            "js/maxbucknell/amdjs"
+                        ],
+                        [
+                            "lib/amd-packager-php",
+                            "lib/amd-packager-php"
+                        ],
+                        [
+                            "lib/JShrink",
+                            "lib/JShrink"
+                        ]
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Max Bucknell",
+                        "email": "me@maxbucknell.com"
+                    }
+                ],
+                "description": "JavaScript modules loader using AMD",
+                "support": {
+                    "source": "https://github.com/maxbucknell/magento-amdjs/tree/1-config",
+                    "issues": "https://github.com/maxbucknell/magento-amdjs/issues"
+                }
+            },
+            {
+                "name": "maxbucknell/magento-amdjs",
+                "version": "dev-11-modman",
+                "version_normalized": "dev-11-modman",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maxbucknell/magento-amdjs.git",
+                    "reference": "b5abf84dc0d3c57ac1a53a51ea749488683d2ffb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maxbucknell/magento-amdjs/zipball/b5abf84dc0d3c57ac1a53a51ea749488683d2ffb",
+                    "reference": "b5abf84dc0d3c57ac1a53a51ea749488683d2ffb",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-12-15T19:23:19+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Max Bucknell",
+                        "email": "me@maxbucknell.com"
+                    }
+                ],
+                "description": "JavaScript modules loader using AMD",
+                "support": {
+                    "source": "https://github.com/maxbucknell/magento-amdjs/tree/11-modman",
+                    "issues": "https://github.com/maxbucknell/magento-amdjs/issues"
+                }
+            },
+            {
+                "name": "maxbucknell/magento-amdjs",
+                "version": "dev-16-readme",
+                "version_normalized": "dev-16-readme",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maxbucknell/magento-amdjs.git",
+                    "reference": "77e40dd25f420bc1e7ed3a948bf78f8b25538688"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maxbucknell/magento-amdjs/zipball/77e40dd25f420bc1e7ed3a948bf78f8b25538688",
+                    "reference": "77e40dd25f420bc1e7ed3a948bf78f8b25538688",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-12-17T10:20:29+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/MaxBucknell/AMDJS",
+                            "app/code/community/MaxBucknell/AMDJS"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/maxbucknell/amdjs.xml",
+                            "app/design/frontend/base/default/layout/maxbucknell/amdjs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/maxbucknell/amdjs",
+                            "app/design/frontend/base/default/template/maxbucknell/amdjs"
+                        ],
+                        [
+                            "app/etc/modules/MaxBucknell_AMDJS.xml",
+                            "app/etc/modules/MaxBucknell_AMDJS.xml"
+                        ],
+                        [
+                            "js/maxbucknell/amdjs",
+                            "js/maxbucknell/amdjs"
+                        ],
+                        [
+                            "lib/amd-packager-php",
+                            "lib/amd-packager-php"
+                        ],
+                        [
+                            "lib/JShrink",
+                            "lib/JShrink"
+                        ]
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Max Bucknell",
+                        "email": "me@maxbucknell.com"
+                    }
+                ],
+                "description": "JavaScript modules loader using AMD",
+                "support": {
+                    "source": "https://github.com/maxbucknell/magento-amdjs/tree/16-readme",
+                    "issues": "https://github.com/maxbucknell/magento-amdjs/issues"
+                }
+            },
+            {
+                "name": "maxbucknell/magento-amdjs",
+                "version": "dev-2-minification",
+                "version_normalized": "dev-2-minification",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maxbucknell/magento-amdjs.git",
+                    "reference": "0011734d47a61bc6113a9a45c597556138640117"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maxbucknell/magento-amdjs/zipball/0011734d47a61bc6113a9a45c597556138640117",
+                    "reference": "0011734d47a61bc6113a9a45c597556138640117",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-12-14T08:51:12+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/MaxBucknell/AMDJS",
+                            "app/code/community/MaxBucknell/AMDJS"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/maxbucknell/amdjs.xml",
+                            "app/design/frontend/base/default/layout/maxbucknell/amdjs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/maxbucknell/amdjs",
+                            "app/design/frontend/base/default/template/maxbucknell/amdjs"
+                        ],
+                        [
+                            "app/etc/modules/MaxBucknell_AMDJS.xml",
+                            "app/etc/modules/MaxBucknell_AMDJS.xml"
+                        ],
+                        [
+                            "js/maxbucknell/amdjs",
+                            "js/maxbucknell/amdjs"
+                        ],
+                        [
+                            "lib/amd-packager-php",
+                            "lib/amd-packager-php"
+                        ],
+                        [
+                            "lib/JShrink",
+                            "lib/JShrink"
+                        ]
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Max Bucknell",
+                        "email": "me@maxbucknell.com"
+                    }
+                ],
+                "description": "JavaScript modules loader using AMD",
+                "support": {
+                    "source": "https://github.com/maxbucknell/magento-amdjs/tree/2-minification",
+                    "issues": "https://github.com/maxbucknell/magento-amdjs/issues"
+                }
+            },
+            {
+                "name": "maxbucknell/magento-amdjs",
+                "version": "dev-3-cache",
+                "version_normalized": "dev-3-cache",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maxbucknell/magento-amdjs.git",
+                    "reference": "e1969bf1ea139894e9555f75fd0b76c9363a65f7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maxbucknell/magento-amdjs/zipball/e1969bf1ea139894e9555f75fd0b76c9363a65f7",
+                    "reference": "e1969bf1ea139894e9555f75fd0b76c9363a65f7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-12-14T10:38:00+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/MaxBucknell/AMDJS",
+                            "app/code/community/MaxBucknell/AMDJS"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/maxbucknell/amdjs.xml",
+                            "app/design/frontend/base/default/layout/maxbucknell/amdjs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/maxbucknell/amdjs",
+                            "app/design/frontend/base/default/template/maxbucknell/amdjs"
+                        ],
+                        [
+                            "app/etc/modules/MaxBucknell_AMDJS.xml",
+                            "app/etc/modules/MaxBucknell_AMDJS.xml"
+                        ],
+                        [
+                            "js/maxbucknell/amdjs",
+                            "js/maxbucknell/amdjs"
+                        ],
+                        [
+                            "lib/amd-packager-php",
+                            "lib/amd-packager-php"
+                        ],
+                        [
+                            "lib/JShrink",
+                            "lib/JShrink"
+                        ]
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Max Bucknell",
+                        "email": "me@maxbucknell.com"
+                    }
+                ],
+                "description": "JavaScript modules loader using AMD",
+                "support": {
+                    "source": "https://github.com/maxbucknell/magento-amdjs/tree/3-cache",
+                    "issues": "https://github.com/maxbucknell/magento-amdjs/issues"
+                }
+            },
+            {
+                "name": "maxbucknell/magento-amdjs",
+                "version": "dev-4-paths",
+                "version_normalized": "dev-4-paths",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maxbucknell/magento-amdjs.git",
+                    "reference": "d2d85f75e5a40f5a50cb0339ef1f6cd9dd2f3fd0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maxbucknell/magento-amdjs/zipball/d2d85f75e5a40f5a50cb0339ef1f6cd9dd2f3fd0",
+                    "reference": "d2d85f75e5a40f5a50cb0339ef1f6cd9dd2f3fd0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-12-14T17:06:59+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/MaxBucknell/AMDJS",
+                            "app/code/community/MaxBucknell/AMDJS"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/maxbucknell/amdjs.xml",
+                            "app/design/frontend/base/default/layout/maxbucknell/amdjs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/maxbucknell/amdjs",
+                            "app/design/frontend/base/default/template/maxbucknell/amdjs"
+                        ],
+                        [
+                            "app/etc/modules/MaxBucknell_AMDJS.xml",
+                            "app/etc/modules/MaxBucknell_AMDJS.xml"
+                        ],
+                        [
+                            "js/maxbucknell/amdjs",
+                            "js/maxbucknell/amdjs"
+                        ],
+                        [
+                            "lib/amd-packager-php",
+                            "lib/amd-packager-php"
+                        ],
+                        [
+                            "lib/JShrink",
+                            "lib/JShrink"
+                        ]
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Max Bucknell",
+                        "email": "me@maxbucknell.com"
+                    }
+                ],
+                "description": "JavaScript modules loader using AMD",
+                "support": {
+                    "source": "https://github.com/maxbucknell/magento-amdjs/tree/4-paths",
+                    "issues": "https://github.com/maxbucknell/magento-amdjs/issues"
+                }
+            },
+            {
+                "name": "maxbucknell/magento-amdjs",
+                "version": "dev-8-admin",
+                "version_normalized": "dev-8-admin",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maxbucknell/magento-amdjs.git",
+                    "reference": "e82e00795f0b363aa60453d28ccec33c9ab79aef"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maxbucknell/magento-amdjs/zipball/e82e00795f0b363aa60453d28ccec33c9ab79aef",
+                    "reference": "e82e00795f0b363aa60453d28ccec33c9ab79aef",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-12-15T17:12:32+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/MaxBucknell/AMDJS",
+                            "app/code/community/MaxBucknell/AMDJS"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/maxbucknell/amdjs.xml",
+                            "app/design/frontend/base/default/layout/maxbucknell/amdjs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/maxbucknell/amdjs",
+                            "app/design/frontend/base/default/template/maxbucknell/amdjs"
+                        ],
+                        [
+                            "app/etc/modules/MaxBucknell_AMDJS.xml",
+                            "app/etc/modules/MaxBucknell_AMDJS.xml"
+                        ],
+                        [
+                            "js/maxbucknell/amdjs",
+                            "js/maxbucknell/amdjs"
+                        ],
+                        [
+                            "lib/amd-packager-php",
+                            "lib/amd-packager-php"
+                        ],
+                        [
+                            "lib/JShrink",
+                            "lib/JShrink"
+                        ]
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Max Bucknell",
+                        "email": "me@maxbucknell.com"
+                    }
+                ],
+                "description": "JavaScript modules loader using AMD",
+                "support": {
+                    "source": "https://github.com/maxbucknell/magento-amdjs/tree/8-admin",
+                    "issues": "https://github.com/maxbucknell/magento-amdjs/issues"
+                }
+            },
+            {
+                "name": "maxbucknell/magento-amdjs",
+                "version": "dev-rearchitect",
+                "version_normalized": "dev-rearchitect",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/maxbucknell/magento-amdjs.git",
+                    "reference": "c622d59ac842cc9e726b7ed49221322701b594ed"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/maxbucknell/magento-amdjs/zipball/c622d59ac842cc9e726b7ed49221322701b594ed",
+                    "reference": "c622d59ac842cc9e726b7ed49221322701b594ed",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "maxbucknell/php-amdjs": "*"
+                },
+                "time": "2014-02-27T15:31:35+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Max Bucknell",
+                        "email": "me@maxbucknell.com"
+                    }
+                ],
+                "description": "JavaScript modules loader using AMD",
+                "support": {
+                    "source": "https://github.com/maxbucknell/magento-amdjs/tree/rearchitect",
+                    "issues": "https://github.com/maxbucknell/magento-amdjs/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/newslettergurupopup": [
+            {
+                "name": "connect20/NewsletterguruPopup",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/NewsletterguruPopup/1.0.0/NewsletterguruPopup-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "vinay verma",
+                        "email": "vinayverma.march1991@gmail.com"
+                    }
+                ],
+                "description": "The Extension is for showing popup on the landing page of a website with newsletter subscription option on the content."
+            }
+        ]
+    }
+}

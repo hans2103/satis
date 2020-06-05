@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/joomi_masonrygallery": [
+            {
+                "name": "connect20/Joomi_MasonryGallery",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Joomi_MasonryGallery/1.0.0/Joomi_MasonryGallery-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "joomi",
+                        "email": "info@joomi.co.il"
+                    }
+                ],
+                "description": "Masonry gallery for product images."
+            }
+        ]
+    }
+}

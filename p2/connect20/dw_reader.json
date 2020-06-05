@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/dw_reader": [
+            {
+                "name": "connect20/DW_Reader",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/DW_Reader/1.0.0/DW_Reader-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "DecryptWeb Solutions",
+                        "email": "contact@decryptweb.com"
+                    }
+                ],
+                "description": "An extension to display RSS Feed on any page with many configuration settings"
+            }
+        ]
+    }
+}

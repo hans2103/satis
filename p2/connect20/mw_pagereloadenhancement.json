@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/mw_pagereloadenhancement": [
+            {
+                "name": "connect20/MW_PageReloadEnhancement",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MW_PageReloadEnhancement/1.0.0/MW_PageReloadEnhancement-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "MagentoWhiz",
+                        "email": "forix@forixsolutions.com"
+                    }
+                ],
+                "description": "MW extension"
+            },
+            {
+                "name": "connect20/MW_PageReloadEnhancement",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MW_PageReloadEnhancement/1.0.1/MW_PageReloadEnhancement-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "MageWhiz",
+                        "email": "whiz@magewhiz.com"
+                    }
+                ],
+                "description": "The Page Reload Enhancement extension simply refreshes the products on a webpage instead of the entire page, creating faster loading and shorter waiting."
+            }
+        ]
+    }
+}

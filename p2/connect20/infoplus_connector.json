@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/infoplus_connector": [
+            {
+                "name": "connect20/Infoplus_Connector",
+                "version": "4.0.3",
+                "version_normalized": "4.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Infoplus_Connector/4.0.3/Infoplus_Connector-4.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Apache-License,-Version-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Infoplus",
+                        "email": "infoplusconnect@infopluscommerce.com"
+                    }
+                ],
+                "description": "Module to integrate Magento with Infoplus"
+            }
+        ]
+    }
+}

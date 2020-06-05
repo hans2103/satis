@@ -1,0 +1,450 @@
+{
+    "packages": {
+        "magento/module-inventory-import-export": [
+            {
+                "name": "magento/module-inventory-import-export",
+                "version": "1.0.0-rc",
+                "version_normalized": "1.0.0.0-RC",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-import-export/magento-module-inventory-import-export-1.0.0.0-RC.zip",
+                    "shasum": "a05fdc80bc4fcb6990d88c64eb9cae7359e6090f"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-eav": "*",
+                    "magento/module-import-export": "*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-import-export": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-import-export",
+                "version": "1.0.0-beta",
+                "version_normalized": "1.0.0.0-beta",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-import-export/magento-module-inventory-import-export-1.0.0.0-beta.zip",
+                    "shasum": "5c37e55e5f66c3d2a95d1ee4d4f8928012544f4b"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-import-export": "100.3.*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-store": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-import-export": "0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-import-export",
+                "version": "1.0.0-beta2",
+                "version_normalized": "1.0.0.0-beta2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-import-export/magento-module-inventory-import-export-1.0.0.0-beta2.zip",
+                    "shasum": "d59da8ea539179a73373e209aff6009757251ef0"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-import-export": "100.3.*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-import-export": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-import-export",
+                "version": "1.0.0-beta3",
+                "version_normalized": "1.0.0.0-beta3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-import-export/magento-module-inventory-import-export-1.0.0.0-beta3.zip",
+                    "shasum": "3750fb6984f2149065990ac80eb516bd0d4f18ce"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-import-export": "100.3.*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-import-export": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-import-export",
+                "version": "1.0.0-beta4",
+                "version_normalized": "1.0.0.0-beta4",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-import-export/magento-module-inventory-import-export-1.0.0.0-beta4.zip",
+                    "shasum": "143b9f70f6ee7f490a4a8bb23b29d33571e49cc5"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-import-export": "100.3.*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-import-export": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-import-export",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-import-export/magento-module-inventory-import-export-1.0.3.0.zip",
+                    "shasum": "f6622be0c93e481e4521b6a096a263264557f30b"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-eav": "*",
+                    "magento/module-import-export": "*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.0.*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-import-export": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-import-export",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-import-export/magento-module-inventory-import-export-1.0.4.0.zip",
+                    "shasum": "deefee73fd3c2bb9132e102cc272e4e2dce71088"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-eav": "*",
+                    "magento/module-import-export": "*",
+                    "magento/module-inventory": "*",
+                    "magento/module-inventory-api": "*",
+                    "magento/module-inventory-catalog-api": "*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-import-export": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-import-export",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-import-export/magento-module-inventory-import-export-1.0.5.0.zip",
+                    "shasum": "134d853f16b701133449f95a7f37e30b1da07766"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-eav": "*",
+                    "magento/module-import-export": "*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-import-export": ".*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-import-export",
+                "version": "1.0.5-beta2",
+                "version_normalized": "1.0.5.0-beta2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-import-export/magento-module-inventory-import-export-1.0.5.0-beta2.zip",
+                    "shasum": "d86fbfdce72e95c8751b7b436e690d677f73ea71"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-import-export": "100.3.*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-import-export": ".*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-import-export",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-import-export/magento-module-inventory-import-export-1.0.6.0.zip",
+                    "shasum": "c34c1bb5bec863b7b9bad1f94109ce3d0a785f53"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-eav": "*",
+                    "magento/module-import-export": "*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-import-export": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-import-export",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-import-export/magento-module-inventory-import-export-1.0.7.0.zip",
+                    "shasum": "f56cd35c19a379a32f54baf80ce8cedb228ce4d2"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-eav": "*",
+                    "magento/module-import-export": "*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-import-export": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-import-export",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-inventory-import-export/magento-module-inventory-import-export-1.0.8.0.zip",
+                    "shasum": "6906fbb181de469971d40020c385d2996accaef3"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-eav": "*",
+                    "magento/module-import-export": "*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-import-export": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "fbrnc/aoe_reuseimages": [
+            {
+                "name": "fbrnc/aoe_reuseimages",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/fbrnc/Aoe_ReuseImages.git",
+                    "reference": "3224112024bed5d446b5de7a7ea4778b72414e4f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/fbrnc/Aoe_ReuseImages/zipball/3224112024bed5d446b5de7a7ea4778b72414e4f",
+                    "reference": "3224112024bed5d446b5de7a7ea4778b72414e4f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-01-17T04:57:54+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Reusing product images instead of creating copies.",
+                "homepage": "https://github.com/fbrnc/Aoe_ReuseImages",
+                "support": {
+                    "source": "https://github.com/fbrnc/Aoe_ReuseImages/tree/master",
+                    "issues": "https://github.com/fbrnc/Aoe_ReuseImages/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "packages": {
+        "netzarbeiter/login-only-catalog": [
+            {
+                "name": "netzarbeiter/login-only-catalog",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Vinai/loginonlycatalog.git",
+                    "reference": "4363992220f217b172b792ad992effd19b9f6d06"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Vinai/loginonlycatalog/zipball/4363992220f217b172b792ad992effd19b9f6d06",
+                    "reference": "4363992220f217b172b792ad992effd19b9f6d06",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "ivanchepurnyi/ecomdev_phpunit": "*"
+                },
+                "time": "2019-03-13T09:59:15+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Requires a customer to be logged in order to view products and product collections.",
+                "homepage": "https://github.com/Vinai/loginonlycatalog",
+                "support": {
+                    "source": "https://github.com/Vinai/loginonlycatalog/tree/master",
+                    "issues": "https://github.com/Vinai/loginonlycatalog/issues"
+                }
+            },
+            {
+                "name": "netzarbeiter/login-only-catalog",
+                "version": "dev-behat-features",
+                "version_normalized": "dev-behat-features",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Vinai/loginonlycatalog.git",
+                    "reference": "6b6b73b8c949a307f43c5b29f1ac28542a57055f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Vinai/loginonlycatalog/zipball/6b6b73b8c949a307f43c5b29f1ac28542a57055f",
+                    "reference": "6b6b73b8c949a307f43c5b29f1ac28542a57055f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-05-22T08:33:40+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Requires a customer to be logged in order to view products and product collections.",
+                "homepage": "https://github.com/Vinai/loginonlycatalog",
+                "support": {
+                    "source": "https://github.com/Vinai/loginonlycatalog/tree/behat-features",
+                    "issues": "https://github.com/Vinai/loginonlycatalog/issues"
+                }
+            }
+        ]
+    }
+}

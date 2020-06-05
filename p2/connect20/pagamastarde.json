@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/pagamastarde": [
+            {
+                "name": "connect20/PagaMasTarde",
+                "version": "2.0.5",
+                "version_normalized": "2.0.5.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Pagantis_Pagantis/2.0.5/Pagantis_Pagantis-2.0.5.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "PagaMasTarde",
+                        "email": "afatsini@digitalorigin.com"
+                    }
+                ],
+                "description": "Modulo de Magento para abilitar la pasarela de pago Pagantis en Magento."
+            }
+        ]
+    }
+}

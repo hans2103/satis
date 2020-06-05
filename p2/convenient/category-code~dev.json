@@ -1,0 +1,45 @@
+{
+    "packages": {
+        "convenient/category-code": [
+            {
+                "name": "convenient/category-code",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/convenient/CategoryCode.git",
+                    "reference": "eb995f37b98c8917d82203f92eeb6dae323384bf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/convenient/CategoryCode/zipball/eb995f37b98c8917d82203f92eeb6dae323384bf",
+                    "reference": "eb995f37b98c8917d82203f92eeb6dae323384bf",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "~4.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-01-25T12:02:15+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Luke Rodgers",
+                        "email": "lukerodgers90@gmail.com"
+                    }
+                ],
+                "description": "Adds a much needed unique identifier to Mage_Catalog_Model_Category.",
+                "homepage": "https://github.com/convenient/CategoryCode",
+                "support": {
+                    "source": "https://github.com/convenient/CategoryCode/tree/0.2.1",
+                    "issues": "https://github.com/convenient/CategoryCode/issues"
+                }
+            }
+        ]
+    }
+}

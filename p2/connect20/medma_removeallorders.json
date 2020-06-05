@@ -1,0 +1,84 @@
+{
+    "packages": {
+        "connect20/medma_removeallorders": [
+            {
+                "name": "connect20/Medma_RemoveallOrders",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Medma_RemoveallOrders/1.0.0/Medma_RemoveallOrders-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Medma Infomatix",
+                        "email": "gaurav@medma.in"
+                    }
+                ],
+                "description": "This extension provides the facility to remove all the orders on a single button click."
+            },
+            {
+                "name": "connect20/Medma_RemoveallOrders",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Medma_RemoveallOrders/1.0.2/Medma_RemoveallOrders-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Medma Infomatix",
+                        "email": "gaurav@medma.in"
+                    }
+                ],
+                "description": "This extension provides the functionality of removing all the orders on a single button click. "
+            },
+            {
+                "name": "connect20/Medma_RemoveallOrders",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Medma_RemoveallOrders/1.0.5/Medma_RemoveallOrders-1.0.5.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Medma_Infomatix",
+                        "email": "gaurav@medma.in"
+                    }
+                ],
+                "description": "The extension provides the functionality of removing the selected orders on a single button click. This extension is primarily targeted for Developers but it can be very handy and useful for Merchants, in certain circumstances."
+            }
+        ]
+    }
+}

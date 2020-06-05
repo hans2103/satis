@@ -1,0 +1,53 @@
+{
+    "packages": {
+        "yireo/magento1-systeminfo": [
+            {
+                "name": "yireo/magento1-systeminfo",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/yireo/Yireo_SystemInfo.git",
+                    "reference": "4b6578eaa5be78e23e23793f02c425bcf892051a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/yireo/Yireo_SystemInfo/zipball/4b6578eaa5be78e23e23793f02c425bcf892051a",
+                    "reference": "4b6578eaa5be78e23e23793f02c425bcf892051a",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2014-06-30T06:51:57+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "source/"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Add WebP image support to your Magento pages",
+                "homepage": "https://www.yireo.com/software/magento-extensions/webp",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/yireo/Yireo_SystemInfo/tree/1.0.9",
+                    "issues": "https://github.com/yireo/Yireo_SystemInfo/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/osstudios_pagseguroapi": [
+            {
+                "name": "connect20/OsStudios_PagSeguroApi",
+                "version": "1.0.0.2",
+                "version_normalized": "1.0.0.2",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/OsStudios_PagSeguroApi/1.0.0.2/OsStudios_PagSeguroApi-1.0.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Tiago Sampaio",
+                        "email": "tiago.sampaio@osstudios.com.br"
+                    }
+                ],
+                "description": "The most powerful module for PagSeguro API integration!"
+            },
+            {
+                "name": "connect20/OsStudios_PagSeguroApi",
+                "version": "1.0.0.3",
+                "version_normalized": "1.0.0.3",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/OsStudios_PagSeguroApi/1.0.0.3/OsStudios_PagSeguroApi-1.0.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Tiago Sampaio",
+                        "email": "tiago@tiagosampaio.com"
+                    }
+                ],
+                "description": "The most powerful module for PagSeguro API integration!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "packages": {
+        "strategery/infinitescroll": [
+            {
+                "name": "strategery/infinitescroll",
+                "version": "3.2.2",
+                "version_normalized": "3.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Strategery-Inc/Magento-InfiniteScroll.git",
+                    "reference": "9216738858928a3d3861cc1f084f320b8f5e29e7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Strategery-Inc/Magento-InfiniteScroll/zipball/9216738858928a3d3861cc1f084f320b8f5e29e7",
+                    "reference": "9216738858928a3d3861cc1f084f320b8f5e29e7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2016-01-13T12:48:01+00:00",
+                "type": "magento-module",
+                "license": [
+                    "AFL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Gabriel Somoza",
+                        "email": "contact@gabrielsomoza.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Magento InfiniteScroll: AJAX feature for catalog to load the next set of products.",
+                "homepage": "https://github.com/Strategery-Inc/Magento-InfiniteScroll",
+                "support": {
+                    "source": "https://github.com/Strategery-Inc/Magento-InfiniteScroll/tree/3.2.2",
+                    "issues": "https://github.com/Strategery-Inc/Magento-InfiniteScroll/issues"
+                }
+            },
+            {
+                "name": "strategery/infinitescroll",
+                "version": "3.3.0",
+                "version_normalized": "3.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Strategery-Inc/Magento-InfiniteScroll.git",
+                    "reference": "4ba72af2a5b88b9024ca08007437f839f4a71a71"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Strategery-Inc/Magento-InfiniteScroll/zipball/4ba72af2a5b88b9024ca08007437f839f4a71a71",
+                    "reference": "4ba72af2a5b88b9024ca08007437f839f4a71a71",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2016-02-05T12:57:08+00:00",
+                "type": "magento-module",
+                "license": [
+                    "AFL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Gabriel Somoza",
+                        "email": "contact@gabrielsomoza.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Magento InfiniteScroll: AJAX feature for catalog to load the next set of products.",
+                "homepage": "https://github.com/Strategery-Inc/Magento-InfiniteScroll",
+                "support": {
+                    "source": "https://github.com/Strategery-Inc/Magento-InfiniteScroll/tree/3.3.0",
+                    "issues": "https://github.com/Strategery-Inc/Magento-InfiniteScroll/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "packages": {
+        "colinmollenhour/magento-redis-session": [
+            {
+                "name": "colinmollenhour/magento-redis-session",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/colinmollenhour/Cm_RedisSession.git",
+                    "reference": "471e9afec4eb11f29df0ccc0f8806033185269d9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/colinmollenhour/Cm_RedisSession/zipball/471e9afec4eb11f29df0ccc0f8806033185269d9",
+                    "reference": "471e9afec4eb11f29df0ccc0f8806033185269d9",
+                    "shasum": ""
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Makes it possible to manage this package as a dependency"
+                },
+                "time": "2019-07-01T18:34:48+00:00",
+                "type": "magento-module",
+                "license": [
+                    "BSD-3-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin Mollenhour"
+                    }
+                ],
+                "description": "A Redis-based session handler for Magento with optimistic locking.",
+                "homepage": "https://github.com/colinmollenhour/Cm_RedisSession",
+                "support": {
+                    "source": "https://github.com/colinmollenhour/Cm_RedisSession/tree/master",
+                    "issues": "https://github.com/colinmollenhour/Cm_RedisSession/issues"
+                }
+            },
+            {
+                "name": "colinmollenhour/magento-redis-session",
+                "version": "dev-colinmollenhour-patch-1",
+                "version_normalized": "dev-colinmollenhour-patch-1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/colinmollenhour/Cm_RedisSession.git",
+                    "reference": "26ee483dcb1225c0474a60713a61ecc6f629f8f6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/colinmollenhour/Cm_RedisSession/zipball/26ee483dcb1225c0474a60713a61ecc6f629f8f6",
+                    "reference": "26ee483dcb1225c0474a60713a61ecc6f629f8f6",
+                    "shasum": ""
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.3"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Makes it possible to manage this package as a dependency"
+                },
+                "time": "2017-01-05T03:01:30+00:00",
+                "type": "magento-module",
+                "license": [
+                    "BSD-3-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin Mollenhour"
+                    }
+                ],
+                "description": "A Redis-based session handler for Magento with optimistic locking.",
+                "homepage": "https://github.com/colinmollenhour/Cm_RedisSession",
+                "support": {
+                    "source": "https://github.com/colinmollenhour/Cm_RedisSession/tree/colinmollenhour-patch-1",
+                    "issues": "https://github.com/colinmollenhour/Cm_RedisSession/issues"
+                }
+            },
+            {
+                "name": "colinmollenhour/magento-redis-session",
+                "version": "dev-colinmollenhour-patch-2",
+                "version_normalized": "dev-colinmollenhour-patch-2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/colinmollenhour/Cm_RedisSession.git",
+                    "reference": "0f0bafe5743acfa05958216d89b71ad5c9f1c465"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/colinmollenhour/Cm_RedisSession/zipball/0f0bafe5743acfa05958216d89b71ad5c9f1c465",
+                    "reference": "0f0bafe5743acfa05958216d89b71ad5c9f1c465",
+                    "shasum": ""
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.3.2"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Makes it possible to manage this package as a dependency"
+                },
+                "time": "2017-03-22T16:33:14+00:00",
+                "type": "magento-module",
+                "license": [
+                    "BSD-3-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin Mollenhour"
+                    }
+                ],
+                "description": "A Redis-based session handler for Magento with optimistic locking.",
+                "homepage": "https://github.com/colinmollenhour/Cm_RedisSession",
+                "support": {
+                    "source": "https://github.com/colinmollenhour/Cm_RedisSession/tree/colinmollenhour-patch-2",
+                    "issues": "https://github.com/colinmollenhour/Cm_RedisSession/issues"
+                }
+            },
+            {
+                "name": "colinmollenhour/magento-redis-session",
+                "version": "dev-generic-adapter",
+                "version_normalized": "dev-generic-adapter",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/colinmollenhour/Cm_RedisSession.git",
+                    "reference": "356ab35a514370450149b2f2019bcdeb39f9e3cc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/colinmollenhour/Cm_RedisSession/zipball/356ab35a514370450149b2f2019bcdeb39f9e3cc",
+                    "reference": "356ab35a514370450149b2f2019bcdeb39f9e3cc",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Makes it possible to manage this package as a dependency"
+                },
+                "time": "2016-11-11T22:27:24+00:00",
+                "type": "magento-module",
+                "license": [
+                    "BSD-3-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin Mollenhour"
+                    }
+                ],
+                "description": "A Redis-based session handler for Magento with optimistic locking.",
+                "homepage": "https://github.com/colinmollenhour/Cm_RedisSession",
+                "support": {
+                    "source": "https://github.com/colinmollenhour/Cm_RedisSession/tree/generic-adapter",
+                    "issues": "https://github.com/colinmollenhour/Cm_RedisSession/issues"
+                }
+            },
+            {
+                "name": "colinmollenhour/magento-redis-session",
+                "version": "dev-php56",
+                "version_normalized": "dev-php56",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/colinmollenhour/Cm_RedisSession.git",
+                    "reference": "dab7b2a102e727a70a335b611fedfae29b7b0a62"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/colinmollenhour/Cm_RedisSession/zipball/dab7b2a102e727a70a335b611fedfae29b7b0a62",
+                    "reference": "dab7b2a102e727a70a335b611fedfae29b7b0a62",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-03-24T16:06:31+00:00",
+                "type": "magento-module",
+                "license": [
+                    "BSD-3-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin Mollenhour"
+                    }
+                ],
+                "description": "A Redis-based session handler for Magento with optimistic locking.",
+                "homepage": "https://github.com/colinmollenhour/Cm_RedisSession",
+                "support": {
+                    "source": "https://github.com/colinmollenhour/Cm_RedisSession/tree/php56",
+                    "issues": "https://github.com/colinmollenhour/Cm_RedisSession/issues"
+                }
+            },
+            {
+                "name": "colinmollenhour/magento-redis-session",
+                "version": "dev-revert-147-patch-1",
+                "version_normalized": "dev-revert-147-patch-1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/colinmollenhour/Cm_RedisSession.git",
+                    "reference": "c6b6b821f36d402ed3da08d2eed7500448d4ced8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/colinmollenhour/Cm_RedisSession/zipball/c6b6b821f36d402ed3da08d2eed7500448d4ced8",
+                    "reference": "c6b6b821f36d402ed3da08d2eed7500448d4ced8",
+                    "shasum": ""
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Makes it possible to manage this package as a dependency"
+                },
+                "time": "2019-05-31T18:58:55+00:00",
+                "type": "magento-module",
+                "license": [
+                    "BSD-3-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin Mollenhour"
+                    }
+                ],
+                "description": "A Redis-based session handler for Magento with optimistic locking.",
+                "homepage": "https://github.com/colinmollenhour/Cm_RedisSession",
+                "support": {
+                    "source": "https://github.com/colinmollenhour/Cm_RedisSession/tree/revert-147-patch-1",
+                    "issues": "https://github.com/colinmollenhour/Cm_RedisSession/issues"
+                }
+            },
+            {
+                "name": "colinmollenhour/magento-redis-session",
+                "version": "dev-sentinel",
+                "version_normalized": "dev-sentinel",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/colinmollenhour/Cm_RedisSession.git",
+                    "reference": "49f889bfe35d6104bf90b33320abd8540099346e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/colinmollenhour/Cm_RedisSession/zipball/49f889bfe35d6104bf90b33320abd8540099346e",
+                    "reference": "49f889bfe35d6104bf90b33320abd8540099346e",
+                    "shasum": ""
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.3.2"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Makes it possible to manage this package as a dependency"
+                },
+                "time": "2017-03-25T03:30:32+00:00",
+                "type": "magento-module",
+                "license": [
+                    "BSD-3-Clause"
+                ],
+                "authors": [
+                    {
+                        "name": "Colin Mollenhour"
+                    }
+                ],
+                "description": "A Redis-based session handler for Magento with optimistic locking.",
+                "homepage": "https://github.com/colinmollenhour/Cm_RedisSession",
+                "support": {
+                    "source": "https://github.com/colinmollenhour/Cm_RedisSession/tree/sentinel",
+                    "issues": "https://github.com/colinmollenhour/Cm_RedisSession/issues"
+                }
+            }
+        ]
+    }
+}

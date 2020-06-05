@@ -1,0 +1,96 @@
+{
+    "packages": {
+        "aligent/paypal": [
+            {
+                "name": "aligent/paypal",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Magento-Paypalfixes.git",
+                    "reference": "26734b721abc315cf8c2f96d583caf67d311e0b9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Magento-Paypalfixes/zipball/26734b721abc315cf8c2f96d583caf67d311e0b9",
+                    "reference": "26734b721abc315cf8c2f96d583caf67d311e0b9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-06-15T00:50:54+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Changes the default Magento behavior for Paypal Refunds and fixes HTTP 1.1 IPN issues.",
+                "homepage": "https://github.com/aligent/Magento-Paypal",
+                "support": {
+                    "source": "https://github.com/aligent/Magento-Paypalfixes/tree/master",
+                    "issues": "https://github.com/aligent/Magento-Paypalfixes/issues"
+                }
+            },
+            {
+                "name": "aligent/paypal",
+                "version": "dev-feature/SUPEE-8167",
+                "version_normalized": "dev-feature/SUPEE-8167",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Magento-Paypalfixes.git",
+                    "reference": "5e2a899b937370d71853a96915bebf906ae3ff02"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Magento-Paypalfixes/zipball/5e2a899b937370d71853a96915bebf906ae3ff02",
+                    "reference": "5e2a899b937370d71853a96915bebf906ae3ff02",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-06-15T00:37:02+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Changes the default Magento behavior for Paypal Refunds and fixes HTTP 1.1 IPN issues.",
+                "homepage": "https://github.com/aligent/Magento-Paypal",
+                "support": {
+                    "source": "https://github.com/aligent/Magento-Paypalfixes/tree/feature/SUPEE-8167",
+                    "issues": "https://github.com/aligent/Magento-Paypalfixes/issues"
+                }
+            },
+            {
+                "name": "aligent/paypal",
+                "version": "dev-tls-1.2",
+                "version_normalized": "dev-tls-1.2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Magento-Paypalfixes.git",
+                    "reference": "72174a6365d3914abefcbab7013d42b73bffabdf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Magento-Paypalfixes/zipball/72174a6365d3914abefcbab7013d42b73bffabdf",
+                    "reference": "72174a6365d3914abefcbab7013d42b73bffabdf",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-01-27T23:25:10+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Changes the default Magento behavior for Paypal Refunds and fixes HTTP 1.1 IPN issues.",
+                "homepage": "https://github.com/aligent/Magento-Paypal",
+                "support": {
+                    "source": "https://github.com/aligent/Magento-Paypalfixes/tree/tls-1.2",
+                    "issues": "https://github.com/aligent/Magento-Paypalfixes/issues"
+                }
+            }
+        ]
+    }
+}

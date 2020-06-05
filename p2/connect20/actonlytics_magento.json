@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/actonlytics_magento": [
+            {
+                "name": "connect20/actonlytics_magento",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Actonlytics_1_0/1.0.0/Actonlytics_1_0-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "actonlytics",
+                        "email": "si@itembase.biz"
+                    }
+                ],
+                "description": "Actonlytics plugin for Magento 1.7.x - 1.9.x plugin"
+            }
+        ]
+    }
+}

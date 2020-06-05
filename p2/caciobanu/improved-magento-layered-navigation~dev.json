@@ -1,0 +1,76 @@
+{
+    "packages": {
+        "caciobanu/improved-magento-layered-navigation": [
+            {
+                "name": "caciobanu/improved-magento-layered-navigation",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/caciobanu/improved-magento-layered-navigation.git",
+                    "reference": "28a92e4115674bcca92e500b1050f57c1cf0dded"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/caciobanu/improved-magento-layered-navigation/zipball/28a92e4115674bcca92e500b1050f57c1cf0dded",
+                    "reference": "28a92e4115674bcca92e500b1050f57c1cf0dded",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-03-06T21:26:13+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Catalin Ciobanu",
+                        "email": "caciobanu@gmail.com"
+                    }
+                ],
+                "description": "Improved Magento layered navigation extension",
+                "support": {
+                    "source": "https://github.com/caciobanu/improved-magento-layered-navigation/tree/master",
+                    "issues": "https://github.com/caciobanu/improved-magento-layered-navigation/issues"
+                }
+            },
+            {
+                "name": "caciobanu/improved-magento-layered-navigation",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/caciobanu/improved-magento-layered-navigation.git",
+                    "reference": "5f1c16cfc9ce2cdbf41687664f8149ac233ca49b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/caciobanu/improved-magento-layered-navigation/zipball/5f1c16cfc9ce2cdbf41687664f8149ac233ca49b",
+                    "reference": "5f1c16cfc9ce2cdbf41687664f8149ac233ca49b",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-03-07T15:49:14+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Catalin Ciobanu",
+                        "email": "caciobanu@gmail.com"
+                    }
+                ],
+                "description": "Improved Magento layered navigation extension",
+                "support": {
+                    "source": "https://github.com/caciobanu/improved-magento-layered-navigation/tree/develop",
+                    "issues": "https://github.com/caciobanu/improved-magento-layered-navigation/issues"
+                }
+            }
+        ]
+    }
+}

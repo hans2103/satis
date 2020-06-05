@@ -1,0 +1,56 @@
+{
+    "packages": {
+        "magento/magento2-b2b-patches": [
+            {
+                "name": "magento/magento2-b2b-patches",
+                "version": "0.0.0",
+                "version_normalized": "0.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento2-b2b-patches/magento-magento2-b2b-patches-0.0.0.0.zip",
+                    "shasum": "4d7437d7ec19b67e40e032c2115a5f373a7f9759"
+                },
+                "require": {
+                    "magento-set/magento2-ee-patches": "0.0.0",
+                    "magento-set/magento2-patches-tool": "100.0.*"
+                },
+                "type": "magento2-patches",
+                "extra": {
+                    "enable-patching": true,
+                    "patch-dir": "patches",
+                    "patches": []
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 patches"
+            },
+            {
+                "name": "magento/magento2-b2b-patches",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento2-b2b-patches/magento-magento2-b2b-patches-1.2.1.0.zip",
+                    "shasum": "d80f8389d2bdcb284ffc28a5ad11bcae9b7cc0d6"
+                },
+                "require": {
+                    "magento/magento2-ee-patches": "1.2.1",
+                    "magento/magento2-patches-tool": "100.0.*"
+                },
+                "type": "magento2-patches",
+                "extra": {
+                    "enable-patching": true,
+                    "patch-dir": "patches",
+                    "patches": []
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 patches"
+            }
+        ]
+    }
+}

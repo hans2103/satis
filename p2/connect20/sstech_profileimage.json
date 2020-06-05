@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sstech_profileimage": [
+            {
+                "name": "connect20/SSTech_Profileimage",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/SSTech_Profileimage/1.0.1/SSTech_Profileimage-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "General-Public-License"
+                ],
+                "authors": [
+                    {
+                        "name": "SSTech",
+                        "email": "sandynareshg@gmail.com"
+                    }
+                ],
+                "description": "Extension which will allow to add the Customer Profile image while Registration"
+            }
+        ]
+    }
+}

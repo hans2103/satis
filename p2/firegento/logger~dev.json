@@ -1,0 +1,72 @@
+{
+    "packages": {
+        "firegento/logger": [
+            {
+                "name": "firegento/logger",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/firegento/firegento-logger.git",
+                    "reference": "b501325588ca688ba242ee5f94dbf1122b5ef1cb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/firegento/firegento-logger/zipball/b501325588ca688ba242ee5f94dbf1122b5ef1cb",
+                    "reference": "b501325588ca688ba242ee5f94dbf1122b5ef1cb",
+                    "shasum": ""
+                },
+                "require": {
+                    "paragonie/random_compat": "^9.99"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "time": "2020-04-12T10:28:17+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "FireGento Logger is an advanced alternative to log messages and errors to multiple targets.",
+                "homepage": "https://github.com/firegento/firegento-logger",
+                "support": {
+                    "source": "https://github.com/firegento/firegento-logger/tree/master",
+                    "issues": "https://github.com/firegento/firegento-logger/issues"
+                }
+            },
+            {
+                "name": "firegento/logger",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/firegento/firegento-logger.git",
+                    "reference": "5323d7a5512b2e98e6f1df7a2875774e5b91f74c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/firegento/firegento-logger/zipball/5323d7a5512b2e98e6f1df7a2875774e5b91f74c",
+                    "reference": "5323d7a5512b2e98e6f1df7a2875774e5b91f74c",
+                    "shasum": ""
+                },
+                "require": {
+                    "paragonie/random_compat": "^9.99"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "time": "2020-04-12T10:18:10+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "FireGento Logger is an advanced alternative to log messages and errors to multiple targets.",
+                "homepage": "https://github.com/firegento/firegento-logger",
+                "support": {
+                    "source": "https://github.com/firegento/firegento-logger/tree/1.10",
+                    "issues": "https://github.com/firegento/firegento-logger/issues"
+                }
+            }
+        ]
+    }
+}

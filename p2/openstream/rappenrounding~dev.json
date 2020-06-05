@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "openstream/rappenrounding": [
+            {
+                "name": "openstream/rappenrounding",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/openstream/Magento5CentRounding.git",
+                    "reference": "e4cc47c5f56540121120a630e4e59796a7bc8c38"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/openstream/Magento5CentRounding/zipball/e4cc47c5f56540121120a630e4e59796a7bc8c38",
+                    "reference": "e4cc47c5f56540121120a630e4e59796a7bc8c38",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-05-26T14:00:16+00:00",
+                "type": "magento-module",
+                "description": "Magento 5-Rappen-Rundung for Swiss Magento Merchants",
+                "homepage": "https://github.com/avstudnitz/Magento5CentRounding",
+                "support": {
+                    "source": "https://github.com/openstream/Magento5CentRounding/tree/master",
+                    "issues": "https://github.com/openstream/Magento5CentRounding/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/itm_logger": [
+            {
+                "name": "connect20/ITM_Logger",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ITM_Logger/0.1.0/ITM_Logger-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "BSD"
+                ],
+                "authors": [
+                    {
+                        "name": "Jens Averkamp",
+                        "email": "j.averkamp@itm-systems.com"
+                    }
+                ],
+                "description": "This Extension enable the logging  with ChromePHP and FirePHP."
+            },
+            {
+                "name": "connect20/ITM_Logger",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ITM_Logger/0.1.1/ITM_Logger-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "BSD"
+                ],
+                "authors": [
+                    {
+                        "name": "Jens Averkamp",
+                        "email": "j.averkamp@itm-systems.com"
+                    }
+                ],
+                "description": "This Extension enable the logging  with ChromePHP and FirePHP."
+            }
+        ]
+    }
+}

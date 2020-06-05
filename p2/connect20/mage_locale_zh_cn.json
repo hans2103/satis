@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/mage_locale_zh_cn": [
+            {
+                "name": "connect20/Mage_Locale_zh_CN",
+                "version": "1.7.0.0",
+                "version_normalized": "1.7.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Locale_zh_CN/1.7.0.0/Mage_Locale_zh_CN-1.7.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "Magento Chinese Translation"
+            },
+            {
+                "name": "connect20/Mage_Locale_zh_CN",
+                "version": "1.9.0.0",
+                "version_normalized": "1.9.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Mage_Locale_zh_CN/1.9.0.0/Mage_Locale_zh_CN-1.9.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "AFL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magento Core Team",
+                        "email": "core@magentocommerce.com"
+                    }
+                ],
+                "description": "zh_CN locale"
+            }
+        ]
+    }
+}

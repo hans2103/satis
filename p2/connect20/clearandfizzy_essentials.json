@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/clearandfizzy_essentials": [
+            {
+                "name": "connect20/Clearandfizzy_Essentials",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Clearandfizzy_Essentials/1.0.0/Clearandfizzy_Essentials-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Clearandfizzy-Licence"
+                ],
+                "authors": [
+                    {
+                        "name": "Gareth Price",
+                        "email": "support@clearandfizzy.com"
+                    }
+                ],
+                "description": "Time saving collection of small extensions, features and developer tools for your Magento stack."
+            },
+            {
+                "name": "connect20/Clearandfizzy_Essentials",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Clearandfizzy_Essentials/1.0.1/Clearandfizzy_Essentials-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Clearandfizzy-Licence"
+                ],
+                "authors": [
+                    {
+                        "name": "Gareth Price",
+                        "email": "support@clearandfizzy.com"
+                    }
+                ],
+                "description": "Time saving collection of small extensions, features and developer tools for your Magento stack."
+            }
+        ]
+    }
+}

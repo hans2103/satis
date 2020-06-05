@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/shipworks_multi_carrier_shipping_software": [
+            {
+                "name": "connect20/ShipWorks_Multi_Carrier_Shipping_Software",
+                "version": "3.10.1",
+                "version_normalized": "3.10.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ShipWorks_Multi_Carrier_Shipping_Software/3.10.1/ShipWorks_Multi_Carrier_Shipping_Software-3.10.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Commercial"
+                ],
+                "authors": [
+                    {
+                        "name": "ShipWorks",
+                        "email": "support@shipworks.com"
+                    }
+                ],
+                "description": "ShipWorks 3.0 Integration"
+            }
+        ]
+    }
+}

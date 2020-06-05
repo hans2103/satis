@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "schumacherfm/optimized-backend-login": [
+            {
+                "name": "schumacherfm/optimized-backend-login",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SchumacherFM/Magento-OptimizedBackendLogin.git",
+                    "reference": "ff9d2e5ce31b16b1caefedb1767a3b20d4f6e11e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/SchumacherFM/Magento-OptimizedBackendLogin/zipball/ff9d2e5ce31b16b1caefedb1767a3b20d4f6e11e",
+                    "reference": "ff9d2e5ce31b16b1caefedb1767a3b20d4f6e11e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-06-28T14:47:10+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher"
+                    }
+                ],
+                "description": "Magento Optimized Backend Login",
+                "homepage": "https://github.com/SchumacherFM/Magento-OptimizedBackendLogin",
+                "support": {
+                    "source": "https://github.com/SchumacherFM/Magento-OptimizedBackendLogin/tree/master",
+                    "issues": "https://github.com/SchumacherFM/Magento-OptimizedBackendLogin/issues"
+                }
+            }
+        ]
+    }
+}

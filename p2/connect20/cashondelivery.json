@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/cashondelivery": [
+            {
+                "name": "connect20/CashOnDelivery",
+                "version": "0.3",
+                "version_normalized": "0.3.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CashOnDelivery/0.3/CashOnDelivery-0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Phoenix Medien",
+                        "email": "info@phoenix-medien.de"
+                    }
+                ],
+                "description": "Cash on Delivery allows to book additional fee on delivery depending on inland or international delivery."
+            }
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "packages": {
+        "snowcode/google-cloud-print": [
+            {
+                "name": "snowcode/google-cloud-print",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Den4ik/Magento-Google-Cloud-Print.git",
+                    "reference": "80b8eee36bcbbfd6be9a3a5c242385254bce6ee7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Den4ik/Magento-Google-Cloud-Print/zipball/80b8eee36bcbbfd6be9a3a5c242385254bce6ee7",
+                    "reference": "80b8eee36bcbbfd6be9a3a5c242385254bce6ee7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.2.0"
+                },
+                "time": "2014-05-18T17:51:18+00:00",
+                "type": "magento-module",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Denis Kopylov",
+                        "email": "dv.kopylov@profit-soft.pro",
+                        "homepage": "http://profit-soft.pro",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Magento Google Cloud Print extension",
+                "homepage": "https://github.com/Den4ik/Magento-Google-Cloud-Print",
+                "keywords": [
+                    "google cloud print",
+                    "magento",
+                    "mvc"
+                ],
+                "support": {
+                    "source": "https://github.com/Den4ik/Magento-Google-Cloud-Print/tree/v0.1.0",
+                    "issues": "https://github.com/Den4ik/Magento-Google-Cloud-Print/issues"
+                }
+            }
+        ]
+    }
+}

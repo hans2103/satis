@@ -1,0 +1,77 @@
+{
+    "packages": {
+        "hevelop/transliteration": [
+            {
+                "name": "hevelop/transliteration",
+                "version": "v1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Hevelop/Transliteration.git",
+                    "reference": "2ac9af9e0dfe3382855ccf68c696d9d039676c58"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Hevelop/Transliteration/zipball/2ac9af9e0dfe3382855ccf68c696d9d039676c58",
+                    "reference": "2ac9af9e0dfe3382855ccf68c696d9d039676c58",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-08-03T08:32:06+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Davide Barlassina",
+                        "email": "davide@hevelop.com"
+                    }
+                ],
+                "description": "Transliterates an UTF-8 encoded string to a US-ASCII string",
+                "support": {
+                    "source": "https://github.com/Hevelop/Transliteration/tree/v1.0.0",
+                    "issues": "https://github.com/Hevelop/Transliteration/issues"
+                }
+            },
+            {
+                "name": "hevelop/transliteration",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Hevelop/Transliteration.git",
+                    "reference": "0c78fcbbbe94efc01712bc9c32579e7858a23269"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Hevelop/Transliteration/zipball/0c78fcbbbe94efc01712bc9c32579e7858a23269",
+                    "reference": "0c78fcbbbe94efc01712bc9c32579e7858a23269",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-10-26T13:46:05+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Davide Barlassina",
+                        "email": "davide@hevelop.com"
+                    }
+                ],
+                "description": "Transliterates an UTF-8 encoded string to a US-ASCII string",
+                "homepage": "https://github.com/hevelop/transliteration",
+                "support": {
+                    "source": "https://github.com/Hevelop/Transliteration/tree/1.0.1",
+                    "issues": "https://github.com/Hevelop/Transliteration/issues"
+                }
+            }
+        ]
+    }
+}

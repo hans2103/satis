@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "twoboysoneshop/configr": [
+            {
+                "name": "twoboysoneshop/configr",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/2Boys1Shop/Twoboysoneshop_Configr.git",
+                    "reference": "783aea3e95dd257317b869789a55cb6b8b432d57"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/2Boys1Shop/Twoboysoneshop_Configr/zipball/783aea3e95dd257317b869789a55cb6b8b432d57",
+                    "reference": "783aea3e95dd257317b869789a55cb6b8b432d57",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2019-03-07T07:35:28+00:00",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Marc Jakubowski",
+                        "email": "marc.jakubowski@internations.org"
+                    },
+                    {
+                        "name": "Karsten Gohm",
+                        "email": "kasn@mac.com"
+                    }
+                ],
+                "description": "Magento extension to create an overview of all configuration values of all stores on one page to be able to compare how the different stores are configured",
+                "support": {
+                    "source": "https://github.com/2Boys1Shop/Twoboysoneshop_Configr/tree/master",
+                    "issues": "https://github.com/2Boys1Shop/Twoboysoneshop_Configr/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "packages": {
+        "magento/magento2ee-patches": [
+            {
+                "name": "magento/magento2ee-patches",
+                "version": "2.2.1",
+                "version_normalized": "2.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento2ee-patches/magento-magento2ee-patches-2.2.1.0.zip",
+                    "shasum": "db5780a6c577c498c0f2618248eefbd9ac6e47ca"
+                },
+                "require": {
+                    "magento/magento2-patches-tool": "100.0.*",
+                    "magento/magento2ce-patches": "2.2.1"
+                },
+                "type": "magento2-patches",
+                "extra": {
+                    "enable-patching": true,
+                    "patch-dir": "patches",
+                    "patches": []
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 patches"
+            },
+            {
+                "name": "magento/magento2ee-patches",
+                "version": "2.2.2",
+                "version_normalized": "2.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento2ee-patches/magento-magento2ee-patches-2.2.2.0.zip",
+                    "shasum": "45eb0fdf31fc13ff1d98824e49e0943bef38b781"
+                },
+                "require": {
+                    "magento/magento2-patches-tool": "100.0.*",
+                    "magento/magento2ce-patches": "2.2.0",
+                    "magento/module-admin-gws": "100.2.1",
+                    "magento/module-elasticsearch": "100.2.1"
+                },
+                "type": "magento2-patches",
+                "extra": {
+                    "enable-patching": true,
+                    "patch-dir": "patches",
+                    "patches": [
+                        {
+                            "name": "MDVA-8156"
+                        },
+                        {
+                            "name": "MDVA-PATCH-TEST",
+                            "after": 0
+                        }
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 patches"
+            },
+            {
+                "name": "magento/magento2ee-patches",
+                "version": "2.2.3",
+                "version_normalized": "2.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento2ee-patches/magento-magento2ee-patches-2.2.3.0.zip",
+                    "shasum": "1317103758eff871981010ae2ea87fcb941706ab"
+                },
+                "require": {
+                    "magento/magento2-patches-tool": "100.0.*",
+                    "magento/magento2ce-patches": "2.2.3"
+                },
+                "type": "magento2-patches",
+                "extra": {
+                    "enable-patching": true,
+                    "patch-dir": "patches",
+                    "patches": []
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 patches"
+            },
+            {
+                "name": "magento/magento2ee-patches",
+                "version": "2.2.4",
+                "version_normalized": "2.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento2ee-patches/magento-magento2ee-patches-2.2.4.0.zip",
+                    "shasum": "7ac0b23ce4481b10f5608c72a8b70a9d18ab5c39"
+                },
+                "require": {
+                    "magento/magento2-patches-tool": "100.0.*",
+                    "magento/magento2ce-patches": "2.2.4"
+                },
+                "type": "magento2-patches",
+                "extra": {
+                    "enable-patching": true,
+                    "patch-dir": "patches",
+                    "patches": []
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 patches"
+            }
+        ]
+    }
+}

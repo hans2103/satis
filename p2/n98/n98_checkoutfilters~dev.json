@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "n98/n98_checkoutfilters": [
+            {
+                "name": "n98/n98_checkoutfilters",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/netz98/N98_CheckoutFilters.git",
+                    "reference": "4184756b0c78f2b3e26f28c97bb5d3d246e396d8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/netz98/N98_CheckoutFilters/zipball/4184756b0c78f2b3e26f28c97bb5d3d246e396d8",
+                    "reference": "4184756b0c78f2b3e26f28c97bb5d3d246e396d8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-02-09T08:30:53+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "netz98 new media GmbH",
+                        "email": "magento@netz98.de"
+                    }
+                ],
+                "description": "Filter your payment and shipping methods.",
+                "homepage": "https://github.com/netz98/N98_CheckoutFilters",
+                "support": {
+                    "source": "https://github.com/netz98/N98_CheckoutFilters/tree/master",
+                    "issues": "https://github.com/netz98/N98_CheckoutFilters/issues"
+                }
+            }
+        ]
+    }
+}

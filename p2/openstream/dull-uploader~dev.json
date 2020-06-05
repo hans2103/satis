@@ -1,0 +1,38 @@
+{
+    "packages": {
+        "openstream/dull-uploader": [
+            {
+                "name": "openstream/dull-uploader",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/openstream/No-Flash-Image-Uploader.git",
+                    "reference": "5556938d07f2694f8e2e42563626bc1182fdd921"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/openstream/No-Flash-Image-Uploader/zipball/5556938d07f2694f8e2e42563626bc1182fdd921",
+                    "reference": "5556938d07f2694f8e2e42563626bc1182fdd921",
+                    "shasum": ""
+                },
+                "time": "2016-09-30T08:59:24+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-2.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Nick Weisser",
+                        "email": "nick@openstream.ch"
+                    }
+                ],
+                "description": "Allows the upload of images without having the Flash player installed",
+                "support": {
+                    "source": "https://github.com/openstream/No-Flash-Image-Uploader/tree/master",
+                    "issues": "https://github.com/openstream/No-Flash-Image-Uploader/issues"
+                }
+            }
+        ]
+    }
+}

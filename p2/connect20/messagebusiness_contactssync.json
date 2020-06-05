@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/messagebusiness_contactssync": [
+            {
+                "name": "connect20/MessageBusiness_ContactsSync",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MessageBusiness_ContactsSync/1.0.0/MessageBusiness_ContactsSync-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "AFL"
+                ],
+                "authors": [
+                    {
+                        "name": "Sinabs",
+                        "email": "tech@sinabs.fr"
+                    }
+                ],
+                "description": "Importer automatiquement les données clients et les inscrits newsletter dans votre compte Message Business."
+            },
+            {
+                "name": "connect20/MessageBusiness_ContactsSync",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/MessageBusiness_ContactsSync/1.0.1/MessageBusiness_ContactsSync-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Academic-Free-License-(AFL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Sinabs",
+                        "email": "tech@sinabs.fr"
+                    }
+                ],
+                "description": "Importer automatiquement les données clients et les inscrits newsletter dans votre compte Message Business."
+            }
+        ]
+    }
+}

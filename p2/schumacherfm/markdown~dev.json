@@ -1,0 +1,78 @@
+{
+    "packages": {
+        "schumacherfm/markdown": [
+            {
+                "name": "schumacherfm/markdown",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SchumacherFM/Magento-Markdown.git",
+                    "reference": "5f3f82a6bfdb1f4d846a4aee2bccfbf5ebdad2ea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/SchumacherFM/Magento-Markdown/zipball/5f3f82a6bfdb1f4d846a4aee2bccfbf5ebdad2ea",
+                    "reference": "5f3f82a6bfdb1f4d846a4aee2bccfbf5ebdad2ea",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-06-08T18:10:08+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher",
+                        "email": "cyrill@schumacher.fm"
+                    }
+                ],
+                "description": "Markdown as module for Magento! Replaces the TinyMCE editor. Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)",
+                "homepage": "https://github.com/SchumacherFM/Magento-Markdown",
+                "support": {
+                    "source": "https://github.com/SchumacherFM/Magento-Markdown/tree/v2.2.2",
+                    "issues": "https://github.com/SchumacherFM/Magento-Markdown/issues"
+                }
+            },
+            {
+                "name": "schumacherfm/markdown",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/SchumacherFM/Magento-Markdown.git",
+                    "reference": "9dafc3dae6850513e40eaa73f6eb2b414ca86211"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/SchumacherFM/Magento-Markdown/zipball/9dafc3dae6850513e40eaa73f6eb2b414ca86211",
+                    "reference": "9dafc3dae6850513e40eaa73f6eb2b414ca86211",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-26T23:51:11+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Cyrill Schumacher",
+                        "email": "cyrill@schumacher.fm"
+                    }
+                ],
+                "description": "Markdown as module for Magento! Replaces the TinyMCE editor. Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)",
+                "homepage": "https://github.com/SchumacherFM/Magento-Markdown",
+                "support": {
+                    "source": "https://github.com/SchumacherFM/Magento-Markdown/tree/develop",
+                    "issues": "https://github.com/SchumacherFM/Magento-Markdown/issues"
+                }
+            }
+        ]
+    }
+}

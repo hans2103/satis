@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/shopgo_advifconfig": [
+            {
+                "name": "connect20/Shopgo_AdvIfconfig",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Shopgo_AdvIfconfig/1.0.3/Shopgo_AdvIfconfig-1.0.3.tgz"
+                },
+                "require": {
+                    "connect20/shopgo_core": ">=1.0.6"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "ShopGo",
+                        "email": "support@shopgo.me"
+                    }
+                ],
+                "description": "Advanced Ifconfig is a utility module that extends Magento's ifconfig and adds more features to it."
+            }
+        ]
+    }
+}

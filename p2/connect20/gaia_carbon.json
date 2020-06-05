@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/gaia_carbon": [
+            {
+                "name": "connect20/Gaia_Carbon",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Gaia_Carbon/1.0.1/Gaia_Carbon-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Martin Novak",
+                        "email": "martin.novak@czdigital.com.au"
+                    }
+                ],
+                "description": "Allows your customers to negate the carbon emissions from the shipping of their order."
+            }
+        ]
+    }
+}

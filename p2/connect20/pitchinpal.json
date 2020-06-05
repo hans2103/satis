@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/pitchinpal": [
+            {
+                "name": "connect20/pitchinpal",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/pitchinpal/1.0.0/pitchinpal-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Jon Brenan",
+                        "email": "magento@pitchinpal.com"
+                    }
+                ],
+                "description": "its a new ecommerce payment option for PitchinPal, it's allows friends to split the cost of product or gift."
+            },
+            {
+                "name": "connect20/pitchinpal",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/pitchinpal/1.0.1/pitchinpal-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Jon Brenan",
+                        "email": "magento@pitchinpal.com"
+                    }
+                ],
+                "description": "its a new ecommerce payment option for PitchinPal, it's allows friends to split the cost of product or gift."
+            }
+        ]
+    }
+}

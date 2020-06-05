@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "openmage/openmage_routers": [
+            {
+                "name": "openmage/openmage_routers",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/OpenMage/OpenMage_Routers.git",
+                    "reference": "bb4c9bcd84bab69f5549c3738b909b59167e3699"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/OpenMage/OpenMage_Routers/zipball/bb4c9bcd84bab69f5549c3738b909b59167e3699",
+                    "reference": "bb4c9bcd84bab69f5549c3738b909b59167e3699",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-07-11T14:53:54+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Lee Saferite",
+                        "email": "{firstname}.{lastname}@lokeycoding.com"
+                    }
+                ],
+                "description": "Magento router support for nested frontnames",
+                "support": {
+                    "source": "https://github.com/OpenMage/OpenMage_Routers/tree/v2.0.1",
+                    "issues": "https://github.com/OpenMage/OpenMage_Routers/issues"
+                }
+            }
+        ]
+    }
+}

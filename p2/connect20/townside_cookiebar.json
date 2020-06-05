@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/townside_cookiebar": [
+            {
+                "name": "connect20/Townside_CookieBar",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Townside_CookieBar/0.0.1/Townside_CookieBar-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Townside",
+                        "email": "tony@townside.co.uk"
+                    }
+                ],
+                "description": "EU cookie compliance notification bar for Magento CE."
+            },
+            {
+                "name": "connect20/Townside_CookieBar",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Townside_CookieBar/0.0.2/Townside_CookieBar-0.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Townside",
+                        "email": "tony@townside.co.uk"
+                    }
+                ],
+                "description": "EU cookie compliance notification bar for Magento CE."
+            }
+        ]
+    }
+}

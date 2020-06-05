@@ -1,0 +1,76 @@
+{
+    "packages": {
+        "mzeis/mzeis_server-timing": [
+            {
+                "name": "mzeis/mzeis_server-timing",
+                "version": "v1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mzeis/Mzeis_ServerTiming.git",
+                    "reference": "f4ee91584d2e53962f579d8a6639d7e9002ad7af"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mzeis/Mzeis_ServerTiming/zipball/f4ee91584d2e53962f579d8a6639d7e9002ad7af",
+                    "reference": "f4ee91584d2e53962f579d8a6639d7e9002ad7af",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-02-15T22:04:01+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthias Zeis",
+                        "email": "admin@matthias-zeis.com"
+                    }
+                ],
+                "description": "Sends profiling information as a Server Timing HTTP header to the browser",
+                "support": {
+                    "source": "https://github.com/mzeis/Mzeis_ServerTiming/tree/v1.0.0",
+                    "issues": "https://github.com/mzeis/Mzeis_ServerTiming/issues"
+                }
+            },
+            {
+                "name": "mzeis/mzeis_server-timing",
+                "version": "v1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mzeis/Mzeis_ServerTiming.git",
+                    "reference": "c39216906855ed7cb33cfb6683dd702554f8944d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mzeis/Mzeis_ServerTiming/zipball/c39216906855ed7cb33cfb6683dd702554f8944d",
+                    "reference": "c39216906855ed7cb33cfb6683dd702554f8944d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2018-01-16T16:43:46+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthias Zeis",
+                        "email": "admin@matthias-zeis.com"
+                    }
+                ],
+                "description": "Sends profiling information as a Server Timing HTTP header to the browser",
+                "support": {
+                    "source": "https://github.com/mzeis/Mzeis_ServerTiming/tree/v1.1.0",
+                    "issues": "https://github.com/mzeis/Mzeis_ServerTiming/issues"
+                }
+            }
+        ]
+    }
+}

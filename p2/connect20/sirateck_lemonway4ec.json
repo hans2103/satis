@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sirateck_lemonway4ec": [
+            {
+                "name": "connect20/Sirateck_Lemonway4ec",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Sirateck_Lemonway4ec/1.0.1/Sirateck_Lemonway4ec-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "http://opensource.org/licenses/mit-license.php-MIT-licence"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas Roche",
+                        "email": "troche@lemonway.com"
+                    }
+                ],
+                "description": "A 1 minute integration for the cheapest payment solution in Europe.Accept payment by credit cards from all around the world."
+            }
+        ]
+    }
+}

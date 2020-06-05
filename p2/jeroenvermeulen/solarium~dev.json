@@ -1,0 +1,341 @@
+{
+    "packages": {
+        "jeroenvermeulen/solarium": [
+            {
+                "name": "jeroenvermeulen/solarium",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jeroenvermeulen/magento-solarium.git",
+                    "reference": "e6a04c1f29873f72177c066b926f65d4bc13cee6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jeroenvermeulen/magento-solarium/zipball/e6a04c1f29873f72177c066b926f65d4bc13cee6",
+                    "reference": "e6a04c1f29873f72177c066b926f65d4bc13cee6",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-10-24T14:27:32+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "6.0.0",
+                        "stability": "beta",
+                        "license_uri": "http://opensource.org/licenses/osl-3.0.php",
+                        "summary": "Solr based full text search for Magento CE. Uses the Solarium library.",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "JeroenVermeulen/Solarium"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/JeroenVermeulen_Solarium.xml"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Solarium"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Symfony/Component/EventDispatcher"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jeroen Vermeulen",
+                        "email": "info@jeroenvermeulen.eu"
+                    }
+                ],
+                "description": "Solr based full text search for Magento CE. Uses the Solarium library.",
+                "homepage": "https://github.com/jeroenvermeulen/magento-solarium/",
+                "support": {
+                    "source": "https://github.com/jeroenvermeulen/magento-solarium/tree/master"
+                }
+            },
+            {
+                "name": "jeroenvermeulen/solarium",
+                "version": "dev-#47_big_dataset_autosuggest_fix",
+                "version_normalized": "dev-#47_big_dataset_autosuggest_fix",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jeroenvermeulen/magento-solarium.git",
+                    "reference": "4310f62cb8c0c8a700e1e0ffed0855729080eb86"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jeroenvermeulen/magento-solarium/zipball/4310f62cb8c0c8a700e1e0ffed0855729080eb86",
+                    "reference": "4310f62cb8c0c8a700e1e0ffed0855729080eb86",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-08-04T19:38:27+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "6.0.0",
+                        "stability": "beta",
+                        "license_uri": "http://opensource.org/licenses/osl-3.0.php",
+                        "summary": "Solr based full text search for Magento CE. Uses the Solarium library.",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "JeroenVermeulen/Solarium"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/JeroenVermeulen_Solarium.xml"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Solarium"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Symfony/Component/EventDispatcher"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jeroen Vermeulen",
+                        "email": "info@jeroenvermeulen.eu"
+                    }
+                ],
+                "description": "Solr based full text search for Magento CE. Uses the Solarium library.",
+                "homepage": "https://github.com/jeroenvermeulen/magento-solarium/",
+                "support": {
+                    "source": "https://github.com/jeroenvermeulen/magento-solarium/tree/#47_big_dataset_autosuggest_fix"
+                }
+            },
+            {
+                "name": "jeroenvermeulen/solarium",
+                "version": "dev-50_fix_ugly_css_on_autocomplete_error",
+                "version_normalized": "dev-50_fix_ugly_css_on_autocomplete_error",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jeroenvermeulen/magento-solarium.git",
+                    "reference": "2466b5288ffbb69301ba868713afd34736c8303f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jeroenvermeulen/magento-solarium/zipball/2466b5288ffbb69301ba868713afd34736c8303f",
+                    "reference": "2466b5288ffbb69301ba868713afd34736c8303f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-08-20T20:07:58+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "6.0.0",
+                        "stability": "beta",
+                        "license_uri": "http://opensource.org/licenses/osl-3.0.php",
+                        "summary": "Solr based full text search for Magento CE. Uses the Solarium library.",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "JeroenVermeulen/Solarium"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/JeroenVermeulen_Solarium.xml"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Solarium"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Symfony/Component/EventDispatcher"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jeroen Vermeulen",
+                        "email": "info@jeroenvermeulen.eu"
+                    }
+                ],
+                "description": "Solr based full text search for Magento CE. Uses the Solarium library.",
+                "homepage": "https://github.com/jeroenvermeulen/magento-solarium/",
+                "support": {
+                    "source": "https://github.com/jeroenvermeulen/magento-solarium/tree/50_fix_ugly_css_on_autocomplete_error"
+                }
+            },
+            {
+                "name": "jeroenvermeulen/solarium",
+                "version": "dev-core_per_store",
+                "version_normalized": "dev-core_per_store",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jeroenvermeulen/magento-solarium.git",
+                    "reference": "72ca8bf39d1181df2fc31ba95bfce43eccdaa771"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jeroenvermeulen/magento-solarium/zipball/72ca8bf39d1181df2fc31ba95bfce43eccdaa771",
+                    "reference": "72ca8bf39d1181df2fc31ba95bfce43eccdaa771",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-12-02T00:04:35+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "6.0.0",
+                        "stability": "beta",
+                        "license_uri": "http://opensource.org/licenses/osl-3.0.php",
+                        "summary": "Solr based full text search for Magento CE. Uses the Solarium library.",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "JeroenVermeulen/Solarium"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/JeroenVermeulen_Solarium.xml"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Solarium"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Symfony/Component/EventDispatcher"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jeroen Vermeulen",
+                        "email": "info@jeroenvermeulen.eu"
+                    }
+                ],
+                "description": "Solr based full text search for Magento CE. Uses the Solarium library.",
+                "homepage": "https://github.com/jeroenvermeulen/magento-solarium/",
+                "support": {
+                    "source": "https://github.com/jeroenvermeulen/magento-solarium/tree/core_per_store"
+                }
+            },
+            {
+                "name": "jeroenvermeulen/solarium",
+                "version": "dev-release/1.5.0",
+                "version_normalized": "dev-release/1.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jeroenvermeulen/magento-solarium.git",
+                    "reference": "98ffdbc86190a14ddc6aa77e5fa47597a0793313"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jeroenvermeulen/magento-solarium/zipball/98ffdbc86190a14ddc6aa77e5fa47597a0793313",
+                    "reference": "98ffdbc86190a14ddc6aa77e5fa47597a0793313",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-15T13:54:11+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento_connect": {
+                        "channel": "community",
+                        "php_min": "5.3.0",
+                        "php_max": "6.0.0",
+                        "stability": "beta",
+                        "license_uri": "http://opensource.org/licenses/osl-3.0.php",
+                        "summary": "Solr based full text search for Magento CE. Uses the Solarium library.",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "JeroenVermeulen/Solarium"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/JeroenVermeulen_Solarium.xml"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Solarium"
+                            },
+                            {
+                                "type": "magelib",
+                                "structure": "dir",
+                                "path": "Symfony/Component/EventDispatcher"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jeroen Vermeulen",
+                        "email": "info@jeroenvermeulen.eu"
+                    }
+                ],
+                "description": "Solr based full text search for Magento CE. Uses the Solarium library.",
+                "homepage": "https://github.com/jeroenvermeulen/magento-solarium/",
+                "support": {
+                    "source": "https://github.com/jeroenvermeulen/magento-solarium/tree/v1.5.0"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/firecart_integration": [
+            {
+                "name": "connect20/firecart_integration",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/firecart_integration/1.0.0/firecart_integration-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Canvass Tech",
+                        "email": "ankur@canvass.in"
+                    }
+                ],
+                "description": "Integrate your magento with Firecart. A powerful marketing automation tool."
+            }
+        ]
+    }
+}

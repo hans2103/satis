@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "diglin/diglin_geoip": [
+            {
+                "name": "diglin/diglin_geoip",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Geoip.git",
+                    "reference": "923fabd936f8d3efe43852e3c3463c87a6fecca0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Geoip/zipball/923fabd936f8d3efe43852e3c3463c87a6fecca0",
+                    "reference": "923fabd936f8d3efe43852e3c3463c87a6fecca0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-02-16T09:44:34+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sylvain Rayé",
+                        "email": "support@diglin.com"
+                    }
+                ],
+                "description": "Magento 1.x module restricting access and redirecting visitors to specific url based on IP or country list based on Maxmind Free or Paid database license",
+                "support": {
+                    "source": "https://github.com/diglin/Diglin_Geoip/tree/1.0.0",
+                    "issues": "https://github.com/diglin/Diglin_Geoip/issues"
+                }
+            }
+        ]
+    }
+}

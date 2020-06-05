@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "aydus/visitorlog": [
+            {
+                "name": "aydus/visitorlog",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/Visitorlog.git",
+                    "reference": "0c774b8088efbfed500eeae2e67a0d51db738006"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/Visitorlog/zipball/0c774b8088efbfed500eeae2e67a0d51db738006",
+                    "reference": "0c774b8088efbfed500eeae2e67a0d51db738006",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2015-08-09T15:01:46+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "davidt@aydus.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Admin interface to the Magento visitor log. Includes Geolocation details.",
+                "homepage": "https://github.com/aydus/Visitorlog.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/Visitorlog/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/Visitorlog/issues"
+                }
+            }
+        ]
+    }
+}

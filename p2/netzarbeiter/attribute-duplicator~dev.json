@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "netzarbeiter/attribute-duplicator": [
+            {
+                "name": "netzarbeiter/attribute-duplicator",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Vinai/attribute-duplicator.git",
+                    "reference": "046511befe7321935ea6c343a12baac62d47a053"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Vinai/attribute-duplicator/zipball/046511befe7321935ea6c343a12baac62d47a053",
+                    "reference": "046511befe7321935ea6c343a12baac62d47a053",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2019-03-13T10:03:47+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Magento extenson which eanbles you to duplicate product attributes.",
+                "homepage": "https://github.com/Vinai/attribute-duplicator",
+                "support": {
+                    "source": "https://github.com/Vinai/attribute-duplicator/tree/master",
+                    "issues": "https://github.com/Vinai/attribute-duplicator/issues"
+                }
+            }
+        ]
+    }
+}

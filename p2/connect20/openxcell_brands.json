@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/openxcell_brands": [
+            {
+                "name": "connect20/Openxcell_Brands",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Openxcell_Brands/1.0.0/Openxcell_Brands-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Jayneel",
+                        "email": "jayneel@openxcell.com"
+                    }
+                ],
+                "description": "Brand slider gives dynamic access to admin to add/update/delete brands with their logo from admin which displays on frontend."
+            }
+        ]
+    }
+}

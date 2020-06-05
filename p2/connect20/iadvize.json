@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/iadvize": [
+            {
+                "name": "connect20/iAdvize",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/iAdvize/1.0.0/iAdvize-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Creadev",
+                        "email": "remi@creadev.info"
+                    }
+                ],
+                "description": "Extension permettant d'installer très facilement le service iAdvize.com dans Magento"
+            },
+            {
+                "name": "connect20/iAdvize",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/iAdvize/1.0.1/iAdvize-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL-3.0)"
+                ],
+                "authors": [
+                    {
+                        "name": "Creadev",
+                        "email": "remi@creadev.info"
+                    }
+                ],
+                "description": "Extension permettant d'installer très facilement le service iAdvize.com dans Magento"
+            }
+        ]
+    }
+}

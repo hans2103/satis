@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/payserv_googlefinance": [
+            {
+                "name": "connect20/Payserv_GoogleFinance",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Payserv_GoogleFinance/1.0.2/Payserv_GoogleFinance-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Mussulis",
+                        "email": "michael@payserv.ro"
+                    }
+                ],
+                "description": "Currency conversion alternative to Webserviceex from Google Finance."
+            },
+            {
+                "name": "connect20/Payserv_GoogleFinance",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Payserv_GoogleFinance/1.0.3/Payserv_GoogleFinance-1.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Michael Mussulis",
+                        "email": "michael@payserv.ro"
+                    }
+                ],
+                "description": "Currency conversion alternative to Webserviceex from Google Finance."
+            }
+        ]
+    }
+}

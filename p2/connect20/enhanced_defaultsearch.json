@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/enhanced_defaultsearch": [
+            {
+                "name": "connect20/enhanced_defaultsearch",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/enhanced_defaultsearch/1.0.1/enhanced_defaultsearch-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "magecoders",
+                        "email": "rahil28288@gmail.com"
+                    }
+                ],
+                "description": "Enhanced Default Search for Magento. It helps to improve your magento store search results and return more relevant result againt your search query."
+            }
+        ]
+    }
+}

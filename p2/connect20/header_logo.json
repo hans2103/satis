@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/header_logo": [
+            {
+                "name": "connect20/header_logo",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/header_logo/0.1.0/header_logo-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Leeladhar Malav",
+                        "email": "lalit.softengineer@gmail.com"
+                    }
+                ],
+                "description": "Admin can upload store logo from magento back-end."
+            }
+        ]
+    }
+}

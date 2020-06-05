@@ -1,0 +1,76 @@
+{
+    "packages": {
+        "limesoda/limesoda_live-guard": [
+            {
+                "name": "limesoda/limesoda_live-guard",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LimeSoda/LimeSoda_LiveGuard.git",
+                    "reference": "67fa7ebb8d5782a168b9f2e1b521fb691a02b0e8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LimeSoda/LimeSoda_LiveGuard/zipball/67fa7ebb8d5782a168b9f2e1b521fb691a02b0e8",
+                    "reference": "67fa7ebb8d5782a168b9f2e1b521fb691a02b0e8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-04-07T14:18:14+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthias Zeis",
+                        "email": "m.zeis@limesoda.com"
+                    }
+                ],
+                "description": "Helps you to protect your live environment (and others) by checking that all settings are what they should be.",
+                "support": {
+                    "source": "https://github.com/LimeSoda/LimeSoda_LiveGuard/tree/v1.0.2",
+                    "issues": "https://github.com/LimeSoda/LimeSoda_LiveGuard/issues"
+                }
+            },
+            {
+                "name": "limesoda/limesoda_live-guard",
+                "version": "dev-dev",
+                "version_normalized": "dev-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/LimeSoda/LimeSoda_LiveGuard.git",
+                    "reference": "bc736b0f51f00ec8db273a4cdce14b86f1f485b1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/LimeSoda/LimeSoda_LiveGuard/zipball/bc736b0f51f00ec8db273a4cdce14b86f1f485b1",
+                    "reference": "bc736b0f51f00ec8db273a4cdce14b86f1f485b1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-05T20:04:33+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthias Zeis",
+                        "email": "m.zeis@limesoda.com"
+                    }
+                ],
+                "description": "Helps you to protect your live environment (and others) by checking that all settings are what they should be.",
+                "support": {
+                    "source": "https://github.com/LimeSoda/LimeSoda_LiveGuard/tree/dev",
+                    "issues": "https://github.com/LimeSoda/LimeSoda_LiveGuard/issues"
+                }
+            }
+        ]
+    }
+}

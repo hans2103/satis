@@ -1,0 +1,223 @@
+{
+    "packages": {
+        "aligent/geoip": [
+            {
+                "name": "aligent/geoip",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Aligent_GeoIP.git",
+                    "reference": "5d8a977a2c692836a4df9ad08572e4c5257bc9ab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Aligent_GeoIP/zipball/5d8a977a2c692836a4df9ad08572e4c5257bc9ab",
+                    "reference": "5d8a977a2c692836a4df9ad08572e4c5257bc9ab",
+                    "shasum": ""
+                },
+                "require": {
+                    "geoip/geoip": "v1.14",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-06-06T00:25:27+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "This module provides a helper for various GeoIP related functions.",
+                "homepage": "https://github.com/aligent/Aligent_GeoIP",
+                "support": {
+                    "source": "https://github.com/aligent/Aligent_GeoIP/tree/master",
+                    "issues": "https://github.com/aligent/Aligent_GeoIP/issues"
+                }
+            },
+            {
+                "name": "aligent/geoip",
+                "version": "dev-cs-fixes",
+                "version_normalized": "dev-cs-fixes",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Aligent_GeoIP.git",
+                    "reference": "edac5e3b9c898fb5a07f881e8b6d43a44a4e2d4f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Aligent_GeoIP/zipball/edac5e3b9c898fb5a07f881e8b6d43a44a4e2d4f",
+                    "reference": "edac5e3b9c898fb5a07f881e8b6d43a44a4e2d4f",
+                    "shasum": ""
+                },
+                "require": {
+                    "geoip/geoip": "v1.14",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-02-07T04:26:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "This module provides a helper for various GeoIP related functions.",
+                "homepage": "https://github.com/aligent/Aligent_GeoIP",
+                "support": {
+                    "source": "https://github.com/aligent/Aligent_GeoIP/tree/cs-fixes",
+                    "issues": "https://github.com/aligent/Aligent_GeoIP/issues"
+                }
+            },
+            {
+                "name": "aligent/geoip",
+                "version": "dev-feature/add_continent_function",
+                "version_normalized": "dev-feature/add_continent_function",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Aligent_GeoIP.git",
+                    "reference": "aeef3ae2a3d736663aa674d1670799d856af0a60"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Aligent_GeoIP/zipball/aeef3ae2a3d736663aa674d1670799d856af0a60",
+                    "reference": "aeef3ae2a3d736663aa674d1670799d856af0a60",
+                    "shasum": ""
+                },
+                "require": {
+                    "geoip/geoip": "v1.14",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-02-01T01:12:06+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "This module provides a helper for various GeoIP related functions.",
+                "homepage": "https://github.com/aligent/Aligent_GeoIP",
+                "support": {
+                    "source": "https://github.com/aligent/Aligent_GeoIP/tree/feature/add_continent_function",
+                    "issues": "https://github.com/aligent/Aligent_GeoIP/issues"
+                }
+            },
+            {
+                "name": "aligent/geoip",
+                "version": "dev-feature/cloudflare-headers",
+                "version_normalized": "dev-feature/cloudflare-headers",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Aligent_GeoIP.git",
+                    "reference": "bd0668ed06108565a760af99652bae06ef33cc71"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Aligent_GeoIP/zipball/bd0668ed06108565a760af99652bae06ef33cc71",
+                    "reference": "bd0668ed06108565a760af99652bae06ef33cc71",
+                    "shasum": ""
+                },
+                "require": {
+                    "geoip/geoip": "v1.14",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-11-24T05:09:31+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "This module provides a helper for various GeoIP related functions.",
+                "homepage": "https://github.com/aligent/Aligent_GeoIP",
+                "support": {
+                    "source": "https://github.com/aligent/Aligent_GeoIP/tree/feature/cloudflare-headers",
+                    "issues": "https://github.com/aligent/Aligent_GeoIP/issues"
+                }
+            },
+            {
+                "name": "aligent/geoip",
+                "version": "dev-feature/non_standard_vendor_location",
+                "version_normalized": "dev-feature/non_standard_vendor_location",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Aligent_GeoIP.git",
+                    "reference": "999588f41f81d16a9b4045c97ac9b62149a07ee0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Aligent_GeoIP/zipball/999588f41f81d16a9b4045c97ac9b62149a07ee0",
+                    "reference": "999588f41f81d16a9b4045c97ac9b62149a07ee0",
+                    "shasum": ""
+                },
+                "require": {
+                    "geoip/geoip": "v1.14",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-11-23T06:47:00+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "This module provides a helper for various GeoIP related functions.",
+                "homepage": "https://github.com/aligent/Aligent_GeoIP",
+                "support": {
+                    "source": "https://github.com/aligent/Aligent_GeoIP/tree/feature/non_standard_vendor_location",
+                    "issues": "https://github.com/aligent/Aligent_GeoIP/issues"
+                }
+            },
+            {
+                "name": "aligent/geoip",
+                "version": "dev-feature/revise-master",
+                "version_normalized": "dev-feature/revise-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Aligent_GeoIP.git",
+                    "reference": "3a1e805167d3a18d40ea73c56b55d669105c4980"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Aligent_GeoIP/zipball/3a1e805167d3a18d40ea73c56b55d669105c4980",
+                    "reference": "3a1e805167d3a18d40ea73c56b55d669105c4980",
+                    "shasum": ""
+                },
+                "require": {
+                    "geoip/geoip": "v1.14",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-10-06T01:25:11+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "This module provides a helper for various GeoIP related functions.",
+                "homepage": "https://github.com/aligent/Aligent_GeoIP",
+                "support": {
+                    "source": "https://github.com/aligent/Aligent_GeoIP/tree/feature/revise-master",
+                    "issues": "https://github.com/aligent/Aligent_GeoIP/issues"
+                }
+            },
+            {
+                "name": "aligent/geoip",
+                "version": "dev-yakima",
+                "version_normalized": "dev-yakima",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Aligent_GeoIP.git",
+                    "reference": "e391c6873d414d5a4b8ca44d3bee5ba49c0cf405"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Aligent_GeoIP/zipball/e391c6873d414d5a4b8ca44d3bee5ba49c0cf405",
+                    "reference": "e391c6873d414d5a4b8ca44d3bee5ba49c0cf405",
+                    "shasum": ""
+                },
+                "require": {
+                    "geoip/geoip": "v1.14",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-08-10T01:30:50+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "This module provides a helper for various GeoIP related functions.",
+                "homepage": "https://github.com/aligent/Aligent_GeoIP",
+                "support": {
+                    "source": "https://github.com/aligent/Aligent_GeoIP/tree/yakima",
+                    "issues": "https://github.com/aligent/Aligent_GeoIP/issues"
+                }
+            }
+        ]
+    }
+}

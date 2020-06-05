@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "integer-net/magento-localized-ro": [
+            {
+                "name": "integer-net/magento-localized-ro",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/MagentoLocalizedRO.git",
+                    "reference": "7eb128338c7ee0f89d90d52b209079d5e442ff9c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/MagentoLocalizedRO/zipball/7eb128338c7ee0f89d90d52b209079d5e442ff9c",
+                    "reference": "7eb128338c7ee0f89d90d52b209079d5e442ff9c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-11-24T16:50:15+00:00",
+                "type": "magento-module",
+                "description": "Romanian Localization package for Magento Localized (aka Magento RO)",
+                "homepage": "https://github.com/integer-net/MagentoLocalizedRO",
+                "support": {
+                    "source": "https://github.com/integer-net/MagentoLocalizedRO/tree/master",
+                    "issues": "https://github.com/integer-net/MagentoLocalizedRO/issues"
+                }
+            }
+        ]
+    }
+}

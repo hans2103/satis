@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/iceshop_icecatlive": [
+            {
+                "name": "connect20/ICEshop_IcecatLive",
+                "version": "1.7.11",
+                "version_normalized": "1.7.11.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/IcecatLive/1.7.11/IcecatLive-1.7.11.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v.3"
+                ],
+                "authors": [
+                    {
+                        "name": "IceShop",
+                        "email": "support@iceshop.nl"
+                    }
+                ],
+                "description": "ICEcat to Magento Open Source Connector"
+            }
+        ]
+    }
+}

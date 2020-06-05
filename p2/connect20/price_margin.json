@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/price_margin": [
+            {
+                "name": "connect20/price_margin",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/price_margin/0.1.0/price_margin-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Magebuzz",
+                        "email": "magebuzz@gmail.com"
+                    }
+                ],
+                "description": "Customers based pricing for Magento"
+            }
+        ]
+    }
+}

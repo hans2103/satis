@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/emailbrainapi": [
+            {
+                "name": "connect20/EmailBrainApi",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/EmailBrainApi/1.0.0/EmailBrainApi-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "a1professionals",
+                        "email": "teamlead@a1professionals.com"
+                    }
+                ],
+                "description": "Grow  your mailing list through Magento transactions! Every time someone registers to buy from your online shop or service via Magento, ask them to opt in to your EmailBrain newsletter. This way, you can send them targeted newsletters, i.e. notify them of new specials, good deals, or new products."
+            },
+            {
+                "name": "connect20/EmailBrainApi",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/EmailBrainApi/1.1.0/EmailBrainApi-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "a1professionals",
+                        "email": "teamlead@a1professionals.com"
+                    }
+                ],
+                "description": "Grow  your mailing list through Magento transactions! Every time someone registers to buy from your online shop or service via Magento, ask them to opt in to your EmailBrain newsletter. This way, you can send them targeted newsletters, i.e. notify them of new specials, good deals, or new products."
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/frontendpdfinvoice": [
+            {
+                "name": "connect20/FrontendPdfInvoice",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/FrontendPdfInvoice/1.0.0/FrontendPdfInvoice-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Modules4U-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Modules4U",
+                        "email": "extensions@modules4u.biz"
+                    }
+                ],
+                "description": "This extension allows your registered customers to download invoices as PDF"
+            }
+        ]
+    }
+}

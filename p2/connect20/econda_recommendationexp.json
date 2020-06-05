@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/econda_recommendationexp": [
+            {
+                "name": "connect20/Econda_Recommendationexp",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Econda_Recommendationexp/1.0.0/Econda_Recommendationexp-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "BSD"
+                ],
+                "authors": [
+                    {
+                        "name": "ecdev",
+                        "email": "reinecke@econda.de"
+                    }
+                ],
+                "description": "The extension simplifies the data exchange between your Magento shop system and econda Cross Sell rec engine."
+            }
+        ]
+    }
+}

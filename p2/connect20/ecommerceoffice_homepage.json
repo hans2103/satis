@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ecommerceoffice_homepage": [
+            {
+                "name": "connect20/ecommerceoffice_homepage",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ecommerceoffice_homepage/1.0.4/ecommerceoffice_homepage-1.0.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "volgodark",
+                        "email": "volgodark@gmail.com"
+                    }
+                ],
+                "description": "Organize home page in few clicks. Show best sellers,popular,new,most rated products and product reviews."
+            }
+        ]
+    }
+}

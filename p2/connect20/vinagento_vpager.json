@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/vinagento_vpager": [
+            {
+                "name": "connect20/Vinagento_Vpager",
+                "version": "0.1.6",
+                "version_normalized": "0.1.6.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Vinagento_Vpager/0.1.6/Vinagento_Vpager-0.1.6.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Vinagento",
+                        "email": "vinagento@gmail.com"
+                    }
+                ],
+                "description": "Ajax powered pagination and layered navigation for your store"
+            }
+        ]
+    }
+}

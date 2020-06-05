@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "integer-net/magento-localized-ebay": [
+            {
+                "name": "integer-net/magento-localized-ebay",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/MagentoLocalizedEbay.git",
+                    "reference": "2c3b448ba2f5c12ec391bee2b63af1222f4c31a9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/MagentoLocalizedEbay/zipball/2c3b448ba2f5c12ec391bee2b63af1222f4c31a9",
+                    "reference": "2c3b448ba2f5c12ec391bee2b63af1222f4c31a9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-05-25T12:21:02+00:00",
+                "type": "magento-module",
+                "description": "Ebay edition package for Magento Localized",
+                "homepage": "https://github.com/integer-net/MagentoLocalizedEbay",
+                "support": {
+                    "source": "https://github.com/integer-net/MagentoLocalizedEbay/tree/master",
+                    "issues": "https://github.com/integer-net/MagentoLocalizedEbay/issues"
+                }
+            }
+        ]
+    }
+}

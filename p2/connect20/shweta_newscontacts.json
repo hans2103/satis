@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/shweta_newscontacts": [
+            {
+                "name": "connect20/shweta_newscontacts",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/shweta_newscontacts/0.1.0/shweta_newscontacts-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Shweta Agarwal",
+                        "email": "shweta@ptiwebtech.com"
+                    }
+                ],
+                "description": "With This Extension the news-letter Check-Box added with Contacts Us page. "
+            }
+        ]
+    }
+}

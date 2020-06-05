@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/commercebees_customergrouprestriction_v1": [
+            {
+                "name": "connect20/CommerceBees_CustomerGroupRestriction_v1",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CommerceBees_CustomerGroupRestriction_v1/1.0.0/CommerceBees_CustomerGroupRestriction_v1-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL-v3"
+                ],
+                "authors": [
+                    {
+                        "name": "Commerce Bees",
+                        "email": "support@commercebees.com"
+                    }
+                ],
+                "description": "Customer group restriction is a free Magento module to restrict some customer groups from buying certain products"
+            },
+            {
+                "name": "connect20/CommerceBees_CustomerGroupRestriction_v1",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/CommerceBees_CustomerGroupRestriction_v1/1.0.1/CommerceBees_CustomerGroupRestriction_v1-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL-v3"
+                ],
+                "authors": [
+                    {
+                        "name": "Commerce Bees",
+                        "email": "support@commercebees.com"
+                    }
+                ],
+                "description": "Customer group restriction is a free Magento module to restrict some customer groups from buying certain products"
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "husseycoding/ajaxcartpopup": [
+            {
+                "name": "husseycoding/ajaxcartpopup",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/husseycoding/ajaxcartpopup.git",
+                    "reference": "8c88871cbbe86ab4bc706973cb644bcc5534eb07"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/husseycoding/ajaxcartpopup/zipball/8c88871cbbe86ab4bc706973cb644bcc5534eb07",
+                    "reference": "8c88871cbbe86ab4bc706973cb644bcc5534eb07",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-02-01T15:05:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jonathan Hussey",
+                        "email": "hussey@husseycoding.co.uk"
+                    }
+                ],
+                "description": "This extension gives you both ajax add/remove cart functionality and a rollover mini cart popup.",
+                "homepage": "https://github.com/husseycoding/ajaxcartpopup",
+                "support": {
+                    "source": "https://github.com/husseycoding/ajaxcartpopup/tree/v1.2.5",
+                    "issues": "https://github.com/husseycoding/ajaxcartpopup/issues"
+                }
+            }
+        ]
+    }
+}

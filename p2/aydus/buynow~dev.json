@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "aydus/buynow": [
+            {
+                "name": "aydus/buynow",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ExtensionsStore/BuyNow.git",
+                    "reference": "4432fccf06dc781a4b86eb4bb493f6ee27e2a3a3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ExtensionsStore/BuyNow/zipball/4432fccf06dc781a4b86eb4bb493f6ee27e2a3a3",
+                    "reference": "4432fccf06dc781a4b86eb4bb493f6ee27e2a3a3",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.3"
+                },
+                "time": "2015-05-28T01:44:45+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "David Tay",
+                        "email": "davidt@aydus.com",
+                        "role": "Author/Maintainer"
+                    }
+                ],
+                "description": "Adds a Buy Now button to your product or landing page. ",
+                "homepage": "https://github.com/aydus/BuyNow.git",
+                "support": {
+                    "source": "https://github.com/ExtensionsStore/BuyNow/tree/master",
+                    "issues": "https://github.com/ExtensionsStore/BuyNow/issues"
+                }
+            }
+        ]
+    }
+}

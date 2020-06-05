@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/eddiespradley_performance": [
+            {
+                "name": "connect20/Eddiespradley_Performance",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Eddiespradley_Performance/1.0.0/Eddiespradley_Performance-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU"
+                ],
+                "authors": [
+                    {
+                        "name": "Eddie Spradley",
+                        "email": "eddie@expandlab.com"
+                    }
+                ],
+                "description": "Outputs some information about your system and how to speed up Magento."
+            },
+            {
+                "name": "connect20/Eddiespradley_Performance",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Eddiespradley_Performance/1.0.1/Eddiespradley_Performance-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU"
+                ],
+                "authors": [
+                    {
+                        "name": "Eddie Spradley",
+                        "email": "eddie@expandlab.com"
+                    }
+                ],
+                "description": "Outputs some information about your system and how to speed up Magento."
+            }
+        ]
+    }
+}

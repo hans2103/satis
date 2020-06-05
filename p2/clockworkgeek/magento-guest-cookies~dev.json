@@ -1,0 +1,34 @@
+{
+    "packages": {
+        "clockworkgeek/magento-guest-cookies": [
+            {
+                "name": "clockworkgeek/magento-guest-cookies",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Magento-Guest-Cookies.git",
+                    "reference": "68bbcabc9d78a4147f9947484c25e9364f78000a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Magento-Guest-Cookies/zipball/68bbcabc9d78a4147f9947484c25e9364f78000a",
+                    "reference": "68bbcabc9d78a4147f9947484c25e9364f78000a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-02-18T23:09:17+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "homepage": "https://github.com/clockworkgeek/Magento-Guest-Cookies",
+                "support": {
+                    "source": "https://github.com/aligent/Magento-Guest-Cookies/tree/master"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/featured_category_magebuzz": [
+            {
+                "name": "connect20/Featured_Category_Magebuzz",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Featured_Category_Magebuzz/0.1.1/Featured_Category_Magebuzz-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magebuzz",
+                        "email": "magebuzz@gmail.com"
+                    }
+                ],
+                "description": "Featured category helps you show or filter special categories which need to have more attention."
+            }
+        ]
+    }
+}

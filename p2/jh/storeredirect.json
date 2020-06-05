@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "jh/storeredirect": [
+            {
+                "name": "jh/storeredirect",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jhoelzl/JH_Storeredirect.git",
+                    "reference": "3406d8cb5030446cfca5b9efeae7d1417976d36f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/jhoelzl/JH_Storeredirect/zipball/3406d8cb5030446cfca5b9efeae7d1417976d36f",
+                    "reference": "3406d8cb5030446cfca5b9efeae7d1417976d36f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-01-29T09:08:12+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Josef Hoelzl",
+                        "email": "hoelzl.josef@gmail.com"
+                    }
+                ],
+                "description": "Redirects store view urls (e.g. from search engine result page) to the correct store view, otherwise standard 404 magento error",
+                "homepage": "https://github.com/jhoelzl/JH_Storeredirect",
+                "support": {
+                    "source": "https://github.com/jhoelzl/JH_Storeredirect/tree/0.1.1",
+                    "issues": "https://github.com/jhoelzl/JH_Storeredirect/issues"
+                }
+            }
+        ]
+    }
+}

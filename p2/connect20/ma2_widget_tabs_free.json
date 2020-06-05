@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ma2_widget_tabs_free": [
+            {
+                "name": "connect20/Ma2_Widget_Tabs_Free",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ma2_Widget_Tabs_Free/1.0.0/Ma2_Widget_Tabs_Free-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Magenmarket.com",
+                        "email": "trungdt@omegatheme.com"
+                    }
+                ],
+                "description": "Ma2 WidgetTabs Free for Magento is a widget module from MagenMarket.com which helps you create tabs widget instances to put anywhere in your Magento store. Tab's content can be text or any widget."
+            }
+        ]
+    }
+}

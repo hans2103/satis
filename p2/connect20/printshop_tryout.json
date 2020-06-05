@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/printshop_tryout": [
+            {
+                "name": "connect20/PrintShop_TryOut",
+                "version": "1.1.5",
+                "version_normalized": "1.1.5.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/PrintShop_TryOut/1.1.5/PrintShop_TryOut-1.1.5.tgz"
+                },
+                "require": {
+                    "connect20/printshop_tryout": ">=1.6.0.0"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Clixmedia GmbH",
+                        "email": "info@clixmedia.ch"
+                    }
+                ],
+                "description": "DesignTool for products. Customers create their own design online with a WYSIWYG - DesignTool and preview."
+            }
+        ]
+    }
+}

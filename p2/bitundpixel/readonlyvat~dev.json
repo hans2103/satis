@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "bitundpixel/readonlyvat": [
+            {
+                "name": "BitUndPixel/ReadOnlyVat",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bitundpixel/magento-read-only-vat.git",
+                    "reference": "d06372192d4b0585893a635802c87732a86c2c55"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/bitundpixel/magento-read-only-vat/zipball/d06372192d4b0585893a635802c87732a86c2c55",
+                    "reference": "d06372192d4b0585893a635802c87732a86c2c55",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-11T08:35:34+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Frank Weigmann",
+                        "email": "frank.weigmann@bitundpixel.de"
+                    }
+                ],
+                "description": "Add modifications to the Magento Frontend that allows the customer to edit his VAT id only once",
+                "support": {
+                    "source": "https://github.com/bitundpixel/magento-read-only-vat/tree/master",
+                    "issues": "https://github.com/bitundpixel/magento-read-only-vat/issues"
+                }
+            }
+        ]
+    }
+}

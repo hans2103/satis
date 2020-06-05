@@ -1,0 +1,48 @@
+{
+    "packages": {
+        "pulsestorm/magento-better404": [
+            {
+                "name": "pulsestorm/magento-better404",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/astorm/MagentoBetter404.git",
+                    "reference": "2cc7ec09f0c5a3726afb6ea2fdeba6a49f5183f0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/astorm/MagentoBetter404/zipball/2cc7ec09f0c5a3726afb6ea2fdeba6a49f5183f0",
+                    "reference": "2cc7ec09f0c5a3726afb6ea2fdeba6a49f5183f0",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.2.0"
+                },
+                "time": "2013-12-23T04:43:21+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Alan Storm",
+                        "email": "astorm@pulsestorm.net",
+                        "homepage": "http://alanstorm.com",
+                        "role": "developer"
+                    }
+                ],
+                "description": "A programmer's 404 page for the Magento Ecommerce system.",
+                "homepage": "https://github.com/astorm/MagentoBetter404",
+                "keywords": [
+                    "magento",
+                    "mvc"
+                ],
+                "support": {
+                    "source": "https://github.com/astorm/MagentoBetter404/tree/1.0.0",
+                    "issues": "https://github.com/astorm/MagentoBetter404/issues"
+                }
+            }
+        ]
+    }
+}

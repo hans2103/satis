@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ewtextensions_inquiry_1_0_0": [
+            {
+                "name": "connect20/EWTExtensions_Inquiry_1_0_0",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/EWTExtensions_Inquiry_1_0_0/1.0.0/EWTExtensions_Inquiry_1_0_0-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Yathavan",
+                        "email": "yathavan7@gmail.com"
+                    }
+                ],
+                "description": "This extension enable customers to send inquiry about products. Store admin will got notified via email."
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/contactforpin": [
+            {
+                "name": "connect20/contactforpin",
+                "version": "1.6.1",
+                "version_normalized": "1.6.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/contactforpin/1.6.1/contactforpin-1.6.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Naveenbos",
+                        "email": "naveen.bos@gmail.com"
+                    }
+                ],
+                "description": "Customer contact form extension is a contact form which saves the customer details into the database, and also send an email to the admin support mail and admin can export customer details."
+            },
+            {
+                "name": "connect20/contactforpin",
+                "version": "1.7.0",
+                "version_normalized": "1.7.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/contactforpin/1.7.0/contactforpin-1.7.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Naveenbos",
+                        "email": "naveen.bos@gmail.com"
+                    }
+                ],
+                "description": "Customer contact form extension is a contact form which saves the customer details into the database, and also send an email to the admin support mail and admin can export customer details."
+            }
+        ]
+    }
+}

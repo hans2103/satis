@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "eltrino/po": [
+            {
+                "name": "eltrino/po",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/eltrino/PrintOrder.git",
+                    "reference": "548b9f3ca4d06d145aac194a5731d97bb205634e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/eltrino/PrintOrder/zipball/548b9f3ca4d06d145aac194a5731d97bb205634e",
+                    "reference": "548b9f3ca4d06d145aac194a5731d97bb205634e",
+                    "shasum": ""
+                },
+                "require": {
+                    "eltrino/compatibility": "dev-master",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-31T12:29:15+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/Eltrino/PrintOrder",
+                            "app/code/Eltrino/PrintOrder"
+                        ]
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Eltrino LLC",
+                        "email": "license@eltrino.com"
+                    }
+                ],
+                "description": "Print Order Confirmation as Guest",
+                "homepage": "http://code.eltrino.com/ee.po",
+                "support": {
+                    "source": "https://github.com/eltrino/PrintOrder/tree/2.0",
+                    "issues": "https://github.com/eltrino/PrintOrder/issues"
+                }
+            }
+        ]
+    }
+}

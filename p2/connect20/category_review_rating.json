@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/category_review_rating": [
+            {
+                "name": "connect20/category_review_rating",
+                "version": "1.0.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/category_review_rating/1.0.0.0/category_review_rating-1.0.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "PrecursorWeb Technologies",
+                        "email": "magento@precursorweb.com"
+                    }
+                ],
+                "description": "Magento category review and rating extension allows you to obtain customer reviews and display them on category page in an awesome way. "
+            }
+        ]
+    }
+}

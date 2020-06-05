@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/apt_salesrule": [
+            {
+                "name": "connect20/Apt_SalesRule",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Apt_SalesRule/0.1.1/Apt_SalesRule-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "prax Ahir",
+                        "email": "info@aptwebdesign.com"
+                    }
+                ],
+                "description": "Customer wise coupon."
+            }
+        ]
+    }
+}

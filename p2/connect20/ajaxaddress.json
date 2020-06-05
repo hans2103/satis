@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ajaxaddress": [
+            {
+                "name": "connect20/ajaxaddress",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ajaxaddress/1.0.0/ajaxaddress-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Chandan Kumar Singh",
+                        "email": "chandankumar8050@gmail.com"
+                    }
+                ],
+                "description": "Ajaxaddress"
+            }
+        ]
+    }
+}

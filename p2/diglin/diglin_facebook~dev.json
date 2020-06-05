@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "diglin/diglin_facebook": [
+            {
+                "name": "diglin/diglin_facebook",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/diglin/Diglin_Facebook.git",
+                    "reference": "97b532c09665a4beef3e4a2fa5b920c3f49e0bc9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/diglin/Diglin_Facebook/zipball/97b532c09665a4beef3e4a2fa5b920c3f49e0bc9",
+                    "reference": "97b532c09665a4beef3e4a2fa5b920c3f49e0bc9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-09-20T17:09:29+00:00",
+                "type": "library",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Sylvain Rayé",
+                        "email": "support@diglin.com"
+                    }
+                ],
+                "description": "Add Facebook Tracking Tags for eCommerce and Product Ads",
+                "support": {
+                    "source": "https://github.com/diglin/Diglin_Facebook/tree/1.0.1",
+                    "issues": "https://github.com/diglin/Diglin_Facebook/issues"
+                }
+            }
+        ]
+    }
+}

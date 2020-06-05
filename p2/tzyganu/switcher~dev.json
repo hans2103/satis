@@ -1,0 +1,31 @@
+{
+    "packages": {
+        "tzyganu/switcher": [
+            {
+                "name": "tzyganu/Switcher",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tzyganu/Switcher.git",
+                    "reference": "951a32cc6e84a09f8d1ebdfd03553a247c111262"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tzyganu/Switcher/zipball/951a32cc6e84a09f8d1ebdfd03553a247c111262",
+                    "reference": "951a32cc6e84a09f8d1ebdfd03553a247c111262",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2017-03-23T15:40:58+00:00",
+                "type": "magento-module",
+                "support": {
+                    "source": "https://github.com/tzyganu/Switcher/tree/master",
+                    "issues": "https://github.com/tzyganu/Switcher/issues"
+                }
+            }
+        ]
+    }
+}

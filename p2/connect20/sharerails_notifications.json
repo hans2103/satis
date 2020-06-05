@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/sharerails_notifications": [
+            {
+                "name": "connect20/sharerails_notifications",
+                "version": "1.0.14",
+                "version_normalized": "1.0.14.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/sharerails_notifications/1.0.14/sharerails_notifications-1.0.14.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "James",
+                        "email": "james.butler@dimicho.com"
+                    }
+                ],
+                "description": "ShareRails is a realtime tool that helps business owners increase the exposure of their popular products."
+            }
+        ]
+    }
+}

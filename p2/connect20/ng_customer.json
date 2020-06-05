@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/ng_customer": [
+            {
+                "name": "connect20/ng_customer",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ng_customer/1.0.1/ng_customer-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "NG",
+                        "email": "gargneeraj98@gmail.com"
+                    }
+                ],
+                "description": "This extension is related to add new link in my account left navigation bar and add its respective page."
+            },
+            {
+                "name": "connect20/ng_customer",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ng_customer/1.0.2/ng_customer-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "NG",
+                        "email": "extensionsng@gmail.com"
+                    }
+                ],
+                "description": "This extension is related to add new link in my account left navigation bar and add its respective page."
+            }
+        ]
+    }
+}

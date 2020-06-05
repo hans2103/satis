@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/maurisource_bytheme": [
+            {
+                "name": "connect20/Maurisource_ByTheme",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Maurisource_ByTheme/1.0.0/Maurisource_ByTheme-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "ASL"
+                ],
+                "authors": [
+                    {
+                        "name": "Manesh Sonah",
+                        "email": "maurisource.seo@gmail.com"
+                    }
+                ],
+                "description": "Allow users to easily browse through your product categories."
+            }
+        ]
+    }
+}

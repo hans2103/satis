@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "tim-reynolds/magento-qconfig": [
+            {
+                "name": "tim-reynolds/magento-qconfig",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tim-reynolds/magento-qconfig.git",
+                    "reference": "f810f7ba689f7a088081696944377a6eb2b80964"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tim-reynolds/magento-qconfig/zipball/f810f7ba689f7a088081696944377a6eb2b80964",
+                    "reference": "f810f7ba689f7a088081696944377a6eb2b80964",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-07-31T19:42:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Tim Reynolds"
+                    }
+                ],
+                "description": "Magento config quick search",
+                "homepage": "https://github.com/tim-reynolds/",
+                "support": {
+                    "source": "https://github.com/tim-reynolds/magento-qconfig/tree/1.0",
+                    "issues": "https://github.com/tim-reynolds/magento-qconfig/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/ipg_pagseguro_transparente": [
+            {
+                "name": "connect20/IPG_PagSeguro_Transparente",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/IPG_PagSeguro_Transparente/1.1.3/IPG_PagSeguro_Transparente-1.1.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "iPAGARE",
+                        "email": "magento@ideatecnologia.com"
+                    }
+                ],
+                "description": "Módulo PagSeguro Transparente para Magento."
+            },
+            {
+                "name": "connect20/IPG_PagSeguro_Transparente",
+                "version": "1.1.3.1",
+                "version_normalized": "1.1.3.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/IPG_PagSeguro_Transparente/1.1.3.1/IPG_PagSeguro_Transparente-1.1.3.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "iPAGARE",
+                        "email": "magento@ideatecnologia.com"
+                    }
+                ],
+                "description": "Módulo PagSeguro Transparente para Magento."
+            }
+        ]
+    }
+}

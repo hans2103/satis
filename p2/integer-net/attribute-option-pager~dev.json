@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "integer-net/attribute-option-pager": [
+            {
+                "name": "integer-net/attribute-option-pager",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/IntegerNet_AttributeOptionPager.git",
+                    "reference": "9287f76540ab1602320474bf47c9c9bb30192874"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/IntegerNet_AttributeOptionPager/zipball/9287f76540ab1602320474bf47c9c9bb30192874",
+                    "reference": "9287f76540ab1602320474bf47c9c9bb30192874",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "suggest": {
+                    "jarlssen/fasterattributeoptionedit": "Lazy loading of form fields to reduce JavaScript load."
+                },
+                "time": "2015-10-07T11:59:54+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "integer_net GmbH",
+                        "email": "info@integer-net.de",
+                        "homepage": "http://www.integer-net.de/",
+                        "role": "Company"
+                    },
+                    {
+                        "name": "Fabian Schmengler",
+                        "email": "fs@integer-net.de",
+                        "homepage": "http://www.integer-net.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Pagination for Attribute Option Form",
+                "homepage": "https://github.com/integer-net/IntegerNet_AttributeOptionPager",
+                "keywords": [
+                    "adminhtml",
+                    "magento",
+                    "widget"
+                ],
+                "support": {
+                    "source": "https://github.com/integer-net/IntegerNet_AttributeOptionPager/tree/0.1.4",
+                    "issues": "https://github.com/integer-net/IntegerNet_AttributeOptionPager/issues"
+                }
+            }
+        ]
+    }
+}

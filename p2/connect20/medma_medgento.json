@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/medma_medgento": [
+            {
+                "name": "connect20/Medma_Medgento",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Medma_Medgento/1.0.0/Medma_Medgento-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Medma Infomatix Pvt. Ltd.",
+                        "email": "gaurav@medma.in"
+                    }
+                ],
+                "description": "A highly scalable and robust responsive magento theme for all business stores"
+            }
+        ]
+    }
+}

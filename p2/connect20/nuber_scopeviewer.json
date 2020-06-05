@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/nuber_scopeviewer": [
+            {
+                "name": "connect20/Nuber_Scopeviewer",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Nuber_Scopeviewer/0.1.0/Nuber_Scopeviewer-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL---Open-Software-Licence-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Martin Nuber",
+                        "email": "martinnuber@gmail.com"
+                    }
+                ],
+                "description": "See the values of other store views if they differ from the current scope level in System -> Configuration page in admin."
+            },
+            {
+                "name": "connect20/Nuber_Scopeviewer",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Nuber_Scopeviewer/0.1.1/Nuber_Scopeviewer-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL---Open-Software-Licence-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Martin Nuber",
+                        "email": "martinnuber@gmail.com"
+                    }
+                ],
+                "description": "See the values of other store views if they differ from the current scope level in System -> Configuration page in admin."
+            }
+        ]
+    }
+}

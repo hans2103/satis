@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/meigee_javascriptdefer": [
+            {
+                "name": "connect20/Meigee_JavascriptDefer",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Meigee_JavascriptDefer/1.0.0/Meigee_JavascriptDefer-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Meigee Sp.Z.o.o",
+                        "email": "nick@meigeeteam.com"
+                    }
+                ],
+                "description": "Javascript Defer Extension allows defer parsing of JavaScript that increases performance of your store."
+            },
+            {
+                "name": "connect20/Meigee_JavascriptDefer",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Meigee_JavascriptDefer/1.0.1/Meigee_JavascriptDefer-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Meigee Sp.Z.o.o",
+                        "email": "nick@meigeeteam.com"
+                    }
+                ],
+                "description": "Javascript Defer Extension allows defer parsing of JavaScript that increases performance of your store."
+            }
+        ]
+    }
+}

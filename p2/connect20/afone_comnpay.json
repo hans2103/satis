@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/afone_comnpay": [
+            {
+                "name": "connect20/Afone_Comnpay",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Afone_Comnpay/1.0.2/Afone_Comnpay-1.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Afone",
+                        "email": "smalinge@afone.com"
+                    }
+                ],
+                "description": "The extension provides Comnpay payment integration. "
+            },
+            {
+                "name": "connect20/Afone_Comnpay",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Afone_Comnpay/1.1.0/Afone_Comnpay-1.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "Afone",
+                        "email": "smalinge@afone.com"
+                    }
+                ],
+                "description": "The extension provides Comnpay payment integration. "
+            }
+        ]
+    }
+}

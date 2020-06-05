@@ -1,0 +1,40 @@
+{
+    "packages": {
+        "magento-hackathon/hackathonwebsite_projectidea": [
+            {
+                "name": "magento-hackathon/hackathonwebsite_projectidea",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/HackathonWebsite_ProjectIdea.git",
+                    "reference": "147df8411e6222c54c5605e92063cf0902dbd87b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/HackathonWebsite_ProjectIdea/zipball/147df8411e6222c54c5605e92063cf0902dbd87b",
+                    "reference": "147df8411e6222c54c5605e92063cf0902dbd87b",
+                    "shasum": ""
+                },
+                "require": {
+                    "ecomdev/mage-ci": "master-dev",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-09T14:58:16+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "."
+                },
+                "license": [
+                    "GPL-3.0"
+                ],
+                "description": "Magento Hackathon Project Ideas for Shop",
+                "homepage": "https://github.com/magento-hackathon/HackathonWebsite_ProjectIdea",
+                "support": {
+                    "source": "https://github.com/magento-hackathon/HackathonWebsite_ProjectIdea/tree/master",
+                    "issues": "https://github.com/magento-hackathon/HackathonWebsite_ProjectIdea/issues"
+                }
+            }
+        ]
+    }
+}

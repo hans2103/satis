@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/addedbytes_pushover": [
+            {
+                "name": "connect20/Addedbytes_Pushover",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Addedbytes_Pushover/0.1.0/Addedbytes_Pushover-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "AddedBytes",
+                        "email": "dave@addedbytes.com"
+                    }
+                ],
+                "description": "Receive notifications of new orders on your mobile devices via Pushover."
+            }
+        ]
+    }
+}

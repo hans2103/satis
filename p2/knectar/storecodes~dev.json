@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "knectar/storecodes": [
+            {
+                "name": "knectar/storecodes",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/Knectar/Magento-Store-Codes.git",
+                    "reference": "c2a144103e5af960c1470b9ca415d7f5873b0f70"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/Knectar/Magento-Store-Codes/zipball/c2a144103e5af960c1470b9ca415d7f5873b0f70",
+                    "reference": "c2a144103e5af960c1470b9ca415d7f5873b0f70",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-03-20T15:59:09+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Deady",
+                        "email": "daniel.deady@knectar.com"
+                    }
+                ],
+                "description": "Better control over URL codes in a multi-store setup.",
+                "homepage": "https://github.com/Knectar/Magento-Store-Codes",
+                "support": {
+                    "source": "https://github.com/Knectar/Magento-Store-Codes/tree/0.1.0",
+                    "issues": "https://github.com/Knectar/Magento-Store-Codes/issues"
+                }
+            }
+        ]
+    }
+}

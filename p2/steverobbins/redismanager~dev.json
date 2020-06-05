@@ -1,0 +1,111 @@
+{
+    "packages": {
+        "steverobbins/redismanager": [
+            {
+                "name": "steverobbins/redismanager",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/steverobbins/Magento-Redismanager.git",
+                    "reference": "7efd8a502e5732b9705d36190d73ad7067de8d45"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/steverobbins/Magento-Redismanager/zipball/7efd8a502e5732b9705d36190d73ad7067de8d45",
+                    "reference": "7efd8a502e5732b9705d36190d73ad7067de8d45",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2018-09-10T15:29:54+00:00",
+                "type": "magento-module",
+                "license": [
+                    "CC-BY-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Steve Robbins",
+                        "email": "steve@steverobbins.com"
+                    }
+                ],
+                "description": "View and flush Redis services",
+                "support": {
+                    "source": "https://github.com/steverobbins/Magento-Redismanager/tree/v1.4.5",
+                    "issues": "https://github.com/steverobbins/Magento-Redismanager/issues"
+                }
+            },
+            {
+                "name": "steverobbins/redismanager",
+                "version": "dev-dev",
+                "version_normalized": "dev-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/steverobbins/Magento-Redismanager.git",
+                    "reference": "d50373eadccf738ffe979be3fdfda15f647c6cbb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/steverobbins/Magento-Redismanager/zipball/d50373eadccf738ffe979be3fdfda15f647c6cbb",
+                    "reference": "d50373eadccf738ffe979be3fdfda15f647c6cbb",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "squizlabs/php_codesniffer": "2.*"
+                },
+                "time": "2018-03-14T19:10:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "CC-BY-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Steve Robbins",
+                        "email": "steve@steverobbins.com"
+                    }
+                ],
+                "description": "View and flush Redis services",
+                "support": {
+                    "source": "https://github.com/steverobbins/Magento-Redismanager/tree/dev",
+                    "issues": "https://github.com/steverobbins/Magento-Redismanager/issues"
+                }
+            },
+            {
+                "name": "steverobbins/redismanager",
+                "version": "dev-feature/v2",
+                "version_normalized": "dev-feature/v2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/steverobbins/Magento-Redismanager.git",
+                    "reference": "8ec845d1ad451738df02490ec6ce8d88c92b61fd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/steverobbins/Magento-Redismanager/zipball/8ec845d1ad451738df02490ec6ce8d88c92b61fd",
+                    "reference": "8ec845d1ad451738df02490ec6ce8d88c92b61fd",
+                    "shasum": ""
+                },
+                "replace": {
+                    "steverobbins/redismanager": "*"
+                },
+                "time": "2015-02-04T21:57:50+00:00",
+                "type": "magento-module",
+                "license": [
+                    "CC-BY-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Steve Robbins",
+                        "email": "steven.j.robbins@gmail.com"
+                    }
+                ],
+                "description": "View and flush Redis services",
+                "support": {
+                    "source": "https://github.com/steverobbins/Magento-Redismanager/tree/feature/v2",
+                    "issues": "https://github.com/steverobbins/Magento-Redismanager/issues"
+                }
+            }
+        ]
+    }
+}

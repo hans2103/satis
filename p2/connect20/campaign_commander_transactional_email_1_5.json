@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/campaign_commander_transactional_email_1_5": [
+            {
+                "name": "connect20/Campaign_Commander_Transactional_Email_1_5",
+                "version": "3.0.1",
+                "version_normalized": "3.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Campaign_Commander_Transactional_Email_1_5/3.0.1/Campaign_Commander_Transactional_Email_1_5-3.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Academic-Free-License-(AFL)"
+                ],
+                "authors": [
+                    {
+                        "name": "SmartFocus",
+                        "email": "EMVIntegrationsDevelopment@smartfocus.com"
+                    }
+                ],
+                "description": "Transactional message delivery, abandoned cart, and data sync for Magento "
+            },
+            {
+                "name": "connect20/Campaign_Commander_Transactional_Email_1_5",
+                "version": "3.1.0",
+                "version_normalized": "3.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Campaign_Commander_Transactional_Email_1_5/3.1.0/Campaign_Commander_Transactional_Email_1_5-3.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Academic-Free-License-(AFL)"
+                ],
+                "authors": [
+                    {
+                        "name": "SmartFocus",
+                        "email": "EMVIntegrationsDevelopment@smartfocus.com"
+                    }
+                ],
+                "description": "Transactional message delivery, abandoned cart, and data sync for Magento "
+            }
+        ]
+    }
+}

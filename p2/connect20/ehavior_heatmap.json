@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ehavior_heatmap": [
+            {
+                "name": "connect20/Ehavior_heatmap",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Ehavior_heatmap/1.0.0/Ehavior_heatmap-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GNU-General-Public-License-(GPL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Jan Flora",
+                        "email": "jf@ehavior.net"
+                    }
+                ],
+                "description": "The official Ehavior heatmap extension for Magento"
+            }
+        ]
+    }
+}

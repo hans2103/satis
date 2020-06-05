@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/magecompany_customerredirect": [
+            {
+                "name": "connect20/Magecompany_CustomerRedirect",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Magecompany_CustomerRedirect/1.0.0.1/Magecompany_CustomerRedirect-1.0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "MageExtension Inc",
+                        "email": "mageextension2014@gmail.com"
+                    }
+                ],
+                "description": "This Extension help to Redirect your customers on custom/magento page after customer login/Register. "
+            }
+        ]
+    }
+}

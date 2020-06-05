@@ -1,0 +1,111 @@
+{
+    "packages": {
+        "integer-net/removecustomeraccountlinks": [
+            {
+                "name": "integer-net/removecustomeraccountlinks",
+                "version": "2.0.0.2",
+                "version_normalized": "2.0.0.2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/integer-net/RemoveCustomerAccountLinks.git",
+                    "reference": "e4e29cb8f6cd65b1b48fab542f6614a69cb218e8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/integer-net/RemoveCustomerAccountLinks/zipball/e4e29cb8f6cd65b1b48fab542f6614a69cb218e8",
+                    "reference": "e4e29cb8f6cd65b1b48fab542f6614a69cb218e8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-11-21T09:32:06+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "src/app/code/community/IntegerNet/RemoveCustomerAccountLinks",
+                            "app/code/community/IntegerNet/RemoveCustomerAccountLinks"
+                        ],
+                        [
+                            "src/app/etc/modules/IntegerNet_RemoveCustomerAccountLinks.xml",
+                            "app/etc/modules/IntegerNet_RemoveCustomerAccountLinks.xml"
+                        ],
+                        [
+                            "src/app/locale/de_DE/IntegerNet_RemoveCustomerAccountLinks.csv",
+                            "app/locale/de_DE/IntegerNet_RemoveCustomerAccountLinks.csv"
+                        ],
+                        [
+                            "src/app/locale/en_US/IntegerNet_RemoveCustomerAccountLinks.csv",
+                            "app/locale/en_US/IntegerNet_RemoveCustomerAccountLinks.csv"
+                        ]
+                    ],
+                    "magento_connect": {
+                        "name": "IntegerNet_RemoveCustomerAccountLinks",
+                        "license_uri": "http://opensource.org/licenses/osl-3.0.php",
+                        "channel": "community",
+                        "php_min": "5.2.0",
+                        "php_max": "7.9.9",
+                        "stability": "stable",
+                        "content": [
+                            {
+                                "type": "magecommunity",
+                                "structure": "dir",
+                                "path": "IntegerNet/RemoveCustomerAccountLinks"
+                            },
+                            {
+                                "type": "mageetc",
+                                "structure": "file",
+                                "path": "modules/IntegerNet_RemoveCustomerAccountLinks.xml"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "de_DE/IntegerNet_RemoveCustomerAccountLinks.csv"
+                            },
+                            {
+                                "type": "magelocale",
+                                "structure": "file",
+                                "path": "en_US/IntegerNet_RemoveCustomerAccountLinks.csv"
+                            }
+                        ]
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "integer_net GmbH",
+                        "email": "info@integer-net.de",
+                        "homepage": "http://www.integer-net.de/",
+                        "role": "Company"
+                    },
+                    {
+                        "name": "Christian Philipp",
+                        "email": "cp@integer-net.de",
+                        "homepage": "http://www.integer-net.de/",
+                        "role": "Developer"
+                    },
+                    {
+                        "name": "Viktor Franz",
+                        "email": "vf@integer-net.de",
+                        "homepage": "http://www.integer-net.de/",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "Removes customer account links in Magento.",
+                "homepage": "https://github.com/integer-net/RemoveCustomerAccountLinks",
+                "keywords": [
+                    "account",
+                    "customer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/integer-net/RemoveCustomerAccountLinks/tree/2.0.0.2",
+                    "issues": "https://github.com/integer-net/RemoveCustomerAccountLinks/issues"
+                }
+            }
+        ]
+    }
+}

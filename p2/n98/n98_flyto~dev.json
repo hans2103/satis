@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "n98/n98_flyto": [
+            {
+                "name": "n98/N98_FlyTo",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/netz98/N98_FlyTo.git",
+                    "reference": "ad39b64d716768b89714191251848ccb3e2dc130"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/netz98/N98_FlyTo/zipball/ad39b64d716768b89714191251848ccb3e2dc130",
+                    "reference": "ad39b64d716768b89714191251848ccb3e2dc130",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "n98/n98_base": "dev-master",
+                    "n98/n98_basejquery": "dev-master"
+                },
+                "time": "2013-01-17T06:24:03+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "netz98 new media GmbH",
+                        "email": "magento@netz98.de"
+                    }
+                ],
+                "description": "Adds a flying animation when a user adds a product to the cart.",
+                "homepage": "https://github.com/netz98/N98_FlyTo",
+                "support": {
+                    "source": "https://github.com/netz98/N98_FlyTo/tree/master",
+                    "issues": "https://github.com/netz98/N98_FlyTo/issues"
+                }
+            }
+        ]
+    }
+}

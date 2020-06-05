@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/techinflo_socialmedia": [
+            {
+                "name": "connect20/Techinflo_SocialMedia",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Techinflo_SocialMedia/1.0.0/Techinflo_SocialMedia-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Techinflo",
+                        "email": "anil.gupta@techinflo.com"
+                    }
+                ],
+                "description": "Techinflo Social Media Extension provides magento admin to integrate with facebook and twitter account and post activities on the wall."
+            },
+            {
+                "name": "connect20/Techinflo_SocialMedia",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Techinflo_SocialMedia/1.0.1/Techinflo_SocialMedia-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Techinflo",
+                        "email": "anil.gupta@techinflo.com"
+                    }
+                ],
+                "description": "Techinflo Social Media Extension provides magento admin to integrate with facebook and twitter account and post activities on the wall."
+            }
+        ]
+    }
+}

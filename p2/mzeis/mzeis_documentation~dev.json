@@ -1,0 +1,76 @@
+{
+    "packages": {
+        "mzeis/mzeis_documentation": [
+            {
+                "name": "mzeis/mzeis_documentation",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mzeis/Mzeis_Documentation.git",
+                    "reference": "575d54339f1c5599c56eb4516e7098a5cca35138"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mzeis/Mzeis_Documentation/zipball/575d54339f1c5599c56eb4516e7098a5cca35138",
+                    "reference": "575d54339f1c5599c56eb4516e7098a5cca35138",
+                    "shasum": ""
+                },
+                "require": {
+                    "erusev/parsedown": "1.6.0"
+                },
+                "time": "2015-10-04T17:43:48+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthias Zeis",
+                        "homepage": "http://matthias-zeis.com"
+                    }
+                ],
+                "description": "Create a documentation for your project in the backend.",
+                "support": {
+                    "source": "https://github.com/mzeis/Mzeis_Documentation/tree/v1.1.0",
+                    "issues": "https://github.com/mzeis/Mzeis_Documentation/issues"
+                }
+            },
+            {
+                "name": "mzeis/mzeis_documentation",
+                "version": "dev-dev",
+                "version_normalized": "dev-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mzeis/Mzeis_Documentation.git",
+                    "reference": "ff7a64abceacda965304cd858a38f0a98ab7e235"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/mzeis/Mzeis_Documentation/zipball/ff7a64abceacda965304cd858a38f0a98ab7e235",
+                    "reference": "ff7a64abceacda965304cd858a38f0a98ab7e235",
+                    "shasum": ""
+                },
+                "require": {
+                    "erusev/parsedown": "1.6.0"
+                },
+                "time": "2015-10-04T17:30:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthias Zeis",
+                        "homepage": "http://matthias-zeis.com"
+                    }
+                ],
+                "description": "Create a documentation for your project in the backend.",
+                "support": {
+                    "source": "https://github.com/mzeis/Mzeis_Documentation/tree/dev",
+                    "issues": "https://github.com/mzeis/Mzeis_Documentation/issues"
+                }
+            }
+        ]
+    }
+}

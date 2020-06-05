@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "semaio/magento1-searchskuredirect": [
+            {
+                "name": "semaio/magento1-searchskuredirect",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/semaio/Magento1-SearchSkuRedirect.git",
+                    "reference": "53e2dfcc517bd69c434b8f9f6b448672ec5b1473"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/semaio/Magento1-SearchSkuRedirect/zipball/53e2dfcc517bd69c434b8f9f6b448672ec5b1473",
+                    "reference": "53e2dfcc517bd69c434b8f9f6b448672ec5b1473",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-03-26T01:14:51+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Rouven Alexander Rieker",
+                        "email": "therouv@googlemail.com"
+                    }
+                ],
+                "description": "Redirect a SKU search in Magento to the corresponding product.",
+                "homepage": "https://github.com/semaio/Magento1-SearchSkuRedirect",
+                "support": {
+                    "source": "https://github.com/semaio/Magento1-SearchSkuRedirect/tree/1.0.0",
+                    "issues": "https://github.com/semaio/Magento1-SearchSkuRedirect/issues"
+                }
+            }
+        ]
+    }
+}

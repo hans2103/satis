@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/robogento_product_view": [
+            {
+                "name": "connect20/Robogento_Product_View",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Robogento_Product_View/1.0.1/Robogento_Product_View-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "IP-(c)-Robogento"
+                ],
+                "authors": [
+                    {
+                        "name": "Robogento Team",
+                        "email": "support@robogento.com"
+                    }
+                ],
+                "description": "The View Productmodule adds a handy \"View product\" button to the product edit screen in the Magento admin."
+            }
+        ]
+    }
+}

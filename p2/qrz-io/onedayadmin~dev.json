@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "qrz-io/onedayadmin": [
+            {
+                "name": "qrz-io/onedayadmin",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/qrz-io/onedayadmin.git",
+                    "reference": "99749b252a0a4d900eb852776e4c5e9063aeb16e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/qrz-io/onedayadmin/zipball/99749b252a0a4d900eb852776e4c5e9063aeb16e",
+                    "reference": "99749b252a0a4d900eb852776e4c5e9063aeb16e",
+                    "shasum": ""
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2016-04-04T10:37:21+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Cristian Quiroz",
+                        "email": "cris@qrz.io"
+                    }
+                ],
+                "description": "Adds ability to give 1 day access to the admin panel to certain users.",
+                "homepage": "https://github.com/qrz-io/onedayadmin",
+                "support": {
+                    "source": "https://github.com/qrz-io/onedayadmin/tree/1.2.0",
+                    "issues": "https://github.com/qrz-io/onedayadmin/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/db1anymarket": [
+            {
+                "name": "connect20/DB1Anymarket",
+                "version": "2.3.4",
+                "version_normalized": "2.3.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/d7db67d0d012350a01ce05c31f91754d/2.3.4/d7db67d0d012350a01ce05c31f91754d-2.3.4.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MPL"
+                ],
+                "authors": [
+                    {
+                        "name": "AnyMarket",
+                        "email": "dev@anymarket.com.br"
+                    }
+                ],
+                "description": "Módulo de integração AnyMarket e Magento"
+            }
+        ]
+    }
+}

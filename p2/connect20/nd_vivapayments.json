@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/nd_vivapayments": [
+            {
+                "name": "connect20/ND_Vivapayments",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ND_Vivapayments/0.1.1/ND_Vivapayments-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikul Doshi",
+                        "email": "nikulonline@gmail.com"
+                    }
+                ],
+                "description": "A payment gateway integration of Viva Payments."
+            }
+        ]
+    }
+}

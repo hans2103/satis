@@ -1,0 +1,45 @@
+{
+    "packages": {
+        "gordonlesti/lesti_blog": [
+            {
+                "name": "gordonlesti/lesti_blog",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/GordonLesti/Lesti_Blog.git",
+                    "reference": "5f1a5863299e0d4ebda43616ac9d5f92d7f58e06"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/GordonLesti/Lesti_Blog/zipball/5f1a5863299e0d4ebda43616ac9d5f92d7f58e06",
+                    "reference": "5f1a5863299e0d4ebda43616ac9d5f92d7f58e06",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "php": ">=5.4"
+                },
+                "time": "2017-03-21T08:58:59+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Gordon Lesti",
+                        "email": "info@gordonlesti.com",
+                        "homepage": "http://gordonlesti.com/",
+                        "role": "developer"
+                    }
+                ],
+                "description": "Simple blog for Magento",
+                "homepage": "https://github.com/GordonLesti/Lesti_Blog",
+                "support": {
+                    "source": "https://github.com/GordonLesti/Lesti_Blog/tree/master",
+                    "issues": "https://github.com/GordonLesti/Lesti_Blog/issues"
+                }
+            }
+        ]
+    }
+}

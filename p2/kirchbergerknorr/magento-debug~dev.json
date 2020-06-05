@@ -1,0 +1,40 @@
+{
+    "packages": {
+        "kirchbergerknorr/magento-debug": [
+            {
+                "name": "kirchbergerknorr/magento-debug",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/kirchbergerknorr/magento-debug.git",
+                    "reference": "7189c0bfbcc2538b94f40b45156a0be9024a7886"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/kirchbergerknorr/magento-debug/zipball/7189c0bfbcc2538b94f40b45156a0be9024a7886",
+                    "reference": "7189c0bfbcc2538b94f40b45156a0be9024a7886",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-03-12T12:10:38+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Aleksey Razbakov",
+                        "email": "aleksey@razbakov.com"
+                    }
+                ],
+                "description": "Magento Debug Toolbar",
+                "support": {
+                    "source": "https://github.com/kirchbergerknorr/magento-debug/tree/master"
+                }
+            }
+        ]
+    }
+}

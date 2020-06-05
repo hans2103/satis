@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/hivewyre_magentoconnector": [
+            {
+                "name": "connect20/Hivewyre_Magentoconnector",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Hivewyre_Magentoconnector/1.0.0/Hivewyre_Magentoconnector-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Eduardo De León",
+                        "email": "edudeleon@gmail.com"
+                    }
+                ],
+                "description": "The only analytics tool that measures consumers' interactions between your store and your competitors."
+            }
+        ]
+    }
+}

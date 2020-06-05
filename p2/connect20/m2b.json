@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/m2b": [
+            {
+                "name": "connect20/M2b",
+                "version": "0.1.3",
+                "version_normalized": "0.1.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/M2b/0.1.3/M2b-0.1.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Bnkle",
+                        "email": "andrew@bnkle.com"
+                    }
+                ],
+                "description": "bnkle-Magento integration. Auto link your bricks &amp; mortar inventory to bnkle and get more customers in store."
+            }
+        ]
+    }
+}

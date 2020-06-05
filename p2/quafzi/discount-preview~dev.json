@@ -1,0 +1,76 @@
+{
+    "packages": {
+        "quafzi/discount-preview": [
+            {
+                "name": "quafzi/discount-preview",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/quafzi/magento-discountPreview.git",
+                    "reference": "efea3e190912f9ae8e00f3468e12cc120ce2e476"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/quafzi/magento-discountPreview/zipball/efea3e190912f9ae8e00f3468e12cc120ce2e476",
+                    "reference": "efea3e190912f9ae8e00f3468e12cc120ce2e476",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-08-07T12:27:28+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas Birke",
+                        "email": "tbirke@netextreme.de"
+                    }
+                ],
+                "description": "Show discounts (based on shopping cart rules) on Magento product page",
+                "support": {
+                    "source": "https://github.com/quafzi/magento-discountPreview/tree/0.1.1",
+                    "issues": "https://github.com/quafzi/magento-discountPreview/issues"
+                }
+            },
+            {
+                "name": "quafzi/discount-preview",
+                "version": "dev-341_discounts_depending_on_current_cart",
+                "version_normalized": "dev-341_discounts_depending_on_current_cart",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/quafzi/magento-discountPreview.git",
+                    "reference": "115db14e69f2307febbf83c710f821bb8eb91a7c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/quafzi/magento-discountPreview/zipball/115db14e69f2307febbf83c710f821bb8eb91a7c",
+                    "reference": "115db14e69f2307febbf83c710f821bb8eb91a7c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-11T08:22:31+00:00",
+                "type": "magento-module",
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Thomas Birke",
+                        "email": "tbirke@netextreme.de"
+                    }
+                ],
+                "description": "Show discounts (based on shopping cart rules) on Magento product page",
+                "support": {
+                    "source": "https://github.com/quafzi/magento-discountPreview/tree/0.2.3",
+                    "issues": "https://github.com/quafzi/magento-discountPreview/issues"
+                }
+            }
+        ]
+    }
+}

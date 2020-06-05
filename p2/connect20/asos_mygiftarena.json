@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/asos_mygiftarena": [
+            {
+                "name": "connect20/Asos_Mygiftarena",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Asos_Mygiftarena/1.0.1/Asos_Mygiftarena-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Nekon James",
+                        "email": "breantech@yahoo.com"
+                    }
+                ],
+                "description": "MyGiftArena Voucher extension allows online vendors to accept payment from customers with MyGiftArena Voucher"
+            }
+        ]
+    }
+}

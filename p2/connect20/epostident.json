@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/epostident": [
+            {
+                "name": "connect20/EPOSTIDENT",
+                "version": "13.02.28",
+                "version_normalized": "13.02.28.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/EPOSTIDENT/13.02.28/EPOSTIDENT-13.02.28.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Netresearch App Factory AG",
+                        "email": "magento@netresearch.de"
+                    }
+                ],
+                "description": "Deutsche Post – E-POSTIDENT\r\nOnline age verification, identification and automatic handover of address data"
+            }
+        ]
+    }
+}

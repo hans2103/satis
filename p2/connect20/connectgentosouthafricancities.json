@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/connectgentosouthafricancities": [
+            {
+                "name": "connect20/ConnectgentoSouthAfricanCities",
+                "version": "0.1.8",
+                "version_normalized": "0.1.8.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ConnectgentoSouthAfricanCities/0.1.8/ConnectgentoSouthAfricanCities-0.1.8.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-Licence-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Guilio Del Fava",
+                        "email": "guilio@connectmeisp.co.za"
+                    }
+                ],
+                "description": "Adds all the cities, towns and their postal codes to your Magento database."
+            }
+        ]
+    }
+}

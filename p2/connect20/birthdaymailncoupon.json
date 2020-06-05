@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/birthdaymailncoupon": [
+            {
+                "name": "connect20/BirthdayMailnCoupon",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Magegurubirthdaymail/1.0.1/Magegurubirthdaymail-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "developer",
+                        "email": "mageguruindia@gmail.com"
+                    }
+                ],
+                "description": "Birthday Mail n Coupon extension is designed to automatically wish your customers on their birthday."
+            }
+        ]
+    }
+}

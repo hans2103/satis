@@ -1,0 +1,1345 @@
+{
+    "packages": {
+        "magento/module-shared-catalog": [
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.0.0",
+                "version_normalized": "100.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.0.0.0.zip",
+                    "shasum": "c56a6da4c6992792b7bfffd6e549848ddfc3be26"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-checkout": "100.2.*",
+                    "magento/module-asynchronous-operations": "100.2.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-b2b": "100.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.0",
+                    "magento/module-catalog-permissions": "100.2.*",
+                    "magento/module-company": "100.0.0",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.0",
+                    "magento/module-directory": "100.2.0",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-quote": "101.0.0",
+                    "magento/module-store": "100.2.0",
+                    "magento/module-tax": "100.2.0",
+                    "magento/module-ui": "101.0.0",
+                    "magento/module-user": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-customer-segment": "101.0.0",
+                    "magento/module-downloadable": "100.2.*",
+                    "magento/module-sales-rule": "101.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.0.0-rc20",
+                "version_normalized": "100.0.0.0-RC20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.0.0.0-RC20.zip",
+                    "shasum": "8bfcee8f92f928449a75b2d4bf9afb9d54baffbe"
+                },
+                "require": {
+                    "magento/framework": "100.2.*",
+                    "magento/module-advanced-checkout": "100.2.*",
+                    "magento/module-asynchronous-operations": "100.2.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-b2b": "100.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "101.1.0-rc20",
+                    "magento/module-catalog-permissions": "100.2.*",
+                    "magento/module-company": "100.0.0-rc20",
+                    "magento/module-config": "100.2.*",
+                    "magento/module-customer": "100.2.0-rc20",
+                    "magento/module-directory": "100.2.0-rc20",
+                    "magento/module-eav": "100.2.*",
+                    "magento/module-quote": "100.2.0-rc20",
+                    "magento/module-store": "100.2.0-rc20",
+                    "magento/module-tax": "100.2.0-rc20",
+                    "magento/module-ui": "100.2.0-rc20",
+                    "magento/module-user": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-customer-segment": "100.2.0-rc20",
+                    "magento/module-downloadable": "100.2.*",
+                    "magento/module-sales-rule": "100.2.0-rc20"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.0.0-rc21",
+                "version_normalized": "100.0.0.0-RC21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.0.0.0-RC21.zip",
+                    "shasum": "3d75bdac1cb4d898f12940332551cce5f980ca52"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-checkout": "100.2.*",
+                    "magento/module-asynchronous-operations": "100.2.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-b2b": "100.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.0-rc21",
+                    "magento/module-catalog-permissions": "100.2.*",
+                    "magento/module-company": "100.0.0-rc21",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.0-rc21",
+                    "magento/module-directory": "100.2.0-rc21",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-quote": "101.0.0-rc21",
+                    "magento/module-store": "100.2.0-rc21",
+                    "magento/module-tax": "100.2.0-rc21",
+                    "magento/module-ui": "101.0.0-rc21",
+                    "magento/module-user": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-customer-segment": "101.0.0-rc21",
+                    "magento/module-downloadable": "100.2.*",
+                    "magento/module-sales-rule": "101.0.0-rc21"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.0.0-rc22",
+                "version_normalized": "100.0.0.0-RC22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.0.0.0-RC22.zip",
+                    "shasum": "ac66eb037ae76df57db12acfb5a46ccf9292f498"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-checkout": "100.2.*",
+                    "magento/module-asynchronous-operations": "100.2.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-b2b": "100.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.0-rc22",
+                    "magento/module-catalog-permissions": "100.2.*",
+                    "magento/module-company": "100.0.0-rc22",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.0-rc22",
+                    "magento/module-directory": "100.2.0-rc22",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-quote": "101.0.0-rc22",
+                    "magento/module-store": "100.2.0-rc22",
+                    "magento/module-tax": "100.2.0-rc22",
+                    "magento/module-ui": "101.0.0-rc22",
+                    "magento/module-user": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-customer-segment": "101.0.0-rc22",
+                    "magento/module-downloadable": "100.2.*",
+                    "magento/module-sales-rule": "101.0.0-rc22"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.0.0-rc23",
+                "version_normalized": "100.0.0.0-RC23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.0.0.0-RC23.zip",
+                    "shasum": "42bb3184489885056c6a8dbbc74606a093297686"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-checkout": "100.2.*",
+                    "magento/module-asynchronous-operations": "100.2.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-b2b": "100.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.0-rc23",
+                    "magento/module-catalog-permissions": "100.2.*",
+                    "magento/module-company": "100.0.0-rc23",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.0-rc23",
+                    "magento/module-directory": "100.2.0-rc23",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-quote": "101.0.0-rc23",
+                    "magento/module-store": "100.2.0-rc23",
+                    "magento/module-tax": "100.2.0-rc23",
+                    "magento/module-ui": "101.0.0-rc23",
+                    "magento/module-user": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-customer-segment": "101.0.0-rc23",
+                    "magento/module-downloadable": "100.2.*",
+                    "magento/module-sales-rule": "101.0.0-rc23"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.0.0-rc30",
+                "version_normalized": "100.0.0.0-RC30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.0.0.0-RC30.zip",
+                    "shasum": "f456965befdcc7aa027cb8109d0f63465b348f79"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-checkout": "100.2.*",
+                    "magento/module-asynchronous-operations": "100.2.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-b2b": "100.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.0-rc30",
+                    "magento/module-catalog-permissions": "100.2.*",
+                    "magento/module-company": "100.0.0-rc30",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.0-rc30",
+                    "magento/module-directory": "100.2.0-rc30",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-quote": "101.0.0-rc30",
+                    "magento/module-store": "100.2.0-rc30",
+                    "magento/module-tax": "100.2.0-rc30",
+                    "magento/module-ui": "101.0.0-rc30",
+                    "magento/module-user": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-customer-segment": "101.0.0-rc30",
+                    "magento/module-downloadable": "100.2.*",
+                    "magento/module-sales-rule": "101.0.0-rc30"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.0.1",
+                "version_normalized": "100.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.0.1.0.zip",
+                    "shasum": "f450cecae06bf1f6ca2a7ba40544aa3c37448552"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-checkout": "100.2.*",
+                    "magento/module-asynchronous-operations": "100.2.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-b2b": "100.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.1",
+                    "magento/module-catalog-permissions": "100.2.*",
+                    "magento/module-company": "100.0.1",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.1",
+                    "magento/module-directory": "100.2.0",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-quote": "101.0.1",
+                    "magento/module-store": "100.2.1",
+                    "magento/module-tax": "100.2.1",
+                    "magento/module-ui": "101.0.1",
+                    "magento/module-user": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-customer-segment": "101.0.0",
+                    "magento/module-downloadable": "100.2.*",
+                    "magento/module-sales-rule": "101.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.0.10",
+                "version_normalized": "100.0.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.0.10.0.zip",
+                    "shasum": "49034164cce862f478cb90d5f6a15f701a31f823"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-asynchronous-operations": "100.2.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-b2b": "100.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.10",
+                    "magento/module-catalog-permissions": "100.2.*",
+                    "magento/module-company": "100.0.10",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.10",
+                    "magento/module-directory": "100.2.9",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-quote": "101.0.9",
+                    "magento/module-store": "100.2.9",
+                    "magento/module-tax": "100.2.10",
+                    "magento/module-ui": "101.0.10",
+                    "magento/module-user": "101.0.*",
+                    "php": "~7.0.13|~7.1.0|~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-advanced-checkout": "100.2.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer-segment": "101.0.8",
+                    "magento/module-downloadable": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-sales-rule": "101.0.8"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.0.11",
+                "version_normalized": "100.0.11.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.0.11.0.zip",
+                    "shasum": "c90f61d3a6b9b8436b949338e62b4d3c232d5232"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-asynchronous-operations": "100.2.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-b2b": "100.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.11",
+                    "magento/module-catalog-permissions": "100.2.*",
+                    "magento/module-company": "100.0.11",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.11",
+                    "magento/module-directory": "100.2.10",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-quote": "101.0.10",
+                    "magento/module-store": "100.2.10",
+                    "magento/module-tax": "100.2.11",
+                    "magento/module-ui": "101.0.11",
+                    "magento/module-user": "101.0.*",
+                    "php": "~7.0.13||~7.1.0||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-advanced-checkout": "100.2.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer-segment": "101.0.9",
+                    "magento/module-downloadable": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-sales-rule": "101.0.9"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.0.2",
+                "version_normalized": "100.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.0.2.0.zip",
+                    "shasum": "e9012b59b998d0fad7f9a7523c9291850427e399"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-checkout": "100.2.*",
+                    "magento/module-asynchronous-operations": "100.2.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-b2b": "100.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.2",
+                    "magento/module-catalog-permissions": "100.2.*",
+                    "magento/module-company": "100.0.2",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.2",
+                    "magento/module-directory": "100.2.1",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-quote": "101.0.2",
+                    "magento/module-store": "100.2.2",
+                    "magento/module-tax": "100.2.2",
+                    "magento/module-ui": "101.0.2",
+                    "magento/module-user": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-customer-segment": "101.0.1",
+                    "magento/module-downloadable": "100.2.*",
+                    "magento/module-sales-rule": "101.0.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.0.3",
+                "version_normalized": "100.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.0.3.0.zip",
+                    "shasum": "160547f369c067f09ef719d673bc6fd65b489254"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-checkout": "100.2.*",
+                    "magento/module-asynchronous-operations": "100.2.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-b2b": "100.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.3",
+                    "magento/module-catalog-permissions": "100.2.*",
+                    "magento/module-company": "100.0.3",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.3",
+                    "magento/module-directory": "100.2.2",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-quote": "101.0.2",
+                    "magento/module-store": "100.2.2",
+                    "magento/module-tax": "100.2.3",
+                    "magento/module-ui": "101.0.3",
+                    "magento/module-user": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-customer-segment": "101.0.1",
+                    "magento/module-downloadable": "100.2.*",
+                    "magento/module-sales-rule": "101.0.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.0.4",
+                "version_normalized": "100.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.0.4.0.zip",
+                    "shasum": "d2bd6627c5233f3d3f38459831d234853c25e9e2"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-advanced-checkout": "100.2.*",
+                    "magento/module-asynchronous-operations": "100.2.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-b2b": "100.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.4",
+                    "magento/module-catalog-permissions": "100.2.*",
+                    "magento/module-company": "100.0.4",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.4",
+                    "magento/module-directory": "100.2.3",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-quote": "101.0.3",
+                    "magento/module-store": "100.2.3",
+                    "magento/module-tax": "100.2.4",
+                    "magento/module-ui": "101.0.4",
+                    "magento/module-user": "101.0.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-customer-segment": "101.0.2",
+                    "magento/module-downloadable": "100.2.*",
+                    "magento/module-sales-rule": "101.0.2"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.0.5",
+                "version_normalized": "100.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.0.5.0.zip",
+                    "shasum": "d4dfe54870c038ca0c53b5c7ec2f4213bf3291c6"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-asynchronous-operations": "100.2.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-b2b": "100.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.5",
+                    "magento/module-catalog-permissions": "100.2.*",
+                    "magento/module-company": "100.0.5",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.5",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-quote": "101.0.4",
+                    "magento/module-store": "100.2.4",
+                    "magento/module-tax": "100.2.5",
+                    "magento/module-ui": "101.0.5",
+                    "magento/module-user": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-advanced-checkout": "100.2.*",
+                    "magento/module-customer-segment": "101.0.3",
+                    "magento/module-directory": "100.2.4",
+                    "magento/module-downloadable": "100.2.*",
+                    "magento/module-sales-rule": "101.0.3"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.0.6",
+                "version_normalized": "100.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.0.6.0.zip",
+                    "shasum": "9e68910a753c391febd9fe3c6de11f71069b39ae"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-asynchronous-operations": "100.2.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-b2b": "100.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.6",
+                    "magento/module-catalog-permissions": "100.2.*",
+                    "magento/module-company": "100.0.6",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.6",
+                    "magento/module-directory": "100.2.5",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-quote": "101.0.5",
+                    "magento/module-store": "100.2.5",
+                    "magento/module-tax": "100.2.6",
+                    "magento/module-ui": "101.0.6",
+                    "magento/module-user": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-advanced-checkout": "100.2.*",
+                    "magento/module-customer-segment": "101.0.4",
+                    "magento/module-downloadable": "100.2.*",
+                    "magento/module-sales-rule": "101.0.4"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.0.7",
+                "version_normalized": "100.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.0.7.0.zip",
+                    "shasum": "004e9421e5332a1f5ac0f1c2a02ef20f26c1fc57"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-asynchronous-operations": "100.2.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-b2b": "100.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.7",
+                    "magento/module-catalog-permissions": "100.2.*",
+                    "magento/module-company": "100.0.7",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.7",
+                    "magento/module-directory": "100.2.6",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-quote": "101.0.6",
+                    "magento/module-store": "100.2.6",
+                    "magento/module-tax": "100.2.7",
+                    "magento/module-ui": "101.0.7",
+                    "magento/module-user": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-advanced-checkout": "100.2.*",
+                    "magento/module-customer-segment": "101.0.5",
+                    "magento/module-downloadable": "100.2.*",
+                    "magento/module-sales-rule": "101.0.5"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.0.8",
+                "version_normalized": "100.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.0.8.0.zip",
+                    "shasum": "b3e23514f206774fbce18bec53254fa85031ca40"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-asynchronous-operations": "100.2.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-b2b": "100.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.8",
+                    "magento/module-catalog-permissions": "100.2.*",
+                    "magento/module-company": "100.0.8",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.8",
+                    "magento/module-directory": "100.2.7",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-quote": "101.0.7",
+                    "magento/module-store": "100.2.7",
+                    "magento/module-tax": "100.2.8",
+                    "magento/module-ui": "101.0.8",
+                    "magento/module-user": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-advanced-checkout": "100.2.*",
+                    "magento/module-customer-segment": "101.0.6",
+                    "magento/module-downloadable": "100.2.*",
+                    "magento/module-sales-rule": "101.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.0.9",
+                "version_normalized": "100.0.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.0.9.0.zip",
+                    "shasum": "e24711d3d79ea04b90815f39adfb7f0281fa85b9"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-asynchronous-operations": "100.2.*",
+                    "magento/module-authorization": "100.2.*",
+                    "magento/module-b2b": "100.0.*",
+                    "magento/module-backend": "100.2.*",
+                    "magento/module-catalog": "102.0.9",
+                    "magento/module-catalog-permissions": "100.2.*",
+                    "magento/module-company": "100.0.9",
+                    "magento/module-config": "101.0.*",
+                    "magento/module-customer": "101.0.9",
+                    "magento/module-directory": "100.2.8",
+                    "magento/module-eav": "101.0.*",
+                    "magento/module-quote": "101.0.8",
+                    "magento/module-store": "100.2.8",
+                    "magento/module-tax": "100.2.9",
+                    "magento/module-ui": "101.0.9",
+                    "magento/module-user": "101.0.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "suggest": {
+                    "magento/module-advanced-checkout": "100.2.*",
+                    "magento/module-catalog-search": "100.2.*",
+                    "magento/module-customer-segment": "101.0.7",
+                    "magento/module-downloadable": "100.2.*",
+                    "magento/module-sales": "101.0.*",
+                    "magento/module-sales-rule": "101.0.7"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.1.0",
+                "version_normalized": "100.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.1.0.0.zip",
+                    "shasum": "50ef12ee3bcd4daa269d2d1c63276f68c235e821"
+                },
+                "require": {
+                    "magento/framework": "102.0.0",
+                    "magento/module-asynchronous-operations": "100.3.0",
+                    "magento/module-authorization": "100.3.0",
+                    "magento/module-b2b": "100.1.0",
+                    "magento/module-backend": "101.0.0",
+                    "magento/module-catalog": "103.0.0",
+                    "magento/module-catalog-permissions": "100.3.0",
+                    "magento/module-company": "100.1.0",
+                    "magento/module-config": "101.1.0",
+                    "magento/module-customer": "102.0.0",
+                    "magento/module-directory": "100.3.0",
+                    "magento/module-eav": "102.0.0",
+                    "magento/module-quote": "101.1.0",
+                    "magento/module-store": "101.0.0",
+                    "magento/module-tax": "100.3.0",
+                    "magento/module-ui": "101.1.0",
+                    "magento/module-user": "101.1.0",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-advanced-checkout": "100.3.0",
+                    "magento/module-customer-segment": "102.0.0",
+                    "magento/module-downloadable": "100.3.0",
+                    "magento/module-sales-rule": "101.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.1.1",
+                "version_normalized": "100.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.1.1.0.zip",
+                    "shasum": "eb8de4efa788e37c4ccd98f8ca8cf6687473d152"
+                },
+                "require": {
+                    "magento/framework": "102.0.1",
+                    "magento/module-asynchronous-operations": "100.3.1",
+                    "magento/module-authorization": "100.3.1",
+                    "magento/module-b2b": "100.1.1",
+                    "magento/module-backend": "101.0.1",
+                    "magento/module-catalog": "103.0.1",
+                    "magento/module-catalog-permissions": "100.3.1",
+                    "magento/module-company": "100.1.1",
+                    "magento/module-config": "101.1.1",
+                    "magento/module-customer": "102.0.1",
+                    "magento/module-directory": "100.3.1",
+                    "magento/module-eav": "102.0.1",
+                    "magento/module-quote": "101.1.1",
+                    "magento/module-store": "101.0.1",
+                    "magento/module-tax": "100.3.1",
+                    "magento/module-ui": "101.1.1",
+                    "magento/module-user": "101.1.1",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-advanced-checkout": "100.3.1",
+                    "magento/module-customer-segment": "102.0.1",
+                    "magento/module-downloadable": "100.3.1",
+                    "magento/module-sales-rule": "101.1.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.1.2",
+                "version_normalized": "100.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.1.2.0.zip",
+                    "shasum": "7566956a214a6535a16c4f9a21bbfe3e8b85a6e3"
+                },
+                "require": {
+                    "magento/framework": "102.0.2",
+                    "magento/module-asynchronous-operations": "100.3.2",
+                    "magento/module-authorization": "100.3.2",
+                    "magento/module-b2b": "100.1.2",
+                    "magento/module-backend": "101.0.2",
+                    "magento/module-catalog": "103.0.2",
+                    "magento/module-catalog-permissions": "100.3.2",
+                    "magento/module-company": "100.1.2",
+                    "magento/module-config": "101.1.2",
+                    "magento/module-customer": "102.0.2",
+                    "magento/module-directory": "100.3.2",
+                    "magento/module-eav": "102.0.2",
+                    "magento/module-quote": "101.1.2",
+                    "magento/module-store": "101.0.2",
+                    "magento/module-tax": "100.3.2",
+                    "magento/module-ui": "101.1.2",
+                    "magento/module-user": "101.1.2",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-advanced-checkout": "100.3.2",
+                    "magento/module-customer-segment": "102.0.2",
+                    "magento/module-downloadable": "100.3.2",
+                    "magento/module-sales": "102.0.2",
+                    "magento/module-sales-rule": "101.1.2"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.1.2-p2",
+                "version_normalized": "100.1.2.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.1.2.0-patch2.zip",
+                    "shasum": "dd18ed9e8beabf3a491e5d5eb71a079eec86e0c9"
+                },
+                "require": {
+                    "magento/framework": "102.0.2-p2",
+                    "magento/module-asynchronous-operations": "100.3.2",
+                    "magento/module-authorization": "100.3.2",
+                    "magento/module-b2b": "100.1.2-p2",
+                    "magento/module-backend": "101.0.2-p2",
+                    "magento/module-catalog": "103.0.2-p2",
+                    "magento/module-catalog-permissions": "100.3.2",
+                    "magento/module-company": "100.1.2-p2",
+                    "magento/module-config": "101.1.2-p2",
+                    "magento/module-customer": "102.0.2-p2",
+                    "magento/module-directory": "100.3.2",
+                    "magento/module-eav": "102.0.2-p2",
+                    "magento/module-quote": "101.1.2",
+                    "magento/module-store": "101.0.2-p2",
+                    "magento/module-tax": "100.3.2",
+                    "magento/module-ui": "101.1.2-p2",
+                    "magento/module-user": "101.1.2",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "suggest": {
+                    "magento/module-advanced-checkout": "100.3.2",
+                    "magento/module-customer-segment": "102.0.2",
+                    "magento/module-downloadable": "100.3.2-p2",
+                    "magento/module-sales": "102.0.2",
+                    "magento/module-sales-rule": "101.1.2"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.1.3",
+                "version_normalized": "100.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.1.3.0.zip",
+                    "shasum": "f0dfe18b7da334e8e6b4e954d5db171bcf9ef0bb"
+                },
+                "require": {
+                    "magento/framework": "102.0.3",
+                    "magento/module-asynchronous-operations": "100.3.3",
+                    "magento/module-authorization": "100.3.3",
+                    "magento/module-b2b": "100.1.3",
+                    "magento/module-backend": "101.0.3",
+                    "magento/module-catalog": "103.0.3",
+                    "magento/module-catalog-permissions": "100.3.3",
+                    "magento/module-company": "100.1.3",
+                    "magento/module-config": "101.1.3",
+                    "magento/module-customer": "102.0.3",
+                    "magento/module-directory": "100.3.3",
+                    "magento/module-eav": "102.0.3",
+                    "magento/module-quote": "101.1.3",
+                    "magento/module-store": "101.0.3",
+                    "magento/module-tax": "100.3.3",
+                    "magento/module-ui": "101.1.3",
+                    "magento/module-user": "101.1.3",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-advanced-checkout": "100.3.3",
+                    "magento/module-customer-segment": "102.0.3",
+                    "magento/module-downloadable": "100.3.3",
+                    "magento/module-sales": "102.0.3",
+                    "magento/module-sales-rule": "101.1.3"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.1.3-p1",
+                "version_normalized": "100.1.3.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.1.3.0-patch1.zip",
+                    "shasum": "fc8a3e2b6bff5c5c5fe832c9cd9129220bdcbe83"
+                },
+                "require": {
+                    "magento/framework": "102.0.3-p1",
+                    "magento/module-asynchronous-operations": "100.3.3",
+                    "magento/module-authorization": "100.3.3",
+                    "magento/module-b2b": "100.1.3-p1",
+                    "magento/module-backend": "101.0.3",
+                    "magento/module-catalog": "103.0.3-p1",
+                    "magento/module-catalog-permissions": "100.3.3",
+                    "magento/module-company": "100.1.3-p1",
+                    "magento/module-config": "101.1.3-p1",
+                    "magento/module-customer": "102.0.3-p1",
+                    "magento/module-directory": "100.3.3",
+                    "magento/module-eav": "102.0.3",
+                    "magento/module-quote": "101.1.3",
+                    "magento/module-store": "101.0.3-p1",
+                    "magento/module-tax": "100.3.3",
+                    "magento/module-ui": "101.1.3",
+                    "magento/module-user": "101.1.3-p1",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-advanced-checkout": "100.3.3-p1",
+                    "magento/module-customer-segment": "102.0.3",
+                    "magento/module-downloadable": "100.3.3",
+                    "magento/module-sales": "102.0.3-p1",
+                    "magento/module-sales-rule": "101.1.3"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.1.4",
+                "version_normalized": "100.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.1.4.0.zip",
+                    "shasum": "3bd9f24551dc3c96e134921c0880859dcc790d73"
+                },
+                "require": {
+                    "magento/framework": "102.0.4",
+                    "magento/module-asynchronous-operations": "100.3.4",
+                    "magento/module-authorization": "100.3.4",
+                    "magento/module-b2b": "100.1.4",
+                    "magento/module-backend": "101.0.4",
+                    "magento/module-catalog": "103.0.4",
+                    "magento/module-catalog-permissions": "100.3.4",
+                    "magento/module-company": "100.1.4",
+                    "magento/module-config": "101.1.4",
+                    "magento/module-customer": "102.0.4",
+                    "magento/module-directory": "100.3.4",
+                    "magento/module-eav": "102.0.4",
+                    "magento/module-quote": "101.1.4",
+                    "magento/module-store": "101.0.4",
+                    "magento/module-tax": "100.3.4",
+                    "magento/module-ui": "101.1.4",
+                    "magento/module-user": "101.1.4",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-advanced-checkout": "100.3.4",
+                    "magento/module-customer-segment": "102.0.4",
+                    "magento/module-downloadable": "100.3.4",
+                    "magento/module-sales": "102.0.4",
+                    "magento/module-sales-rule": "101.1.4"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.1.4-p2",
+                "version_normalized": "100.1.4.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.1.4.0-patch2.zip",
+                    "shasum": "ae28ce9b422d2a1ce9f741f6aa2dbc330c3fb4b6"
+                },
+                "require": {
+                    "magento/framework": "102.0.4-p2",
+                    "magento/module-asynchronous-operations": "100.3.4-p2",
+                    "magento/module-authorization": "100.3.4-p2",
+                    "magento/module-b2b": "100.1.4-p2",
+                    "magento/module-backend": "101.0.4-p2",
+                    "magento/module-catalog": "103.0.4-p2",
+                    "magento/module-catalog-permissions": "100.3.4-p2",
+                    "magento/module-company": "100.1.4-p2",
+                    "magento/module-config": "101.1.4-p2",
+                    "magento/module-customer": "102.0.4-p2",
+                    "magento/module-directory": "100.3.4-p2",
+                    "magento/module-eav": "102.0.4-p2",
+                    "magento/module-quote": "101.1.4-p2",
+                    "magento/module-store": "101.0.4-p2",
+                    "magento/module-tax": "100.3.4-p2",
+                    "magento/module-ui": "101.1.4-p2",
+                    "magento/module-user": "101.1.4-p2",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-advanced-checkout": "100.3.4-p2",
+                    "magento/module-customer-segment": "102.0.4-p2",
+                    "magento/module-downloadable": "100.3.4-p2",
+                    "magento/module-sales": "102.0.4-p2",
+                    "magento/module-sales-rule": "101.1.4-p2"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.1.5",
+                "version_normalized": "100.1.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.1.5.0.zip",
+                    "shasum": "83f09dc0dd3062351d84999d0bbf0f8ae17ad717"
+                },
+                "require": {
+                    "magento/framework": "102.0.5",
+                    "magento/module-asynchronous-operations": "100.3.5",
+                    "magento/module-authorization": "100.3.4",
+                    "magento/module-b2b": "100.1.5",
+                    "magento/module-backend": "101.0.5",
+                    "magento/module-catalog": "103.0.5",
+                    "magento/module-catalog-inventory": "100.3.5",
+                    "magento/module-catalog-permissions": "100.3.4",
+                    "magento/module-company": "100.1.5",
+                    "magento/module-config": "101.1.5",
+                    "magento/module-customer": "102.0.5",
+                    "magento/module-directory": "100.3.5",
+                    "magento/module-eav": "102.0.5",
+                    "magento/module-elasticsearch": "100.3.5",
+                    "magento/module-quote": "101.1.5",
+                    "magento/module-store": "101.0.5",
+                    "magento/module-tax": "100.3.5",
+                    "magento/module-ui": "101.1.5",
+                    "magento/module-user": "101.1.5",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-advanced-checkout": "100.3.5",
+                    "magento/module-customer-segment": "102.0.5",
+                    "magento/module-downloadable": "100.3.5",
+                    "magento/module-sales-rule": "101.1.5"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-shared-catalog",
+                "version": "100.1.5-p1",
+                "version_normalized": "100.1.5.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-shared-catalog/magento-module-shared-catalog-100.1.5.0-patch1.zip",
+                    "shasum": "60f68898c7682cf6ddef049b08af5f88a61e2c8d"
+                },
+                "require": {
+                    "magento/framework": "102.0.5",
+                    "magento/module-asynchronous-operations": "100.3.5",
+                    "magento/module-authorization": "100.3.4",
+                    "magento/module-b2b": "100.1.5",
+                    "magento/module-backend": "101.0.5",
+                    "magento/module-catalog": "103.0.5",
+                    "magento/module-catalog-inventory": "100.3.5",
+                    "magento/module-catalog-permissions": "100.3.4",
+                    "magento/module-company": "100.1.5-p1",
+                    "magento/module-config": "101.1.5",
+                    "magento/module-customer": "102.0.5",
+                    "magento/module-directory": "100.3.5",
+                    "magento/module-eav": "102.0.5",
+                    "magento/module-elasticsearch": "100.3.5",
+                    "magento/module-quote": "101.1.5",
+                    "magento/module-store": "101.0.5",
+                    "magento/module-tax": "100.3.5",
+                    "magento/module-ui": "101.1.5",
+                    "magento/module-user": "101.1.5",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-advanced-checkout": "100.3.5",
+                    "magento/module-customer-segment": "102.0.5",
+                    "magento/module-downloadable": "100.3.5",
+                    "magento/module-sales-rule": "101.1.5"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SharedCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

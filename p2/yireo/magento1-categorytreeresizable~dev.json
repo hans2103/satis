@@ -1,0 +1,53 @@
+{
+    "packages": {
+        "yireo/magento1-categorytreeresizable": [
+            {
+                "name": "yireo/magento1-categorytreeresizable",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/yireo/Yireo_CategoryTreeResizable.git",
+                    "reference": "999cd01f7bc7593f5515e26378ae88f6d1fb3279"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/yireo/Yireo_CategoryTreeResizable/zipball/999cd01f7bc7593f5515e26378ae88f6d1fb3279",
+                    "reference": "999cd01f7bc7593f5515e26378ae88f6d1fb3279",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2017-08-17T14:08:53+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "source/"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Jisse Reitsma (Yireo)",
+                        "email": "jisse@yireo.com"
+                    }
+                ],
+                "description": "Allows resizing of width of category tree panel (to view long category names)",
+                "homepage": "https://www.yireo.com/software/magento-extensions/categorytreeresizable",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/yireo/Yireo_CategoryTreeResizable/tree/master",
+                    "issues": "https://github.com/yireo/Yireo_CategoryTreeResizable/issues"
+                }
+            }
+        ]
+    }
+}

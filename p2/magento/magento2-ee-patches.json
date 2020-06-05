@@ -1,0 +1,31 @@
+{
+    "packages": {
+        "magento/magento2-ee-patches": [
+            {
+                "name": "magento/magento2-ee-patches",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/magento2-ee-patches/magento-magento2-ee-patches-1.2.1.0.zip",
+                    "shasum": "9951744a819b06be0881e203037a55ecc3e39335"
+                },
+                "require": {
+                    "magento/magento2-ce-patches": "1.2.1",
+                    "magento/magento2-patches-tool": "100.0.*"
+                },
+                "type": "magento2-patches",
+                "extra": {
+                    "enable-patching": true,
+                    "patch-dir": "patches",
+                    "patches": []
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento 2 patches"
+            }
+        ]
+    }
+}

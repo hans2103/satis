@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ratingservice": [
+            {
+                "name": "connect20/ratingservice",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ratingservice/1.0.0/ratingservice-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MITL"
+                ],
+                "authors": [
+                    {
+                        "name": "Mirkovic Group",
+                        "email": "nikola.mirkovic.10@gmail.com"
+                    }
+                ],
+                "description": "Connect Magento to one of the biggest search engines for customer services in the world. "
+            }
+        ]
+    }
+}

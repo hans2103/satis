@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/car_parts_store_template": [
+            {
+                "name": "connect20/car_parts_store_template",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/car_parts_store_template/0.1.0/car_parts_store_template-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License"
+                ],
+                "authors": [
+                    {
+                        "name": "Magebuzz",
+                        "email": "magebuzz@gmail.com"
+                    }
+                ],
+                "description": "Car Parts Store Template"
+            }
+        ]
+    }
+}

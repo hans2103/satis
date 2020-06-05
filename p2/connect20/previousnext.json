@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/previousnext": [
+            {
+                "name": "connect20/PreviousNext",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/PreviousNext/1.0.0/PreviousNext-1.0.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Fehérdi Lóránd",
+                        "email": "feherdi.lorand@gmail.com"
+                    }
+                ],
+                "description": "Previous Next Product"
+            },
+            {
+                "name": "connect20/PreviousNext",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/PreviousNext/1.0.1/PreviousNext-1.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "Fehérdi Lóránd",
+                        "email": "feherdi.lorand@gmail.com"
+                    }
+                ],
+                "description": "Previous Next Product"
+            }
+        ]
+    }
+}

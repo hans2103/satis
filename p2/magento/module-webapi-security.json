@@ -1,0 +1,824 @@
+{
+    "packages": {
+        "magento/module-webapi-security": [
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.0.0",
+                "version_normalized": "100.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.0.0.0.zip",
+                    "shasum": "3ee7b558af5f97bb8ab988d7f6690c77fbc6feca"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.0.1",
+                "version_normalized": "100.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.0.1.0.zip",
+                    "shasum": "39e60763c59292fafbf5292d1707688fd97a88f2"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.0.2",
+                "version_normalized": "100.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.0.2.0.zip",
+                    "shasum": "9e5f69b428882c90e0de3d2c80bd49be7135a40d"
+                },
+                "require": {
+                    "magento/framework": "100.0.*",
+                    "php": "~5.5.0|~5.6.0|~7.0.0"
+                },
+                "suggest": {
+                    "magento/module-webapi": "100.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.1.0",
+                "version_normalized": "100.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.1.0.0.zip",
+                    "shasum": "9bf2f6bb8b9bf4dceaa11035004dede376cea754"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-webapi": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.1.0-rc1",
+                "version_normalized": "100.1.0.0-RC1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.1.0.0-RC1.zip",
+                    "shasum": "3a3d2407410966cdcff3d7b130c4ea98dc8d81cf"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-webapi": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.1.0-rc2",
+                "version_normalized": "100.1.0.0-RC2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.1.0.0-RC2.zip",
+                    "shasum": "ffbaf1782b89abc70d655a7c6207af4f0e10af44"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-webapi": "100.1.*",
+                    "php": "~5.5.22|~5.6.0|~7.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.1.0-rc3",
+                "version_normalized": "100.1.0.0-RC3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.1.0.0-RC3.zip",
+                    "shasum": "80bcb5b75c1457eb33bd8e611e15dc48c6c02090"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-webapi": "100.1.*",
+                    "php": "~5.6.0|7.0.2|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.1.1",
+                "version_normalized": "100.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.1.1.0.zip",
+                    "shasum": "59e5ff8ab6a96edaf86c29135f5133757faaf8ee"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-webapi": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.1.2",
+                "version_normalized": "100.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.1.2.0.zip",
+                    "shasum": "6a0a3167509820ef62517a05bafd884238177228"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-webapi": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.1.3",
+                "version_normalized": "100.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.1.3.0.zip",
+                    "shasum": "4872d3fa77294b4cb2fc89168354df2eb589ac09"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-webapi": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.1.4",
+                "version_normalized": "100.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.1.4.0.zip",
+                    "shasum": "d26a749bf0bfc87b764c430208e576e6556ba1ef"
+                },
+                "require": {
+                    "magento/framework": "100.1.*",
+                    "magento/module-webapi": "100.1.*",
+                    "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.2.0",
+                "version_normalized": "100.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.2.0.0.zip",
+                    "shasum": "c5b71ee6092fc9622fd18121531650f3844450e7"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-webapi": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.2.0-rc20",
+                "version_normalized": "100.2.0.0-RC20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.2.0.0-RC20.zip",
+                    "shasum": "28158116da11b093c3c38ec6158d04ae7f15b8b4"
+                },
+                "require": {
+                    "magento/framework": "100.2.*",
+                    "magento/module-webapi": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.2.0-rc21",
+                "version_normalized": "100.2.0.0-RC21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.2.0.0-RC21.zip",
+                    "shasum": "895e9b11521f0c4a670610b6535edfc7d9bd2ce9"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-webapi": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.2.0-rc22",
+                "version_normalized": "100.2.0.0-RC22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.2.0.0-RC22.zip",
+                    "shasum": "dbacd0bf3836e5a68dcd77aeceaa2d403d7e1d56"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-webapi": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.2.0-rc23",
+                "version_normalized": "100.2.0.0-RC23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.2.0.0-RC23.zip",
+                    "shasum": "007b11b718dbd8283c240f3518fa6b95a84c1fed"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-webapi": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.2.0-rc30",
+                "version_normalized": "100.2.0.0-RC30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.2.0.0-RC30.zip",
+                    "shasum": "10aa1369d249fce9d3a68a411cab01375296ba20"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-webapi": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.2.1",
+                "version_normalized": "100.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.2.1.0.zip",
+                    "shasum": "81a4e11070dff52be83d17ae7242cb97cc988792"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-webapi": "100.2.*",
+                    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.2.2",
+                "version_normalized": "100.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.2.2.0.zip",
+                    "shasum": "a8edf0b7dcf729f86895876e259a0ee4073edcde"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-webapi": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.2.3",
+                "version_normalized": "100.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.2.3.0.zip",
+                    "shasum": "fe35145b4112208d1bf32a5460f1e3de38c6abac"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-webapi": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.2.4",
+                "version_normalized": "100.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.2.4.0.zip",
+                    "shasum": "5c627aa778c95ac2669f68eb3db0f7c92bfaff5b"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-webapi": "100.2.*",
+                    "php": "~7.0.13|~7.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.2.5",
+                "version_normalized": "100.2.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.2.5.0.zip",
+                    "shasum": "3e37e2f1bcd2974d9c059a0e05cdd9e581545ddf"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-webapi": "100.2.*",
+                    "php": "~7.0.13|~7.1.0|~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.2.6",
+                "version_normalized": "100.2.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.2.6.0.zip",
+                    "shasum": "f1e62f29f0639ee3b4908ab4ae3d0930276de5b9"
+                },
+                "require": {
+                    "magento/framework": "101.0.*",
+                    "magento/module-webapi": "100.2.*",
+                    "php": "~7.0.13||~7.1.0||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.3.0",
+                "version_normalized": "100.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.3.0.0.zip",
+                    "shasum": "2781d9210fe96e1a3f6f57d8b9c835b4024b9d4c"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-webapi": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.3.1",
+                "version_normalized": "100.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.3.1.0.zip",
+                    "shasum": "ddc3201ecae4ff4fd0179fc387c69fe7af902caf"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-webapi": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.3.2",
+                "version_normalized": "100.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.3.2.0.zip",
+                    "shasum": "187382c5df9512890591c7e511dd086e2c5e2c3e"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-webapi": "100.3.*",
+                    "php": "~7.1.3||~7.2.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.3.3",
+                "version_normalized": "100.3.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.3.3.0.zip",
+                    "shasum": "94fc10c515894f5dcd4216b445bc75af6cc91e7e"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-webapi": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            },
+            {
+                "name": "magento/module-webapi-security",
+                "version": "100.3.4",
+                "version_normalized": "100.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://repo.magento.com/archives/magento/module-webapi-security/magento-module-webapi-security-100.3.4.0.zip",
+                    "shasum": "8423ded8d114d53baf5f9d857caf8206750d4491"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-webapi": "100.3.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WebapiSecurity\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "WebapiSecurity module provides option to loosen security on some webapi resources."
+            }
+        ]
+    }
+}

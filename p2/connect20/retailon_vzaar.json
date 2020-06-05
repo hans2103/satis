@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "connect20/retailon_vzaar": [
+            {
+                "name": "connect20/Retailon_Vzaar",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Retailon_Vzaar/1.0.0/Retailon_Vzaar-1.0.0.tgz"
+                },
+                "require": {
+                    "connect20/mage_core_modules": ">=1.5"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Hashid Hameed",
+                        "email": "hashid@retailon.in"
+                    }
+                ],
+                "description": "Connect your Vzaar account and Magento store! Show your Vzaar videos on product pages in a few clicks!"
+            }
+        ]
+    }
+}

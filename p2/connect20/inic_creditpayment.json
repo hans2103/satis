@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/inic_creditpayment": [
+            {
+                "name": "connect20/Inic_Creditpayment",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Inic_Creditpayment/0.1.0/Inic_Creditpayment-0.1.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "indianic",
+                        "email": "enquiry@indianic.com"
+                    }
+                ],
+                "description": "Admin can assign credits which are then redeemable at time of purchase towards the cost of your order. \r\nCredit points are an added bonus to our customers on the site and just one of the ways we thank you for being a loyal customer."
+            },
+            {
+                "name": "connect20/Inic_Creditpayment",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Inic_Creditpayment/0.1.1/Inic_Creditpayment-0.1.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "indianic",
+                        "email": "enquiry@indianic.com"
+                    }
+                ],
+                "description": "Admin can assign credits which are then redeemable at time of purchase towards the cost of your order. \r\nCredit points are an added bonus to our customers on the site and just one of the ways we thank you for being a loyal customer."
+            }
+        ]
+    }
+}

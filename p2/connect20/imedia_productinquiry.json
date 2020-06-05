@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "connect20/imedia_productinquiry": [
+            {
+                "name": "connect20/Imedia_ProductInquiry",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Imedia_ProductInquiry/0.0.1/Imedia_ProductInquiry-0.0.1.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "iMediaDesigns",
+                        "email": "info@imediadesigns.org"
+                    }
+                ],
+                "description": "This Product Inquiry Module allows customers to make inquiry about a product directly from the product page."
+            },
+            {
+                "name": "connect20/Imedia_ProductInquiry",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Imedia_ProductInquiry/0.0.2/Imedia_ProductInquiry-0.0.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL-v3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "iMediaDesigns",
+                        "email": "info@iMediaDesigns.org"
+                    }
+                ],
+                "description": "This Product Inquiry Module allows customers to make inquiry about a product directly from the product page."
+            }
+        ]
+    }
+}

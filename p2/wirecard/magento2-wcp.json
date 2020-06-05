@@ -1,0 +1,734 @@
+{
+    "packages": {
+        "wirecard/magento2-wcp": [
+            {
+                "name": "wirecard/magento2-wcp",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wirecard/magento2-wcp.git",
+                    "reference": "b598fe94c913e4eec8e4cf13b2a5dc6bb76937f8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wirecard/magento2-wcp/zipball/b598fe94c913e4eec8e4cf13b2a5dc6bb76937f8",
+                    "reference": "b598fe94c913e4eec8e4cf13b2a5dc6bb76937f8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-payment": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-sales": "*",
+                    "php": "~5.5.0|~5.6.0",
+                    "wirecard/checkout-client-library": "^3.3.0"
+                },
+                "time": "2016-04-19T08:16:14+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Wirecard\\CheckoutPage\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "description": "Wirecard Checkout Page extension for Magento 2",
+                "homepage": "https://www.wirecard.at",
+                "keywords": [
+                    "checkout",
+                    "magento2",
+                    "page",
+                    "payment",
+                    "wirecard"
+                ],
+                "support": {
+                    "email": "support.at@wirecard.com",
+                    "docs": "https://guides.wirecard.com",
+                    "source": "https://github.com/wirecard/magento2-wcp/tree/1.0.0",
+                    "issues": "https://github.com/wirecard/magento2-wcp/issues"
+                }
+            },
+            {
+                "name": "wirecard/magento2-wcp",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wirecard/magento2-wcp.git",
+                    "reference": "53214262fbd875c4949498381d307ff4c37b3f83"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wirecard/magento2-wcp/zipball/53214262fbd875c4949498381d307ff4c37b3f83",
+                    "reference": "53214262fbd875c4949498381d307ff4c37b3f83",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-payment": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-sales": "*",
+                    "php": "~5.5.0|~5.6.0",
+                    "wirecard/checkout-client-library": "3.3.0"
+                },
+                "time": "2016-05-03T11:24:44+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Wirecard\\CheckoutPage\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "description": "Wirecard Checkout Page extension for Magento 2",
+                "homepage": "https://www.wirecard.at",
+                "keywords": [
+                    "checkout",
+                    "magento2",
+                    "page",
+                    "payment",
+                    "wirecard"
+                ],
+                "support": {
+                    "email": "support.at@wirecard.com",
+                    "docs": "https://guides.wirecard.com",
+                    "source": "https://github.com/wirecard/magento2-wcp/tree/1.0.1",
+                    "issues": "https://github.com/wirecard/magento2-wcp/issues"
+                }
+            },
+            {
+                "name": "wirecard/magento2-wcp",
+                "version": "1.0.10",
+                "version_normalized": "1.0.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wirecard/magento2-wcp.git",
+                    "reference": "b6874310c49f664630b2fc31e1d2191cb37f2414"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wirecard/magento2-wcp/zipball/b6874310c49f664630b2fc31e1d2191cb37f2414",
+                    "reference": "b6874310c49f664630b2fc31e1d2191cb37f2414",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-payment": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-sales": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0",
+                    "wirecard/checkout-client-library": "3.3.5"
+                },
+                "time": "2017-10-12T11:50:13+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Wirecard\\CheckoutPage\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "description": "Wirecard Checkout Page extension for Magento 2",
+                "homepage": "https://www.wirecard.at",
+                "keywords": [
+                    "checkout",
+                    "magento2",
+                    "page",
+                    "payment",
+                    "wirecard"
+                ],
+                "support": {
+                    "email": "support.at@wirecard.com",
+                    "docs": "https://guides.wirecard.com",
+                    "source": "https://github.com/wirecard/magento2-wcp/tree/1.0.10",
+                    "issues": "https://github.com/wirecard/magento2-wcp/issues"
+                }
+            },
+            {
+                "name": "wirecard/magento2-wcp",
+                "version": "1.0.11",
+                "version_normalized": "1.0.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wirecard/magento2-wcp.git",
+                    "reference": "7ba13bfede95e0c7f931422e9310ad620ee54f03"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wirecard/magento2-wcp/zipball/7ba13bfede95e0c7f931422e9310ad620ee54f03",
+                    "reference": "7ba13bfede95e0c7f931422e9310ad620ee54f03",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-payment": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-sales": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0",
+                    "wirecard/checkout-client-library": "3.3.5"
+                },
+                "time": "2017-10-31T13:04:14+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Wirecard\\CheckoutPage\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "description": "Wirecard Checkout Page extension for Magento 2",
+                "homepage": "https://www.wirecard.at",
+                "keywords": [
+                    "checkout",
+                    "magento2",
+                    "page",
+                    "payment",
+                    "wirecard"
+                ],
+                "support": {
+                    "email": "support.at@wirecard.com",
+                    "docs": "https://guides.wirecard.com",
+                    "source": "https://github.com/wirecard/magento2-wcp/tree/1.0.11",
+                    "issues": "https://github.com/wirecard/magento2-wcp/issues"
+                }
+            },
+            {
+                "name": "wirecard/magento2-wcp",
+                "version": "1.0.12",
+                "version_normalized": "1.0.12.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wirecard/magento2-wcp.git",
+                    "reference": "6b69d3437103f8d80a2b7f708c514eb8cfb0ad77"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wirecard/magento2-wcp/zipball/6b69d3437103f8d80a2b7f708c514eb8cfb0ad77",
+                    "reference": "6b69d3437103f8d80a2b7f708c514eb8cfb0ad77",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-payment": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-sales": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0",
+                    "wirecard/checkout-client-library": "3.3.5"
+                },
+                "time": "2018-04-16T07:02:08+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Wirecard\\CheckoutPage\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "description": "Wirecard Checkout Page extension for Magento 2",
+                "homepage": "https://www.wirecard.at",
+                "keywords": [
+                    "checkout",
+                    "magento2",
+                    "page",
+                    "payment",
+                    "wirecard"
+                ],
+                "support": {
+                    "email": "support.at@wirecard.com",
+                    "docs": "https://guides.wirecard.com",
+                    "source": "https://github.com/wirecard/magento2-wcp/tree/1.0.12",
+                    "issues": "https://github.com/wirecard/magento2-wcp/issues"
+                }
+            },
+            {
+                "name": "wirecard/magento2-wcp",
+                "version": "1.0.13",
+                "version_normalized": "1.0.13.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wirecard/magento2-wcp.git",
+                    "reference": "9063e08cc39ef95400fd6988afeb1f69f2ec8768"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wirecard/magento2-wcp/zipball/9063e08cc39ef95400fd6988afeb1f69f2ec8768",
+                    "reference": "9063e08cc39ef95400fd6988afeb1f69f2ec8768",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-payment": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-sales": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0",
+                    "wirecard/checkout-client-library": "3.3.5"
+                },
+                "time": "2018-06-14T12:52:00+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Wirecard\\CheckoutPage\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "description": "Wirecard Checkout Page extension for Magento 2",
+                "homepage": "https://www.wirecard.at",
+                "keywords": [
+                    "checkout",
+                    "magento2",
+                    "page",
+                    "payment",
+                    "wirecard"
+                ],
+                "support": {
+                    "email": "support.at@wirecard.com",
+                    "docs": "https://guides.wirecard.com",
+                    "source": "https://github.com/wirecard/magento2-wcp/tree/1.0.13",
+                    "issues": "https://github.com/wirecard/magento2-wcp/issues"
+                }
+            },
+            {
+                "name": "wirecard/magento2-wcp",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wirecard/magento2-wcp.git",
+                    "reference": "0c05f86020baa24cacb1fc295546d9beac094c1d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wirecard/magento2-wcp/zipball/0c05f86020baa24cacb1fc295546d9beac094c1d",
+                    "reference": "0c05f86020baa24cacb1fc295546d9beac094c1d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-payment": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-sales": "*",
+                    "php": "~5.5.0|~5.6.0",
+                    "wirecard/checkout-client-library": "3.3.0"
+                },
+                "time": "2016-07-08T06:51:52+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Wirecard\\CheckoutPage\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "description": "Wirecard Checkout Page extension for Magento 2",
+                "homepage": "https://www.wirecard.at",
+                "keywords": [
+                    "checkout",
+                    "magento2",
+                    "page",
+                    "payment",
+                    "wirecard"
+                ],
+                "support": {
+                    "email": "support.at@wirecard.com",
+                    "docs": "https://guides.wirecard.com",
+                    "source": "https://github.com/wirecard/magento2-wcp/tree/1.0.2",
+                    "issues": "https://github.com/wirecard/magento2-wcp/issues"
+                }
+            },
+            {
+                "name": "wirecard/magento2-wcp",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wirecard/magento2-wcp.git",
+                    "reference": "f378fd726c25d6684b68f5beabe380734639b403"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wirecard/magento2-wcp/zipball/f378fd726c25d6684b68f5beabe380734639b403",
+                    "reference": "f378fd726c25d6684b68f5beabe380734639b403",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-payment": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-sales": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0",
+                    "wirecard/checkout-client-library": "3.3.2"
+                },
+                "time": "2016-11-18T13:26:51+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Wirecard\\CheckoutPage\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "description": "Wirecard Checkout Page extension for Magento 2",
+                "homepage": "https://www.wirecard.at",
+                "keywords": [
+                    "checkout",
+                    "magento2",
+                    "page",
+                    "payment",
+                    "wirecard"
+                ],
+                "support": {
+                    "email": "support.at@wirecard.com",
+                    "docs": "https://guides.wirecard.com",
+                    "source": "https://github.com/wirecard/magento2-wcp/tree/1.0.3",
+                    "issues": "https://github.com/wirecard/magento2-wcp/issues"
+                }
+            },
+            {
+                "name": "wirecard/magento2-wcp",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wirecard/magento2-wcp.git",
+                    "reference": "8ea574e9b1de2e39d29b6888ca810d2dca22f2fb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wirecard/magento2-wcp/zipball/8ea574e9b1de2e39d29b6888ca810d2dca22f2fb",
+                    "reference": "8ea574e9b1de2e39d29b6888ca810d2dca22f2fb",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-payment": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-sales": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0",
+                    "wirecard/checkout-client-library": "3.3.2"
+                },
+                "time": "2016-11-22T07:33:44+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Wirecard\\CheckoutPage\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "description": "Wirecard Checkout Page extension for Magento 2",
+                "homepage": "https://www.wirecard.at",
+                "keywords": [
+                    "checkout",
+                    "magento2",
+                    "page",
+                    "payment",
+                    "wirecard"
+                ],
+                "support": {
+                    "email": "support.at@wirecard.com",
+                    "docs": "https://guides.wirecard.com",
+                    "source": "https://github.com/wirecard/magento2-wcp/tree/1.0.4",
+                    "issues": "https://github.com/wirecard/magento2-wcp/issues"
+                }
+            },
+            {
+                "name": "wirecard/magento2-wcp",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wirecard/magento2-wcp.git",
+                    "reference": "e4635553d63323d31df643d0a051a01674a35ce1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wirecard/magento2-wcp/zipball/e4635553d63323d31df643d0a051a01674a35ce1",
+                    "reference": "e4635553d63323d31df643d0a051a01674a35ce1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-payment": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-sales": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0",
+                    "wirecard/checkout-client-library": "3.3.2"
+                },
+                "time": "2017-02-17T09:01:37+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Wirecard\\CheckoutPage\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "description": "Wirecard Checkout Page extension for Magento 2",
+                "homepage": "https://www.wirecard.at",
+                "keywords": [
+                    "checkout",
+                    "magento2",
+                    "page",
+                    "payment",
+                    "wirecard"
+                ],
+                "support": {
+                    "email": "support.at@wirecard.com",
+                    "docs": "https://guides.wirecard.com",
+                    "source": "https://github.com/wirecard/magento2-wcp/tree/1.0.5",
+                    "issues": "https://github.com/wirecard/magento2-wcp/issues"
+                }
+            },
+            {
+                "name": "wirecard/magento2-wcp",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wirecard/magento2-wcp.git",
+                    "reference": "f605865ae8d5ae1c587cda5107c1d0f3bce065a8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wirecard/magento2-wcp/zipball/f605865ae8d5ae1c587cda5107c1d0f3bce065a8",
+                    "reference": "f605865ae8d5ae1c587cda5107c1d0f3bce065a8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-payment": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-sales": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0",
+                    "wirecard/checkout-client-library": "3.3.2"
+                },
+                "time": "2017-05-02T06:07:54+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Wirecard\\CheckoutPage\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "description": "Wirecard Checkout Page extension for Magento 2",
+                "homepage": "https://www.wirecard.at",
+                "keywords": [
+                    "checkout",
+                    "magento2",
+                    "page",
+                    "payment",
+                    "wirecard"
+                ],
+                "support": {
+                    "email": "support.at@wirecard.com",
+                    "docs": "https://guides.wirecard.com",
+                    "source": "https://github.com/wirecard/magento2-wcp/tree/1.0.6",
+                    "issues": "https://github.com/wirecard/magento2-wcp/issues"
+                }
+            },
+            {
+                "name": "wirecard/magento2-wcp",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wirecard/magento2-wcp.git",
+                    "reference": "1b7d5700930c3fa0aea443c7ddb6cf62bbb89f23"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wirecard/magento2-wcp/zipball/1b7d5700930c3fa0aea443c7ddb6cf62bbb89f23",
+                    "reference": "1b7d5700930c3fa0aea443c7ddb6cf62bbb89f23",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-payment": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-sales": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0",
+                    "wirecard/checkout-client-library": "3.3.2"
+                },
+                "time": "2017-05-23T11:10:01+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Wirecard\\CheckoutPage\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "description": "Wirecard Checkout Page extension for Magento 2",
+                "homepage": "https://www.wirecard.at",
+                "keywords": [
+                    "checkout",
+                    "magento2",
+                    "page",
+                    "payment",
+                    "wirecard"
+                ],
+                "support": {
+                    "email": "support.at@wirecard.com",
+                    "docs": "https://guides.wirecard.com",
+                    "source": "https://github.com/wirecard/magento2-wcp/tree/1.0.7",
+                    "issues": "https://github.com/wirecard/magento2-wcp/issues"
+                }
+            },
+            {
+                "name": "wirecard/magento2-wcp",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wirecard/magento2-wcp.git",
+                    "reference": "5f665d95f66a45244b29d3c7870b650a63cfc282"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wirecard/magento2-wcp/zipball/5f665d95f66a45244b29d3c7870b650a63cfc282",
+                    "reference": "5f665d95f66a45244b29d3c7870b650a63cfc282",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-payment": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-sales": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0",
+                    "wirecard/checkout-client-library": "3.3.4"
+                },
+                "time": "2017-05-24T08:37:40+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Wirecard\\CheckoutPage\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "description": "Wirecard Checkout Page extension for Magento 2",
+                "homepage": "https://www.wirecard.at",
+                "keywords": [
+                    "checkout",
+                    "magento2",
+                    "page",
+                    "payment",
+                    "wirecard"
+                ],
+                "support": {
+                    "email": "support.at@wirecard.com",
+                    "docs": "https://guides.wirecard.com",
+                    "source": "https://github.com/wirecard/magento2-wcp/tree/1.0.8",
+                    "issues": "https://github.com/wirecard/magento2-wcp/issues"
+                }
+            },
+            {
+                "name": "wirecard/magento2-wcp",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/wirecard/magento2-wcp.git",
+                    "reference": "5b9b3c079fd687681e1e4cdb19e4216f65003345"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/wirecard/magento2-wcp/zipball/5b9b3c079fd687681e1e4cdb19e4216f65003345",
+                    "reference": "5b9b3c079fd687681e1e4cdb19e4216f65003345",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-payment": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-sales": "*",
+                    "php": "~5.5.0|~5.6.0|~7.0",
+                    "wirecard/checkout-client-library": "3.3.4"
+                },
+                "time": "2017-09-26T05:24:53+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Wirecard\\CheckoutPage\\": ""
+                    }
+                },
+                "license": [
+                    "GPL-2.0"
+                ],
+                "description": "Wirecard Checkout Page extension for Magento 2",
+                "homepage": "https://www.wirecard.at",
+                "keywords": [
+                    "checkout",
+                    "magento2",
+                    "page",
+                    "payment",
+                    "wirecard"
+                ],
+                "support": {
+                    "email": "support.at@wirecard.com",
+                    "docs": "https://guides.wirecard.com",
+                    "source": "https://github.com/wirecard/magento2-wcp/tree/1.0.9",
+                    "issues": "https://github.com/wirecard/magento2-wcp/issues"
+                }
+            }
+        ]
+    }
+}

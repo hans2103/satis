@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/worldnet_payment": [
+            {
+                "name": "connect20/worldnet_payment",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/worldnet_payment/1.2.0/worldnet_payment-1.2.0.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Worldnet",
+                        "email": "namita.kapoor@worldnettps.com"
+                    }
+                ],
+                "description": "This plugin enables Hosted Payment Page for WorldNet Payment Gateway."
+            }
+        ]
+    }
+}

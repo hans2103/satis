@@ -1,0 +1,94 @@
+{
+    "packages": {
+        "connect20/yotporeviews": [
+            {
+                "name": "connect20/yotporeviews",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/proxium/yotporeviews.git",
+                    "reference": "b5abeeadca6704d08dac094e828f91dee9396f9b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/proxium/yotporeviews/zipball/b5abeeadca6704d08dac094e828f91dee9396f9b",
+                    "reference": "b5abeeadca6704d08dac094e828f91dee9396f9b",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.1 | ^7.0"
+                },
+                "time": "2018-02-22T17:34:58+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Haroon Chaudry",
+                        "email": "haroon.chaudhry@innovadeltech.com",
+                        "homepage": "http://innovadeltech.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "This extension includes the files of the Yotpo Reviews extension The directories hierarchy is as positioned in a standard magento project library",
+                "homepage": "https://github.com/proxium/yotporeviews",
+                "keywords": [
+                    "composer-installer",
+                    "magento",
+                    "reviews",
+                    "yotpo"
+                ],
+                "support": {
+                    "source": "https://github.com/proxium/yotporeviews/tree/v1.6.9",
+                    "issues": "https://github.com/proxium/yotporeviews/issues"
+                }
+            },
+            {
+                "name": "connect20/yotporeviews",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/proxium/yotporeviews.git",
+                    "reference": "6aded1668bf597bda609c66db32092eaa671c97f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/proxium/yotporeviews/zipball/6aded1668bf597bda609c66db32092eaa671c97f",
+                    "reference": "6aded1668bf597bda609c66db32092eaa671c97f",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "^5.1 | ^7.0"
+                },
+                "time": "2018-02-22T17:21:05+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Haroon Chaudry",
+                        "email": "haroon.chaudhry@innovadeltech.com",
+                        "homepage": "http://innovadeltech.com",
+                        "role": "Developer"
+                    }
+                ],
+                "description": "This extension includes the files of the Yotpo Reviews extension The directories hierarchy is as positioned in a standard magento project library",
+                "homepage": "https://github.com/proxium/yotporeviews",
+                "keywords": [
+                    "composer-installer",
+                    "magento",
+                    "reviews",
+                    "yotpo"
+                ],
+                "support": {
+                    "source": "https://github.com/proxium/yotporeviews/tree/develop",
+                    "issues": "https://github.com/proxium/yotporeviews/issues"
+                }
+            }
+        ]
+    }
+}

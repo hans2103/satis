@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/magebuzz_free_text_search": [
+            {
+                "name": "connect20/Magebuzz_Free_Text_Search",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/Magebuzz_Free_Text_Search/0.1.2/Magebuzz_Free_Text_Search-0.1.2.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "Open-Software-License-(OSL)"
+                ],
+                "authors": [
+                    {
+                        "name": "Magebuzz",
+                        "email": "magebuzz@gmail.com"
+                    }
+                ],
+                "description": "Include CMS pages in search result"
+            }
+        ]
+    }
+}

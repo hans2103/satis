@@ -1,0 +1,45 @@
+{
+    "packages": {
+        "opsway/magento-pipeliner": [
+            {
+                "name": "opsway/magento-pipeliner",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/opsway/magento-mod-pipeliner.git",
+                    "reference": "e179915f35df906118b9a8ed0b3d36474bfc2e49"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/opsway/magento-mod-pipeliner/zipball/e179915f35df906118b9a8ed0b3d36474bfc2e49",
+                    "reference": "e179915f35df906118b9a8ed0b3d36474bfc2e49",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "connect20/opsway_opswaypipeliner": "self.version"
+                },
+                "time": "2015-07-06T11:50:33+00:00",
+                "type": "magento-module",
+                "license": [
+                    "GPL"
+                ],
+                "authors": [
+                    {
+                        "name": "OpsWay",
+                        "email": "support@opsway.com"
+                    }
+                ],
+                "description": "Syncronization with PipelinerSales CRM",
+                "homepage": "https://github.com/opsway/magento-mod-pipeliner",
+                "support": {
+                    "source": "https://github.com/opsway/magento-mod-pipeliner/tree/v1.0.5",
+                    "issues": "https://github.com/opsway/magento-mod-pipeliner/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "packages": {
+        "connect20/ecommerceoffice_mostpopular": [
+            {
+                "name": "connect20/ecommerceoffice_mostpopular",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://connect20.magentocommerce.com/community/ecommerceoffice_mostpopular/1.0.3/ecommerceoffice_mostpopular-1.0.3.tgz"
+                },
+                "suggest": {
+                    "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                },
+                "license": [
+                    "OSL"
+                ],
+                "authors": [
+                    {
+                        "name": "volgodark",
+                        "email": "volgodark@gmail.com"
+                    }
+                ],
+                "description": "Mostpopular (most viewed) products for your store"
+            }
+        ]
+    }
+}

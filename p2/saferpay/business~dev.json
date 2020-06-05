@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "saferpay/business": [
+            {
+                "name": "saferpay/business",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/openstream/SaferpayBusiness.git",
+                    "reference": "ec8a2e59ca189e5e2c004befcb9a349279c410b5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/openstream/SaferpayBusiness/zipball/ec8a2e59ca189e5e2c004befcb9a349279c410b5",
+                    "reference": "ec8a2e59ca189e5e2c004befcb9a349279c410b5",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-04-04T21:34:30+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Tim Bezhashvyly",
+                        "email": "tim@openstream.ch"
+                    }
+                ],
+                "description": "Saferpay Business payment extension for Magento",
+                "homepage": "https://github.com/openstream/SaferpayBusiness",
+                "support": {
+                    "source": "https://github.com/openstream/SaferpayBusiness/tree/master",
+                    "issues": "https://github.com/openstream/SaferpayBusiness/issues"
+                }
+            }
+        ]
+    }
+}

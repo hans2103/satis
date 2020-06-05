@@ -1,0 +1,94 @@
+{
+    "packages": {
+        "ecomdev/composer_autoload": [
+            {
+                "name": "ecomdev/composer_autoload",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/EcomDev/EcomDev_ComposerAutoload.git",
+                    "reference": "e4c9397222a2ce3e978603b02e5b14ed9049a3d2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/EcomDev/EcomDev_ComposerAutoload/zipball/e4c9397222a2ce3e978603b02e5b14ed9049a3d2",
+                    "reference": "e4c9397222a2ce3e978603b02e5b14ed9049a3d2",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "dev-dev",
+                    "ecomdev/mage-ci": "*",
+                    "magento/core": "1.9.0.1",
+                    "mikey179/vfsstream": "*"
+                },
+                "time": "2014-10-28T16:15:30+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "build"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ivan Chepurnyi",
+                        "email": "ivan.chepurnyi@gmail.com"
+                    }
+                ],
+                "description": "Magento Composer Autoloader",
+                "support": {
+                    "source": "https://github.com/EcomDev/EcomDev_ComposerAutoload/tree/1.0.0",
+                    "issues": "https://github.com/EcomDev/EcomDev_ComposerAutoload/issues"
+                }
+            },
+            {
+                "name": "ecomdev/composer_autoload",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/EcomDev/EcomDev_ComposerAutoload.git",
+                    "reference": "f2269d0084eddfac4075601414dbcb8acec32287"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/EcomDev/EcomDev_ComposerAutoload/zipball/f2269d0084eddfac4075601414dbcb8acec32287",
+                    "reference": "f2269d0084eddfac4075601414dbcb8acec32287",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "ecomdev/ecomdev_phpunit": "dev-dev",
+                    "ecomdev/mage-ci": "*",
+                    "magento/core": "1.9.0.1",
+                    "mikey179/vfsstream": "*"
+                },
+                "time": "2014-10-29T18:01:12+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "build"
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Ivan Chepurnyi",
+                        "email": "ivan.chepurnyi@gmail.com"
+                    }
+                ],
+                "description": "Magento Composer Autoloader",
+                "support": {
+                    "source": "https://github.com/EcomDev/EcomDev_ComposerAutoload/tree/1.0.1",
+                    "issues": "https://github.com/EcomDev/EcomDev_ComposerAutoload/issues"
+                }
+            }
+        ]
+    }
+}
