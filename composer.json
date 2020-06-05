@@ -17,6 +17,6 @@
   "scripts": {
     "install-deps": "@composer install",
     "build": "satis build satis.json public --no-interaction",
-    "deploy": "sh deploy.sh"
+    "deploy": "zsh deploy.zsh"
   }
 }

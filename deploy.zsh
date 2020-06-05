@@ -11,8 +11,8 @@ git clone $(git remote get-url origin) public
 cd public/
 
 # Who am I?
-git config user.email "${GIT_USER_EMAIL}"
-git config user.name "${GIT_USER_NAME}"
+git config user.email
+git config user.name
 
 git checkout gh-pages
 if [ 0 != $? ]; then
