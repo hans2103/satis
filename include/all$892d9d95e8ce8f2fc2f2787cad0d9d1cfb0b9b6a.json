@@ -1,0 +1,331 @@
+{
+    "packages": {
+        "b2bzanden/b2brules": {
+            "0.0.1": {
+                "name": "b2bzanden/b2brules",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:hans2103/B2bzanden_M2_Rules.git",
+                    "reference": "65df09da30072f1a4edf5dd592998586f6b09705"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_Rules/zipball/65df09da30072f1a4edf5dd592998586f6b09705",
+                    "reference": "65df09da30072f1a4edf5dd592998586f6b09705",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2020-06-05T19:36:20+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\B2brules\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module for B2BRules",
+                "homepage": "https://github.com/hans2103/B2bzanden_M2_Rules",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/hans2103/B2bzanden_M2_Rules/tree/0.0.1",
+                    "issues": "https://github.com/hans2103/B2bzanden_M2_Rules/issues"
+                }
+            },
+            "dev-master": {
+                "name": "b2bzanden/b2brules",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:hans2103/B2bzanden_M2_Rules.git",
+                    "reference": "df35ddb5fcc90b714d3ee9f2b1794f635b9d305b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_Rules/zipball/df35ddb5fcc90b714d3ee9f2b1794f635b9d305b",
+                    "reference": "df35ddb5fcc90b714d3ee9f2b1794f635b9d305b",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2020-06-14T14:52:10+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\B2brules\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module for B2BRules",
+                "homepage": "https://github.com/hans2103/B2bzanden_M2_Rules",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/hans2103/B2bzanden_M2_Rules/tree/master",
+                    "issues": "https://github.com/hans2103/B2bzanden_M2_Rules/issues"
+                }
+            }
+        },
+        "b2bzanden/fastorder": {
+            "0.0.1": {
+                "name": "b2bzanden/fastorder",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:hans2103/b2bzanden_m2_fastorder.git",
+                    "reference": "91725040961dabcf91305c3eb0cc2f92e43348e5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/b2bzanden_m2_fastorder/zipball/91725040961dabcf91305c3eb0cc2f92e43348e5",
+                    "reference": "91725040961dabcf91305c3eb0cc2f92e43348e5",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2020-06-05T19:35:37+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\Fastorder\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module for FastOrder",
+                "homepage": "https://github.com/hans2103/B2bzanden_M2_FastOrder",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/hans2103/b2bzanden_m2_fastorder/tree/0.0.1",
+                    "issues": "https://github.com/hans2103/b2bzanden_m2_fastorder/issues"
+                }
+            },
+            "1.0.0": {
+                "name": "b2bzanden/fastorder",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:hans2103/b2bzanden_m2_fastorder.git",
+                    "reference": "06efbb2c3c61991494e8f286c86ed8ccdf582919"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/b2bzanden_m2_fastorder/zipball/06efbb2c3c61991494e8f286c86ed8ccdf582919",
+                    "reference": "06efbb2c3c61991494e8f286c86ed8ccdf582919",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2020-09-22T06:44:30+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\Fastorder\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module for FastOrder",
+                "homepage": "https://github.com/hans2103/B2bzanden_M2_FastOrder",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/hans2103/b2bzanden_m2_fastorder/tree/1.0.0",
+                    "issues": "https://github.com/hans2103/b2bzanden_m2_fastorder/issues"
+                }
+            },
+            "dev-master": {
+                "name": "b2bzanden/fastorder",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:hans2103/b2bzanden_m2_fastorder.git",
+                    "reference": "06efbb2c3c61991494e8f286c86ed8ccdf582919"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/b2bzanden_m2_fastorder/zipball/06efbb2c3c61991494e8f286c86ed8ccdf582919",
+                    "reference": "06efbb2c3c61991494e8f286c86ed8ccdf582919",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2020-09-22T06:44:30+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\Fastorder\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module for FastOrder",
+                "homepage": "https://github.com/hans2103/B2bzanden_M2_FastOrder",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/hans2103/b2bzanden_m2_fastorder/tree/1.0.0",
+                    "issues": "https://github.com/hans2103/b2bzanden_m2_fastorder/issues"
+                }
+            },
+            "dev-dev": {
+                "name": "b2bzanden/fastorder",
+                "version": "dev-dev",
+                "version_normalized": "dev-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:hans2103/b2bzanden_m2_fastorder.git",
+                    "reference": "b8a8903c443b9abbcf3229fed46e920b104ec540"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/b2bzanden_m2_fastorder/zipball/b8a8903c443b9abbcf3229fed46e920b104ec540",
+                    "reference": "b8a8903c443b9abbcf3229fed46e920b104ec540",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2020-09-17T18:40:36+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\Fastorder\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module for FastOrder",
+                "homepage": "https://github.com/hans2103/B2bzanden_M2_FastOrder",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/hans2103/b2bzanden_m2_fastorder/tree/dev",
+                    "issues": "https://github.com/hans2103/b2bzanden_m2_fastorder/issues"
+                }
+            }
+        },
+        "mageplaza/module-shipping-restriction": {
+            "dev-master": {
+                "name": "mageplaza/module-shipping-restriction",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:hans2103/Magento-2-Shipping-Restrictions-extension.git",
+                    "reference": "0449e03ff2f52fbba9a38bebf667d58b99739955"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/Magento-2-Shipping-Restrictions-extension/zipball/0449e03ff2f52fbba9a38bebf667d58b99739955",
+                    "reference": "0449e03ff2f52fbba9a38bebf667d58b99739955",
+                    "shasum": ""
+                },
+                "require": {
+                    "mageplaza/module-core": "^1.4.5"
+                },
+                "time": "2020-10-14T13:52:32+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Mageplaza\\ShippingRestriction\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mageplaza",
+                        "email": "support@mageplaza.com",
+                        "homepage": "https://www.mageplaza.com",
+                        "role": "Technical Support"
+                    }
+                ],
+                "description": "Magento 2 Shipping Restriction Extension",
+                "support": {
+                    "source": "https://github.com/hans2103/Magento-2-Shipping-Restrictions-extension/tree/master",
+                    "issues": "https://github.com/hans2103/Magento-2-Shipping-Restrictions-extension/issues"
+                }
+            }
+        }
+    }
+}

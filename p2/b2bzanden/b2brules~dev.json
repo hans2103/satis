@@ -7,23 +7,45 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/hans2103/B2bzanden_M2_Rules",
-                    "reference": "34432cda456702b81bbb6adba67699749aec6d6c"
+                    "url": "git@github.com:hans2103/B2bzanden_M2_Rules.git",
+                    "reference": "df35ddb5fcc90b714d3ee9f2b1794f635b9d305b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_Rules/zipball/df35ddb5fcc90b714d3ee9f2b1794f635b9d305b",
+                    "reference": "df35ddb5fcc90b714d3ee9f2b1794f635b9d305b",
+                    "shasum": ""
                 },
                 "require": {
-                    "php": "~7.1.0|~7.2.0|~7.3.0"
+                    "php": ">=7.1.0"
                 },
-                "time": "2020-06-05T07:37:16+00:00",
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2020-06-14T14:52:10+00:00",
                 "type": "magento2-module",
                 "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
                     "psr-4": {
                         "B2bzanden\\B2brules\\": ""
-                    }
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
                 },
-                "description": "N/A"
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module for B2BRules",
+                "homepage": "https://github.com/hans2103/B2bzanden_M2_Rules",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/hans2103/B2bzanden_M2_Rules/tree/master",
+                    "issues": "https://github.com/hans2103/B2bzanden_M2_Rules/issues"
+                }
             }
         ]
     }
