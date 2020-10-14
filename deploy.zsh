@@ -35,7 +35,7 @@ composer run-script build
 # Deploy to Github Pages.
 cd public/
 git add --all
-git commit -m "Deploy Satis"
+git commit -m ":package: Deploy Satis"
 git push -f origin gh-pages
 
 # Cleanup (for those who don't use a CI).

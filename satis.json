@@ -1,13 +1,24 @@
 {
-  "name": "hans2103",
+  "name": "hans2103/satis",
   "homepage": "https://hans2103.github.io/composer/",
   "repositories": [
     {
-      "packagist.org": false
+      "type": "vcs",
+      "url": "git://github.com/hans2103/B2bzanden_M2_FastOrder"
     },
     {
-      "type": "git",
-      "url": "https://github.com/hans2103/B2bzanden_M2_Rules"
+      "type": "vcs",
+      "url": "git://github.com/hans2103/B2bzanden_M2_Rules"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/hans2103/Magento-2-Shipping-Restrictions-extension"
+    },
+    {
+      "packagist": false
+    },
+    {
+      "firegento": false
     }
   ],
   "require-all": true
