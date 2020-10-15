@@ -279,53 +279,6 @@
                     "issues": "https://github.com/hans2103/b2bzanden_m2_fastorder/issues"
                 }
             }
-        },
-        "mageplaza/module-shipping-restriction": {
-            "dev-master": {
-                "name": "mageplaza/module-shipping-restriction",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:hans2103/Magento-2-Shipping-Restrictions-extension.git",
-                    "reference": "0449e03ff2f52fbba9a38bebf667d58b99739955"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/hans2103/Magento-2-Shipping-Restrictions-extension/zipball/0449e03ff2f52fbba9a38bebf667d58b99739955",
-                    "reference": "0449e03ff2f52fbba9a38bebf667d58b99739955",
-                    "shasum": ""
-                },
-                "require": {
-                    "mageplaza/module-core": "^1.4.5"
-                },
-                "time": "2020-10-14T13:52:32+00:00",
-                "type": "magento2-module",
-                "autoload": {
-                    "files": [
-                        "registration.php"
-                    ],
-                    "psr-4": {
-                        "Mageplaza\\ShippingRestriction\\": ""
-                    }
-                },
-                "license": [
-                    "proprietary"
-                ],
-                "authors": [
-                    {
-                        "name": "Mageplaza",
-                        "email": "support@mageplaza.com",
-                        "homepage": "https://www.mageplaza.com",
-                        "role": "Technical Support"
-                    }
-                ],
-                "description": "Magento 2 Shipping Restriction Extension",
-                "support": {
-                    "source": "https://github.com/hans2103/Magento-2-Shipping-Restrictions-extension/tree/master",
-                    "issues": "https://github.com/hans2103/Magento-2-Shipping-Restrictions-extension/issues"
-                }
-            }
         }
     }
 }
