@@ -22,3 +22,10 @@ To use this, hans2103 `composer.json` should contain:
 Head over to https://hans2103.github.io/satis/ to browse available packages.
 
 __NOTE__: actual composer repository is on [gh-pages](https://github.com/hans2103/satis/tree/gh-pages) branch
+
+## update Satis
+
+- checkout master branch
+- open satis.json and add new repo
+- commit changes
+- run `composer deploy`
