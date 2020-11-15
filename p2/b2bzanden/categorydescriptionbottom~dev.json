@@ -1,19 +1,19 @@
 {
     "packages": {
-        "b2bzanden/b2brules": [
+        "b2bzanden/categorydescriptionbottom": [
             {
-                "name": "b2bzanden/b2brules",
+                "name": "b2bzanden/categorydescriptionbottom",
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:hans2103/B2bzanden_M2_Rules.git",
-                    "reference": "4c39869ff1d1d1dc2412198f2d44e688c3fba640"
+                    "url": "git@github.com:hans2103/b2bzanden_m2_categorydescriptionbottom.git",
+                    "reference": "a9e279f2c7d36411200c4ce08196df68781f4aab"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_Rules/zipball/4c39869ff1d1d1dc2412198f2d44e688c3fba640",
-                    "reference": "4c39869ff1d1d1dc2412198f2d44e688c3fba640",
+                    "url": "https://api.github.com/repos/hans2103/b2bzanden_m2_categorydescriptionbottom/zipball/a9e279f2c7d36411200c4ce08196df68781f4aab",
+                    "reference": "a9e279f2c7d36411200c4ce08196df68781f4aab",
                     "shasum": ""
                 },
                 "require": {
@@ -23,11 +23,11 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2020-10-23T11:36:41+00:00",
+                "time": "2020-11-15T13:40:58+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "psr-4": {
-                        "B2bzanden\\B2brules\\": ""
+                        "B2bzanden\\CategoryDescriptionBottom\\": ""
                     },
                     "files": [
                         "registration.php"
@@ -36,15 +36,14 @@
                 "license": [
                     "OSL-3.0"
                 ],
-                "description": "Magento 2 module for B2BRules",
-                "homepage": "https://github.com/hans2103/B2bzanden_M2_Rules",
+                "description": "Magento 2 module to add Category Description Bottom field",
                 "keywords": [
                     "composer-installer",
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_Rules/tree/master",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_Rules/issues"
+                    "source": "https://github.com/hans2103/b2bzanden_m2_categorydescriptionbottom/tree/master",
+                    "issues": "https://github.com/hans2103/b2bzanden_m2_categorydescriptionbottom/issues"
                 }
             }
         ]

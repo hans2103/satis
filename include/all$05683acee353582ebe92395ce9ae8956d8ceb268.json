@@ -54,12 +54,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:hans2103/B2bzanden_M2_Rules.git",
-                    "reference": "df35ddb5fcc90b714d3ee9f2b1794f635b9d305b"
+                    "reference": "4c39869ff1d1d1dc2412198f2d44e688c3fba640"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_Rules/zipball/df35ddb5fcc90b714d3ee9f2b1794f635b9d305b",
-                    "reference": "df35ddb5fcc90b714d3ee9f2b1794f635b9d305b",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_Rules/zipball/4c39869ff1d1d1dc2412198f2d44e688c3fba640",
+                    "reference": "4c39869ff1d1d1dc2412198f2d44e688c3fba640",
                     "shasum": ""
                 },
                 "require": {
@@ -69,7 +69,7 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2020-06-14T14:52:10+00:00",
+                "time": "2020-10-23T11:36:41+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "psr-4": {
@@ -91,6 +91,53 @@
                 "support": {
                     "source": "https://github.com/hans2103/B2bzanden_M2_Rules/tree/master",
                     "issues": "https://github.com/hans2103/B2bzanden_M2_Rules/issues"
+                }
+            }
+        },
+        "b2bzanden/categorydescriptionbottom": {
+            "dev-master": {
+                "name": "b2bzanden/categorydescriptionbottom",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:hans2103/b2bzanden_m2_categorydescriptionbottom.git",
+                    "reference": "a9e279f2c7d36411200c4ce08196df68781f4aab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/b2bzanden_m2_categorydescriptionbottom/zipball/a9e279f2c7d36411200c4ce08196df68781f4aab",
+                    "reference": "a9e279f2c7d36411200c4ce08196df68781f4aab",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2020-11-15T13:40:58+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\CategoryDescriptionBottom\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module to add Category Description Bottom field",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/hans2103/b2bzanden_m2_categorydescriptionbottom/tree/master",
+                    "issues": "https://github.com/hans2103/b2bzanden_m2_categorydescriptionbottom/issues"
                 }
             }
         },
