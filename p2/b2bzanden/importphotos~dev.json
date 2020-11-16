@@ -1,19 +1,19 @@
 {
     "packages": {
-        "b2bzanden/categorydescriptionbottom": [
+        "b2bzanden/importphotos": [
             {
-                "name": "b2bzanden/categorydescriptionbottom",
+                "name": "b2bzanden/importphotos",
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:hans2103/B2bzanden_M2_CategoryDescriptionBottom.git",
-                    "reference": "a9e279f2c7d36411200c4ce08196df68781f4aab"
+                    "url": "git@github.com:hans2103/B2bzanden_M2_ImportPhotos.git",
+                    "reference": "2da3e57857632110e593f5b2dc6a3ca555d47e60"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_CategoryDescriptionBottom/zipball/a9e279f2c7d36411200c4ce08196df68781f4aab",
-                    "reference": "a9e279f2c7d36411200c4ce08196df68781f4aab",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_ImportPhotos/zipball/2da3e57857632110e593f5b2dc6a3ca555d47e60",
+                    "reference": "2da3e57857632110e593f5b2dc6a3ca555d47e60",
                     "shasum": ""
                 },
                 "require": {
@@ -23,11 +23,11 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2020-11-15T13:40:58+00:00",
+                "time": "2020-09-17T21:20:43+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "psr-4": {
-                        "B2bzanden\\CategoryDescriptionBottom\\": ""
+                        "B2bzanden\\ImportPhotos\\": ""
                     },
                     "files": [
                         "registration.php"
@@ -36,14 +36,15 @@
                 "license": [
                     "OSL-3.0"
                 ],
-                "description": "Magento 2 module to add Category Description Bottom field",
+                "description": "Magento 2 module for importing photos",
+                "homepage": "https://github.com/hans2103/B2bzanden_ImportPhotos",
                 "keywords": [
                     "composer-installer",
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/hans2103/b2bzanden_m2_categorydescriptionbottom/tree/master",
-                    "issues": "https://github.com/hans2103/b2bzanden_m2_categorydescriptionbottom/issues"
+                    "source": "https://github.com/hans2103/B2bzanden_M2_ImportPhotos/tree/0.0.1",
+                    "issues": "https://github.com/hans2103/B2bzanden_M2_ImportPhotos/issues"
                 }
             }
         ]

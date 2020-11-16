@@ -1,0 +1,40 @@
+{
+    "packages": {
+        "b2bzanden/b2bshipping": [
+            {
+                "name": "b2bzanden/b2bshipping",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:hans2103/B2bzanden_M2_Shipping.git",
+                    "reference": "ef22476ed7dd95bb69666e950f931b0c40aa38a8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_Shipping/zipball/ef22476ed7dd95bb69666e950f931b0c40aa38a8",
+                    "reference": "ef22476ed7dd95bb69666e950f931b0c40aa38a8",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~7.1.0|~7.2.0|~7.3.0"
+                },
+                "time": "2020-11-15T21:00:18+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\B2bShipping\\": ""
+                    }
+                },
+                "description": "B2bzanden B2bShipping",
+                "support": {
+                    "source": "https://github.com/hans2103/B2bzanden_M2_Shipping/tree/0.0.1",
+                    "issues": "https://github.com/hans2103/B2bzanden_M2_Shipping/issues"
+                }
+            }
+        ]
+    }
+}
