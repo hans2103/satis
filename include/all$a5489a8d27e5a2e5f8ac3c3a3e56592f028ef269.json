@@ -41,11 +41,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_Rules/tree/0.0.1",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_Rules/issues"
-                }
+                ]
             },
             "0.2.0": {
                 "name": "b2bzanden/b2brules",
@@ -87,11 +83,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_Rules/tree/0.2.0",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_Rules/issues"
-                }
+                ]
             },
             "dev-master": {
                 "name": "b2bzanden/b2brules",
@@ -133,11 +125,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_Rules/tree/0.2.0",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_Rules/issues"
-                }
+                ]
             }
         },
         "b2bzanden/b2bshipping": {
@@ -169,11 +157,7 @@
                         "B2bzanden\\B2bShipping\\": ""
                     }
                 },
-                "description": "B2bzanden B2bShipping",
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_Shipping/tree/0.0.1",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_Shipping/issues"
-                }
+                "description": "B2bzanden B2bShipping"
             },
             "dev-master": {
                 "name": "b2bzanden/b2bshipping",
@@ -203,11 +187,7 @@
                         "B2bzanden\\B2bShipping\\": ""
                     }
                 },
-                "description": "B2bzanden B2bShipping",
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_Shipping/tree/master",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_Shipping/issues"
-                }
+                "description": "B2bzanden B2bShipping"
             }
         },
         "b2bzanden/categorycreator": {
@@ -239,11 +219,7 @@
                         "B2bzanden\\CategoryCreator\\": ""
                     }
                 },
-                "description": "B2bzanden Category Creator",
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_CategoryCreator/tree/0.0.1",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_CategoryCreator/issues"
-                }
+                "description": "B2bzanden Category Creator"
             },
             "dev-master": {
                 "name": "b2bzanden/categorycreator",
@@ -273,11 +249,7 @@
                         "B2bzanden\\CategoryCreator\\": ""
                     }
                 },
-                "description": "B2bzanden Category Creator",
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_CategoryCreator/tree/0.0.1",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_CategoryCreator/issues"
-                }
+                "description": "B2bzanden Category Creator"
             }
         },
         "b2bzanden/categorydescriptionbottom": {
@@ -320,11 +292,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_CategoryDescriptionBottom/tree/0.0.1",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_CategoryDescriptionBottom/issues"
-                }
+                ]
             },
             "dev-master": {
                 "name": "b2bzanden/categorydescriptionbottom",
@@ -365,11 +333,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_CategoryDescriptionBottom/tree/master",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_CategoryDescriptionBottom/issues"
-                }
+                ]
             }
         },
         "b2bzanden/changecategorytitle": {
@@ -466,6 +430,68 @@
                 }
             }
         },
+        "b2bzanden/customstockstatus": {
+            "0.2.0": {
+                "name": "b2bzanden/customstockstatus",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:hans2103/B2bzanden_M2_CustomStockStatus.git",
+                    "reference": "1d1c62c215a5447518397c638e16797cdb81e68b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_CustomStockStatus/zipball/1d1c62c215a5447518397c638e16797cdb81e68b",
+                    "reference": "1d1c62c215a5447518397c638e16797cdb81e68b",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~7.1.0|~7.2.0|~7.3.0"
+                },
+                "time": "2020-11-24T10:43:19+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\CustomStockStatus\\": ""
+                    }
+                },
+                "description": "B2bzanden Custom Stock Status"
+            },
+            "dev-master": {
+                "name": "b2bzanden/customstockstatus",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:hans2103/B2bzanden_M2_CustomStockStatus.git",
+                    "reference": "1d1c62c215a5447518397c638e16797cdb81e68b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_CustomStockStatus/zipball/1d1c62c215a5447518397c638e16797cdb81e68b",
+                    "reference": "1d1c62c215a5447518397c638e16797cdb81e68b",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~7.1.0|~7.2.0|~7.3.0"
+                },
+                "time": "2020-11-24T10:43:19+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\CustomStockStatus\\": ""
+                    }
+                },
+                "description": "B2bzanden Custom Stock Status"
+            }
+        },
         "b2bzanden/fastorder": {
             "0.0.1": {
                 "name": "b2bzanden/fastorder",
@@ -507,11 +533,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_FastOrder/tree/0.0.1",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_FastOrder/issues"
-                }
+                ]
             },
             "1.0.0": {
                 "name": "b2bzanden/fastorder",
@@ -553,11 +575,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_FastOrder/tree/1.0.0",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_FastOrder/issues"
-                }
+                ]
             },
             "dev-master": {
                 "name": "b2bzanden/fastorder",
@@ -599,11 +617,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_FastOrder/tree/1.0.0",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_FastOrder/issues"
-                }
+                ]
             },
             "dev-dev": {
                 "name": "b2bzanden/fastorder",
@@ -645,11 +659,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_FastOrder/tree/dev",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_FastOrder/issues"
-                }
+                ]
             }
         },
         "b2bzanden/importphotos": {
@@ -693,11 +703,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_ImportPhotos/tree/0.0.1",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_ImportPhotos/issues"
-                }
+                ]
             },
             "dev-master": {
                 "name": "b2bzanden/importphotos",
@@ -739,11 +745,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_ImportPhotos/tree/0.0.1",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_ImportPhotos/issues"
-                }
+                ]
             }
         },
         "b2bzanden/suitablefor": {
@@ -787,11 +789,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_Suitablefor/tree/0.0.1",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_Suitablefor/issues"
-                }
+                ]
             },
             "dev-master": {
                 "name": "b2bzanden/suitablefor",
@@ -833,11 +831,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_Suitablefor/tree/0.0.1",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_Suitablefor/issues"
-                }
+                ]
             }
         }
     }

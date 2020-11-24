@@ -1,35 +1,35 @@
 {
     "packages": {
-        "b2bzanden/categorycreator": [
+        "b2bzanden/customstockstatus": [
             {
-                "name": "b2bzanden/categorycreator",
+                "name": "b2bzanden/customstockstatus",
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:hans2103/B2bzanden_M2_CategoryCreator.git",
-                    "reference": "ded6fa6d5c836f173a77d2abede07fa6bcdf2825"
+                    "url": "git@github.com:hans2103/B2bzanden_M2_CustomStockStatus.git",
+                    "reference": "1d1c62c215a5447518397c638e16797cdb81e68b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_CategoryCreator/zipball/ded6fa6d5c836f173a77d2abede07fa6bcdf2825",
-                    "reference": "ded6fa6d5c836f173a77d2abede07fa6bcdf2825",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_CustomStockStatus/zipball/1d1c62c215a5447518397c638e16797cdb81e68b",
+                    "reference": "1d1c62c215a5447518397c638e16797cdb81e68b",
                     "shasum": ""
                 },
                 "require": {
                     "php": "~7.1.0|~7.2.0|~7.3.0"
                 },
-                "time": "2020-09-28T12:23:10+00:00",
+                "time": "2020-11-24T10:43:19+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
                         "registration.php"
                     ],
                     "psr-4": {
-                        "B2bzanden\\CategoryCreator\\": ""
+                        "B2bzanden\\CustomStockStatus\\": ""
                     }
                 },
-                "description": "B2bzanden Category Creator"
+                "description": "B2bzanden Custom Stock Status"
             }
         ]
     }
