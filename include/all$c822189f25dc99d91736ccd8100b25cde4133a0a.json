@@ -669,6 +669,48 @@
                     "magento"
                 ]
             },
+            "1.0.1": {
+                "name": "b2bzanden/fastorder",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:hans2103/B2bzanden_M2_FastOrder.git",
+                    "reference": "859643f3afe03eff80adb329ba2fa38adec64c3d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_FastOrder/zipball/859643f3afe03eff80adb329ba2fa38adec64c3d",
+                    "reference": "859643f3afe03eff80adb329ba2fa38adec64c3d",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2020-12-14T11:34:27+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\Fastorder\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module for FastOrder",
+                "homepage": "https://github.com/hans2103/B2bzanden_M2_FastOrder",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ]
+            },
             "dev-master": {
                 "name": "b2bzanden/fastorder",
                 "version": "dev-master",
