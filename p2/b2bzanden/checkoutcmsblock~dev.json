@@ -7,13 +7,13 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:hans2103/B2bzanden_M2_CheckoutCMSBlock.git",
-                    "reference": "ebad230a741f7e757aff4cdb5805536253474d52"
+                    "url": "https://github.com/hans2103/B2bzanden_M2_CheckoutCMSBlock.git",
+                    "reference": "6e427277d869d0d24bdc2a0dec175d33c09e5a5c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_CheckoutCMSBlock/zipball/ebad230a741f7e757aff4cdb5805536253474d52",
-                    "reference": "ebad230a741f7e757aff4cdb5805536253474d52",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_CheckoutCMSBlock/zipball/6e427277d869d0d24bdc2a0dec175d33c09e5a5c",
+                    "reference": "6e427277d869d0d24bdc2a0dec175d33c09e5a5c",
                     "shasum": ""
                 },
                 "require": {
@@ -23,7 +23,7 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2020-12-21T14:01:59+00:00",
+                "time": "2020-12-21T14:38:55+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "psr-4": {
@@ -47,7 +47,11 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ]
+                ],
+                "support": {
+                    "source": "https://github.com/hans2103/B2bzanden_M2_CheckoutCMSBlock/tree/master",
+                    "issues": "https://github.com/hans2103/B2bzanden_M2_CheckoutCMSBlock/issues"
+                }
             }
         ]
     }
