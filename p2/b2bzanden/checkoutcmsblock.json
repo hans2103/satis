@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/hans2103/B2bzanden_M2_CheckoutCMSBlock.git",
-                    "reference": "bab4b329158a10765619d2fe67f41ed733c0170a"
+                    "reference": "ded1f44efc14cb7e5d90af41da8976d61765d7cd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_CheckoutCMSBlock/zipball/bab4b329158a10765619d2fe67f41ed733c0170a",
-                    "reference": "bab4b329158a10765619d2fe67f41ed733c0170a",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_CheckoutCMSBlock/zipball/ded1f44efc14cb7e5d90af41da8976d61765d7cd",
+                    "reference": "ded1f44efc14cb7e5d90af41da8976d61765d7cd",
                     "shasum": ""
                 },
                 "require": {
@@ -23,11 +23,11 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2020-12-21T15:39:50+00:00",
+                "time": "2020-12-21T15:43:25+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "psr-4": {
-                        "B2bzandnen\\CheckoutCMSBlock\\": ""
+                        "B2bzanden\\CheckoutCMSBlock\\": ""
                     },
                     "files": [
                         "registration.php"
