@@ -540,6 +540,54 @@
                 ],
                 "description": "Provides a CMS block to the knockout checkout template."
             },
+            "1.1.1": {
+                "name": "b2bzanden/checkoutcmsblock",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:hans2103/B2bzanden_M2_CheckoutCMSBlock.git",
+                    "reference": "d1acc111bead6cb99e6f52930a6cdf6b3abc9874"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_CheckoutCMSBlock/zipball/d1acc111bead6cb99e6f52930a6cdf6b3abc9874",
+                    "reference": "d1acc111bead6cb99e6f52930a6cdf6b3abc9874",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2020-12-21T13:57:06+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzandne\\CheckoutCMSBloc\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Daan Beverdam",
+                        "email": "hello@daanbeverdam.com"
+                    }
+                ],
+                "description": "Magento 2 module which provides a CMS block to the knockout checkout template.",
+                "homepage": "https://github.com/hans2103/B2bzanden_M2_ChangeCategoryTitle",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ]
+            },
             "dev-master": {
                 "name": "b2bzanden/checkoutcmsblock",
                 "version": "dev-master",
@@ -547,31 +595,46 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:hans2103/B2bzanden_M2_CheckoutCMSBlock.git",
-                    "reference": "389e03889b26f697c985bee4c13c9dd1e8c293e9"
+                    "reference": "d1acc111bead6cb99e6f52930a6cdf6b3abc9874"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_CheckoutCMSBlock/zipball/389e03889b26f697c985bee4c13c9dd1e8c293e9",
-                    "reference": "389e03889b26f697c985bee4c13c9dd1e8c293e9",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_CheckoutCMSBlock/zipball/d1acc111bead6cb99e6f52930a6cdf6b3abc9874",
+                    "reference": "d1acc111bead6cb99e6f52930a6cdf6b3abc9874",
                     "shasum": ""
                 },
-                "time": "2020-12-21T13:33:08+00:00",
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2020-12-21T13:57:06+00:00",
                 "type": "magento2-module",
                 "autoload": {
+                    "psr-4": {
+                        "B2bzandne\\CheckoutCMSBloc\\": ""
+                    },
                     "files": [
                         "registration.php"
-                    ],
-                    "psr-4": {
-                        "B2bzandne\\CheckoutCMSBlock\\": ""
-                    }
+                    ]
                 },
+                "license": [
+                    "OSL-3.0"
+                ],
                 "authors": [
                     {
                         "name": "Daan Beverdam",
                         "email": "hello@daanbeverdam.com"
                     }
                 ],
-                "description": "Provides a CMS block to the knockout checkout template."
+                "description": "Magento 2 module which provides a CMS block to the knockout checkout template.",
+                "homepage": "https://github.com/hans2103/B2bzanden_M2_ChangeCategoryTitle",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ]
             }
         },
         "b2bzanden/customstockstatus": {
