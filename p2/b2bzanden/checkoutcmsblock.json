@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "b2bzanden/checkoutcmsblock": [
+            {
+                "name": "b2bzanden/checkoutcmsblock",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/hans2103/B2bzanden_M2_CheckoutCMSBlock.git",
+                    "reference": "389e03889b26f697c985bee4c13c9dd1e8c293e9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_CheckoutCMSBlock/zipball/389e03889b26f697c985bee4c13c9dd1e8c293e9",
+                    "reference": "389e03889b26f697c985bee4c13c9dd1e8c293e9",
+                    "shasum": ""
+                },
+                "time": "2020-12-21T13:33:08+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzandne\\CheckoutCMSBlock\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "Daan Beverdam",
+                        "email": "hello@daanbeverdam.com"
+                    }
+                ],
+                "description": "Provides a CMS block to the knockout checkout template.",
+                "support": {
+                    "source": "https://github.com/hans2103/B2bzanden_M2_CheckoutCMSBlock/tree/1.1.0",
+                    "issues": "https://github.com/hans2103/B2bzanden_M2_CheckoutCMSBlock/issues"
+                }
+            }
+        ]
+    }
+}
