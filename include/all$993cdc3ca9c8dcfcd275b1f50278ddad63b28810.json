@@ -575,19 +575,19 @@
                     "issues": "https://github.com/hans2103/B2bzanden_M2_CheckoutCMSBlock/issues"
                 }
             },
-            "dev-master": {
+            "1.1.1": {
                 "name": "b2bzanden/checkoutcmsblock",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/hans2103/B2bzanden_M2_CheckoutCMSBlock.git",
-                    "reference": "ded1f44efc14cb7e5d90af41da8976d61765d7cd"
+                    "reference": "ac78cc53cb106f32af360236ea4120e31d5f617e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_CheckoutCMSBlock/zipball/ded1f44efc14cb7e5d90af41da8976d61765d7cd",
-                    "reference": "ded1f44efc14cb7e5d90af41da8976d61765d7cd",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_CheckoutCMSBlock/zipball/ac78cc53cb106f32af360236ea4120e31d5f617e",
+                    "reference": "ac78cc53cb106f32af360236ea4120e31d5f617e",
                     "shasum": ""
                 },
                 "require": {
@@ -597,7 +597,7 @@
                     "composer/composer": "*@dev",
                     "phpunit/phpunit": "*"
                 },
-                "time": "2020-12-21T15:43:25+00:00",
+                "time": "2020-12-22T13:13:18+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "psr-4": {
@@ -623,7 +623,59 @@
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_CheckoutCMSBlock/tree/1.1.0",
+                    "source": "https://github.com/hans2103/B2bzanden_M2_CheckoutCMSBlock/tree/1.1.1",
+                    "issues": "https://github.com/hans2103/B2bzanden_M2_CheckoutCMSBlock/issues"
+                }
+            },
+            "dev-master": {
+                "name": "b2bzanden/checkoutcmsblock",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/hans2103/B2bzanden_M2_CheckoutCMSBlock.git",
+                    "reference": "ac78cc53cb106f32af360236ea4120e31d5f617e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_CheckoutCMSBlock/zipball/ac78cc53cb106f32af360236ea4120e31d5f617e",
+                    "reference": "ac78cc53cb106f32af360236ea4120e31d5f617e",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2020-12-22T13:13:18+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\CheckoutCMSBlock\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Daan Beverdam",
+                        "email": "hello@daanbeverdam.com"
+                    }
+                ],
+                "description": "Magento 2 module which provides a CMS block to the knockout checkout template.",
+                "homepage": "https://github.com/hans2103/B2bzanden_M2_CheckoutCMSBlock",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/hans2103/B2bzanden_M2_CheckoutCMSBlock/tree/1.1.1",
                     "issues": "https://github.com/hans2103/B2bzanden_M2_CheckoutCMSBlock/issues"
                 }
             }
