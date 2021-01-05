@@ -1547,6 +1547,44 @@
                     "magento"
                 ]
             },
+            "0.6.1": {
+                "name": "b2bzanden/fixpart",
+                "version": "0.6.1",
+                "version_normalized": "0.6.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:hans2103/B2bzanden_M2_FixPart.git",
+                    "reference": "26faffbbb860bab3e72dfa9912255be566542caa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_FixPart/zipball/26faffbbb860bab3e72dfa9912255be566542caa",
+                    "reference": "26faffbbb860bab3e72dfa9912255be566542caa",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~7.1.0|~7.2.0|~7.3.0"
+                },
+                "time": "2021-01-05T08:49:08+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\FixPart\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "B2bzanden Order collection",
+                "homepage": "https://github.com/hans2103/B2bzanden_M2_FixPart",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ]
+            },
             "dev-master": {
                 "name": "b2bzanden/fixpart",
                 "version": "dev-master",
@@ -1554,18 +1592,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:hans2103/B2bzanden_M2_FixPart.git",
-                    "reference": "3032cf2291fc6a2d02de4ffd753ab28f9113d5af"
+                    "reference": "26faffbbb860bab3e72dfa9912255be566542caa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_FixPart/zipball/3032cf2291fc6a2d02de4ffd753ab28f9113d5af",
-                    "reference": "3032cf2291fc6a2d02de4ffd753ab28f9113d5af",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_FixPart/zipball/26faffbbb860bab3e72dfa9912255be566542caa",
+                    "reference": "26faffbbb860bab3e72dfa9912255be566542caa",
                     "shasum": ""
                 },
                 "require": {
                     "php": "~7.1.0|~7.2.0|~7.3.0"
                 },
-                "time": "2021-01-05T08:19:24+00:00",
+                "time": "2021-01-05T08:49:08+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
@@ -1592,18 +1630,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:hans2103/B2bzanden_M2_FixPart.git",
-                    "reference": "5a2f51f420dc5ddbf4cd3fa191704f5b52780df1"
+                    "reference": "1d3f9a8a6b9d955b0809c5bf02a1186ab91f8399"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_FixPart/zipball/5a2f51f420dc5ddbf4cd3fa191704f5b52780df1",
-                    "reference": "5a2f51f420dc5ddbf4cd3fa191704f5b52780df1",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_FixPart/zipball/1d3f9a8a6b9d955b0809c5bf02a1186ab91f8399",
+                    "reference": "1d3f9a8a6b9d955b0809c5bf02a1186ab91f8399",
                     "shasum": ""
                 },
                 "require": {
                     "php": "~7.1.0|~7.2.0|~7.3.0"
                 },
-                "time": "2021-01-05T08:19:24+00:00",
+                "time": "2021-01-05T08:49:08+00:00",
                 "type": "magento2-module",
                 "autoload": {
                     "files": [
