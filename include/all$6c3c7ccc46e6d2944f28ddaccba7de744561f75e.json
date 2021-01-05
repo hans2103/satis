@@ -7,7 +7,7 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/hans2103/B2bzanden_M2_AlwaysShip.git",
+                    "url": "git@github.com:hans2103/B2bzanden_M2_AlwaysShip.git",
                     "reference": "dfa30ba515b6aead076ec4d553d3bf6a741c39a9"
                 },
                 "dist": {
@@ -41,11 +41,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_AlwaysShip/tree/1.0.0",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_AlwaysShip/issues"
-                }
+                ]
             },
             "dev-master": {
                 "name": "b2bzanden/alwaysship",
@@ -53,7 +49,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/hans2103/B2bzanden_M2_AlwaysShip.git",
+                    "url": "git@github.com:hans2103/B2bzanden_M2_AlwaysShip.git",
                     "reference": "dfa30ba515b6aead076ec4d553d3bf6a741c39a9"
                 },
                 "dist": {
@@ -87,11 +83,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_AlwaysShip/tree/1.0.0",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_AlwaysShip/issues"
-                }
+                ]
             }
         },
         "b2bzanden/b2brules": {
@@ -431,13 +423,55 @@
             }
         },
         "b2bzanden/changecategorytitle": {
+            "1.0.0": {
+                "name": "b2bzanden/changecategorytitle",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:hans2103/B2bzanden_M2_ChangeCategoryTitle.git",
+                    "reference": "0e3563680cb476fb2ad2baba4b2977bdae1f0100"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_ChangeCategoryTitle/zipball/0e3563680cb476fb2ad2baba4b2977bdae1f0100",
+                    "reference": "0e3563680cb476fb2ad2baba4b2977bdae1f0100",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.1.0"
+                },
+                "require-dev": {
+                    "composer/composer": "*@dev",
+                    "phpunit/phpunit": "*"
+                },
+                "time": "2020-11-20T07:49:24+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "B2bzanden\\ChangeCategoryTitle\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento 2 module to adjust the Catalog Category Title",
+                "homepage": "https://github.com/hans2103/B2bzanden_M2_ChangeCategoryTitle",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ]
+            },
             "1.1.0": {
                 "name": "b2bzanden/changecategorytitle",
                 "version": "1.1.0",
                 "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/hans2103/B2bzanden_M2_ChangeCategoryTitle.git",
+                    "url": "git@github.com:hans2103/B2bzanden_M2_ChangeCategoryTitle.git",
                     "reference": "d87360ee924020e37a1330dbdce5aef78f6f0696"
                 },
                 "dist": {
@@ -471,11 +505,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_ChangeCategoryTitle/tree/1.1.0",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_ChangeCategoryTitle/issues"
-                }
+                ]
             },
             "1.2.0": {
                 "name": "b2bzanden/changecategorytitle",
@@ -483,7 +513,7 @@
                 "version_normalized": "1.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/hans2103/B2bzanden_M2_ChangeCategoryTitle.git",
+                    "url": "git@github.com:hans2103/B2bzanden_M2_ChangeCategoryTitle.git",
                     "reference": "ab515b178265a6d418e7d046bcec0265107eb7ee"
                 },
                 "dist": {
@@ -517,11 +547,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_ChangeCategoryTitle/tree/1.2.0",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_ChangeCategoryTitle/issues"
-                }
+                ]
             },
             "dev-master": {
                 "name": "b2bzanden/changecategorytitle",
@@ -529,7 +555,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/hans2103/B2bzanden_M2_ChangeCategoryTitle.git",
+                    "url": "git@github.com:hans2103/B2bzanden_M2_ChangeCategoryTitle.git",
                     "reference": "ab515b178265a6d418e7d046bcec0265107eb7ee"
                 },
                 "dist": {
@@ -563,11 +589,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/hans2103/B2bzanden_M2_ChangeCategoryTitle/tree/1.2.0",
-                    "issues": "https://github.com/hans2103/B2bzanden_M2_ChangeCategoryTitle/issues"
-                }
+                ]
             }
         },
         "b2bzanden/checkoutcmsblock": {
