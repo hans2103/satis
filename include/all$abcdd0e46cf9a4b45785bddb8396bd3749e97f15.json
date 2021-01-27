@@ -1741,6 +1741,44 @@
                     "magento"
                 ]
             },
+            "0.8.2": {
+                "name": "b2bzanden/fixpart",
+                "version": "0.8.2",
+                "version_normalized": "0.8.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:hans2103/B2bzanden_M2_FixPart.git",
+                    "reference": "db49a529b573900935cd4009f430a98dfececf66"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/hans2103/B2bzanden_M2_FixPart/zipball/db49a529b573900935cd4009f430a98dfececf66",
+                    "reference": "db49a529b573900935cd4009f430a98dfececf66",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0"
+                },
+                "time": "2021-01-27T08:52:14+00:00",
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "B2bzanden\\FixPart\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "B2bzanden Order collection",
+                "homepage": "https://github.com/hans2103/B2bzanden_M2_FixPart",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ]
+            },
             "dev-master": {
                 "name": "b2bzanden/fixpart",
                 "version": "dev-master",
