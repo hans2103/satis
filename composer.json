@@ -4,7 +4,11 @@
   "type": "project",
   "homepage": "https://github.com/hans2103/satis",
   "require": {
-    "composer/satis": "dev-master"
+    "composer/satis": "dev-main"
+  }
+  ,
+  "require-dev": {
+    "roave/security-advisories": "dev-latest"
   },
   "license": "MIT",
   "authors": [
